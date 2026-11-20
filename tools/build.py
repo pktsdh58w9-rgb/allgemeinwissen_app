@@ -111,10 +111,17 @@ def main():
             time.sleep(2.0)
         json.dump(cache, open(CACHE, 'w'), ensure_ascii=False, indent=0)
 
+    gpath = os.path.join(ROOT, 'tools', 'image-generic.json')
+    generic = set(json.load(open(gpath))) if os.path.exists(gpath) else set()
+
     def resolve(img):
         w = img['wiki']
         f = w[5:] if w.startswith('file:') else cache.get(w)
-        return {'file': f, 'caption': img['caption']} if f else None
+        if not f:
+            return None
+        # Bilder aus dem Artikeltext (nicht das Hauptbild): neutrale Bildunterschrift
+        cap = re.sub(r'\s*\(.*\)$', '', w) if w in generic else img['caption']
+        return {'file': f, 'caption': cap}
 
     out, noimg = [], []
     used = set()
