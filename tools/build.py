@@ -66,6 +66,10 @@ def og_image(title):
         body, _, code = r.stdout.rpartition('\n')
         if code == '429':
             time.sleep(15 * (attempt + 1)); continue
+        if code == '404' and '/wiki/' in url:
+            # Fallback: Wikipedia-Suche, die bei eindeutigem Treffer direkt zum Artikel weiterleitet
+            url = 'https://de.wikipedia.org/w/index.php?go=Artikel&search=' + urllib.parse.quote(title)
+            continue
         if code != '200':
             return None
         m = re.search(r'<meta property="og:image" content="([^"]+)"', body)
