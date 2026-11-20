@@ -1,0 +1,186 @@
+=== wahlsysteme
+cat: politik
+title: Mehrheits- und Verhältniswahl
+teaser: Warum in Großbritannien eine Partei mit einem Drittel der Stimmen allein regieren kann – und in Deutschland nicht.
+meta: Politikwissenschaft
+cover: Wahlsystem | Stimmabgabe in einer Wahlurne
+## Mehrheitswahl
+Bei der relativen Mehrheitswahl („first past the post“) wird das Land in Wahlkreise geteilt; wer dort die meisten Stimmen hat, gewinnt den Sitz, alle anderen Stimmen verfallen. So in Großbritannien, den USA oder Kanada. Vorteil: klare Mehrheiten und enge Bindung an den Wahlkreis. Nachteil: Kleine Parteien gehen leer aus, viele Stimmen zählen nicht.
+## Verhältniswahl
+Bei der Verhältniswahl werden Sitze nach dem Stimmenanteil verteilt – 20 Prozent der Stimmen ergeben etwa 20 Prozent der Sitze. Das bildet die Wählerschaft genau ab, führt aber zu mehr Parteien und Koalitionen. Sperrklauseln wie die Fünf-Prozent-Hürde sollen Zersplitterung verhindern. Die Niederlande haben fast keine Hürde – dort sitzen über ein Dutzend Parteien im Parlament.
+img: Maurice Duverger | Maurice Duverger
+## Duvergers Gesetz
+Der französische Politologe Maurice Duverger beobachtete, dass Mehrheitswahl tendenziell zu Zweiparteiensystemen führt, Verhältniswahl zu Mehrparteiensystemen. Deutschland nutzt eine personalisierte Verhältniswahl: Mit der Erststimme wird eine Person gewählt, die Zweitstimme bestimmt die Sitzverteilung.
+- Mehrheitswahl: Gewinner nimmt alles; klare Mehrheiten.
+- Verhältniswahl: Sitze nach Stimmanteil; mehr Parteien.
+- Duvergers Gesetz; Deutschland mit personalisierter Verhältniswahl.
+
+=== us-praesidentschaftswahl
+cat: politik
+title: Die US-Präsidentschaftswahl
+teaser: Man kann die meisten Stimmen holen und trotzdem verlieren – dank des Electoral College.
+meta: USA
+cover: Präsidentschaftswahl in den Vereinigten Staaten | Das Weiße Haus
+## Das Electoral College
+Die Amerikaner wählen ihren Präsidenten indirekt. Jeder Bundesstaat hat so viele Wahlleute, wie er Abgeordnete und Senatoren im Kongress stellt – insgesamt 538. In fast allen Staaten bekommt der Kandidat mit den meisten Stimmen alle Wahlleute („winner takes all“). Wer 270 Wahlleute erreicht, gewinnt.
+## Swing States
+Weil viele Staaten traditionell klar demokratisch oder republikanisch wählen, konzentriert sich der Wahlkampf auf wenige „Swing States“ wie Pennsylvania, Georgia oder Arizona. 2000 und 2016 gewannen George W. Bush und Donald Trump, obwohl ihre Gegner landesweit mehr Stimmen hatten. Kritiker fordern die Abschaffung des Systems, das die Gründerväter als Kompromiss zwischen großen und kleinen Staaten schufen.
+img: Kapitol (Washington, D.C.) | Das Kapitol, wo die Wahlleute-Stimmen ausgezählt werden
+## Ablauf
+Die Wahl findet am Dienstag nach dem ersten Montag im November statt, alle vier Jahre. Vorher bestimmen Vorwahlen (Primaries) die Kandidaten der Parteien. Ein Präsident darf höchstens zwei Amtszeiten dienen (seit 1951). Amtseinführung ist am 20. Januar. 2024 gewann Donald Trump und wurde zum zweiten Mal Präsident.
+- Indirekte Wahl über 538 Wahlleute, 270 zum Sieg.
+- Swing States entscheiden; Mehrheit der Stimmen garantiert keinen Sieg.
+- Höchstens zwei Amtszeiten; Amtsantritt am 20. Januar.
+
+=== us-kongress
+cat: politik
+title: Der US-Kongress
+teaser: Zwei Kammern, die sich gegenseitig blockieren können – und ein Senat, in dem Wyoming so viel zählt wie Kalifornien.
+meta: USA
+cover: Kongress der Vereinigten Staaten | Das Kapitol in Washington
+## Repräsentantenhaus
+Das Repräsentantenhaus hat 435 Abgeordnete, verteilt nach Bevölkerungszahl der Staaten und alle zwei Jahre komplett neu gewählt. Es beschließt Haushaltsgesetze zuerst und kann den Präsidenten anklagen (Impeachment). Sein Vorsitzender, der Speaker, steht in der Nachfolge des Präsidenten an zweiter Stelle.
+## Senat
+Jeder der 50 Staaten entsendet zwei Senatoren, unabhängig von seiner Größe, für sechs Jahre; alle zwei Jahre wird ein Drittel neu gewählt. Der Senat bestätigt Minister und Bundesrichter, ratifiziert Verträge mit Zweidrittelmehrheit und führt das Amtsenthebungsverfahren durch. Der Vizepräsident hat bei Stimmengleichheit die entscheidende Stimme.
+img: Senat der Vereinigten Staaten | Der Sitzungssaal des US-Senats
+## Filibuster und Blockade
+Im Senat kann die Minderheit mit dem Filibuster – endlosen Debatten – Gesetze blockieren; um ihn zu beenden, braucht man 60 von 100 Stimmen. Gehören Präsident und Kongressmehrheit unterschiedlichen Parteien an („divided government“), kommt es oft zu Stillstand. Bei Haushaltsstreit droht ein „Shutdown“ der Bundesbehörden.
+- Repräsentantenhaus (435, alle 2 Jahre) und Senat (100, 6 Jahre).
+- Senat bestätigt Richter und Minister, ratifiziert Verträge.
+- Filibuster und „divided government“ führen oft zu Blockaden.
+
+=== supreme-court
+cat: politik
+title: Der Supreme Court
+teaser: Neun Richter auf Lebenszeit entscheiden über Abtreibung, Waffen und Wahlen – und sind hoch politisiert.
+meta: USA
+cover: Oberster Gerichtshof der Vereinigten Staaten | Das Gebäude des Supreme Court
+## Richter auf Lebenszeit
+Der Oberste Gerichtshof der USA besteht aus neun Richtern, die vom Präsidenten nominiert und vom Senat bestätigt werden – auf Lebenszeit. Da Richter oft Jahrzehnte amtieren, ist jede Neubesetzung ein politisches Großereignis. Donald Trump ernannte in seiner ersten Amtszeit drei Richter und schuf eine konservative Mehrheit von 6 zu 3.
+## Judicial Review
+Die Verfassung erwähnt es nicht ausdrücklich, doch seit dem Fall Marbury v. Madison (1803) darf das Gericht Gesetze für verfassungswidrig erklären. Weil die US-Verfassung sehr alt und knapp ist, entscheiden die Richter durch ihre Auslegung über zentrale Gesellschaftsfragen. „Originalisten“ wollen sie so lesen, wie sie 1787 gemeint war.
+img: Ruth Bader Ginsburg | Ruth Bader Ginsburg
+## Wegweisende Urteile
+Brown v. Board of Education (1954) beendete die Rassentrennung an Schulen, Roe v. Wade (1973) erlaubte Abtreibungen landesweit – 2022 hob das Gericht das Urteil in Dobbs v. Jackson auf und überließ die Frage den Staaten. Obergefell v. Hodges (2015) legalisierte die gleichgeschlechtliche Ehe. 2024 sprach es Präsidenten weitgehende Immunität für Amtshandlungen zu.
+- Neun Richter auf Lebenszeit, nominiert vom Präsidenten.
+- Darf Gesetze kippen (seit 1803).
+- Prägende Urteile: Brown, Roe (aufgehoben 2022), Obergefell.
+
+=== britisches-parlament
+cat: politik
+title: Das britische Parlament
+teaser: Eine Verfassung, die nie in einem einzigen Dokument aufgeschrieben wurde – und Abgeordnete, die sich auf Bänke quetschen.
+meta: Großbritannien
+cover: Palace of Westminster | Der Palace of Westminster mit dem Elizabeth Tower („Big Ben“)
+## Mutter der Parlamente
+Das britische Parlament in Westminster gilt als „Mutter der Parlamente“. Es besteht aus dem gewählten Unterhaus (House of Commons) mit 650 Abgeordneten und dem nicht gewählten Oberhaus (House of Lords) mit ernannten Mitgliedern, Bischöfen und einigen Erbadeligen. Die eigentliche Macht liegt beim Unterhaus.
+## Westminster-System
+Die Partei mit der Mehrheit im Unterhaus stellt den Premierminister; König oder Königin ernennt ihn nur formal. Regierung und Opposition sitzen sich auf grünen Bänken gegenüber, angeblich zwei Schwertlängen voneinander entfernt. In der wöchentlichen „Prime Minister’s Questions“ wird der Premier hart befragt. Die Opposition bildet ein „Schattenkabinett“.
+img: House of Commons | Das Unterhaus
+## Keine geschriebene Verfassung
+Großbritannien hat keine einheitliche geschriebene Verfassung. Sie setzt sich aus Gesetzen, Gerichtsurteilen und Konventionen zusammen, etwa der Magna Carta und der Bill of Rights von 1689. Grundprinzip ist die Parlamentssouveränität: Kein Gericht kann ein Parlamentsgesetz kippen. Big Ben ist übrigens die Glocke, nicht der Turm.
+- Unterhaus (gewählt) und Oberhaus (ernannt).
+- Mehrheitspartei stellt den Premier; Schattenkabinett der Opposition.
+- Ungeschriebene Verfassung, Parlamentssouveränität.
+
+=== frankreich-praesidialsystem
+cat: politik
+title: Frankreichs Präsidialsystem
+teaser: Ein Präsident mit enormer Macht – und eine Verfassung, die Charles de Gaulle auf den Leib geschneidert wurde.
+meta: Frankreich, Fünfte Republik
+cover: Élysée-Palast | Der Élysée-Palast in Paris
+## Die Fünfte Republik
+Nach Krisen der Vierten Republik und dem Algerienkrieg kehrte General Charles de Gaulle 1958 an die Macht zurück und ließ eine neue Verfassung ausarbeiten. Sie stärkt den Präsidenten massiv. Seit 1962 wird er direkt vom Volk gewählt, in zwei Wahlgängen, heute für fünf Jahre, höchstens zweimal hintereinander.
+## Doppelte Spitze
+Frankreich hat ein semipräsidentielles System: Der Präsident ernennt den Premierminister, der aber eine Mehrheit in der Nationalversammlung braucht. Der Präsident bestimmt die Außen- und Verteidigungspolitik, kann das Parlament auflösen und Referenden ansetzen. Gehören Präsident und Parlamentsmehrheit verschiedenen Lagern an, spricht man von „Cohabitation“.
+img: Charles de Gaulle | Charles de Gaulle
+## Instabilität seit 2024
+Präsident Emmanuel Macron löste nach der Europawahl 2024 überraschend die Nationalversammlung auf. Die Neuwahl brachte ein in drei Blöcke gespaltenes Parlament ohne Mehrheit. Seitdem wechseln Premierminister in kurzer Folge, und Haushalte sind schwer zu verabschieden. Mit Artikel 49.3 kann die Regierung Gesetze ohne Abstimmung durchsetzen – riskiert dabei aber ein Misstrauensvotum.
+- Verfassung von 1958, zugeschnitten auf de Gaulle.
+- Direkt gewählter Präsident mit großer Macht, Cohabitation möglich.
+- Seit 2024 Parlament ohne Mehrheit, wechselnde Premiers.
+
+=== schweiz-direkte-demokratie
+cat: politik
+title: Die direkte Demokratie der Schweiz
+teaser: Viermal im Jahr wird abgestimmt – über Kampfjets, Kuhhörner und Mindestlöhne.
+meta: Schweiz
+cover: Direkte Demokratie in der Schweiz | Landsgemeinde in Glarus
+## Initiative und Referendum
+Mit 100.000 Unterschriften in 18 Monaten können Bürger eine Volksinitiative einreichen, um die Verfassung zu ändern. Sie braucht ein doppeltes Mehr: die Mehrheit der Stimmen und der Kantone. Mit 50.000 Unterschriften kann man ein fakultatives Referendum gegen ein Gesetz des Parlaments erzwingen. Verfassungsänderungen unterliegen automatisch dem Volksentscheid.
+## Häufige Abstimmungen
+Es gibt meist vier Abstimmungstermine pro Jahr auf Bundesebene, dazu kantonale und kommunale. Abgestimmt wurde etwa über den Beitritt zur UNO (2002 angenommen), ein Minarettverbot (2009 angenommen), Hörner für Kühe (2018 abgelehnt) und eine 13. AHV-Rente (2024 angenommen). Die Beteiligung liegt oft unter 50 Prozent.
+img: Landsgemeinde | Landsgemeinde in Appenzell Innerrhoden
+## Konkordanz
+Die Regierung, der siebenköpfige Bundesrat, wird vom Parlament gewählt und setzt sich nach der „Zauberformel“ aus den größten Parteien zusammen. Es gibt keine klassische Opposition – das Referendum übernimmt diese Rolle. Der Bundespräsident wechselt jährlich. In zwei Kantonen gibt es noch die Landsgemeinde, eine Versammlung unter freiem Himmel mit Handzeichen.
+- Volksinitiative (100.000 Unterschriften) und Referendum (50.000).
+- Mehrmals im Jahr Abstimmungen auf allen Ebenen.
+- Konkordanzregierung, Landsgemeinden in zwei Kantonen.
+
+=== was-ist-demokratie
+cat: politik
+title: Was ist Demokratie?
+teaser: Mehr als Wahlen: Ohne freie Presse, unabhängige Gerichte und Minderheitenschutz ist eine Mehrheit noch keine Demokratie.
+meta: Politische Theorie
+cover: Demokratie | Stimmabgabe bei einer Wahl
+## Herrschaft des Volkes
+Demokratie bedeutet, dass die Staatsgewalt vom Volk ausgeht. In der direkten Demokratie entscheiden die Bürger selbst, in der repräsentativen wählen sie Vertreter. Abraham Lincoln beschrieb sie als „Regierung des Volkes, durch das Volk, für das Volk“. Winston Churchill nannte sie „die schlechteste Regierungsform – abgesehen von allen anderen, die man ausprobiert hat“.
+## Mehr als Wahlen
+Moderne liberale Demokratien beruhen auf freien, gleichen und geheimen Wahlen, Grundrechten wie Meinungs- und Pressefreiheit, Gewaltenteilung, Rechtsstaat, Minderheitenschutz und der Möglichkeit, Regierungen friedlich abzuwählen. Der Philosoph Karl Popper sah darin den Kern: Man kann die Regierung ohne Blutvergießen loswerden.
+img: Karl Popper | Karl Popper
+## Unter Druck
+Organisationen wie Freedom House oder V-Dem messen den Zustand der Demokratie weltweit. Seit etwa 2006 sehen sie einen Rückgang: Mehr Länder werden autoritärer als demokratischer. Häufig werden Demokratien nicht durch Putsche beendet, sondern schrittweise von gewählten Regierungen ausgehöhlt, die Gerichte, Medien und Wahlen unter Kontrolle bringen.
+- Staatsgewalt geht vom Volk aus, direkt oder repräsentativ.
+- Kernelemente: freie Wahlen, Grundrechte, Gewaltenteilung, Rechtsstaat.
+- Weltweit seit Jahren rückläufig, oft schleichend.
+
+=== autoritarismus
+cat: politik
+title: Autoritarismus und Diktatur
+teaser: Moderne Autokraten lassen wählen, erlauben ein bisschen Opposition – und behalten trotzdem die Kontrolle.
+meta: Politikwissenschaft
+cover: Diktatur | Militärparade
+## Formen nichtdemokratischer Herrschaft
+Totalitäre Regime wie NS-Deutschland oder die Sowjetunion unter Stalin wollten jeden Lebensbereich kontrollieren, mit einer Staatsideologie und Massenmobilisierung (Hannah Arendt). Autoritäre Regime begnügen sich oft damit, Machtwechsel zu verhindern; das Privatleben bleibt teilweise frei. Dazu zählen Militärdiktaturen, absolute Monarchien und Einparteienstaaten.
+## Wahlautokratien
+Heute dominieren „hybride“ oder „kompetitive autoritäre“ Systeme: Es gibt Wahlen, Parteien und Zeitungen, aber das Spielfeld ist unfair. Oppositionelle werden behindert oder inhaftiert, Medien kontrolliert, Wahlen manipuliert. Sergei Guriev und Daniel Treisman sprechen von „Spin-Diktatoren“, die eher manipulieren als offen Gewalt anwenden.
+img: Hannah Arendt | Hannah Arendt
+## Wie Demokratien sterben
+Die Politologen Steven Levitsky und Daniel Ziblatt beschrieben 2018 Warnsignale: Ablehnung demokratischer Spielregeln, Abstreiten der Legitimität von Gegnern, Duldung von Gewalt und Bereitschaft, Bürgerrechte einzuschränken. Wichtig seien ungeschriebene Normen wie gegenseitige Toleranz und Zurückhaltung beim Ausnutzen von Macht.
+- Totalitarismus vs. Autoritarismus.
+- Moderne Wahlautokratien mit manipulierten Wahlen.
+- Warnsignale nach Levitsky/Ziblatt.
+
+=== populismus
+cat: politik
+title: Populismus
+teaser: „Wir, das wahre Volk, gegen die korrupte Elite“ – eine Denkfigur, die links wie rechts funktioniert.
+meta: Politikwissenschaft
+cover: Populismus | Kundgebung
+## Volk gegen Elite
+Der Politologe Cas Mudde definiert Populismus als „dünne Ideologie“: Die Gesellschaft wird in zwei homogene, verfeindete Gruppen geteilt – das reine Volk und die korrupte Elite. Populisten behaupten, als Einzige den wahren Volkswillen zu vertreten. Das lässt sich mit rechten wie linken Inhalten verbinden.
+## Rechts und links
+Rechtspopulisten verbinden das mit Nationalismus und richten sich gegen Migranten, die EU und „das System“. Linkspopulisten wie Podemos in Spanien oder Syriza in Griechenland zielen auf Banken und Konzerne. Der Politikwissenschaftler Jan-Werner Müller betont, dass Populisten antipluralistisch sind: Wer nicht zustimmt, gehört nicht zum „wahren Volk“.
+img: Cas Mudde | Cas Mudde
+## Ursachen und Folgen
+Als Ursachen gelten Globalisierungsverlierer, kulturelle Verunsicherung, Vertrauensverlust in Parteien und soziale Medien, die Empörung belohnen. Populisten können Probleme sichtbar machen, die etablierte Parteien ignorieren. Wenn sie regieren, schwächen sie jedoch oft unabhängige Institutionen wie Gerichte, Medien und Wahlbehörden, wie in Ungarn unter Viktor Orbán.
+- Volk gegen Elite, Anspruch auf den „wahren Volkswillen“.
+- Rechts- und Linkspopulismus; antipluralistisch.
+- Ursachen: Globalisierung, Vertrauensverlust; Gefahr für Institutionen.
+
+=== menschenrechte
+cat: politik
+title: Die Allgemeine Erklärung der Menschenrechte
+teaser: Nach dem Zweiten Weltkrieg einigte sich die Welt auf 30 Artikel – das meistübersetzte Dokument der Welt.
+meta: UN, 10. Dezember 1948
+cover: Allgemeine Erklärung der Menschenrechte | Eleanor Roosevelt mit der Erklärung der Menschenrechte
+## Die Entstehung
+Unter dem Eindruck des Holocaust und des Zweiten Weltkriegs arbeitete eine UN-Kommission unter Vorsitz von Eleanor Roosevelt die Erklärung aus. Am 10. Dezember 1948 nahm die UN-Generalversammlung sie in Paris an, ohne Gegenstimme bei acht Enthaltungen, darunter die Sowjetunion und Saudi-Arabien. Der 10. Dezember ist seitdem Tag der Menschenrechte.
+## Der Inhalt
+Artikel 1 lautet: „Alle Menschen sind frei und gleich an Würde und Rechten geboren.“ Die 30 Artikel umfassen bürgerliche Rechte (Leben, Freiheit, Verbot von Folter und Sklaverei, Meinungsfreiheit) und soziale Rechte (Arbeit, Bildung, soziale Sicherheit). Sie gelten für jeden Menschen, unabhängig von Herkunft, Geschlecht oder Religion.
+img: Eleanor Roosevelt | Eleanor Roosevelt
+## Verbindlichkeit
+Die Erklärung selbst ist rechtlich nicht bindend. 1966 folgten jedoch zwei verbindliche Pakte über bürgerliche und politische sowie über wirtschaftliche, soziale und kulturelle Rechte. Die Europäische Menschenrechtskonvention mit eigenem Gerichtshof in Straßburg setzt Rechte in Europa durch. Mit über 500 Übersetzungen ist die Erklärung das meistübersetzte Dokument der Welt.
+- Am 10.12.1948 von der UN-Generalversammlung angenommen.
+- 30 Artikel mit bürgerlichen und sozialen Rechten.
+- Selbst unverbindlich; konkretisiert durch die UN-Pakte von 1966.

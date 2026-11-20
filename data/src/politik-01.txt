@@ -1,0 +1,186 @@
+=== grundgesetz
+cat: politik
+title: Das Grundgesetz
+teaser: Als Provisorium gedacht, heute eine der stabilsten Verfassungen der Welt – mit einer „Ewigkeitsklausel“.
+meta: Deutschland, seit 1949
+cover: Grundgesetz für die Bundesrepublik Deutschland | Originalausgabe des Grundgesetzes
+## Entstehung
+Auf Anweisung der westlichen Alliierten arbeitete der Parlamentarische Rat in Bonn ab September 1948 eine Verfassung aus; Präsident war Konrad Adenauer. Unter den 65 stimmberechtigten Mitgliedern waren nur vier Frauen, die „Mütter des Grundgesetzes“ – Elisabeth Selbert setzte den Satz „Männer und Frauen sind gleichberechtigt“ durch. Am 23. Mai 1949 trat es in Kraft.
+## Würde zuerst
+Das Grundgesetz beginnt bewusst mit den Grundrechten: „Die Würde des Menschen ist unantastbar.“ Die Lehren aus Weimar und der NS-Diktatur prägen es: ein starkes Verfassungsgericht, ein schwächerer Bundespräsident, das konstruktive Misstrauensvotum und die wehrhafte Demokratie. Es heißt „Grundgesetz“, weil es nur bis zur Wiedervereinigung gelten sollte.
+img: Elisabeth Selbert | Elisabeth Selbert
+## Die Ewigkeitsklausel
+Artikel 79 Absatz 3 verbietet Änderungen, die die Menschenwürde, die Demokratie, den Rechts-, Sozial- und Bundesstaat oder die Gliederung in Länder antasten – die „Ewigkeitsklausel“. Andere Änderungen brauchen eine Zweidrittelmehrheit in Bundestag und Bundesrat; seit 1949 wurde es über 60-mal geändert. Bei der Einheit 1990 blieb es als gesamtdeutsche Verfassung bestehen.
+- Am 23. Mai 1949 in Kraft, ausgearbeitet vom Parlamentarischen Rat.
+- Beginnt mit der Menschenwürde; Lehren aus Weimar.
+- Ewigkeitsklausel (Art. 79 Abs. 3); Änderungen nur mit Zweidrittelmehrheit.
+
+=== bundestag
+cat: politik
+title: Der Bundestag
+teaser: Das einzige direkt vom Volk gewählte Verfassungsorgan des Bundes – mit 630 Sitzen unter einer Glaskuppel.
+meta: Deutschland
+cover: Deutscher Bundestag | Plenarsaal des Deutschen Bundestags
+## Aufgaben
+Der Bundestag beschließt Gesetze und den Bundeshaushalt, wählt den Bundeskanzler, kontrolliert die Regierung und entscheidet über Auslandseinsätze der Bundeswehr. Er wird alle vier Jahre gewählt. Seit der Wahlrechtsreform hat er 630 Sitze; 2021 waren es noch 736.
+## Arbeitsparlament
+Die eigentliche Arbeit geschieht in den Ausschüssen, wo Fachpolitiker Gesetzentwürfe beraten und Experten anhören. Abgeordnete schließen sich zu Fraktionen zusammen. Das Grundgesetz garantiert das freie Mandat: Abgeordnete sind „an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen“.
+img: Reichstagsgebäude | Das Reichstagsgebäude mit der Glaskuppel
+## Das Reichstagsgebäude
+Seit 1999 tagt der Bundestag im Berliner Reichstagsgebäude. Der Architekt Norman Foster setzte eine begehbare Glaskuppel darauf – Symbol für Transparenz: Die Bürger stehen über ihren Abgeordneten. 1995 hatten Christo und Jeanne-Claude das Gebäude verhüllt. Vorher tagte der Bundestag in Bonn.
+- Wählt Kanzler, beschließt Gesetze und Haushalt, kontrolliert die Regierung.
+- 630 Sitze; Arbeit vor allem in Ausschüssen; freies Mandat.
+- Seit 1999 im Reichstagsgebäude mit Fosters Glaskuppel.
+
+=== bundesrat
+cat: politik
+title: Der Bundesrat
+teaser: Die Länderkammer: Hier stimmen nicht Abgeordnete ab, sondern Landesregierungen – und zwar einheitlich.
+meta: Deutschland
+cover: Bundesrat (Deutschland) | Das Bundesratsgebäude in Berlin
+## Die Stimme der Länder
+Über den Bundesrat wirken die 16 Länder an Gesetzgebung und Verwaltung des Bundes mit. Er besteht aus Mitgliedern der Landesregierungen, nicht aus gewählten Abgeordneten. Je nach Einwohnerzahl hat ein Land drei bis sechs Stimmen, insgesamt 69. Die Stimmen eines Landes müssen einheitlich abgegeben werden.
+## Zustimmung oder Einspruch
+Bei Zustimmungsgesetzen, etwa wenn Länderfinanzen oder Verwaltung betroffen sind, kann der Bundesrat ein Gesetz endgültig stoppen. Bei Einspruchsgesetzen kann der Bundestag einen Einspruch überstimmen. Bei Streit wird der Vermittlungsausschuss angerufen. Uneinige Koalitionen in den Ländern enthalten sich oft – was praktisch wie ein Nein wirkt.
+img: Preußisches Herrenhaus | Das ehemalige Preußische Herrenhaus, Sitz des Bundesrates
+## Wechselnde Mehrheiten
+Weil Landtagswahlen zu verschiedenen Zeiten stattfinden, kann die Bundesratsmehrheit von der Bundestagsmehrheit abweichen – dann muss die Regierung Kompromisse mit der Opposition schließen. 2002 erklärte das Bundesverfassungsgericht das Zuwanderungsgesetz für nichtig, weil Brandenburg uneinheitlich abgestimmt hatte. Der Bundesratspräsident wechselt jährlich zwischen den Ministerpräsidenten.
+- Vertretung der Länderregierungen, 69 Stimmen.
+- Zustimmungs- vs. Einspruchsgesetze, Vermittlungsausschuss.
+- Andere Mehrheiten als im Bundestag möglich.
+
+=== bundeskanzler
+cat: politik
+title: Der Bundeskanzler
+teaser: Der mächtigste Posten der deutschen Politik – und die Macht, die Richtlinien vorzugeben.
+meta: Deutschland
+cover: Bundeskanzler (Deutschland) | Das Bundeskanzleramt in Berlin
+## Wahl
+Der Bundeskanzler wird auf Vorschlag des Bundespräsidenten vom Bundestag mit absoluter Mehrheit gewählt („Kanzlermehrheit“), ohne Aussprache und geheim. Die Bevölkerung wählt den Kanzler also nicht direkt. Eine Amtszeitbegrenzung gibt es nicht: Helmut Kohl regierte 16 Jahre, Angela Merkel ebenfalls fast 16.
+## Richtlinienkompetenz
+Nach Artikel 65 bestimmt der Kanzler die Richtlinien der Politik (Kanzlerprinzip). Innerhalb dieser Richtlinien leiten die Minister ihre Ressorts selbstständig (Ressortprinzip), bei Streit entscheidet das Kabinett (Kollegialprinzip). Der Kanzler schlägt dem Bundespräsidenten die Minister vor. In Koalitionen ist seine Macht durch Koalitionsverträge eingeschränkt.
+img: Angela Merkel | Angela Merkel, erste Bundeskanzlerin
+## Kanzler der Bundesrepublik
+Erster Kanzler war Konrad Adenauer (1949–1963). Es folgten unter anderem Willy Brandt, Helmut Schmidt, Helmut Kohl, Gerhard Schröder, Angela Merkel als erste Frau (2005–2021) und Olaf Scholz. Seit Mai 2025 ist Friedrich Merz (CDU) Kanzler – der erste, der im ersten Wahlgang durchfiel und erst im zweiten gewählt wurde.
+- Vom Bundestag mit absoluter Mehrheit gewählt.
+- Richtlinienkompetenz, Ressort- und Kollegialprinzip.
+- Von Adenauer bis Merz (seit 2025).
+
+=== bundespraesident
+cat: politik
+title: Der Bundespräsident
+teaser: Staatsoberhaupt mit wenig Macht, aber einer wichtigen Waffe: dem Wort.
+meta: Deutschland
+cover: Bundespräsident (Deutschland) | Schloss Bellevue, Amtssitz des Bundespräsidenten
+## Gewählt von der Bundesversammlung
+Der Bundespräsident wird nicht vom Volk gewählt, sondern von der Bundesversammlung: alle Bundestagsabgeordneten und ebenso viele Vertreter der Landesparlamente, oft auch Prominente. Die Amtszeit beträgt fünf Jahre, eine Wiederwahl ist einmal möglich. Amtssitz ist Schloss Bellevue in Berlin.
+## Bewusst schwach
+Aus den Erfahrungen mit dem mächtigen Reichspräsidenten der Weimarer Zeit erhielt der Bundespräsident vor allem repräsentative Aufgaben: Er vertritt Deutschland völkerrechtlich, ernennt Kanzler, Minister, Richter und Beamte und unterzeichnet Gesetze. Er prüft dabei, ob sie verfassungsgemäß zustande gekommen sind – und kann die Unterschrift in Ausnahmefällen verweigern, was bisher selten vorkam.
+img: Richard von Weizsäcker | Richard von Weizsäcker
+## Die Macht der Rede
+Seine wichtigste Wirkung entfaltet der Präsident durch Reden. Richard von Weizsäcker nannte den 8. Mai 1945 in seiner berühmten Rede von 1985 einen „Tag der Befreiung“. Roman Herzog forderte 1997, ein „Ruck“ müsse durch Deutschland gehen. In Krisen kann er den Bundestag auflösen, etwa wenn ein Kanzler die Vertrauensfrage verliert. Amtsinhaber seit 2017 ist Frank-Walter Steinmeier.
+- Gewählt von der Bundesversammlung, fünf Jahre Amtszeit.
+- Repräsentativ, prüft Gesetze, ernennt Kanzler und Minister.
+- Wirkung durch Reden, z. B. Weizsäcker 1985.
+
+=== bundesverfassungsgericht
+cat: politik
+title: Das Bundesverfassungsgericht
+teaser: 16 Richterinnen und Richter in Karlsruhe können sogar Gesetze des Bundestags kippen.
+meta: Karlsruhe, seit 1951
+cover: Bundesverfassungsgericht | Das Bundesverfassungsgericht in Karlsruhe
+## Hüter der Verfassung
+Das Bundesverfassungsgericht wacht über die Einhaltung des Grundgesetzes. Es besteht aus zwei Senaten mit je acht Richterinnen und Richtern, die je zur Hälfte von Bundestag und Bundesrat mit Zweidrittelmehrheit für zwölf Jahre gewählt werden – ohne Wiederwahl. Bewusst sitzt es in Karlsruhe, fern vom Regierungssitz.
+## Verfahren
+Jeder Mensch kann Verfassungsbeschwerde einlegen, wenn er sich durch den Staat in seinen Grundrechten verletzt sieht – über 5.000 pro Jahr, nur wenige haben Erfolg. Daneben gibt es Normenkontrollen, Organstreitigkeiten zwischen Verfassungsorganen und Parteiverbotsverfahren. Seine Entscheidungen binden alle staatlichen Organe.
+img: Karlsruhe | Karlsruhe
+## Wichtige Urteile
+Das Lüth-Urteil (1958) stärkte die Meinungsfreiheit, das Volkszählungsurteil (1983) begründete das Recht auf informationelle Selbstbestimmung. 2021 verpflichtete das Gericht den Gesetzgeber zu mehr Klimaschutz, 2023 erklärte es die Umwidmung von 60 Milliarden Euro Kreditermächtigungen im Haushalt für nichtig. 2024 wurde seine Stellung zum Schutz vor politischer Einflussnahme im Grundgesetz abgesichert.
+- Zwei Senate, 16 Richter, Wahl mit Zweidrittelmehrheit für 12 Jahre.
+- Verfassungsbeschwerde für jeden; Entscheidungen binden alle.
+- Prägende Urteile von Lüth bis Klimaschutz und Haushalt.
+
+=== foederalismus
+cat: politik
+title: Der Föderalismus
+teaser: Warum Schulen in Bayern anders sind als in Bremen – und warum das Absicht ist.
+meta: Deutschland
+cover: Föderalismus in Deutschland | Karte der Länder
+## Ein Bundesstaat
+Deutschland ist ein Bundesstaat: Bund und Länder haben jeweils eigene Staatsqualität mit Parlamenten, Regierungen und Verfassungen. Das Grundgesetz schützt die Gliederung in Länder durch die Ewigkeitsklausel. Historisch knüpft das an die Vielzahl deutscher Territorien an; nach 1945 wollten die Alliierten zudem keine zu starke Zentralmacht.
+## Wer macht was?
+Der Bund ist zuständig für Außenpolitik, Verteidigung, Währung und vieles mehr; die Länder für Schulen, Polizei, Kultur und Kommunen. Viele Bundesgesetze werden von den Ländern ausgeführt. Über den Bundesrat wirken die Länder an der Bundesgesetzgebung mit. Im Finanzausgleich unterstützen finanzstarke Länder schwächere.
+img: Kultusministerkonferenz | Sitzung der Kultusministerkonferenz
+## Vor- und Nachteile
+Befürworter loben Bürgernähe, Wettbewerb um gute Lösungen und zusätzliche Gewaltenteilung (vertikal). Kritiker beklagen den „Flickenteppich“ etwa bei Schulabschlüssen, langsame Entscheidungen und unklare Zuständigkeiten, wie in der Corona-Pandemie. Föderalismusreformen 2006 und 2009 ordneten die Kompetenzen neu.
+- Bund und Länder mit eigener Staatlichkeit.
+- Länder zuständig u. a. für Bildung und Polizei.
+- Bürgernähe vs. Flickenteppich.
+
+=== misstrauensvotum
+cat: politik
+title: Das konstruktive Misstrauensvotum
+teaser: Einen Kanzler stürzen geht nur, wenn man gleichzeitig einen neuen wählt – eine Lehre aus Weimar.
+meta: Artikel 67 Grundgesetz
+cover: Konstruktives Misstrauensvotum | Helmut Kohl nach seiner Wahl 1982
+## Die Regel
+Nach Artikel 67 kann der Bundestag dem Kanzler das Misstrauen nur aussprechen, indem er mit absoluter Mehrheit einen Nachfolger wählt. In der Weimarer Republik konnten sich radikale Parteien von links und rechts zusammentun, um Regierungen zu stürzen – ohne selbst eine bilden zu können. Das sollte nicht wieder passieren.
+## Zwei Versuche
+1972 versuchte die Union, Willy Brandt durch Rainer Barzel zu ersetzen – es fehlten zwei Stimmen. Später kam heraus, dass die DDR-Staatssicherheit mindestens einen Unionsabgeordneten bestochen hatte. 1982 gelang es: Die FDP wechselte die Seiten, Helmut Kohl löste Helmut Schmidt ab.
+img: Helmut Schmidt | Helmut Schmidt
+## Die Vertrauensfrage
+Umgekehrt kann der Kanzler nach Artikel 68 die Vertrauensfrage stellen. Verliert er sie, kann der Bundespräsident den Bundestag auflösen. Das wurde mehrmals genutzt, um Neuwahlen herbeizuführen: 1972, 1982, 2005 durch Gerhard Schröder und im Dezember 2024 durch Olaf Scholz nach dem Bruch der Ampelkoalition.
+- Kanzlersturz nur durch Wahl eines Nachfolgers (Art. 67).
+- 1972 gescheitert (Barzel), 1982 erfolgreich (Kohl).
+- Vertrauensfrage (Art. 68) als Weg zu Neuwahlen.
+
+=== gesetzgebung
+cat: politik
+title: Wie ein Gesetz entsteht
+teaser: Vom Entwurf bis zum Bundesgesetzblatt: drei Lesungen, zwei Kammern und eine Unterschrift.
+meta: Deutschland
+cover: Gesetzgebungsverfahren (Deutschland) | Schema des Gesetzgebungsverfahrens
+## Der Entwurf
+Gesetzesvorlagen können von der Bundesregierung, dem Bundesrat oder aus der Mitte des Bundestags kommen. Die meisten stammen von der Regierung, deren Ministerien die Entwürfe ausarbeiten. Regierungsentwürfe gehen zuerst dem Bundesrat zur Stellungnahme zu.
+## Im Bundestag
+Der Bundestag berät in drei Lesungen. Nach der ersten Lesung geht der Entwurf in die Fachausschüsse, wo Sachverständige angehört und Änderungen eingearbeitet werden. In der zweiten Lesung wird über Einzelheiten abgestimmt, in der dritten über das Gesetz als Ganzes. Dann ist der Bundesrat erneut gefragt – mit Zustimmung oder Einspruch.
+img: Bundesgesetzblatt | Das Bundesgesetzblatt
+## Unterschrift und Verkündung
+Ist das Gesetz zustande gekommen, wird es vom zuständigen Minister und vom Kanzler gegengezeichnet, vom Bundespräsidenten ausgefertigt und im Bundesgesetzblatt verkündet – seit 2023 nur noch elektronisch. Danach tritt es in Kraft, oft zu einem im Gesetz festgelegten Datum. Gegen Gesetze kann vor dem Bundesverfassungsgericht geklagt werden.
+- Initiative von Regierung, Bundesrat oder Bundestag.
+- Drei Lesungen, Ausschussarbeit, Beteiligung des Bundesrats.
+- Ausfertigung durch den Bundespräsidenten, Verkündung im Bundesgesetzblatt.
+
+=== parteiensystem
+cat: politik
+title: Das Parteiensystem in Deutschland
+teaser: Von der „Zweieinhalb-Parteien-Republik“ zum zersplitterten Parlament – wie sich die Parteienlandschaft wandelte.
+meta: Deutschland
+cover: Politische Partei | Wahlplakate
+## Parteien im Grundgesetz
+Artikel 21 bestimmt: Parteien wirken bei der politischen Willensbildung mit, ihre innere Ordnung muss demokratischen Grundsätzen entsprechen, und sie müssen ihre Finanzen offenlegen. Parteien erhalten staatliche Teilfinanzierung, abhängig von Wählerstimmen und Spenden.
+## Wandel
+Lange dominierten CDU/CSU und SPD, die FDP war Mehrheitsbeschafferin – die „Zweieinhalb-Parteien-Republik“. Ab 1983 zogen die Grünen ein, nach der Einheit die PDS, später Die Linke. Seit 2017 sitzt die AfD im Bundestag, 2025 wurde sie zweitstärkste Kraft. Das BSW scheiterte 2025 knapp an der Fünf-Prozent-Hürde, die FDP ebenfalls.
+img: Konrad-Adenauer-Haus | Das Konrad-Adenauer-Haus, CDU-Zentrale
+## Volksparteien in der Krise
+CDU/CSU und SPD erreichten in den 1970ern zusammen über 90 Prozent; heute deutlich weniger. Mitgliederzahlen sinken, Wähler binden sich seltener dauerhaft. Koalitionen aus drei Parteien werden häufiger, Regierungsbildungen schwieriger. Die CSU tritt nur in Bayern an und bildet mit der CDU im Bundestag eine Fraktionsgemeinschaft.
+- Parteien im Grundgesetz (Art. 21) mit demokratischer Pflicht.
+- Von zweieinhalb zu sechs und mehr Parteien.
+- Schwund der Volksparteien, schwierigere Koalitionen.
+
+=== koalitionen
+cat: politik
+title: Koalitionen
+teaser: Jamaika, Ampel, Kenia: Wie Parteien zu Regierungen zusammenfinden – und warum Farben dabei helfen.
+meta: Deutschland
+cover: Koalition (Politik) | Unterzeichnung eines Koalitionsvertrags
+## Warum Koalitionen?
+Im Verhältniswahlrecht erreicht selten eine Partei allein die absolute Mehrheit – im Bund gelang das nur einmal, 1957 der Union. Deshalb verhandeln Parteien nach der Wahl über ein Regierungsbündnis. Ergebnis ist ein Koalitionsvertrag, der Vorhaben und Ministerien verteilt. Rechtlich bindend ist er nicht, politisch sehr wohl.
+## Die Farbenlehre
+Koalitionen werden nach Parteifarben benannt: Schwarz-Gelb (Union–FDP), Rot-Grün, Große Koalition (Union–SPD). Dreierbündnisse heißen nach Flaggen oder Gegenständen: „Ampel“ (SPD, FDP, Grüne), „Jamaika“ (Union, Grüne, FDP), „Kenia“ (Union, SPD, Grüne). Seit 2025 regiert im Bund wieder Schwarz-Rot.
+img: Olaf Scholz | Olaf Scholz, Kanzler der Ampelkoalition
+## Bruchstellen
+Koalitionen können zerbrechen: 1982 wechselte die FDP von der SPD zur Union, im November 2024 zerbrach die Ampel nach Streit über Haushalt und Schuldenbremse. Ministerpräsidentenwahlen in den Ländern zeigen, wie schwierig Mehrheiten geworden sind, etwa in Thüringen 2020. Minderheitsregierungen gelten in Deutschland als instabil und sind im Bund bisher selten.
+- Notwendig im Verhältniswahlrecht; Koalitionsvertrag.
+- Farbbezeichnungen von Schwarz-Rot bis Jamaika.
+- Brüche wie 1982 und 2024.

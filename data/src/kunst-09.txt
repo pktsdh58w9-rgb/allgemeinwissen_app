@@ -1,0 +1,33 @@
+=== faberge-eier
+cat: kunst
+title: Die Fabergé-Eier
+teaser: Osterüberraschungen für die Zarenfamilie – eines wurde auf einem Flohmarkt gefunden und sollte eingeschmolzen werden.
+meta: St. Petersburg, 1885–1917
+cover: Fabergé-Ei | Das Krönungsei von Fabergé
+## Ein Ostergeschenk
+1885 bestellte Zar Alexander III. beim Juwelier Peter Carl Fabergé ein Osterei für seine Frau Maria Fjodorowna. Außen schlicht weiß emailliert, enthielt es eine goldene Henne mit einer Miniaturkrone und einem Rubin. Die Zarin war begeistert – von da an gab es jedes Jahr ein neues Ei, unter Nikolaus II. sogar zwei: für Frau und Mutter.
+## Juwelenkunst
+Jedes Ei enthielt eine „Überraschung“: eine Miniaturkutsche, ein Modell der Transsibirischen Eisenbahn mit aufziehbarer Lokomotive, ein Schiff oder Porträts. Fabergés Werkstatt kombinierte Gold, Edelsteine und Guilloché-Emaille. Insgesamt entstanden 50 kaiserliche Eier.
+img: Peter Carl Fabergé | Peter Carl Fabergé
+## Nach der Revolution
+Nach der Oktoberrevolution 1917 beschlagnahmten die Bolschewiki die Eier; viele wurden in den 1920ern und 1930ern ins Ausland verkauft. Sieben gelten als verschollen. Ein Altmetallhändler aus den USA kaufte 2012 ein Ei für rund 14.000 Dollar, um es einzuschmelzen – es war das verschollene „Dritte kaiserliche Osterei“ im Wert von Millionen.
+- Seit 1885 Ostergeschenke der Zaren.
+- 50 kaiserliche Eier mit Überraschungen.
+- Nach 1917 verkauft; einige verschollen, eines auf dem Schrottmarkt gefunden.
+
+=== hip-hop
+cat: kunst
+title: Hip-Hop
+teaser: Ein Partytrick in der Bronx 1973 wurde zur weltweit meistgehörten Musikrichtung.
+meta: New York, ab 1973
+cover: Hip-Hop | Graffiti in New York
+## Die Geburtsstunde
+Am 11. August 1973 legte DJ Kool Herc auf einer Party in der Bronx auf. Er spielte mit zwei Plattenspielern immer wieder den instrumentalen Teil („Break“) von Funk-Songs, damit die Leute länger tanzen konnten. Tänzer, die auf diese Breaks tanzten, wurden zu B-Boys – Breakdance entstand. Der Termin gilt als Geburtstag des Hip-Hop.
+## Vier Elemente
+Hip-Hop umfasst vier Elemente: DJing (Scratching, Sampling), MCing bzw. Rap, Breakdance und Graffiti. In den verarmten Vierteln New Yorks war es eine kreative Antwort auf Armut und Gewalt. „Rapper’s Delight“ der Sugarhill Gang (1979) war der erste Hit. Grandmaster Flash zeigte mit „The Message“ (1982) die sozialkritische Seite.
+img: DJ Kool Herc | DJ Kool Herc
+## Weltweit
+Ab den späten 1980ern dominierten Gruppen wie Public Enemy und Run-DMC, später Tupac, Notorious B.I.G., Jay-Z, Eminem und Kendrick Lamar, der 2018 als erster Musiker außerhalb von Klassik und Jazz den Pulitzer-Preis erhielt. In Deutschland wurden die Fantastischen Vier und Advanced Chemistry bekannt. Seit 2017 ist Hip-Hop in den USA die meistgehörte Musikrichtung, Breakdance war 2024 olympisch.
+- 1973 in der Bronx, DJ Kool Herc und die „Breaks“.
+- Vier Elemente: DJing, Rap, Breakdance, Graffiti.
+- Heute global dominierend; Breaking 2024 olympisch.

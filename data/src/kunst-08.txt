@@ -1,0 +1,186 @@
+=== wagner
+cat: kunst
+title: Richard Wagner
+teaser: 16 Stunden Musik, ein eigenes Festspielhaus – und ein Antisemit, dessen Erbe bis heute umstritten ist.
+meta: 1813–1883
+cover: Richard Wagner | Richard Wagner
+## Das Gesamtkunstwerk
+Richard Wagner wollte Musik, Dichtung, Bühnenbild und Schauspiel zu einem „Gesamtkunstwerk“ verschmelzen. Er schrieb seine Texte selbst. Statt in einzelne Arien gliederte er seine „Musikdramen“ in unendliche Melodie. Leitmotive – wiederkehrende musikalische Themen – stehen für Personen, Gegenstände oder Ideen.
+## Der Ring
+„Der Ring des Nibelungen“ besteht aus vier Opern (Rheingold, Walküre, Siegfried, Götterdämmerung) mit zusammen rund 16 Stunden Musik. Er erzählt nach germanischen Sagen von einem Ring, der Weltherrschaft verleiht und alle verdirbt. Der „Walkürenritt“ ist weltbekannt, nicht zuletzt aus dem Film „Apocalypse Now“. Der „Tristan-Akkord“ läutete die Auflösung der klassischen Harmonik ein.
+img: Bayreuther Festspielhaus | Das Festspielhaus in Bayreuth
+## Bayreuth und Schatten
+Mit Unterstützung König Ludwigs II. baute Wagner in Bayreuth ein eigenes Festspielhaus; 1876 wurde dort der Ring uraufgeführt. Die Festspiele leitet bis heute seine Familie. Wagner war erklärter Antisemit („Das Judenthum in der Musik“), und Hitler verehrte ihn; seine Schwiegertochter Winifred Wagner war mit Hitler befreundet. In Israel wird Wagner bis heute kaum öffentlich gespielt.
+- Gesamtkunstwerk, Leitmotive, unendliche Melodie.
+- „Der Ring des Nibelungen“: vier Opern, ~16 Stunden.
+- Bayreuther Festspiele; Antisemitismus und NS-Vereinnahmung.
+
+=== verdi-oper
+cat: kunst
+title: Giuseppe Verdi und die Oper
+teaser: Ein Gefangenenchor wurde zur heimlichen Hymne Italiens – und sein Name zum politischen Code.
+meta: Italien, 1813–1901
+cover: Giuseppe Verdi | Giuseppe Verdi
+## Was ist Oper?
+Die Oper entstand um 1600 in Florenz, als Gelehrte das antike Drama mit Musik wiederbeleben wollten. Claudio Monteverdis „L’Orfeo“ (1607) gilt als erstes Meisterwerk. Arien, Rezitative, Chöre und Orchester erzählen die Handlung. Im 19. Jahrhundert war Italien das Zentrum, Mailands Teatro alla Scala der bedeutendste Spielort.
+## Verdis Durchbruch
+Giuseppe Verdi, im selben Jahr wie Wagner geboren, hatte nach dem Tod seiner Frau und Kinder fast aufgegeben. 1842 wurde „Nabucco“ ein Triumph. Der Chor der gefangenen Hebräer „Va, pensiero“ wurde zur heimlichen Hymne des Risorgimento, der italienischen Einigungsbewegung. „Viva VERDI“ an Wänden bedeutete: „Viva Vittorio Emanuele Re D’Italia“.
+img: Teatro alla Scala | Das Teatro alla Scala in Mailand
+## Welterfolge
+Es folgten „Rigoletto“ mit „La donna è mobile“, „La Traviata“, „Il Trovatore“ und „Aida“, für die Eröffnung des Opernhauses in Kairo komponiert. Im Alter schrieb er „Otello“ und „Falstaff“ nach Shakespeare. Bei seiner Beerdigung 1901 sangen Zehntausende Mailänder spontan „Va, pensiero“.
+- Oper seit ~1600, Monteverdi als früher Meister.
+- Nabucco 1842; Gefangenenchor als Hymne des Risorgimento.
+- Rigoletto, La Traviata, Aida, Otello.
+
+=== vivaldi
+cat: kunst
+title: Vivaldi – Die vier Jahreszeiten
+teaser: Ein rothaariger Priester ließ Waisenmädchen spielen und komponierte das vielleicht meistgespielte Barockwerk.
+meta: Venedig, 1678–1741
+cover: Antonio Vivaldi | Antonio Vivaldi (vermutliches Porträt)
+## Il Prete Rosso
+Antonio Vivaldi aus Venedig wurde zum Priester geweiht, las aber wegen Asthma kaum Messen. Wegen seiner Haarfarbe nannte man ihn „il prete rosso“, den roten Priester. Jahrzehntelang leitete er die Musik am Ospedale della Pietà, einem Waisenhaus für Mädchen, deren Orchester in ganz Europa berühmt war.
+## Programmmusik
+„Die vier Jahreszeiten“ (1725) sind vier Violinkonzerte, denen Sonette beigefügt sind. Die Musik malt, was die Gedichte beschreiben: Vogelgezwitscher im Frühling, ein bellender Hund, Sommergewitter, betrunkene Bauern im Herbst, klappernde Zähne im Winter. Das ist frühe Programmmusik.
+img: Venedig | Venedig, Vivaldis Heimatstadt
+## Vergessen und wiederentdeckt
+Vivaldi schrieb rund 500 Konzerte und Dutzende Opern. Bach bearbeitete mehrere seiner Konzerte für Orgel und Cembalo. Vivaldi starb 1741 verarmt in Wien und geriet in Vergessenheit. Erst in den 1920ern wurden große Bestände seiner Manuskripte in Turin wiederentdeckt. Heute sind „Die vier Jahreszeiten“ eines der meistaufgenommenen Werke der Klassik.
+- Priester und Lehrer am Ospedale della Pietà.
+- Vier Jahreszeiten: Violinkonzerte als Programmmusik.
+- Rund 500 Konzerte; im 20. Jh. wiederentdeckt.
+
+=== chopin
+cat: kunst
+title: Frédéric Chopin
+teaser: Fast alles für Klavier – und sein Herz wurde in einem Cognac-Gefäß nach Warschau geschmuggelt.
+meta: Polen/Frankreich, 1810–1849
+cover: Frédéric Chopin | Frédéric Chopin (Fotografie, 1849)
+## Der Poet des Klaviers
+Frédéric Chopin wuchs in Warschau auf und galt als Wunderkind. 1830 verließ er Polen; nach dem gescheiterten Novemberaufstand gegen Russland kehrte er nie zurück. In Paris wurde er zum gefeierten Pianisten der Salons, spielte aber selten in großen Konzertsälen.
+## Musik für Klavier
+Fast sein gesamtes Werk ist für Klavier: Nocturnes, Walzer, Etüden, Préludes, Balladen und zwei Klavierkonzerte. Polnische Tänze wie Mazurken und Polonaisen drücken seine Heimatverbundenheit aus. Typisch ist das Rubato – ein freies, „gestohlenes“ Tempo. Die „Revolutionsetüde“ soll er aus Wut über die Niederschlagung des Aufstands geschrieben haben.
+img: George Sand | George Sand
+## Krankheit und Tod
+Chopin hatte eine neun Jahre dauernde Beziehung zur Schriftstellerin George Sand; einen Winter verbrachten sie auf Mallorca. Er litt an einer chronischen Krankheit, vermutlich Tuberkulose, und starb 1849 mit 39 Jahren in Paris. Auf seinen Wunsch brachte seine Schwester sein Herz in einem mit Cognac gefüllten Gefäß nach Warschau, wo es in der Heilig-Kreuz-Kirche ruht.
+- Polnischer Pianist und Komponist in Paris.
+- Fast nur Klavierwerke: Nocturnes, Mazurken, Polonaisen.
+- Früher Tod; sein Herz ruht in Warschau.
+
+=== jazz
+cat: kunst
+title: Jazz
+teaser: Geboren in New Orleans aus Blues, Ragtime und Marschmusik – Amerikas große Kunstform.
+meta: USA, ab ca. 1900
+cover: Jazz | Louis Armstrong
+## Die Wurzeln
+Jazz entstand um 1900 in New Orleans. Afroamerikanische Musiker verbanden Blues, Spirituals, Ragtime, Marschmusik und karibische Rhythmen. Typisch sind Improvisation, Synkopen, „Swing“ – ein schwer beschreibbares rhythmisches Gefühl – und „Blue Notes“, leicht erniedrigte Töne.
+## Von Swing bis Bebop
+Louis Armstrong machte das improvisierte Solo zur Kunst. In den 1930ern füllte der Swing mit Big Bands wie denen von Duke Ellington und Count Basie die Tanzsäle. In den 1940ern entwickelten Charlie Parker und Dizzy Gillespie den rasend schnellen, komplexen Bebop – Musik zum Zuhören statt Tanzen.
+img: Miles Davis | Miles Davis
+## Immer neu
+Miles Davis prägte Cool Jazz, modalen Jazz („Kind of Blue“, 1959, das meistverkaufte Jazzalbum) und Fusion mit Rock. John Coltrane, Ella Fitzgerald, Billie Holiday und Thelonious Monk wurden Legenden. Die Nazis verunglimpften Jazz als „Negermusik“; die Swing-Jugend hörte ihn trotzdem. Jazz beeinflusste Rock, Pop und Hip-Hop.
+- Entstanden in New Orleans um 1900; Improvisation, Swing, Blue Notes.
+- Armstrong, Swing-Ära, Bebop.
+- Miles Davis’ „Kind of Blue“; Einfluss auf Rock und Hip-Hop.
+
+=== beatles
+cat: kunst
+title: Die Beatles
+teaser: Vier Jungs aus Liverpool, die in Hamburg das Spielen lernten – und die Popmusik neu erfanden.
+meta: Liverpool, 1960–1970
+cover: The Beatles | The Beatles, 1964
+## Lehrjahre in Hamburg
+John Lennon, Paul McCartney, George Harrison und zunächst Pete Best am Schlagzeug spielten ab 1960 in Clubs auf der Hamburger Reeperbahn – oft acht Stunden pro Nacht. Dort fanden sie ihren Stil. 1962 ersetzte Ringo Starr Best, Manager Brian Epstein und Produzent George Martin brachten sie groß heraus.
+## Beatlemania
+Hits wie „She Loves You“ und „I Want to Hold Your Hand“ lösten Massenhysterie aus. Ihr Auftritt in der Ed Sullivan Show 1964 sahen über 70 Millionen Amerikaner. Kreischende Fans waren so laut, dass die Band sich auf der Bühne selbst nicht hörte. 1966 gaben sie das Touren auf.
+img: Abbey Road Studios | Die Abbey Road Studios in London
+## Revolution im Studio
+Im Studio experimentierten sie mit Rückwärtsbändern, indischer Sitar, Orchestern und Mehrspurtechnik. „Sgt. Pepper’s Lonely Hearts Club Band“ (1967) gilt als Meilenstein des Konzeptalbums. Nach Streitigkeiten trennten sie sich 1970. Mit über 600 Millionen verkauften Tonträgern sind sie die erfolgreichste Band aller Zeiten. Lennon wurde 1980 in New York erschossen.
+- Lehrjahre auf der Hamburger Reeperbahn.
+- Beatlemania ab 1963/64.
+- Studio-Experimente, Sgt. Pepper; Trennung 1970.
+
+=== rock-n-roll
+cat: kunst
+title: Rock ’n’ Roll
+teaser: Ein Hüftschwung im Fernsehen schockierte Amerikas Eltern – die Geburt der Jugendkultur.
+meta: USA, 1950er
+cover: Elvis Presley | Elvis Presley, 1956
+## Aus Rhythm and Blues
+Rock ’n’ Roll entstand Anfang der 1950er aus schwarzem Rhythm and Blues, Gospel und weißer Country-Musik. Der DJ Alan Freed machte den Begriff populär. Pioniere waren vor allem schwarze Musiker wie Chuck Berry, Little Richard und Fats Domino. Sister Rosetta Tharpe spielte schon in den 1940ern eine verzerrte E-Gitarre.
+## Elvis
+Elvis Presley, ein Lkw-Fahrer aus Memphis, sang schwarze Musik mit weißer Stimme und wurde zum „King“. Sein Hüftschwung im Fernsehen galt als skandalös; bei einer Show wurde er nur von der Hüfte aufwärts gefilmt. Bill Haleys „Rock Around the Clock“ (1954) wurde zur Hymne einer Generation.
+img: Chuck Berry | Chuck Berry
+## Jugend und Rebellion
+Erstmals hatten Teenager eigenes Geld, eigene Musik und eigene Mode. Konservative sahen im Rock ’n’ Roll eine Gefahr für die Moral und die Rassentrennung – denn schwarze und weiße Jugendliche tanzten zur selben Musik. In Deutschland verwüsteten „Halbstarke“ 1956 Kinosäle bei Rock-’n’-Roll-Filmen. Daraus gingen Rock und Pop hervor.
+- Mischung aus Rhythm and Blues, Gospel und Country.
+- Chuck Berry, Little Richard, Elvis Presley.
+- Beginn einer eigenen Jugendkultur.
+
+=== notenschrift
+cat: kunst
+title: Die Notenschrift
+teaser: Ein Mönch gab den Tönen Namen nach einem Hymnus – daher kommt „Do-Re-Mi“.
+meta: Musikgeschichte
+cover: Notenschrift | Gregorianische Neumen in einer Handschrift
+## Neumen
+Lange wurde Musik nur mündlich weitergegeben. Im 9. Jahrhundert begannen Mönche, über die Texte gregorianischer Gesänge Zeichen zu setzen, sogenannte Neumen. Sie zeigten, ob die Melodie steigt oder fällt, aber keine genauen Tonhöhen – sie dienten als Gedächtnisstütze.
+## Guido von Arezzo
+Um 1025 führte der Mönch Guido von Arezzo Notenlinien im Terzabstand ein, sodass Tonhöhen exakt lesbar wurden. Für den Gesangsunterricht nutzte er den Johannes-Hymnus „Ut queant laxis“: Jede Zeile beginnt einen Ton höher – ut, re, mi, fa, sol, la. Daraus entstand die Solmisation; „ut“ wurde später zu „do“.
+img: Guido von Arezzo | Guido von Arezzo
+## Rhythmus und Druck
+Erst die Mensuralnotation im 13. Jahrhundert legte Notenlängen fest. Ab 1501 druckte Ottaviano Petrucci in Venedig Noten mit beweglichen Typen. Taktstriche, Dynamikzeichen wie piano und forte und Tempoangaben kamen bis zum Barock hinzu. In Deutschland heißt der Ton H übrigens H statt B – wegen eines alten Schreibfehlers.
+- Neumen ab dem 9. Jh. als Gedächtnisstütze.
+- Guido von Arezzo: Notenlinien und Solmisation (ut, re, mi).
+- Mensuralnotation und Notendruck ab 1501.
+
+=== stradivari
+cat: kunst
+title: Stradivari-Geigen
+teaser: Rund 650 seiner Instrumente existieren noch – und Blindtests stellen ihren Mythos infrage.
+meta: Cremona, 1644–1737
+cover: Antonio Stradivari | Antonio Stradivari
+## Der Meister aus Cremona
+Antonio Stradivari baute in Cremona über 1.000 Instrumente: Geigen, Bratschen, Celli, Gitarren und Harfen. Rund 650 sind erhalten. Seine „goldene Periode“ lag etwa zwischen 1700 und 1720. Cremona war schon zuvor durch die Familien Amati und später Guarneri das Zentrum des Geigenbaus.
+## Das Geheimnis?
+Über den Klang wird seit Jahrhunderten spekuliert: besonders dichtes Holz aus der „Kleinen Eiszeit“ mit langsamem Baumwachstum, chemische Behandlung des Holzes mit Mineralien gegen Holzwurm, ein besonderer Lack. Analysen fanden tatsächlich Spuren von Borax, Zink und Kupfer im Holz.
+img: Cremona | Cremona, Stadt des Geigenbaus
+## Mythos im Test
+In Doppelblindtests konnten Spitzengeiger und Publikum Stradivaris nicht zuverlässig von guten modernen Geigen unterscheiden – manche bevorzugten sogar die neuen. Trotzdem erzielen Stradivaris Rekordpreise: Die „Lady Blunt“ wurde 2011 für 15,9 Millionen Dollar versteigert. Viele gehören Stiftungen und werden an Solisten verliehen.
+- Rund 650 erhaltene Instrumente aus Cremona.
+- Theorien: Holz, Mineralbehandlung, Lack.
+- Blindtests: kaum von modernen Spitzengeigen zu unterscheiden.
+
+=== ballett-schwanensee
+cat: kunst
+title: Ballett und Schwanensee
+teaser: Die Uraufführung 1877 war ein Flop – heute ist Schwanensee das berühmteste Ballett der Welt.
+meta: Peter Tschaikowsky, 1877
+cover: Schwanensee | Szene aus Schwanensee
+## Vom Hof zur Bühne
+Ballett entstand an den Fürstenhöfen der Renaissance in Italien und Frankreich. Ludwig XIV., selbst begeisterter Tänzer, gründete 1661 die Académie Royale de Danse; deshalb sind die Fachbegriffe französisch (plié, pirouette, arabesque). Im 19. Jahrhundert setzten sich Spitzentanz und Tutus durch.
+## Die Geschichte
+In „Schwanensee“ verliebt sich Prinz Siegfried in Odette, die ein Zauberer in einen Schwan verwandelt hat; nur nachts wird sie Mensch. Der Zauberer täuscht den Prinzen mit seiner Tochter Odile, dem „schwarzen Schwan“. Odette und Odile werden traditionell von derselben Tänzerin getanzt – mit den gefürchteten 32 Fouettés.
+img: Pjotr Iljitsch Tschaikowski | Peter Tschaikowsky
+## Tschaikowsky
+Peter Tschaikowsky schrieb die Musik 1875/76 für das Bolschoi-Theater in Moskau. Die Uraufführung 1877 fiel durch. Erst die Neuinszenierung von Marius Petipa und Lew Iwanow 1895 in St. Petersburg nach Tschaikowskys Tod brachte den Erfolg. Seine Ballette „Dornröschen“ und „Der Nussknacker“ gehören ebenfalls zum Kernrepertoire.
+- Ballett vom französischen Hof, Fachsprache Französisch.
+- Odette und Odile, weißer und schwarzer Schwan.
+- Tschaikowsky; Durchbruch erst 1895 mit Petipa.
+
+=== venus-von-willendorf
+cat: kunst
+title: Die Venus von Willendorf
+teaser: Elf Zentimeter groß, rund 30.000 Jahre alt – und ihr Stein stammt vermutlich aus Norditalien.
+meta: Altsteinzeit
+cover: Venus von Willendorf | Die Venus von Willendorf
+## Ein Fund in der Wachau
+1908 fanden Arbeiter beim Bau einer Bahnstrecke bei Willendorf in der Wachau (Österreich) eine kleine Frauenfigur aus Kalkstein. Sie ist etwa 11 Zentimeter hoch und rund 29.500 Jahre alt. Ihr Körper zeigt üppige Brüste, Bauch und Hüften; ein Gesicht fehlt, der Kopf ist von Locken oder einer Mütze bedeckt. Reste von Rötel zeigen, dass sie bemalt war.
+## Was bedeutet sie?
+Ob sie eine Fruchtbarkeitsgöttin, ein Amulett, ein Schönheitsideal oder eine realistische Darstellung war, ist unbekannt. Der Name „Venus“ wurde ihr von Forschern im 20. Jahrhundert gegeben und sagt mehr über deren Vorstellungen aus. Ähnliche Figuren fand man von Frankreich bis Sibirien.
+img: Venus vom Hohlefels | Die Venus vom Hohlefels, über 35.000 Jahre alt
+## Herkunft des Steins
+Tomografische Untersuchungen ergaben 2022, dass der Kalkstein vermutlich aus Norditalien stammt, rund 700 Kilometer entfernt – ein Hinweis auf weite Wanderungen eiszeitlicher Menschen. Noch älter ist die Venus vom Hohlefels von der Schwäbischen Alb aus Mammutelfenbein, über 35.000 Jahre alt. Die Willendorferin liegt im Naturhistorischen Museum Wien.
+- Rund 29.500 Jahre alte Kalksteinfigur aus der Wachau.
+- Bedeutung unklar; Name aus dem 20. Jh.
+- Stein wohl aus Norditalien; Hohlefels-Venus noch älter.

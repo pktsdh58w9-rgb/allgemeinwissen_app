@@ -1,0 +1,186 @@
+=== genfer-konventionen
+cat: politik
+title: Die Genfer Konventionen
+teaser: Selbst im Krieg gelten Regeln – angestoßen von einem Geschäftsmann, der ein Schlachtfeld sah.
+meta: Humanitäres Völkerrecht
+cover: Genfer Konventionen | Die erste Genfer Konvention von 1864
+## Solferino
+1859 kam der Genfer Geschäftsmann Henry Dunant nach der Schlacht von Solferino in Norditalien vorbei, wo Tausende Verwundete unversorgt lagen. Er organisierte Hilfe und schrieb „Eine Erinnerung an Solferino“. Daraus entstand 1863 das Internationale Komitee vom Roten Kreuz und 1864 die erste Genfer Konvention. Dunant erhielt 1901 den ersten Friedensnobelpreis.
+## Vier Abkommen
+Die heute gültigen vier Genfer Abkommen von 1949 schützen verwundete Soldaten an Land, Schiffbrüchige auf See, Kriegsgefangene und Zivilisten. Zusatzprotokolle von 1977 und 2005 ergänzen sie. Sanitätspersonal, Krankenhäuser und die Schutzzeichen Rotes Kreuz, Roter Halbmond und Roter Kristall dürfen nicht angegriffen werden.
+img: Henry Dunant | Henry Dunant
+## Durchsetzung
+Alle Staaten der Welt haben die Abkommen ratifiziert. Schwere Verstöße sind Kriegsverbrechen, die weltweit verfolgt werden können. Trotzdem werden sie in vielen Konflikten gebrochen – durch Angriffe auf Krankenhäuser, Folter von Gefangenen oder Aushungern von Zivilisten. Das IKRK besucht Kriegsgefangene und überwacht die Einhaltung.
+- Ursprung in Dunants Erlebnis bei Solferino 1859.
+- Vier Abkommen von 1949 schützen Verwundete, Gefangene, Zivilisten.
+- Universell ratifiziert, aber oft gebrochen.
+
+=== istgh
+cat: politik
+title: Der Internationale Strafgerichtshof
+teaser: Das erste ständige Weltgericht für Völkermord und Kriegsverbrechen – doch die Großmächte machen nicht mit.
+meta: Den Haag, seit 2002
+cover: Internationaler Strafgerichtshof | Der Internationale Strafgerichtshof in Den Haag
+## Von Nürnberg nach Den Haag
+Nach den Nürnberger Prozessen und den UN-Tribunalen für Jugoslawien und Ruanda beschlossen Staaten 1998 das Römische Statut. 2002 nahm der Internationale Strafgerichtshof (IStGH) in Den Haag seine Arbeit auf. Er verfolgt Einzelpersonen wegen Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen und Aggression.
+## Wann er zuständig ist
+Der IStGH ist nur zuständig, wenn nationale Gerichte nicht willens oder fähig sind zu verfolgen (Komplementarität), und meist nur für Taten in oder durch Mitgliedstaaten – oder wenn der UN-Sicherheitsrat einen Fall überweist. Rund 125 Staaten sind Mitglied, nicht aber die USA, China, Russland, Indien und Israel. Nicht zu verwechseln mit dem Internationalen Gerichtshof (IGH), der Streitigkeiten zwischen Staaten entscheidet.
+img: Den Haag | Den Haag, Stadt des Völkerrechts
+## Haftbefehle
+Der IStGH hat keine eigene Polizei und ist auf die Mitgliedstaaten angewiesen. Er erließ Haftbefehle unter anderem gegen Sudans Ex-Präsidenten Omar al-Baschir, 2023 gegen Wladimir Putin wegen Verschleppung ukrainischer Kinder und 2024 gegen Israels Premier Netanjahu und Hamas-Führer. Kritiker warfen ihm lange vor, sich einseitig auf Afrika zu konzentrieren.
+- Seit 2002 ständiges Gericht für Völkerstraftaten.
+- Komplementär; USA, China, Russland sind nicht Mitglied.
+- Haftbefehle u. a. gegen Putin und Netanjahu; keine eigene Polizei.
+
+=== nato
+cat: politik
+title: Die NATO
+teaser: „Einer für alle, alle für einen“ – den Bündnisfall gab es bisher nur ein einziges Mal.
+meta: seit 1949
+cover: NATO | NATO-Hauptquartier in Brüssel
+## Gründung
+1949 gründeten zwölf Staaten, darunter die USA, Kanada, Großbritannien und Frankreich, die Nordatlantikvertrags-Organisation. Ziel war, so ein Bonmot des ersten Generalsekretärs Lord Ismay, „die Russen draußen, die Amerikaner drin und die Deutschen unten zu halten“. Die Bundesrepublik trat 1955 bei, als Antwort entstand der Warschauer Pakt.
+## Artikel 5
+Kern ist Artikel 5: Ein bewaffneter Angriff auf ein Mitglied gilt als Angriff auf alle. Jeder Staat entscheidet aber selbst, welche Hilfe er leistet. Ausgerufen wurde der Bündnisfall erst einmal – nach den Anschlägen vom 11. September 2001, zur Unterstützung der USA.
+img: Jens Stoltenberg | Jens Stoltenberg, NATO-Generalsekretär 2014–2024
+## Erweiterung und Spannungen
+Nach dem Kalten Krieg traten viele ehemalige Ostblockstaaten bei. Russland betrachtet die Osterweiterung als Bedrohung. Nach Russlands Angriff auf die Ukraine 2022 traten Finnland (2023) und Schweden (2024) bei; die NATO hat 32 Mitglieder. 2025 vereinbarten die Mitglieder, ihre Verteidigungsausgaben bis 2035 auf 5 Prozent der Wirtschaftsleistung zu steigern, davon 3,5 Prozent für Kernverteidigung.
+- 1949 gegründet, Deutschland seit 1955.
+- Artikel 5: Beistandspflicht, einziger Bündnisfall nach 9/11.
+- Erweiterung bis 32 Mitglieder; neues 5-Prozent-Ziel.
+
+=== g7-g20
+cat: politik
+title: G7 und G20
+teaser: Gipfel der Mächtigen ohne eigene Verträge – und warum das Familienfoto manchmal wichtiger ist als das Ergebnis.
+meta: Internationale Politik
+cover: G7 | G7-Gipfel
+## Die G7
+Nach der Ölkrise trafen sich 1975 auf Schloss Rambouillet die Regierungschefs der großen Industrienationen. Heute gehören zur G7 die USA, Japan, Deutschland, Großbritannien, Frankreich, Italien und Kanada; die EU nimmt teil. Russland war von 1998 bis 2014 dabei (G8) und wurde nach der Annexion der Krim ausgeschlossen.
+## Die G20
+Die G20 entstand 1999 nach der Asienkrise als Treffen der Finanzminister, seit der Finanzkrise 2008 auch auf Ebene der Staats- und Regierungschefs. Sie umfasst große Industrie- und Schwellenländer wie China, Indien, Brasilien, Saudi-Arabien und Südafrika sowie EU und seit 2023 die Afrikanische Union. Zusammen erwirtschaften die Mitglieder etwa 85 Prozent der Weltwirtschaftsleistung.
+img: G20 | G20-Gipfel
+## Wirkung
+Beide Gruppen sind informelle Foren ohne Sekretariat und ohne bindende Beschlüsse. Ihre Stärke liegt in der Abstimmung, etwa bei der Bankenregulierung nach 2008 oder der globalen Mindeststeuer für Konzerne (15 Prozent). Kritiker bemängeln, dass hier wenige Staaten über die ganze Welt entscheiden. Die Gipfel ziehen oft große Proteste an, wie 2017 in Hamburg.
+- G7: führende westliche Industriestaaten seit 1975.
+- G20: inklusive Schwellenländer, ~85 % der Weltwirtschaft.
+- Informelle Foren; z. B. globale Mindeststeuer.
+
+=== wto
+cat: politik
+title: Die Welthandelsorganisation
+teaser: 166 Mitglieder, ein Prinzip: Wer einem Land Zollvorteile gibt, muss sie allen geben.
+meta: Genf, seit 1995
+cover: Welthandelsorganisation | Hauptsitz der WTO in Genf
+## Vom GATT zur WTO
+Nach dem Zweiten Weltkrieg schlossen Staaten 1947 das Allgemeine Zoll- und Handelsabkommen (GATT), um die Zollkriege der 1930er nicht zu wiederholen. In acht Verhandlungsrunden sanken die Zölle drastisch. 1995 entstand daraus die Welthandelsorganisation (WTO) in Genf, die auch Dienstleistungen und geistiges Eigentum regelt. China trat 2001 bei.
+## Die Prinzipien
+Kern ist die Meistbegünstigung: Zollvorteile, die ein Mitglied einem anderen gewährt, muss es allen gewähren. Dazu kommt die Inländerbehandlung: Importierte Waren dürfen nicht schlechter gestellt werden als heimische. Ausnahmen gibt es für Freihandelszonen wie die EU und für Entwicklungsländer. Entscheidungen fallen im Konsens.
+img: Allgemeines Zoll- und Handelsabkommen | Gründung des GATT 1947
+## Die Krise
+Ein Streitschlichtungsverfahren sollte Handelskonflikte friedlich lösen. Seit 2019 ist die Berufungsinstanz jedoch lahmgelegt, weil die USA die Ernennung neuer Richter blockieren. Die Doha-Runde für Entwicklungsländer scheiterte. Zunehmende Zölle der USA, Handelskonflikte mit China und Subventionen setzen das regelbasierte Handelssystem unter Druck.
+- Hervorgegangen aus dem GATT, seit 1995 in Genf.
+- Meistbegünstigung und Inländerbehandlung.
+- Streitschlichtung seit 2019 blockiert; Druck durch Zollkonflikte.
+
+=== iwf-weltbank
+cat: politik
+title: IWF und Weltbank
+teaser: In Bretton Woods 1944 gegründet: der Feuerwehrmann und der Entwicklungshelfer der Weltwirtschaft.
+meta: Washington, seit 1944
+cover: Internationaler Währungsfonds | Hauptsitz des IWF in Washington
+## Bretton Woods
+Im Juli 1944 trafen sich 44 Staaten im US-Ort Bretton Woods, um die Nachkriegswirtschaft zu ordnen. Sie schufen ein System fester Wechselkurse mit dem Dollar als Leitwährung, der an Gold gebunden war. Dazu gründeten sie den Internationalen Währungsfonds (IWF) und die Weltbank. Der britische Ökonom John Maynard Keynes war ein Architekt. Die Goldbindung endete 1971.
+## Der IWF
+Der IWF überwacht die Weltwirtschaft und vergibt Kredite an Länder in Zahlungsbilanzkrisen, etwa an Argentinien, Griechenland oder die Ukraine. Im Gegenzug verlangt er Reformen wie Haushaltskürzungen oder Privatisierungen – oft heftig kritisiert, weil sie die Armen treffen können. Die Stimmrechte richten sich nach den Einlagen; die USA haben eine Sperrminorität.
+img: Weltbank | Hauptgebäude der Weltbank
+## Die Weltbank
+Die Weltbank finanzierte zuerst den Wiederaufbau Europas, heute Entwicklungsprojekte: Infrastruktur, Bildung, Gesundheit, Klimaschutz. Ihr Ziel ist, extreme Armut zu beenden. Traditionell stellen die USA den Weltbankpräsidenten, die Europäer den IWF-Chef. Schwellenländer wie China fordern mehr Mitsprache.
+- 1944 in Bretton Woods gegründet.
+- IWF: Krisenkredite mit Auflagen.
+- Weltbank: Entwicklungsfinanzierung; Kritik an westlicher Dominanz.
+
+=== opec
+cat: politik
+title: Die OPEC
+teaser: 1973 drehte ein Ölkartell den Hahn zu – und in Deutschland gab es autofreie Sonntage.
+meta: Wien, seit 1960
+cover: Organisation erdölexportierender Länder | OPEC-Sitz in Wien
+## Ein Kartell der Förderländer
+1960 gründeten Iran, Irak, Kuwait, Saudi-Arabien und Venezuela in Bagdad die Organisation erdölexportierender Länder. Sie wollten die Macht der großen westlichen Ölkonzerne brechen und die Preise selbst beeinflussen. Heute hat die OPEC ihren Sitz in Wien und rund ein Dutzend Mitglieder.
+## Der Ölschock
+Im Jom-Kippur-Krieg 1973 drosselten arabische Ölstaaten die Förderung und verhängten ein Embargo gegen Länder, die Israel unterstützten. Der Ölpreis vervierfachte sich. In Deutschland gab es vier autofreie Sonntage, auf den Autobahnen gingen Menschen spazieren. Die Krise löste Rezession und Inflation aus und förderte Energiesparen und Atomkraft.
+img: Ölkrise | Autofreier Sonntag 1973 in Deutschland
+## OPEC+
+Seit 2016 stimmt sich die OPEC mit Russland und weiteren Ländern als „OPEC+“ ab. Saudi-Arabien ist die führende Macht. Durch den Fracking-Boom wurden die USA zum größten Ölproduzenten und die Macht des Kartells relativiert. Mit der Energiewende stellt sich langfristig die Frage, wie lange die Welt noch so viel Öl braucht.
+- 1960 gegründet, Sitz in Wien.
+- Ölkrise 1973 mit autofreien Sonntagen.
+- Heute OPEC+ mit Russland; US-Fracking als Konkurrenz.
+
+=== eu-kommission
+cat: politik
+title: Die Europäische Kommission
+teaser: Die „Regierung“ der EU: 27 Kommissare, die nicht ihren Ländern, sondern Europa dienen sollen.
+meta: Brüssel
+cover: Europäische Kommission | Das Berlaymont-Gebäude in Brüssel
+## Hüterin der Verträge
+Die Europäische Kommission ist das Exekutivorgan der EU. Sie hat fast als Einzige das Recht, Gesetze vorzuschlagen (Initiativrecht), setzt Beschlüsse um, verwaltet den Haushalt und wacht als „Hüterin der Verträge“ darüber, dass Mitgliedstaaten EU-Recht einhalten – notfalls mit Klagen vor dem Europäischen Gerichtshof.
+## Zusammensetzung
+Jeder Mitgliedstaat stellt einen Kommissar bzw. eine Kommissarin, der oder die aber unabhängig sein muss. Den Präsidenten schlägt der Europäische Rat vor, das Europäische Parlament wählt ihn. Ursula von der Leyen ist seit 2019 Präsidentin, seit 2024 in zweiter Amtszeit. Die Kommission beschäftigt rund 32.000 Menschen.
+img: Ursula von der Leyen | Ursula von der Leyen
+## Macht im Wettbewerb
+Besonders mächtig ist die Kommission in der Wettbewerbspolitik: Sie kann Fusionen verbieten und Milliardenstrafen gegen Konzerne verhängen, etwa gegen Google. Sie verhandelt Handelsabkommen für die ganze EU. Kritiker beklagen Bürokratie und mangelnde demokratische Legitimation, Befürworter sehen in ihr den Motor der Integration.
+- Exekutive der EU mit Initiativrecht.
+- Ein Kommissar pro Land; Präsidentin von der Leyen.
+- Stark in Wettbewerbs- und Handelspolitik.
+
+=== eu-parlament
+cat: politik
+title: Das Europäische Parlament
+teaser: Das einzige direkt gewählte EU-Organ – mit Umzug zwischen zwei Städten zwölfmal im Jahr.
+meta: Straßburg/Brüssel
+cover: Europäisches Parlament | Plenarsaal in Straßburg
+## Direkt gewählt
+Seit 1979 wählen die Bürgerinnen und Bürger der EU alle fünf Jahre ihre Abgeordneten direkt. Das Parlament hat 720 Sitze (seit 2024), verteilt nach Bevölkerung – Deutschland stellt mit 96 die meisten. Die Abgeordneten organisieren sich nicht nach Ländern, sondern in europäischen Fraktionen wie der Europäischen Volkspartei oder den Sozialdemokraten.
+## Gewachsene Macht
+Anfangs hatte das Parlament nur beratende Funktion. Heute beschließt es die meisten EU-Gesetze gleichberechtigt mit dem Rat (ordentliches Gesetzgebungsverfahren), entscheidet über den Haushalt mit und wählt den Kommissionspräsidenten. Es kann die Kommission per Misstrauensvotum stürzen. Ein Initiativrecht für Gesetze hat es aber nicht.
+img: Straßburg | Straßburg
+## Wanderzirkus
+Offizieller Sitz ist Straßburg, wo zwölf Plenarwochen im Jahr stattfinden; Ausschüsse und weitere Sitzungen tagen in Brüssel, das Generalsekretariat sitzt in Luxemburg. Der monatliche Umzug kostet jährlich rund 100 Millionen Euro – Frankreich besteht aber vertraglich auf Straßburg.
+- Seit 1979 direkt gewählt, 720 Sitze.
+- Gleichberechtigter Gesetzgeber mit dem Rat.
+- Sitz in Straßburg, Arbeit in Brüssel – teurer Umzug.
+
+=== rat-der-eu
+cat: politik
+title: Rat der EU und Europäischer Rat
+teaser: Zwei Räte mit fast gleichem Namen – und ein dritter, der gar nicht zur EU gehört.
+meta: Brüssel
+cover: Europäischer Rat | Gipfeltreffen des Europäischen Rates
+## Europäischer Rat
+Im Europäischen Rat treffen sich die Staats- und Regierungschefs der 27 Mitgliedstaaten, mindestens viermal im Jahr – die „EU-Gipfel“. Er legt die politischen Leitlinien fest, entscheidet meist im Konsens und schlägt den Kommissionspräsidenten vor. Ein ständiger Präsident leitet ihn; seit Dezember 2024 ist das der Portugiese António Costa.
+## Rat der EU
+Im Rat der Europäischen Union (auch Ministerrat) treffen sich die Fachminister der Mitgliedstaaten, je nach Thema in unterschiedlicher Zusammensetzung – Agrarminister, Finanzminister usw. Er beschließt Gesetze gemeinsam mit dem Parlament. Meist gilt die qualifizierte Mehrheit: 55 Prozent der Staaten, die 65 Prozent der Bevölkerung vertreten. Der Vorsitz rotiert halbjährlich.
+img: António Costa | António Costa
+## Nicht verwechseln
+Der Europarat in Straßburg ist keine EU-Institution, sondern eine eigenständige Organisation mit 46 Mitgliedsstaaten, die die Europäische Menschenrechtskonvention überwacht. Wichtige Fragen wie Außenpolitik und Steuern erfordern im EU-Rat Einstimmigkeit – ein Land wie Ungarn kann so Entscheidungen blockieren.
+- Europäischer Rat: Staats- und Regierungschefs, politische Leitlinien.
+- Rat der EU: Fachminister, Gesetzgeber mit Parlament.
+- Europarat ist keine EU-Institution; Einstimmigkeit ermöglicht Blockaden.
+
+=== schengen
+cat: politik
+title: Das Schengener Abkommen
+teaser: Benannt nach einem Winzerdorf in Luxemburg – seitdem kann man von Lissabon bis Helsinki ohne Passkontrolle reisen.
+meta: seit 1985
+cover: Schengener Abkommen | Das Dorf Schengen an der Mosel
+## Ein Dorf an der Mosel
+1985 unterzeichneten Deutschland, Frankreich und die Benelux-Staaten auf einem Moselschiff bei Schengen, wo Luxemburg, Deutschland und Frankreich aneinandergrenzen, ein Abkommen zum Abbau der Grenzkontrollen. 1995 fielen die ersten Kontrollen. Heute umfasst der Schengen-Raum 29 Staaten, darunter auch Nicht-EU-Länder wie die Schweiz, Norwegen und Island.
+## Innen offen, außen kontrolliert
+Im Gegenzug wurden die Außengrenzen stärker kontrolliert und die Zusammenarbeit von Polizei und Justiz ausgebaut, etwa über das Schengener Informationssystem. Ein Visum für einen Schengen-Staat gilt für alle. Irland ist nicht dabei; Bulgarien und Rumänien wurden 2025 Vollmitglieder.
+img: Schengener Informationssystem | Grenzübergang ohne Kontrollen
+## Unter Druck
+In Krisen dürfen Staaten vorübergehend wieder Grenzkontrollen einführen. Seit der Fluchtbewegung 2015, der Corona-Pandemie und Terrorgefahr nutzen das viele Länder, auch Deutschland, das seit 2024 an allen Landgrenzen kontrolliert. Kritiker sehen die Freizügigkeit, eine der größten Errungenschaften der EU, gefährdet; Pendler und Wirtschaft leiden unter Staus.
+- 1985 im Moseldorf Schengen unterzeichnet.
+- 29 Staaten ohne Binnengrenzkontrollen, gemeinsame Außengrenze.
+- Zeitweise Kontrollen seit 2015 und erneut verstärkt seit 2024.
