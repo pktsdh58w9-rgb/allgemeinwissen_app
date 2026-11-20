@@ -1,0 +1,50 @@
+=== gps-relativitaet
+cat: natur
+title: GPS und die Relativitätstheorie
+teaser: Ohne Einsteins Korrekturen würde dein Navi jeden Tag um rund zehn Kilometer danebenliegen.
+meta: Physik/Technik
+cover: Global Positioning System | GPS-Satellit
+## Wie Navigation funktioniert
+Rund 30 GPS-Satelliten kreisen in etwa 20.200 Kilometern Höhe. Jeder sendet ständig seine Position und die exakte Uhrzeit seiner Atomuhr. Ein Empfänger misst, wie lange die Signale von mindestens vier Satelliten unterwegs waren, und berechnet daraus seine Position – Licht legt pro Nanosekunde etwa 30 Zentimeter zurück.
+## Zwei Effekte
+Nach der Speziellen Relativitätstheorie gehen die Uhren der schnell fliegenden Satelliten pro Tag etwa 7 Mikrosekunden langsamer. Nach der Allgemeinen Relativitätstheorie gehen sie im schwächeren Schwerefeld etwa 45 Mikrosekunden schneller. Netto: rund 38 Mikrosekunden pro Tag vor.
+img: Galileo (Satellitennavigation) | Ein Satellit des europäischen Galileo-Systems
+## Die Korrektur
+Unkorrigiert summierte sich der Fehler auf rund zehn Kilometer pro Tag. Deshalb werden die Satellitenuhren vor dem Start leicht verstimmt (10,22999999543 MHz statt 10,23 MHz). Neben dem US-amerikanischen GPS gibt es das russische GLONASS, das chinesische BeiDou und das europäische Galileo. Smartphones nutzen meist mehrere Systeme gleichzeitig.
+- Position aus Laufzeiten von Signalen mindestens vier Satelliten.
+- Satellitenuhren gehen netto ~38 µs pro Tag vor.
+- Ohne Korrektur ~10 km Fehler pro Tag.
+
+=== nanotechnologie
+cat: natur
+title: Nanotechnologie
+teaser: Gold ist im Nanoformat rot, und Lotusblätter bleiben sauber – im Winzigen gelten andere Regeln.
+meta: Chemie/Physik
+cover: Nanotechnologie | Rasterelektronenmikroskopische Aufnahme einer Nanostruktur
+## Wie klein ist nano?
+Ein Nanometer ist ein Milliardstel Meter – ein Haar ist etwa 80.000 Nanometer dick. Nanotechnologie arbeitet mit Strukturen von 1 bis 100 Nanometern. Richard Feynman skizzierte 1959 in seinem Vortrag „There’s Plenty of Room at the Bottom“ die Idee, Materie Atom für Atom zu kontrollieren.
+## Neue Eigenschaften
+Bei Nanopartikeln liegt ein großer Teil der Atome an der Oberfläche, und Quanteneffekte werden wichtig. Gold-Nanopartikel sind rubinrot statt goldgelb – das nutzten schon mittelalterliche Glasmacher. Quantenpunkte leuchten je nach Größe in unterschiedlichen Farben (Nobelpreis Chemie 2023). Der Lotuseffekt beruht auf Nanostrukturen, an denen Wasser abperlt und Schmutz mitnimmt.
+img: Rastertunnelmikroskop | Atome, abgebildet mit einem Rastertunnelmikroskop
+## Anwendungen und Risiken
+Das Rastertunnelmikroskop (Binnig und Rohrer, Nobelpreis 1986) machte einzelne Atome sichtbar und verschiebbar. Nanopartikel stecken in Sonnencreme (Titandioxid, Zinkoxid), Computerchips, Katalysatoren und den Lipid-Nanopartikeln der mRNA-Impfstoffe. Mögliche Gesundheitsrisiken, etwa beim Einatmen, werden untersucht.
+- 1–100 nm; Feynmans Vision von 1959.
+- Größenabhängige Eigenschaften: rotes Gold, Quantenpunkte, Lotuseffekt.
+- Anwendungen von Chips bis Impfstoffen; Risiken werden erforscht.
+
+=== verbrennung
+cat: natur
+title: Feuer und Verbrennung
+teaser: Lange glaubte man an einen Feuerstoff namens Phlogiston – bis Lavoisier eine Waage benutzte.
+meta: Chemie
+cover: Feuer | Flamme
+## Das Ende des Phlogistons
+Bis ins 18. Jahrhundert erklärte die Phlogistontheorie die Verbrennung: Brennbare Stoffe geben einen Feuerstoff ab. Doch Metalle wurden beim Verbrennen schwerer. Antoine Lavoisier zeigte mit genauen Wägungen um 1777, dass sich Stoffe beim Verbrennen mit einem Bestandteil der Luft verbinden – dem Sauerstoff, den Scheele und Priestley kurz zuvor entdeckt hatten. Das Gesetz der Massenerhaltung begründete die moderne Chemie.
+## Das Verbrennungsdreieck
+Feuer braucht Brennstoff, Sauerstoff und Zündenergie; Löschen heißt, eines davon zu entfernen. Chemisch ist Verbrennung eine radikalische Kettenreaktion: Radikale wie OH· und H· treiben sie voran. Halon-Löschmittel und manche Flammschutzmittel unterbrechen genau diese Kette. Fette brennen nicht mit Wasser löschen: Es verdampft schlagartig und schleudert brennendes Öl umher.
+img: Antoine Laurent de Lavoisier | Antoine Lavoisier
+## Die Farben der Flamme
+Das Leuchten einer Kerze stammt von glühenden Rußpartikeln (Schwarzkörperstrahlung). Der blaue Bereich am Grund leuchtet durch angeregte C<sub>2</sub>- und CH-Radikale. Metallionen färben Flammen charakteristisch: Natrium gelb, Kupfer grün, Strontium rot – die Grundlage von Feuerwerk und Flammenfärbung. Lavoisier wurde 1794 in der Revolution guillotiniert.
+- Lavoisier widerlegte die Phlogistontheorie, Massenerhaltung.
+- Brennstoff, Sauerstoff, Zündenergie; radikalische Kettenreaktion.
+- Flammenfarben durch Ruß, Radikale und Metallionen.

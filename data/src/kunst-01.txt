@@ -1,0 +1,203 @@
+=== lascaux
+cat: kunst
+title: Die Höhle von Lascaux
+teaser: Vier Jugendliche suchten 1940 ihren Hund – und fanden die „Sixtinische Kapelle der Steinzeit“.
+meta: Frankreich, ca. 17.000 Jahre alt
+cover: Höhle von Lascaux | Malereien in der Höhle von Lascaux
+## Die Entdeckung
+Im September 1940 stießen vier Jugendliche in der Dordogne auf einen Erdspalt und kletterten hinein. An Wänden und Decken fanden sie fast 2.000 Darstellungen: Pferde, Hirsche, Auerochsen, Steinböcke, abstrakte Zeichen. Sie sind etwa 17.000 Jahre alt und wurden von Menschen der Altsteinzeit (Cro-Magnon) geschaffen.
+## Technik
+Die Künstler nutzten Pigmente aus Ocker (Eisenoxide) für Rot und Gelb und Manganoxid sowie Holzkohle für Schwarz. Sie trugen Farbe mit Fingern, Moos und Pinseln auf oder bliesen sie durch hohle Knochen. Wölbungen des Felsens wurden geschickt für plastische Effekte genutzt. Licht spendeten Fettlampen. Der „Saal der Stiere“ zeigt einen über fünf Meter langen Auerochsen.
+img: Chauvet-Höhle | Malereien in der noch älteren Chauvet-Höhle
+## Geschützt durch eine Kopie
+Nach der Öffnung 1948 besuchten täglich über 1.000 Menschen die Höhle. Ihr Atem und Licht ließen Schimmel und Algen wachsen; 1963 wurde Lascaux geschlossen. Besucher sehen heute originalgetreue Nachbildungen. Die Chauvet-Höhle mit über 30.000 Jahre alten Bildern ist noch älter. Warum die Bilder entstanden – Jagdmagie, Rituale, Erzählungen – ist unklar.
+- Rund 17.000 Jahre alte Malereien, 1940 entdeckt.
+- Pigmente aus Ocker, Mangan und Holzkohle.
+- Seit 1963 geschlossen; Besucher sehen Repliken.
+
+=== nofretete
+cat: kunst
+title: Die Büste der Nofretete
+teaser: Die „Mona Lisa von Berlin“ hat nur ein Auge – und Ägypten will sie seit fast 100 Jahren zurück.
+meta: Ägypten, um 1340 v. Chr.
+cover: Büste der Nofretete | Die Büste der Nofretete im Neuen Museum Berlin
+## Die Königin
+Nofretete („Die Schöne ist gekommen“) war die Hauptgemahlin des Pharaos Echnaton, der eine religiöse Revolution versuchte: die Verehrung nur eines Gottes, der Sonnenscheibe Aton. Die neue Hauptstadt Amarna brachte einen ungewöhnlich naturnahen Kunststil hervor.
+## Ein Werkstattmodell
+Die Büste aus Kalkstein mit Stuck und Farbe stammt aus der Werkstatt des Bildhauers Thutmosis in Amarna. Wohl ein Arbeitsmodell – deshalb fehlt im linken Auge die Einlage aus Quarz; vermutlich wurde sie nie eingesetzt. Computertomografien zeigten, dass unter dem Stuck ein etwas anders geformtes Gesicht mit Falten liegt.
+img: Echnaton | Echnaton
+## Der Streit
+Der deutsche Archäologe Ludwig Borchardt fand die Büste 1912. Bei der damals üblichen Fundteilung kam sie nach Deutschland – ob Borchardt ihren Wert bei der Teilung verschleierte, ist umstritten. Ägypten fordert sie seit den 1920ern zurück. Sie ist heute der Star des Neuen Museums in Berlin.
+- Königin an der Seite Echnatons, Amarna-Zeit.
+- Werkstattmodell des Bildhauers Thutmosis; ein Auge fehlt.
+- 1912 gefunden, Rückgabeforderungen Ägyptens.
+
+=== parthenon
+cat: kunst
+title: Der Parthenon
+teaser: Ein Tempel ohne eine einzige gerade Linie – und warum die Hälfte seines Schmucks in London steht.
+meta: Athen, 447–432 v. Chr.
+cover: Parthenon | Der Parthenon auf der Akropolis
+## Ein Tempel für Athene
+Unter Perikles ließ Athen auf der Akropolis einen Tempel für die Stadtgöttin Athena Parthenos errichten. Architekten waren Iktinos und Kallikrates, für den Bildschmuck verantwortlich war Phidias. Im Inneren stand eine zwölf Meter hohe Statue der Athene aus Gold und Elfenbein. Der Bau war auch Machtdemonstration, finanziert mit Geldern des Attischen Seebunds.
+## Optische Raffinessen
+Der Parthenon im dorischen Stil wirkt streng gerade – ist es aber nicht. Der Stufenunterbau wölbt sich leicht nach oben, die Säulen schwellen in der Mitte an (Entasis) und neigen sich nach innen. Diese Korrekturen gleichen optische Täuschungen aus und lassen den Bau lebendig wirken.
+img: Elgin Marbles | Teile des Parthenonfrieses im British Museum
+## Zerstörung und Streit
+Der Tempel diente später als Kirche und Moschee. 1687 explodierte ein darin gelagertes osmanisches Pulvermagazin, als venezianische Truppen ihn beschossen. Ab 1801 ließ Lord Elgin Skulpturen und Friese abnehmen und nach England bringen. Griechenland fordert diese „Elgin Marbles“ vom British Museum zurück.
+- Athena-Tempel unter Perikles, Bildhauer Phidias.
+- Optische Korrekturen: keine wirklich geraden Linien.
+- 1687 zerstört; Rückgabestreit um die Skulpturen in London.
+
+=== laokoon
+cat: kunst
+title: Die Laokoon-Gruppe
+teaser: Michelangelo stand dabei, als sie 1506 in einem Weinberg ausgegraben wurde – und prägte damit die Renaissance.
+meta: Antike Skulptur
+cover: Laokoon-Gruppe | Die Laokoon-Gruppe in den Vatikanischen Museen
+## Der Mythos
+Laokoon war ein trojanischer Priester, der seine Landsleute vor dem hölzernen Pferd der Griechen warnte: „Ich fürchte die Danaer, auch wenn sie Geschenke bringen.“ Daraufhin schickten die Götter zwei riesige Seeschlangen, die ihn und seine beiden Söhne erwürgten. Die Skulptur zeigt den verzweifelten Todeskampf.
+## Ein Fund im Weinberg
+Im Januar 1506 wurde die Marmorgruppe auf dem Esquilin in Rom ausgegraben. Papst Julius II. schickte Michelangelo und den Architekten Giuliano da Sangallo, die sie anhand einer Beschreibung von Plinius dem Älteren sofort identifizierten. Plinius hatte sie als Werk der Bildhauer Hagesandros, Polydoros und Athanadoros von Rhodos gelobt.
+img: Vatikanische Museen | Der Belvedere-Hof der Vatikanischen Museen
+## Wirkung
+Die dramatische Darstellung von Schmerz und Bewegung beeinflusste Michelangelo und später den Barock. Im 18. Jahrhundert stritten Winckelmann und Lessing („Laokoon oder über die Grenzen der Malerei und Poesie“) darüber, wie Kunst Leid darstellen darf. Winckelmann sah darin „edle Einfalt und stille Größe“. Der fehlende rechte Arm wurde 1905 gefunden und wieder angesetzt.
+- Trojanischer Priester im Todeskampf mit Schlangen.
+- 1506 in Rom ausgegraben, sofort von Michelangelo begutachtet.
+- Einfluss auf Renaissance, Barock und Kunsttheorie.
+
+=== pantheon
+cat: kunst
+title: Das Pantheon in Rom
+teaser: Seit fast 1.900 Jahren die größte unbewehrte Betonkuppel der Welt – mit einem Loch in der Mitte.
+meta: Rom, um 125 n. Chr.
+cover: Pantheon (Rom) | Das Pantheon in Rom
+## Ein Tempel für alle Götter
+Kaiser Hadrian ließ das Pantheon um 118 bis 125 n. Chr. neu errichten; die Inschrift am Portikus nennt aber Marcus Agrippa, der einen Vorgängerbau gestiftet hatte. Seit 609 ist es eine Kirche – deshalb blieb es so gut erhalten. Raffael und die ersten Könige Italiens sind hier bestattet.
+## Die Kuppel
+Die Kuppel hat einen Innendurchmesser von 43,3 Metern – genau so hoch ist auch der Raum: Eine Kugel würde perfekt hineinpassen. Der Beton wird nach oben hin leichter: Unten mit schweren Zuschlägen, oben mit Bimsstein. Kassetten sparen weiteres Gewicht. Römischer Beton mit Vulkanasche (Puzzolan) ist erstaunlich langlebig und kann kleine Risse selbst heilen.
+img: Opaion | Das Opaion, die offene Lichtöffnung der Kuppel
+## Das Auge
+In der Mitte der Kuppel liegt das Opaion, eine 9 Meter weite offene Öffnung. Der Lichtkegel wandert im Tagesverlauf durch den Raum. Regen fällt hinein und fließt durch kleine Löcher im leicht gewölbten Boden ab. Das Pantheon war Vorbild für unzählige Kuppelbauten, vom Petersdom bis zum Kapitol in Washington.
+- Unter Hadrian um 125 n. Chr. erbaut, seit 609 Kirche.
+- 43,3 m Kuppel, größte unbewehrte Betonkuppel.
+- Offenes Opaion als einzige Lichtquelle.
+
+=== hagia-sophia
+cat: kunst
+title: Die Hagia Sophia
+teaser: Kirche, Moschee, Museum, wieder Moschee – fast 1.500 Jahre Religionsgeschichte unter einer Kuppel.
+meta: Istanbul, 537
+cover: Hagia Sophia | Innenraum der Hagia Sophia
+## Justinians Meisterwerk
+Kaiser Justinian ließ die „Kirche der Heiligen Weisheit“ nach einem Aufstand in nur fünf Jahren errichten; 537 wurde sie geweiht. Architekten waren die Mathematiker Anthemios von Tralleis und Isidor von Milet. Die Kuppel scheint mit ihrem Fensterkranz über dem Raum zu schweben – ein Zeitgenosse schrieb, sie hänge an einer goldenen Kette vom Himmel.
+## Technik
+Die rund 31 Meter weite Kuppel ruht über Pendentifs – sphärischen Dreiecken, die den Übergang vom Quadrat zum Kreis schaffen. Schon 558 stürzte die erste Kuppel nach einem Erdbeben ein und wurde steiler neu gebaut. Fast 1.000 Jahre lang war die Hagia Sophia die größte Kirche der Christenheit. Goldmosaiken zeigen Christus, Maria und Kaiser.
+img: Deesis-Mosaik | Das Deesis-Mosaik in der Hagia Sophia
+## Wechselnde Rollen
+Nach der osmanischen Eroberung 1453 wurde sie Moschee; Minarette kamen hinzu, Mosaiken wurden übertüncht. Sie wurde Vorbild für osmanische Moscheen wie die Blaue Moschee. Atatürk machte sie 1934 zum Museum. 2020 wurde sie unter Präsident Erdoğan wieder als Moschee geöffnet – international umstritten.
+- 537 unter Justinian geweiht, Kuppel auf Pendentifs.
+- Fast 1.000 Jahre größte Kirche der Christenheit.
+- Moschee ab 1453, Museum ab 1934, wieder Moschee seit 2020.
+
+=== romanik
+cat: kunst
+title: Die Romanik
+teaser: Dicke Mauern, Rundbögen, kleine Fenster – die erste europaweite Kunstepoche nach der Antike.
+meta: ca. 1000–1250
+cover: Romanik | Der Dom zu Speyer
+## Burgen Gottes
+Die Romanik entstand um das Jahr 1000. Kirchen wirkten wie Festungen: massive Mauern, kleine Fenster, schwere Rundbögen nach römischem Vorbild – daher der Name, der erst im 19. Jahrhundert geprägt wurde. Typisch sind Würfelkapitelle, Krypten und Westwerke mit mächtigen Türmen.
+## Große Bauten
+Der Dom zu Speyer, Grablege der salischen Kaiser, war bei seiner Weihe 1061 die größte Kirche des Abendlandes. Weitere Beispiele sind die Kaiserdome in Mainz und Worms, die Abteikirche Maria Laach und in Frankreich die Abtei von Cluny. Viele Kirchen entstanden entlang der Pilgerwege nach Santiago de Compostela.
+img: Hildesheimer Dom | Die Bernwardstür im Hildesheimer Dom
+## Bilder für Analphabeten
+Da die meisten Menschen nicht lesen konnten, erzählten Bilder die Bibel: Portale mit Weltgerichtsszenen, Wandmalereien, Buchmalerei und Bronzetüren wie die Bernwardstür in Hildesheim (um 1015). Die Figuren wirken flächig und streng, Bedeutung war wichtiger als Naturtreue. Um 1150 löste von Frankreich aus die Gotik die Romanik ab.
+- Massive Bauweise mit Rundbögen und kleinen Fenstern.
+- Speyer, Mainz, Worms, Cluny als Hauptwerke.
+- Bilder als „Bibel der Armen“; abgelöst von der Gotik.
+
+=== gotik-koelner-dom
+cat: kunst
+title: Gotik und Kölner Dom
+teaser: Baubeginn 1248, Fertigstellung 1880 – der Kölner Dom brauchte über 600 Jahre.
+meta: ca. 1140–1500
+cover: Kölner Dom | Der Kölner Dom
+## Licht statt Mauer
+Die Gotik begann um 1140 mit dem Umbau der Abteikirche Saint-Denis bei Paris. Abt Suger wollte Licht als Abbild Gottes in die Kirche holen. Spitzbögen, Kreuzrippengewölbe und außen angesetzte Strebepfeiler und Strebebögen leiten die Lasten ab. So konnten die Wände in riesige Glasfenster aufgelöst werden.
+## Himmelwärts
+Kathedralen wie Chartres, Notre-Dame in Paris, Reims und Amiens strebten immer höher. Der Kölner Dom wurde ab 1248 nach französischem Vorbild begonnen, um die Reliquien der Heiligen Drei Könige zu beherbergen. Um 1530 wurde der Bau eingestellt – fast 300 Jahre stand ein Kran auf dem Südturm, Wahrzeichen der Stadt.
+img: Saint-Denis (Kathedrale) | Chorumgang der Kathedrale Saint-Denis
+## Vollendung im 19. Jahrhundert
+1814 wurde ein mittelalterlicher Fassadenplan wiedergefunden. Im Geist der Romantik und des Nationalgefühls wurde der Dom ab 1842 weitergebaut und 1880 vollendet. Mit 157 Metern war er kurz das höchste Gebäude der Welt. Er überstand den Zweiten Weltkrieg trotz 14 Bombentreffern und ist seit 1996 UNESCO-Welterbe.
+- Spitzbogen, Kreuzrippen, Strebewerk – Wände werden zu Glas.
+- Beginn in Saint-Denis um 1140.
+- Kölner Dom 1248 begonnen, 1880 vollendet.
+
+=== renaissance
+cat: kunst
+title: Die Renaissance
+teaser: Die „Wiedergeburt“ der Antike begann in Florenz – finanziert von einer Bankiersfamilie.
+meta: Italien, ca. 1400–1600
+cover: Renaissance | Die Kuppel des Florentiner Doms von Brunelleschi
+## Der Mensch im Mittelpunkt
+Die Renaissance (französisch für Wiedergeburt) griff Ideale der Antike auf. Der Humanismus stellte den Menschen und sein Potenzial in den Mittelpunkt. Künstler studierten antike Ruinen, Anatomie und Mathematik. Begünstigt wurde das durch den Reichtum italienischer Stadtstaaten und Mäzene wie die Medici in Florenz.
+## Perspektive
+Filippo Brunelleschi entwickelte um 1420 die Zentralperspektive mit Fluchtpunkt; Masaccio setzte sie in seinem Fresko der Dreifaltigkeit um. Brunelleschi baute auch die gewaltige Domkuppel in Florenz ohne Lehrgerüst. Leon Battista Alberti schrieb die Theorie dazu. Bilder wurden zu „Fenstern“ in einen realistischen Raum.
+img: Lorenzo de’ Medici | Lorenzo de’ Medici, „il Magnifico“
+## Die Großen
+Höhepunkt war die Hochrenaissance um 1500 mit Leonardo da Vinci, Michelangelo und Raffael. Venedig brachte Tizian und Giorgione hervor, im Norden wirkten Dürer und Holbein. Das Ideal war der „uomo universale“, der allseitig gebildete Mensch – verkörpert von Leonardo, Maler, Ingenieur und Forscher in einem.
+- Wiedergeburt antiker Ideale, Humanismus.
+- Zentralperspektive und Florentiner Domkuppel von Brunelleschi.
+- Hochrenaissance: Leonardo, Michelangelo, Raffael.
+
+=== abendmahl-leonardo
+cat: kunst
+title: Das Abendmahl
+teaser: Leonardo experimentierte mit einer neuen Maltechnik – das Bild begann schon zu seinen Lebzeiten zu zerfallen.
+meta: Mailand, 1495–1498
+cover: Das Abendmahl (Leonardo da Vinci) | Das Abendmahl von Leonardo da Vinci
+## Der dramatische Moment
+Im Speisesaal des Klosters Santa Maria delle Grazie in Mailand malte Leonardo den Moment, in dem Jesus sagt: „Einer von euch wird mich verraten.“ Die zwölf Apostel reagieren in Dreiergruppen mit Entsetzen, Fragen und Gesten. Judas sitzt im Schatten, mit dem Geldbeutel in der Hand.
+## Perspektive als Bedeutung
+Alle Fluchtlinien der Architektur laufen auf Jesu Kopf zu, der vor dem hellen Fenster sitzt – ein natürlicher Heiligenschein. Das Bild ist etwa 4,6 mal 8,8 Meter groß und setzt den Raum des Refektoriums optisch fort, als würden die Mönche mit Jesus speisen.
+img: Santa Maria delle Grazie (Mailand) | Santa Maria delle Grazie in Mailand
+## Ein zerfallendes Meisterwerk
+Statt in klassischer Freskotechnik auf nassen Putz malte Leonardo mit Tempera und Öl auf trockenen Putz – so konnte er langsam arbeiten und nachbessern. Doch die Farbe haftete schlecht und blätterte schon bald ab. Napoleons Truppen nutzten den Raum als Stall, 1943 traf eine Bombe das Kloster. Eine Restaurierung von 1978 bis 1999 legte die erhaltenen Originalreste frei.
+- Moment der Verratsankündigung, Apostel in Dreiergruppen.
+- Zentralperspektive mit Jesus im Fluchtpunkt.
+- Experimentelle Technik führte zu raschem Verfall.
+
+=== david-michelangelo
+cat: kunst
+title: Der David von Michelangelo
+teaser: Aus einem verdorbenen Marmorblock, den andere aufgegeben hatten, schuf ein 26-Jähriger das Symbol von Florenz.
+meta: Florenz, 1501–1504
+cover: David (Michelangelo) | Der David von Michelangelo
+## Ein schwieriger Block
+Ein über fünf Meter hoher Block aus Carrara-Marmor lag seit Jahrzehnten ungenutzt in der Domwerkstatt, weil frühere Bildhauer ihn angefangen und verdorben hatten. 1501 erhielt der 26-jährige Michelangelo den Auftrag. In drei Jahren meißelte er daraus den 5,17 Meter hohen David.
+## Vor dem Kampf
+Anders als frühere Darstellungen, die David nach dem Sieg mit Goliaths Kopf zeigen, zeigt Michelangelo den Moment davor: konzentriert, angespannt, mit der Schleuder über der Schulter. Der Kontrapost – Standbein und Spielbein – verleiht ihm Lebendigkeit. Hände und Kopf sind bewusst übergroß, weil die Statue ursprünglich hoch oben am Dom stehen sollte.
+img: Galleria dell’Accademia | Der David in der Galleria dell’Accademia
+## Symbol der Republik
+Weil sie so gelungen war, stellte man sie vor dem Palazzo Vecchio auf – als Symbol der Republik Florenz, die sich gegen mächtige Gegner wie die Medici behauptete. 1873 kam das Original zum Schutz in die Galleria dell’Accademia; auf der Piazza steht heute eine Kopie.
+- Aus einem aufgegebenen Marmorblock, 1501–1504.
+- Zeigt David vor dem Kampf, im Kontrapost.
+- Symbol der Florentiner Republik; Original in der Accademia.
+
+=== schule-von-athen
+cat: kunst
+title: Die Schule von Athen
+teaser: Raffael malte die größten Denker der Antike – und gab Platon das Gesicht Leonardos.
+meta: Vatikan, 1510–1511
+cover: Die Schule von Athen | Die Schule von Athen von Raffael
+## Philosophie als Fresko
+Papst Julius II. ließ den jungen Raffael ab 1508 seine Privaträume im Vatikan ausmalen, die heutigen Stanzen. In der Stanza della Segnatura stellt die „Schule von Athen“ die Philosophie dar, gegenüber die „Disputa“ die Theologie. Das Fresko ist rund 5 mal 7,7 Meter groß.
+## Platon und Aristoteles
+In der Mitte gehen Platon und Aristoteles unter einem gewaltigen Gewölbe. Platon zeigt nach oben – in die Welt der Ideen –, Aristoteles hält die Hand flach zur Erde: Erkenntnis durch Beobachtung der Welt. Um sie versammeln sich Sokrates, Pythagoras, Euklid, Heraklit, Diogenes auf der Treppe und Ptolemäus mit einer Himmelskugel.
+img: Raffael | Selbstbildnis Raffaels
+## Versteckte Porträts
+Raffael lieh vielen Philosophen die Gesichter von Zeitgenossen: Platon trägt die Züge Leonardo da Vincis, Euklid vermutlich die des Architekten Bramante. Der grüblerische Heraklit im Vordergrund soll Michelangelo darstellen, der gleichzeitig nebenan die Sixtinische Kapelle ausmalte. Raffael selbst schaut am rechten Rand aus dem Bild.
+- Fresko in den Stanzen des Vatikans, 1510–1511.
+- Platon (Ideen) und Aristoteles (Erfahrung) im Zentrum.
+- Zeitgenossen als Philosophen: Leonardo, Michelangelo, Raffael selbst.
