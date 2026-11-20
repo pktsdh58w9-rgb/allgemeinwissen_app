@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8">
+<style>
+:root{--bg:#0b0b0f;--panel:#16161d;--text:#f4f1ea;--muted:#a19d95;--hist:#E8A33D;--geo:#2BB3A3;--nat:#8B7CF6;--kunst:#F06A8A;--pol:#4C8DF6}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#e9e6df;font-family:-apple-system,"SF Pro Text","Helvetica Neue",Arial,sans-serif;padding:40px;display:flex;gap:40px;align-items:flex-start}
+.col{display:flex;flex-direction:column;align-items:center;gap:16px}
+.label{font:600 20px/1.2 -apple-system,Arial;color:#2a2722}
+.sub{font:15px/1.3 Arial;color:#6b665d;max-width:430px;text-align:center}
+.phone{width:430px;height:932px;border-radius:56px;background:var(--bg);overflow:hidden;position:relative;box-shadow:0 0 0 12px #1c1c1e,0 30px 60px rgba(0,0,0,.35);color:var(--text)}
+.island{position:absolute;top:12px;left:50%;transform:translateX(-50%);width:124px;height:36px;background:#000;border-radius:20px;z-index:20}
+.status{position:absolute;top:18px;left:34px;right:34px;display:flex;justify-content:space-between;font:600 17px Arial;z-index:19}
+.serif{font-family:"New York","Iowan Old Style",Georgia,serif}
+/* scene */
+.scene{position:absolute;inset:0}
+.chip{display:inline-block;padding:6px 12px;border-radius:999px;font:600 13px Arial;letter-spacing:.02em}
+.filters{position:absolute;top:62px;left:0;right:0;display:flex;gap:8px;padding:0 16px;z-index:10;overflow:hidden}
+.filters .chip{background:rgba(255,255,255,.14);backdrop-filter:blur(10px);color:#fff;white-space:nowrap}
+.filters .chip.on{background:#fff;color:#000}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 22%,rgba(0,0,0,0) 45%,rgba(0,0,0,.9) 82%)}
+.info{position:absolute;left:22px;right:90px;bottom:120px}
+.info h1{font-size:54px;line-height:1;font-weight:700;margin:14px 0 12px}
+.info p{font-size:17px;line-height:1.4;color:#e7e2d8}
+.meta{margin-top:14px;font:14px Arial;color:var(--muted)}
+.actions{position:absolute;right:16px;bottom:130px;display:flex;flex-direction:column;gap:22px;align-items:center}
+.act{display:flex;flex-direction:column;align-items:center;gap:4px;font:12px Arial;color:#ddd}
+.act svg{width:34px;height:34px}
+.open{position:absolute;bottom:42px;left:0;right:0;text-align:center;font:600 15px Arial;color:#fff}
+.open span{display:inline-block;padding:12px 26px;border-radius:999px;background:rgba(255,255,255,.16);backdrop-filter:blur(10px)}
+.peek{position:absolute;bottom:0;left:0;right:0;height:10px;background:linear-gradient(90deg,var(--nat),var(--geo))}
+/* article */
+.art{position:absolute;inset:0;overflow:hidden;background:var(--bg)}
+.hero{height:300px;position:relative}
+.hero .shade2{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.35),rgba(11,11,15,1))}
+.close{position:absolute;top:62px;left:18px;width:40px;height:40px;border-radius:50%;background:rgba(0,0,0,.45);display:flex;align-items:center;justify-content:center;z-index:5}
+.body{padding:0 24px;margin-top:-70px;position:relative}
+.body h1{font-size:40px;line-height:1.05;margin:10px 0 6px}
+.body .meta{margin:0 0 20px}
+.body h2{font-size:21px;margin:22px 0 8px;font-family:-apple-system,Arial;font-weight:700}
+.body p{font-size:17px;line-height:1.55;color:#ddd8cf}
+.fig{height:170px;border-radius:16px;margin:16px 0 6px;overflow:hidden;position:relative}
+.cap{font:12px Arial;color:var(--muted)}
+.prog{position:absolute;top:0;left:0;height:4px;width:38%;background:var(--hist);z-index:6}
+.bar{position:absolute;left:16px;right:16px;bottom:30px;height:64px;border-radius:22px;background:rgba(30,30,38,.9);backdrop-filter:blur(14px);display:flex;justify-content:space-around;align-items:center;font:13px Arial;color:#ddd;box-shadow:0 10px 30px rgba(0,0,0,.5)}
+.bar div{display:flex;align-items:center;gap:7px}
+.bar svg{width:24px;height:24px}
+.sum{margin-top:18px;border-radius:16px;padding:16px 18px;background:#1d1a14;border:1px solid rgba(232,163,61,.35)}
+.sum b{color:var(--hist);font:700 13px Arial;letter-spacing:.08em}
+.sum li{margin:8px 0 0 18px;font-size:15px;line-height:1.4;color:#e7e2d8}
+/* stats */
+.st{padding:70px 22px 0}
+.st h1{font-size:34px;margin-bottom:4px}
+.tiles{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin:20px 0}
+.tile{background:var(--panel);border-radius:16px;padding:14px}
+.tile .n{font:700 28px Arial}
+.tile .l{font:12px Arial;color:var(--muted);margin-top:2px}
+.sec{font:700 13px Arial;letter-spacing:.08em;color:var(--muted);margin:22px 0 10px}
+.row{display:flex;align-items:center;gap:10px;margin:10px 0;font:14px Arial}
+.row .nm{width:110px}
+.row .tr{flex:1;height:10px;background:#24242d;border-radius:6px;overflow:hidden}
+.row .tr i{display:block;height:100%;border-radius:6px}
+.row .v{width:36px;text-align:right;color:var(--muted)}
+.item{display:flex;gap:12px;align-items:center;background:var(--panel);border-radius:14px;padding:10px;margin:8px 0}
+.thumb{width:52px;height:52px;border-radius:10px;flex:none}
+.item .t{font:600 15px Arial}.item .s{font:12px Arial;color:var(--muted);margin-top:2px}
+.btn{margin-top:20px;background:#fff;color:#000;text-align:center;padding:16px;border-radius:16px;font:700 16px Arial}
+.tabs{position:absolute;bottom:0;left:0;right:0;height:86px;background:#111117;border-top:1px solid #222;display:flex;justify-content:space-around;padding-top:12px;font:11px Arial;color:#777}
+.tabs div{display:flex;flex-direction:column;align-items:center;gap:4px}.tabs .on{color:#fff}
+.tabs svg{width:26px;height:26px}
+</style></head><body>
+
+<svg width="0" height="0" style="position:absolute">
+ <defs>
+  <symbol id="wall" viewBox="0 0 430 932" preserveAspectRatio="xMidYMid slice">
+   <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1530"/><stop offset=".6" stop-color="#3b2a4d"/><stop offset="1" stop-color="#7a4b3a"/></linearGradient></defs>
+   <rect width="430" height="932" fill="url(#sky)"/>
+   <circle cx="330" cy="170" r="3" fill="#fff" opacity=".6"/><circle cx="90" cy="120" r="2" fill="#fff" opacity=".5"/><circle cx="220" cy="230" r="2" fill="#fff" opacity=".4"/>
+   <rect x="0" y="470" width="430" height="300" fill="#6d6a66"/>
+   <g opacity=".9"><path d="M20 520 q40 -40 80 0 t80 0" stroke="#E8A33D" stroke-width="16" fill="none"/><path d="M200 600 q50 50 110 -10" stroke="#F06A8A" stroke-width="18" fill="none"/><path d="M40 690 l90 -40 l60 50" stroke="#4C8DF6" stroke-width="14" fill="none"/><path d="M300 520 l60 60 m0 -60 l-60 60" stroke="#2BB3A3" stroke-width="12"/></g>
+   <g fill="#0b0b0f"><circle cx="60" cy="440" r="16"/><rect x="44" y="456" width="32" height="40" rx="10"/><circle cx="130" cy="430" r="17"/><rect x="113" y="447" width="34" height="40" rx="10"/><rect x="160" y="400" width="6" height="70"/><circle cx="210" cy="438" r="15"/><rect x="195" y="453" width="30" height="40" rx="10"/><circle cx="280" cy="425" r="18"/><rect x="262" y="443" width="36" height="40" rx="10"/><circle cx="360" cy="440" r="16"/><rect x="344" y="456" width="32" height="40" rx="10"/></g>
+   <rect x="0" y="770" width="430" height="162" fill="#2a2523"/>
+  </symbol>
+  <symbol id="mol" viewBox="0 0 400 200" preserveAspectRatio="xMidYMid slice">
+   <rect width="400" height="200" fill="#1b1838"/>
+   <g stroke="#8B7CF6" stroke-width="4"><line x1="120" y1="100" x2="200" y2="60"/><line x1="200" y1="60" x2="280" y2="100"/><line x1="200" y1="60" x2="200" y2="20"/></g>
+   <circle cx="200" cy="60" r="22" fill="#8B7CF6"/><circle cx="120" cy="100" r="16" fill="#cfc8ff"/><circle cx="280" cy="100" r="16" fill="#cfc8ff"/>
+  </symbol>
+  <symbol id="crowd" viewBox="0 0 400 170" preserveAspectRatio="xMidYMid slice">
+   <rect width="400" height="170" fill="#3a2f2a"/><rect y="40" width="400" height="80" fill="#7d7873"/>
+   <g fill="#14110f"><circle cx="40" cy="30" r="12"/><circle cx="90" cy="26" r="13"/><circle cx="150" cy="30" r="12"/><circle cx="210" cy="24" r="13"/><circle cx="270" cy="30" r="12"/><circle cx="330" cy="26" r="13"/><circle cx="380" cy="30" r="12"/></g>
+   <rect x="160" y="40" width="80" height="80" fill="#3a2f2a"/>
+  </symbol>
+  <symbol id="heart" viewBox="0 0 24 24"><path d="M12 21s-7.5-4.6-9.5-9.2C1 8.3 3.3 5 6.6 5c2 0 3.4 1.1 4.4 2.5C12 6.1 13.4 5 15.4 5 18.7 5 21 8.3 19.5 11.8 17.5 16.4 12 21 12 21z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+  <symbol id="heartf" viewBox="0 0 24 24"><path d="M12 21s-7.5-4.6-9.5-9.2C1 8.3 3.3 5 6.6 5c2 0 3.4 1.1 4.4 2.5C12 6.1 13.4 5 15.4 5 18.7 5 21 8.3 19.5 11.8 17.5 16.4 12 21 12 21z" fill="#F06A8A"/></symbol>
+  <symbol id="save" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4.5L6 21z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+  <symbol id="rep" viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 13.7-5.6L20 9M20 4v5h-5M20 12a8 8 0 0 1-13.7 5.6L4 15M4 20v-5h5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="x" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/></symbol>
+  <symbol id="home" viewBox="0 0 24 24"><path d="M4 11l8-7 8 7v9h-5v-6h-6v6H4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+  <symbol id="chart" viewBox="0 0 24 24"><path d="M5 20V10M12 20V4M19 20v-7" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+ </defs>
+</svg>
+
+<!-- 1 FEED -->
+<div class="col">
+ <div class="label">① Feed – eine Karte pro Bildschirm</div>
+ <div class="phone">
+  <div class="island"></div><div class="status"><span>9:41</span><span>●●● 87%</span></div>
+  <svg class="scene" width="430" height="932"><use href="#wall"/></svg>
+  <div class="shade"></div>
+  <div class="filters"><span class="chip on">Alle</span><span class="chip">Geschichte</span><span class="chip">Geografie</span><span class="chip">Naturwiss.</span><span class="chip">Kunst</span></div>
+  <div class="info">
+   <span class="chip" style="background:var(--hist);color:#1a1205">GESCHICHTE</span>
+   <h1 class="serif">Mauerfall</h1>
+   <p>9. November 1989: Ein verpatzter Satz auf einer Pressekonferenz öffnet die Grenze.</p>
+   <div class="meta">⏱ 1 Min. Lesezeit &nbsp;·&nbsp; 6 Bilder</div>
+  </div>
+  <div class="actions">
+   <div class="act"><svg style="color:#fff"><use href="#heart"/></svg>Like</div>
+   <div class="act"><svg style="color:#fff"><use href="#save"/></svg>Merken</div>
+   <div class="act"><svg style="color:#fff"><use href="#rep"/></svg>Bald<br>wieder</div>
+  </div>
+  <div class="open"><span>↑ Antippen zum Aufklappen</span></div>
+  <div class="peek"></div>
+ </div>
+ <div class="sub">Senkrecht wischen = nächstes Thema. Farbige Kategorie-Plakette, große Serifen-Überschrift, Aktionen rechts wie bei Reels. Unten blitzt schon die nächste Karte (hier lila = Naturwissenschaften).</div>
+</div>
+
+<!-- 2 ARTICLE -->
+<div class="col">
+ <div class="label">② Aufgeklappter Artikel (~1 Min.)</div>
+ <div class="phone">
+  <div class="art">
+   <div class="prog"></div>
+   <div class="hero"><svg width="430" height="300" style="position:absolute;inset:0"><use href="#wall"/></svg><div class="shade2"></div></div>
+   <div class="close"><svg width="18" height="18"><use href="#x"/></svg></div>
+   <div class="body">
+    <span class="chip" style="background:var(--hist);color:#1a1205">GESCHICHTE</span>
+    <h1 class="serif">Mauerfall</h1>
+    <div class="meta">⏱ 1 Min. · Berlin, 1989</div>
+    <h2>Der Zettel von Schabowski</h2>
+    <p>Am Abend des 9. November verliest SED-Politbüromitglied Günter Schabowski eine neue Reiseregelung. Auf die Frage, ab wann sie gilt: „Sofort, unverzüglich.“</p>
+    <div class="fig"><svg width="382" height="170"><use href="#crowd"/></svg></div>
+    <div class="cap">Menschen auf der Mauer am Brandenburger Tor · Foto: Wikimedia Commons</div>
+    <h2>Ansturm auf die Grenze</h2>
+    <p>Tausende strömen zur Bornholmer Straße. Um 23:30 Uhr öffnet der Grenzoffizier Harald Jäger den Schlagbaum …</p>
+   </div>
+   <div class="bar">
+    <div><svg style="color:#F06A8A"><use href="#heartf"/></svg>Gefällt mir</div>
+    <div><svg><use href="#save"/></svg>Merken</div>
+    <div><svg><use href="#rep"/></svg>Bald wieder</div>
+   </div>
+  </div>
+  <div class="island"></div><div class="status"><span>9:41</span><span>●●● 87%</span></div>
+ </div>
+ <div class="sub">Die Karte fährt nach oben auf. Lesefortschritt oben als dünner Balken in der Kategoriefarbe. Kurze Abschnitte mit Zwischenüberschrift und Bild, ganz unten eine Box „Kurz gesagt“ (siehe ③ rechts unten). ✕ oder nach unten ziehen = zurück zum Feed.</div>
+</div>
+
+<!-- 3 STATS -->
+<div class="col">
+ <div class="label">③ Statistik &amp; Export</div>
+ <div class="phone">
+  <div class="island"></div><div class="status"><span>9:41</span><span>●●● 87%</span></div>
+  <div class="st">
+   <h1 class="serif">Deine Statistik</h1>
+   <div class="meta" style="margin:0">seit 12. Nov · 9 Sitzungen</div>
+   <div class="tiles">
+    <div class="tile"><div class="n">64</div><div class="l">gesehen</div></div>
+    <div class="tile"><div class="n">31</div><div class="l">aufgeklappt</div></div>
+    <div class="tile"><div class="n" style="color:#F06A8A">17</div><div class="l">Likes</div></div>
+   </div>
+   <div class="sec">AUFKLAPP-QUOTE NACH THEMA</div>
+   <div class="row"><span class="nm">Naturwiss.</span><span class="tr"><i style="width:78%;background:var(--nat)"></i></span><span class="v">78%</span></div>
+   <div class="row"><span class="nm">Geschichte</span><span class="tr"><i style="width:61%;background:var(--hist)"></i></span><span class="v">61%</span></div>
+   <div class="row"><span class="nm">Geografie</span><span class="tr"><i style="width:44%;background:var(--geo)"></i></span><span class="v">44%</span></div>
+   <div class="row"><span class="nm">Politik</span><span class="tr"><i style="width:35%;background:var(--pol)"></i></span><span class="v">35%</span></div>
+   <div class="row"><span class="nm">Kunst</span><span class="tr"><i style="width:22%;background:var(--kunst)"></i></span><span class="v">22%</span></div>
+   <div class="sec">GEMERKT</div>
+   <div class="item"><svg class="thumb" viewBox="0 0 52 52"><use href="#mol" width="52" height="52"/></svg><div><div class="t">Haber-Bosch-Verfahren</div><div class="s">Naturwiss. · 1:12 gelesen</div></div></div>
+   <div class="item"><svg class="thumb" viewBox="0 0 52 52"><use href="#wall" width="52" height="52"/></svg><div><div class="t">Mauerfall</div><div class="s">Geschichte · 0:58 gelesen</div></div></div>
+   <div class="sum"><b>KURZ GESAGT</b><ul><li>Beispiel der Zusammenfassungs-Box am Artikelende</li></ul></div>
+   <div class="btn">📋 Statistik exportieren</div>
+  </div>
+  <div class="tabs"><div><svg><use href="#home"/></svg>Feed</div><div><svg><use href="#save"/></svg>Gemerkt</div><div class="on"><svg><use href="#chart"/></svg>Statistik</div></div>
+ </div>
+ <div class="sub">Übersicht über Gesehen / Aufgeklappt / Likes, Quote pro Thema, Lesezeit, Merkliste. Der Export-Knopf kopiert alles als Text – den fügst du hier im Chat ein.</div>
+</div>
+</body></html>
