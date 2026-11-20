@@ -1,0 +1,203 @@
+=== aetna
+cat: geografie
+title: Der Ätna
+teaser: Europas höchster aktiver Vulkan bricht fast ständig aus – und die Menschen leben an seinen Hängen.
+meta: Sizilien, Italien
+cover: Ätna | Ausbruch des Ätna
+## Ein Riese auf Sizilien
+Der Ätna ist mit rund 3.350 Metern (die Höhe schwankt durch Ausbrüche) der höchste aktive Vulkan Europas. Er ist ein Schichtvulkan mit mehreren Gipfelkratern und Hunderten Nebenkratern. Er liegt an der Grenze zwischen Afrikanischer und Eurasischer Platte, warum er so aktiv ist, wird noch erforscht.
+## Fast immer aktiv
+Kaum ein Vulkan bricht so häufig aus. Lavaströme, Fontänen und Aschewolken sind regelmäßig zu sehen; der Flughafen Catania muss manchmal schließen. 1669 erreichte ein Lavastrom das Meer und zerstörte Teile von Catania.
+img: Catania | Catania mit dem Ätna im Hintergrund
+## Fruchtbare Hänge
+Trotz der Gefahr leben Hunderttausende Menschen an den Hängen. Die vulkanischen Böden sind sehr fruchtbar – Wein, Pistazien und Zitrusfrüchte gedeihen. Seit 2013 ist der Ätna UNESCO-Welterbe. In der griechischen Mythologie hatte der Schmiedegott Hephaistos unter ihm seine Werkstatt.
+- Höchster aktiver Vulkan Europas (ca. 3.350 m).
+- Fast ständige Aktivität mit Lavaströmen und Asche.
+- Fruchtbare Böden, UNESCO-Welterbe.
+
+=== kap-hoorn
+cat: geografie
+title: Kap Hoorn
+teaser: Der Friedhof der Segelschiffe – wer es umrundete, durfte einen goldenen Ohrring tragen.
+meta: Chile
+cover: Kap Hoorn | Kap Hoorn
+## Am Ende der Welt
+Kap Hoorn ist die Südspitze der Insel Hornos in Chile und gilt als südlichster Punkt Südamerikas (auf Inseln). Benannt wurde es 1616 von niederländischen Seefahrern nach der Stadt Hoorn. Südlich davon liegt die Drakestraße, die zur Antarktis führt.
+## Gefährlichstes Kap der Welt
+In der Drakestraße gibt es keine Landmasse, die Westwinde bremst. Stürme, haushohe Wellen, Strömungen und Eisberge machten die Umrundung zur Tortur. Über 800 Schiffe sollen hier gesunken sein, mehr als 10.000 Seeleute starben. Nach alter Tradition durfte, wer Kap Hoorn umsegelt hatte, einen goldenen Ohrring tragen.
+img: Drakestraße | Wellen in der Drakestraße
+## Nach dem Panamakanal
+Mit der Eröffnung des Panamakanals 1914 verlor die Route an Bedeutung. Heute fahren vor allem Expeditionskreuzfahrten zur Antarktis und Segler bei Regatten wie dem Vendée Globe um das Kap. Ein Albatros-Denkmal erinnert an die Toten.
+- Südspitze Amerikas, Tor zur Drakestraße.
+- Gefürchtet wegen Stürmen und Wellen, Hunderte Wracks.
+- Seit dem Panamakanal kaum noch Handelsroute.
+
+=== singapur
+cat: geografie
+title: Singapur
+teaser: Vom armen Hafen zur reichsten Stadt Asiens – in einer Generation. Kaugummi ist trotzdem nur eingeschränkt erlaubt.
+meta: Südostasien
+cover: Singapur | Skyline von Singapur mit Marina Bay Sands
+## Stadtstaat
+Singapur ist ein Stadtstaat an der Südspitze der Malaiischen Halbinsel mit rund sechs Millionen Einwohnern auf etwa 730 Quadratkilometern – kleiner als Hamburg. Durch Landgewinnung wuchs die Fläche seit 1960 um rund ein Viertel. 1965 wurde Singapur unfreiwillig unabhängig, als es aus Malaysia ausgeschlossen wurde.
+## Das Wirtschaftswunder
+Unter Premier Lee Kuan Yew entwickelte sich das rohstoffarme Land durch Freihandel, ausländische Investitionen, Bildung und eine effiziente, korruptionsarme Verwaltung zu einem der reichsten Länder der Welt. Der Hafen gehört zu den größten der Welt. Rund 80 Prozent wohnen in staatlich gebauten Wohnungen.
+img: Gardens by the Bay | Supertrees in den Gardens by the Bay
+## Streng geregelt
+Singapur ist bekannt für strenge Regeln und Strafen: Spucken und Müll sind teuer, Kaugummi darf nur aus medizinischen Gründen verkauft werden. Die Regierungspartei PAP regiert seit 1959 ununterbrochen. Die Bevölkerung ist vielfältig: chinesisch, malaiisch und indisch, mit Englisch als Verkehrssprache.
+- Stadtstaat seit 1965, kleiner als Hamburg.
+- Vom Entwicklungsland zu einem der reichsten Länder.
+- Strenge Gesetze, dominierende Regierungspartei.
+
+=== dubai
+cat: geografie
+title: Dubai
+teaser: Vor 60 Jahren ein Fischerdorf, heute steht hier das höchste Gebäude der Welt – Öl spielt kaum noch eine Rolle.
+meta: Vereinigte Arabische Emirate
+cover: Dubai | Skyline Dubais mit dem Burj Khalifa
+## Vom Perlenhandel zur Metropole
+Dubai lebte lange von Perlentaucherei und Handel. 1966 wurde Öl gefunden. Doch die Vorkommen sind klein; heute macht Öl nur noch einen kleinen Teil der Wirtschaft aus. Dubai setzte auf Handel, Luftfahrt (Emirates), Tourismus, Immobilien und Finanzen.
+## Superlative
+Der Burj Khalifa ist mit 828 Metern seit 2010 das höchste Gebäude der Welt. Die künstlichen Palmeninseln wurden aus Sand aufgeschüttet. Der Flughafen ist einer der verkehrsreichsten der Welt im internationalen Verkehr.
+img: Palm Jumeirah | Die künstliche Insel Palm Jumeirah
+## Schattenseiten
+Rund 90 Prozent der Einwohner sind Ausländer, viele davon Gastarbeiter aus Südasien, die unter schwierigen Bedingungen arbeiten. Politische Parteien gibt es nicht; die Emirate werden von Herrscherfamilien regiert. Die Wasserversorgung hängt an energieintensiven Meerwasserentsalzungsanlagen, Sommer erreichen über 45 °C.
+- Ehemaliges Fischer- und Perlendorf, heute Handelsmetropole.
+- Burj Khalifa (828 m), künstliche Inseln.
+- Rund 90 % Ausländer, Monarchie, Meerwasserentsalzung.
+
+=== mitternachtssonne
+cat: geografie
+title: Mitternachtssonne und Polarnacht
+teaser: Nördlich des Polarkreises geht die Sonne im Sommer nicht unter – und im Winter nicht auf.
+meta: Polargebiete
+cover: Mitternachtssonne | Mitternachtssonne am Nordkap
+## Der Polarkreis
+Der nördliche Polarkreis liegt bei etwa 66,5 Grad Nord – genau 90 Grad minus die Neigung der Erdachse. Nördlich davon gibt es mindestens einen Tag im Jahr, an dem die Sonne nicht untergeht (Mitternachtssonne), und einen, an dem sie nicht aufgeht (Polarnacht). Je näher am Pol, desto länger dauern diese Phasen.
+## Ein halbes Jahr Tag
+Am Nordpol selbst geht die Sonne Ende März auf und erst Ende September wieder unter. Im norwegischen Tromsø scheint sie von Mitte Mai bis Ende Juli rund um die Uhr. In der Polarnacht ist es nicht völlig dunkel: Mittags herrscht oft blaue Dämmerung, und häufig leuchten Polarlichter.
+img: Tromsø | Tromsø in der Polarnacht
+## Leben mit dem Licht
+Die extremen Lichtverhältnisse beeinflussen den Schlaf-Wach-Rhythmus. Im Winter leiden mehr Menschen an Winterdepression, Lichttherapie hilft. Im Sommer helfen Verdunkelungsvorhänge. Weil die Atmosphäre Licht bricht, sieht man die Sonne sogar etwas südlich des Polarkreises noch um Mitternacht.
+- Polarkreis bei ca. 66,5° – Folge der Achsenneigung.
+- Am Pol: ein halbes Jahr Tag, ein halbes Jahr Nacht.
+- Einfluss auf Schlaf und Stimmung der Menschen.
+
+=== death-valley
+cat: geografie
+title: Death Valley
+teaser: 56,7 °C – hier wurde die höchste Lufttemperatur der Erde gemessen. Und Steine wandern von allein.
+meta: Kalifornien, USA
+cover: Death Valley | Sanddünen im Death Valley
+## Hitzerekord
+Am 10. Juli 1913 wurde in Furnace Creek eine Temperatur von 56,7 °C gemessen – bis heute der offizielle Weltrekord, auch wenn Meteorologen ihn anzweifeln. Sommertemperaturen über 50 °C sind keine Seltenheit. Gründe: Das Tal liegt unter dem Meeresspiegel, ist von Bergen umgeben, die Regen abhalten, und heiße Luft zirkuliert im Kessel.
+## Tiefster Punkt Nordamerikas
+Badwater Basin liegt 86 Meter unter dem Meeresspiegel – der tiefste Punkt Nordamerikas. Nur rund 140 Kilometer entfernt ragt der Mount Whitney auf 4.421 Meter, der höchste Berg der USA außerhalb Alaskas. Den Namen bekam das Tal von Goldsuchern, die es 1849 mühsam durchquerten.
+img: Badwater Basin | Salzkrusten im Badwater Basin
+## Wandernde Steine
+Auf dem ausgetrockneten See „Racetrack Playa“ hinterlassen Steine lange Spuren. Lange war das ein Rätsel, bis Forscher es 2014 filmten: Nach Regen friert eine dünne Wasserschicht, die Eisplatten werden vom Wind geschoben und nehmen die Steine mit – ganz langsam.
+- Rekord: 56,7 °C (1913).
+- Badwater Basin: −86 m, tiefster Punkt Nordamerikas.
+- „Wandernde Steine“ durch Eis und Wind.
+
+=== okavango-delta
+cat: geografie
+title: Das Okavango-Delta
+teaser: Ein Fluss, der das Meer nie erreicht – und mitten in der Kalahari ein Paradies erschafft.
+meta: Botswana
+cover: Okavangodelta | Das Okavango-Delta aus der Luft
+## Binnendelta
+Der Okavango entspringt im Hochland von Angola und fließt nach Südosten – aber nicht ins Meer. In Botswana fächert er sich in der Kalahari zu einem riesigen Binnendelta auf, dessen Fläche je nach Jahreszeit zwischen etwa 6.000 und 15.000 Quadratkilometern schwankt. Fast das ganze Wasser verdunstet oder versickert.
+## Flut in der Trockenzeit
+Paradoxerweise erreicht das Hochwasser das Delta mitten in der Trockenzeit, weil das Regenwasser aus Angola Monate braucht. Dann strömen Tiere aus der umliegenden trockenen Savanne herbei. Einheimische Guides staken Besucher in Einbäumen (Mokoro) durch die Kanäle.
+img: Mokoro | Mokoro-Einbaum im Okavango-Delta
+## Tierparadies
+Das Delta beherbergt große Elefantenherden, Flusspferde, Krokodile, Löwen, Leoparden, Afrikanische Wildhunde und über 400 Vogelarten. Es ist seit 2014 das 1.000. UNESCO-Welterbe. Botswana setzt auf hochpreisigen, aber umweltverträglichen Tourismus.
+- Binnendelta, der Okavango erreicht nie das Meer.
+- Flut kommt in der Trockenzeit aus Angola.
+- Artenreiches Tierparadies, UNESCO-Welterbe.
+
+=== sahel
+cat: geografie
+title: Die Sahelzone
+teaser: Ein „Ufer“ der Sahara, an dem Dürren, Konflikte und Armut aufeinandertreffen.
+meta: Afrika
+cover: Sahel | Landschaft in der Sahelzone
+## Ein Übergangsgürtel
+Der Sahel ist ein bis zu 1.000 Kilometer breiter Streifen südlich der Sahara, vom Senegal bis zum Sudan. Das arabische Wort bedeutet „Ufer“ – das Ufer der Wüste. Es regnet nur in wenigen Monaten, die Niederschläge schwanken stark von Jahr zu Jahr.
+## Dürren
+In den 1970er und 1980er Jahren verursachten schwere Dürren Hungersnöte mit Hunderttausenden Toten. Lange hielt man Überweidung für die Hauptursache; Forscher zeigten später, dass auch Schwankungen der Meerestemperaturen im Atlantik eine große Rolle spielen. Seit den 1990ern ist es wieder etwas feuchter, aber unberechenbarer.
+img: Große Grüne Mauer (Afrika) | Aufforstung im Rahmen der Großen Grünen Mauer
+## Krisenregion
+Die Sahelstaaten wie Mali, Niger, Burkina Faso und Tschad gehören zu den ärmsten der Welt, mit sehr jungen und schnell wachsenden Bevölkerungen. Islamistische Gruppen, Militärputsche und Konflikte um Land und Wasser destabilisieren die Region. Die „Große Grüne Mauer“ soll mit Aufforstung die Wüstenbildung stoppen.
+- Halbtrockener Gürtel südlich der Sahara.
+- Dürren der 1970er/80er mit großen Hungersnöten.
+- Arme, junge Staaten mit Konflikten und Putschen.
+
+=== tibet
+cat: geografie
+title: Das Hochland von Tibet
+teaser: Das „Dach der Welt“ liegt im Schnitt 4.500 Meter hoch – und versorgt halb Asien mit Wasser.
+meta: China
+cover: Hochland von Tibet | Das Hochland von Tibet
+## Die höchste Hochebene
+Das tibetische Hochland ist mit rund 2,5 Millionen Quadratkilometern die größte und höchste Hochebene der Erde, durchschnittlich etwa 4.500 Meter hoch. Es entstand durch dieselbe Kollision Indiens mit Asien, die auch den Himalaya auftürmte. Die Luft enthält nur etwa 60 Prozent des Sauerstoffs auf Meereshöhe.
+## Dritter Pol
+Wegen seiner Gletscher wird es auch „Dritter Pol“ genannt. Hier entspringen Jangtse, Gelber Fluss, Mekong, Salween, Brahmaputra, Indus und Sutlej. Tibeter haben eine genetische Anpassung (im Gen EPAS1), die sie von den ausgestorbenen Denisova-Menschen geerbt haben – sie hilft beim Leben in der Höhe.
+img: Potala-Palast | Der Potala-Palast in Lhasa
+## Politik
+Tibet war lange ein theokratisch regiertes Gebiet unter dem Dalai Lama. 1950 marschierte China ein; nach einem gescheiterten Aufstand floh der 14. Dalai Lama 1959 ins indische Exil. Heute ist Tibet eine autonome Region Chinas; Menschenrechtsgruppen kritisieren die Einschränkung von Religion und Kultur.
+- Größte und höchste Hochebene, im Schnitt 4.500 m.
+- „Dritter Pol“: Quellgebiet der großen Flüsse Asiens.
+- Seit 1950 unter chinesischer Kontrolle, Dalai Lama im Exil.
+
+=== ural
+cat: geografie
+title: Der Ural
+teaser: Ein uraltes, abgetragenes Gebirge, das die Grenze zwischen Europa und Asien markiert.
+meta: Russland
+cover: Ural (Gebirge) | Landschaft im Ural
+## Eine Grenze per Konvention
+Der Ural zieht sich rund 2.500 Kilometer von der Arktis bis nach Kasachstan. Seit dem 18. Jahrhundert gilt er als Grenze zwischen Europa und Asien – eine Festlegung von Geografen, keine natürliche Kontinentgrenze. An vielen Orten stehen Grenzobelisken.
+## Alt und flach
+Der Ural entstand vor etwa 300 bis 250 Millionen Jahren, als Kontinentalplatten bei der Bildung von Pangaea kollidierten. Er ist so alt, dass die Erosion ihn stark abgetragen hat: Der höchste Gipfel, die Narodnaja, ist nur 1.895 Meter hoch.
+img: Jekaterinburg | Jekaterinburg
+## Schatzkammer
+Der Ural ist reich an Eisen, Kupfer, Gold, Platin, Edelsteinen und Kohle. Im Zweiten Weltkrieg verlegte die Sowjetunion ganze Fabriken hierher, außer Reichweite der Wehrmacht. Jekaterinburg, wo 1918 die Zarenfamilie ermordet wurde, ist die größte Stadt der Region.
+- Rund 2.500 km lang, konventionelle Grenze Europa–Asien.
+- Sehr altes, stark abgetragenes Gebirge (max. 1.895 m).
+- Rohstoffreich, im Weltkrieg Industriezentrum.
+
+=== meeresspiegelanstieg
+cat: geografie
+title: Der steigende Meeresspiegel
+teaser: Seit 1900 sind die Meere um über 20 Zentimeter gestiegen – und das Tempo verdoppelt sich.
+meta: Klimawandel
+cover: Meeresspiegelanstieg | Überflutung auf den Marshallinseln
+## Zwei Ursachen
+Der Meeresspiegel steigt, weil sich Wasser beim Erwärmen ausdehnt und weil Gletscher und die Eisschilde Grönlands und der Antarktis schmelzen. Schmelzendes Meereis trägt dagegen kaum bei – es schwimmt schon. Seit 1900 stieg der Spiegel um über 20 Zentimeter, aktuell um mehr als vier Millimeter pro Jahr.
+## Prognosen
+Je nach Emissionen erwartet der Weltklimarat bis 2100 einen Anstieg um etwa 0,3 bis 1 Meter, im schlimmsten Fall mehr, wenn Eisschilde instabil werden. Der Anstieg geht auch danach über Jahrhunderte weiter, weil Ozeane und Eis träge reagieren.
+img: Tuvalu | Das Atoll Funafuti in Tuvalu
+## Wer betroffen ist
+Rund eine Milliarde Menschen leben in niedrigen Küstenzonen. Inselstaaten wie Tuvalu, Kiribati und die Malediven könnten unbewohnbar werden. Megastädte wie Jakarta, Dhaka und Lagos sind gefährdet, auch weil ihr Boden zusätzlich absinkt. In Deutschland werden Deiche an Nord- und Ostsee erhöht.
+- Ursachen: Wärmeausdehnung und Eisschmelze an Land.
+- Bis 2100 etwa 0,3–1 m, danach weiterer Anstieg.
+- Bedrohung für Inselstaaten und Küstenmetropolen.
+
+=== dolomiten
+cat: geografie
+title: Die Dolomiten
+teaser: Bleiche Berge aus versteinerten Korallenriffen – benannt nach einem französischen Geologen.
+meta: Italien
+cover: Dolomiten | Die Drei Zinnen
+## Riffe in den Alpen
+Die Dolomiten in Südtirol, Trentino und Venetien bestehen größtenteils aus Dolomitgestein – einem Calcium-Magnesium-Carbonat. Vor etwa 250 bis 200 Millionen Jahren wuchsen hier in einem tropischen Meer riesige Riffe. Durch die Alpenbildung wurden sie über 3.000 Meter hoch gehoben.
+## Benannt nach Dolomieu
+Der französische Geologe Déodat de Dolomieu beschrieb das Gestein 1791 als Erster; Gestein und Gebirge tragen seinen Namen. Bei Sonnenuntergang glühen die Felsen rötlich – das „Enrosadira“-Phänomen. Höchster Gipfel ist die Marmolata mit 3.343 Metern.
+img: Marmolata | Die Marmolata mit ihrem Gletscher
+## Krieg und Klima
+Im Ersten Weltkrieg verlief hier die Front zwischen Österreich-Ungarn und Italien; Soldaten gruben Stollen ins Gestein und ins Eis. 2022 brach am Marmolata-Gletscher bei Hitze ein Eisstück ab, elf Menschen starben. Die Dolomiten sind seit 2009 UNESCO-Weltnaturerbe.
+- Gebirge aus versteinerten Riffen, Dolomitgestein.
+- Benannt nach Déodat de Dolomieu; Alpenglühen.
+- Frontgebiet im Ersten Weltkrieg, UNESCO-Welterbe.

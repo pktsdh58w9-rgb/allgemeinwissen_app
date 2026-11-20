@@ -1,0 +1,203 @@
+=== kanada
+cat: geografie
+title: Kanada
+teaser: Das zweitgrößte Land der Erde hat mehr Seen als der Rest der Welt zusammen – und die längste Küste.
+meta: Nordamerika
+cover: Kanada | Moraine Lake in den kanadischen Rocky Mountains
+## Weites Land
+Kanada ist mit fast 10 Millionen Quadratkilometern das zweitgrößte Land der Welt, hat aber nur rund 40 Millionen Einwohner. Die meisten leben in einem schmalen Streifen nahe der Grenze zu den USA, die mit rund 8.900 Kilometern die längste Landgrenze der Welt ist.
+## Seen und Küsten
+Kanada besitzt etwa 60 Prozent aller Seen der Erde – Hinterlassenschaft der eiszeitlichen Gletscher, die den Kanadischen Schild ausschürften. Mit seinen arktischen Inseln hat es zudem die längste Küstenlinie der Welt, über 200.000 Kilometer.
+img: Kanadischer Schild | Seenlandschaft auf dem Kanadischen Schild
+## Zwei Sprachen, viele Völker
+Kanada ist offiziell zweisprachig: Englisch und Französisch, das vor allem in Québec gesprochen wird. Die indigenen Völker – First Nations, Inuit und Métis – kämpfen um Anerkennung; die Aufarbeitung der Internatsschulen, in denen Kinder zwangsassimiliert wurden, hat das Land erschüttert. Staatsoberhaupt ist formal der britische Monarch.
+- Zweitgrößtes Land, längste Landgrenze und Küste.
+- Rund 60 % aller Seen der Erde.
+- Zweisprachig; Aufarbeitung kolonialen Unrechts.
+
+=== indonesien
+cat: geografie
+title: Indonesien
+teaser: Über 17.000 Inseln, 700 Sprachen – und das Land mit den meisten Muslimen der Welt.
+meta: Südostasien
+cover: Indonesien | Reisterrassen auf Bali
+## Ein Inselreich
+Indonesien besteht aus über 17.000 Inseln, von denen etwa 6.000 bewohnt sind. Es erstreckt sich über rund 5.000 Kilometer – so weit wie von Irland bis Kasachstan. Die größten Inseln sind Borneo (geteilt mit Malaysia und Brunei), Sumatra, Neuguinea (Westteil), Sulawesi und Java.
+## Viele Völker, eine Sprache
+Mit rund 280 Millionen Einwohnern ist Indonesien das viertbevölkerungsreichste Land und das mit den meisten Muslimen. Über 700 Sprachen werden gesprochen; die Amtssprache Bahasa Indonesia verbindet sie. Das Staatsmotto lautet „Einheit in der Vielfalt“. Die Niederlande herrschten über 300 Jahre, unabhängig ist Indonesien seit 1945.
+img: Krakatau | Ausbruch des Anak Krakatau
+## Vulkane und Regenwald
+Indonesien liegt am Pazifischen Feuerring und hat rund 130 aktive Vulkane. Der Ausbruch des Tambora 1815 war der stärkste der Geschichte, Krakatau 1883 war weltweit zu hören. Die Regenwälder mit Orang-Utans schrumpfen durch Palmöl-Plantagen. Weil Jakarta absinkt, baut das Land die neue Hauptstadt Nusantara auf Borneo.
+- Über 17.000 Inseln, rund 280 Millionen Einwohner.
+- Größtes muslimisches Land, über 700 Sprachen.
+- Viele Vulkane; neue Hauptstadt Nusantara.
+
+=== japan
+cat: geografie
+title: Japan
+teaser: Vier Hauptinseln, 125 Millionen Menschen und jedes Jahr rund 1.500 spürbare Erdbeben.
+meta: Ostasien
+cover: Japan | Der Fuji mit Pagode
+## Inseln am Plattenrand
+Japan liegt dort, wo vier tektonische Platten zusammenstoßen. Deshalb gibt es über 100 aktive Vulkane, darunter den Fuji (3.776 m), und häufige Erdbeben. Das Tōhoku-Beben 2011 löste einen Tsunami aus, der rund 18.000 Menschen tötete und die Atomkatastrophe von Fukushima verursachte.
+## Dicht besiedelt
+Etwa drei Viertel Japans sind gebirgig. Die rund 125 Millionen Einwohner drängen sich in den Küstenebenen. Der Großraum Tokio ist mit etwa 37 Millionen Menschen der größte Ballungsraum der Welt. Der Shinkansen verbindet die Städte seit 1964 mit bis zu 320 km/h.
+img: Shinkansen | Ein Shinkansen vor dem Fuji
+## Alternde Gesellschaft
+Japan hat eine der höchsten Lebenserwartungen und eine der ältesten Bevölkerungen der Welt: Fast 30 Prozent sind über 65. Die Bevölkerung schrumpft, weil wenige Kinder geboren werden und kaum Einwanderung stattfindet. Viele ländliche Häuser stehen leer.
+- Vier Platten, Vulkane, häufige Erdbeben (z. B. 2011).
+- Großraum Tokio: größter Ballungsraum der Welt.
+- Stark alternde und schrumpfende Bevölkerung.
+
+=== schweiz
+cat: geografie
+title: Die Schweiz
+teaser: Vier Landessprachen, 26 Kantone, keine Hauptstadt im Gesetz – und das Volk stimmt mehrmals im Jahr ab.
+meta: Mitteleuropa
+cover: Schweiz | Das Matterhorn
+## Alpen, Mittelland, Jura
+Rund 60 Prozent der Schweiz sind Alpen, dazu kommen das dicht besiedelte Mittelland und der Jura. Die höchste Erhebung ist die Dufourspitze (4.634 m). Aus der Schweiz fließen Rhein und Rhone, aber auch Wasser in Po und Donau – sie ist das „Wasserschloss Europas“.
+## Willensnation
+Die Schweiz hat vier Landessprachen: Deutsch, Französisch, Italienisch und Rätoromanisch. Sie gilt als „Willensnation“, die nicht durch gemeinsame Sprache, sondern durch politischen Willen zusammengehalten wird. Bern ist „Bundesstadt“ – eine offizielle Hauptstadt nennt die Verfassung nicht.
+img: Bundeshaus (Bern) | Das Bundeshaus in Bern
+## Neutral und direkt
+Seit 1815 ist die Schweiz international als neutral anerkannt. Sie ist nicht in der EU, aber über bilaterale Verträge eng mit ihr verbunden und Teil des Schengen-Raums. Die direkte Demokratie mit Volksinitiativen und Referenden ist weltweit einzigartig. Banken, Pharma und Uhren prägen die Wirtschaft.
+- Alpenland mit vier Landessprachen.
+- Bern ist „Bundesstadt“, keine offizielle Hauptstadt.
+- Neutral seit 1815, nicht in der EU, direkte Demokratie.
+
+=== australien
+cat: geografie
+title: Australien
+teaser: Ein Kontinent, ein Land – mit mehr Kängurus als Menschen.
+meta: Ozeanien
+cover: Australien | Satellitenbild Australiens
+## Insel-Kontinent
+Australien ist der kleinste Kontinent und zugleich das sechstgrößte Land der Welt. Es ist der flachste und trockenste bewohnte Kontinent. Die rund 27 Millionen Einwohner leben vor allem an den Küsten im Osten und Südosten, in Städten wie Sydney und Melbourne. Hauptstadt ist das als Kompromiss gegründete Canberra.
+## Einzigartige Tierwelt
+Nach der Trennung von Gondwana entwickelte sich die Tierwelt isoliert: Beuteltiere wie Kängurus, Koalas und Wombats, dazu Kloakentiere wie Schnabeltier und Ameisenigel, die Eier legen. Es gibt geschätzt über 40 Millionen Kängurus. Viele der giftigsten Schlangen und Spinnen leben hier.
+img: Schnabeltier | Das Schnabeltier
+## Geschichte
+Aborigines und Torres-Strait-Insulaner leben seit mindestens 50.000 Jahren in Australien. 1788 gründeten die Briten eine Strafkolonie in Sydney. Kaninchen und Füchse, von Europäern eingeführt, haben viele heimische Arten ausgerottet. Buschbrände wie 2019/20 werden durch den Klimawandel häufiger.
+- Kleinster Kontinent, flach und trocken.
+- Beuteltiere und Eier legende Säugetiere.
+- Seit 50.000 Jahren besiedelt, britische Kolonie ab 1788.
+
+=== pazifik
+cat: geografie
+title: Der Pazifische Ozean
+teaser: Größer als alle Landflächen der Erde zusammen – und mit dem tiefsten Punkt der Welt.
+meta: Ozean
+cover: Pazifischer Ozean | Der Pazifik aus dem All
+## Der Größte
+Der Pazifik bedeckt rund 165 Millionen Quadratkilometer – etwa ein Drittel der Erdoberfläche und mehr als alle Kontinente zusammen. Er ist im Mittel über 4.000 Meter tief; im Marianengraben erreicht er fast 11.000 Meter. Von Panama bis zur malaiischen Halbinsel misst er rund 20.000 Kilometer.
+## Der „friedliche“ Ozean
+Ferdinand Magellan nannte ihn 1520 „Mar Pacífico“, weil er auf seiner Weltumsegelung ruhiges Wetter erlebte. Tatsächlich entstehen hier die stärksten tropischen Wirbelstürme, und der Feuerring ist voller Vulkane. Polynesier besiedelten ihn Jahrhunderte vor den Europäern – mit Auslegerkanus und Navigation nach Sternen und Wellen.
+img: Ferdinand Magellan | Ferdinand Magellan
+## Der Müllstrudel
+Zwischen Hawaii und Kalifornien sammelt eine Meeresströmung Plastik im „Great Pacific Garbage Patch“ – kein schwimmender Teppich, sondern eine riesige Zone mit Plastikteilen, vor allem Mikroplastik und alten Fischernetzen. Der Pazifik schrumpft übrigens: Seine Ränder tauchen ab, der Atlantik wächst.
+- Rund ein Drittel der Erdoberfläche, größter Ozean.
+- Name von Magellan; Polynesier besiedelten ihn zuerst.
+- Großer Müllstrudel im Nordpazifik.
+
+=== aufbau-der-erde
+cat: geografie
+title: Der Aufbau der Erde
+teaser: Unter unseren Füßen ist ein Eisenkern so heiß wie die Sonnenoberfläche – entdeckt anhand von Erdbebenwellen.
+meta: Geophysik
+cover: Schalenaufbau der Erde | Schalenaufbau der Erde
+## Schalen wie bei einer Zwiebel
+Die Erde besteht aus Kruste, Mantel und Kern. Die Kruste ist unter Ozeanen 5 bis 10 Kilometer dick, unter Kontinenten bis zu 70 Kilometer. Darunter liegt der Mantel aus heißem Gestein, das in geologischen Zeiträumen fließt. In rund 2.900 Kilometern Tiefe beginnt der Kern aus Eisen und Nickel.
+## Flüssig und fest
+Der äußere Kern ist flüssig. Strömungen des leitfähigen Eisens erzeugen das Erdmagnetfeld, das uns vor dem Sonnenwind schützt. Der innere Kern ist trotz etwa 5.000 bis 6.000 °C fest, weil der enorme Druck das Eisen zusammenpresst. Er dreht sich leicht anders als der Rest der Erde.
+img: Inge Lehmann | Inge Lehmann, Entdeckerin des inneren Erdkerns
+## Woher wir das wissen
+Niemand hat je den Mantel erreicht – die tiefste Bohrung (Kola, Russland) kam nur gut 12 Kilometer weit. Erdbebenwellen verraten den Aufbau: Scherwellen durchqueren keine Flüssigkeiten, daher wissen wir, dass der äußere Kern flüssig ist. Die dänische Seismologin Inge Lehmann entdeckte 1936 den festen inneren Kern.
+- Kruste, Mantel, äußerer und innerer Kern.
+- Flüssiger äußerer Kern erzeugt das Magnetfeld.
+- Erforscht durch Erdbebenwellen; Inge Lehmann fand 1936 den inneren Kern.
+
+=== salar-de-uyuni
+cat: geografie
+title: Salar de Uyuni
+teaser: Der größte Salzsee der Welt – so flach, dass er nach Regen zum größten Spiegel der Erde wird.
+meta: Bolivien
+cover: Salar de Uyuni | Spiegelung auf dem Salar de Uyuni
+## Eine weiße Ebene
+Auf etwa 3.650 Metern Höhe erstreckt sich im Südwesten Boliviens über rund 10.500 Quadratkilometer eine Salzkruste – so groß wie das halbe Hessen. Sie ist der Rest eines prähistorischen Sees, der verdunstete. Der Höhenunterschied auf der gesamten Fläche beträgt weniger als einen Meter.
+## Ein Spiegel für Satelliten
+Nach Regen bedeckt ein dünner Wasserfilm die Ebene und verwandelt sie in einen riesigen Spiegel. Weil sie so flach ist und gut reflektiert, nutzt man sie zur Kalibrierung von Satelliten. Mitten im Salz liegt die Isla Incahuasi mit riesigen Säulenkakteen.
+img: Isla Incahuasi | Kakteen auf der Isla Incahuasi
+## Lithium
+Unter der Kruste liegt Sole mit einem der größten Lithiumvorkommen der Welt – begehrt für Akkus. Bolivien, Argentinien und Chile bilden das „Lithium-Dreieck“. Der Abbau verbraucht in der trockenen Region viel Wasser, was Konflikte mit der lokalen Bevölkerung auslöst.
+- Größte Salzfläche der Erde, ca. 10.500 km².
+- Extrem flach – nach Regen ein riesiger Spiegel.
+- Riesige Lithiumvorkommen, umstrittener Abbau.
+
+=== mangroven
+cat: geografie
+title: Mangroven
+teaser: Bäume, die im Salzwasser stehen, Tsunamis bremsen und mehr Kohlenstoff speichern als Regenwald.
+meta: Tropische Küsten
+cover: Mangrove | Mangrovenwald mit Stelzwurzeln
+## Leben im Salz
+Mangroven wachsen an tropischen Küsten im Gezeitenbereich. Sie haben erstaunliche Anpassungen: Manche filtern Salz an den Wurzeln heraus, andere scheiden es über die Blätter aus. Stelzwurzeln geben Halt im Schlick, Atemwurzeln ragen wie Finger aus dem Boden, um im sauerstoffarmen Schlamm Luft zu bekommen.
+## Kinderstube und Schutzwall
+Zwischen den Wurzeln wachsen junge Fische, Krebse und Garnelen auf. Mangroven bremsen Wellen und Sturmfluten und schützen Küsten vor Erosion. Nach dem Tsunami 2004 zeigte sich, dass Dörfer hinter intakten Mangroven oft weniger Schaden nahmen.
+img: Sundarbans | Die Sundarbans in Bangladesch
+## Blauer Kohlenstoff
+Mangrovenböden speichern pro Fläche ein Vielfaches des Kohlenstoffs tropischer Regenwälder. Seit 1980 ist jedoch rund ein Fünftel der Mangroven verschwunden, oft für Shrimpfarmen und Hotels. Die Sundarbans in Indien und Bangladesch sind der größte Mangrovenwald der Welt und Heimat des Bengalischen Tigers.
+- Salztolerante Bäume an tropischen Küsten.
+- Kinderstube für Fische, Schutz vor Sturmfluten.
+- Große Kohlenstoffspeicher, aber stark dezimiert.
+
+=== taiga
+cat: geografie
+title: Die Taiga
+teaser: Der größte Landlebensraum der Erde ist ein endloser Nadelwald rund um die Nordhalbkugel.
+meta: Borealer Nadelwald
+cover: Taiga | Taiga in Kanada
+## Ein grüner Gürtel
+Die Taiga, auch borealer Nadelwald, zieht sich als breiter Gürtel durch Kanada, Alaska, Skandinavien und Russland. Sie bedeckt rund elf Prozent der Landfläche und enthält etwa ein Drittel aller Bäume der Erde. Das Wort stammt aus dem Russischen.
+## Angepasst an Kälte
+Die Winter sind lang und kalt, die Sommer kurz. Fichten, Kiefern, Tannen und Lärchen dominieren; ihre Nadeln verlieren im Winter wenig Wasser, die kegelförmige Form lässt Schnee abrutschen. Die Lärche wirft ihre Nadeln im Winter ab – in Ostsibirien übersteht sie so −60 °C. Hier leben Elche, Braunbären, Wölfe, Luchse und Vielfraße.
+img: Elch | Ein Elch
+## Speicher und Gefahr
+Die Böden der Taiga speichern riesige Mengen Kohlenstoff. Mit steigenden Temperaturen nehmen Waldbrände zu, 2021 brannten in Sibirien Millionen Hektar. Zugleich wird intensiv Holz geschlagen. Die Taiga erwärmt sich schneller als der Durchschnitt.
+- Borealer Nadelwald um die Nordhalbkugel.
+- Etwa ein Drittel aller Bäume der Erde.
+- Großer Kohlenstoffspeicher, zunehmende Waldbrände.
+
+=== savanne
+cat: geografie
+title: Die Savanne
+teaser: Gras, vereinzelte Bäume und die größten Landtiere der Erde – geformt von Feuer und Elefanten.
+meta: Tropen
+cover: Savanne | Savanne mit Akazien in Kenia
+## Zwischen Wald und Wüste
+Savannen liegen zwischen tropischem Regenwald und Wüste. Typisch ist der Wechsel von Regen- und Trockenzeit. Sie bedecken etwa ein Fünftel der Landfläche, vor allem in Afrika, aber auch in Südamerika (Cerrado), Indien und Australien.
+## Feuer und Fresser
+Dass hier kein Wald wächst, liegt nicht nur am Wasser. Regelmäßige Brände in der Trockenzeit vernichten junge Bäume, während Gräser schnell aus den Wurzeln nachwachsen. Elefanten reißen Bäume um, Giraffen fressen Akazien – diese wehren sich mit Dornen und Bitterstoffen.
+img: Afrikanischer Elefant | Afrikanische Elefanten
+## Die großen Tiere
+Die afrikanische Savanne beherbergt die größte Vielfalt großer Säugetiere: Elefanten, Nashörner, Giraffen, Zebras, Gnus, Löwen, Leoparden und Geparden. Der Lebensraum ist durch Landwirtschaft, Wilderei und Klimawandel bedroht. Unsere Vorfahren entwickelten sich vermutlich in savannenartigen Landschaften.
+- Grasland mit Bäumen, Regen- und Trockenzeit.
+- Feuer und große Pflanzenfresser halten sie offen.
+- Heimat der afrikanischen Großtiere.
+
+=== aralsee
+cat: geografie
+title: Der Aralsee
+teaser: Einst der viertgrößte See der Welt – heute rosten Schiffe mitten in der Wüste.
+meta: Kasachstan/Usbekistan
+cover: Aralsee | Der Aralsee 1989 und 2014 im Vergleich
+## Ein See verschwindet
+Der Aralsee in Zentralasien war bis in die 1960er mit etwa 68.000 Quadratkilometern der viertgrößte See der Erde. Dann leitete die Sowjetunion die Zuflüsse Amudarja und Syrdarja um, um in der Wüste Baumwolle anzubauen. Der See schrumpfte auf etwa ein Zehntel und zerfiel in mehrere Teile.
+## Folgen
+Der Salzgehalt stieg, Fische starben, die Fischerei brach zusammen. Hafenstädte wie Moynaq liegen heute über 100 Kilometer vom Wasser entfernt, Schiffswracks stehen im Sand. Stürme wehen salz- und pestizidhaltigen Staub vom ausgetrockneten Seeboden über die Region; Atemwegs- und Krebserkrankungen nahmen zu.
+img: Moʻynoq | Schiffswracks bei Moynaq in Usbekistan
+## Teilweise Rettung
+Kasachstan baute 2005 den Kok-Aral-Damm, der den kleinen Nordaral vom Rest trennt. Der Wasserspiegel dort stieg wieder, Fische kehrten zurück. Der große Südaral ist dagegen weitgehend verloren. Der Aralsee gilt als eine der größten menschengemachten Umweltkatastrophen.
+- Zuflüsse für Baumwollbewässerung umgeleitet.
+- See auf rund ein Zehntel geschrumpft, Fischerei zerstört.
+- Nordaral durch Damm teilweise gerettet.

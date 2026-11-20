@@ -1,0 +1,203 @@
+=== mount-everest
+cat: geografie
+title: Mount Everest
+teaser: 8.849 Meter hoch – und er wächst noch immer, um einige Millimeter pro Jahr.
+meta: Nepal/China
+cover: Mount Everest | Der Mount Everest von Norden
+## Der höchste Berg
+Mit 8.849 Metern (Messung 2020) ist der Mount Everest der höchste Berg über dem Meeresspiegel. Auf Nepali heißt er Sagarmatha, auf Tibetisch Chomolungma. Benannt wurde er nach George Everest, dem britischen Leiter der Landvermessung in Indien – der ihn selbst nie gesehen hat.
+## Erstbesteigung
+Am 29. Mai 1953 erreichten der Neuseeländer Edmund Hillary und der Sherpa Tenzing Norgay den Gipfel. 1978 bestiegen Reinhold Messner und Peter Habeler ihn erstmals ohne Flaschensauerstoff. Oberhalb von etwa 8.000 Metern beginnt die „Todeszone“: Der Luftdruck beträgt nur ein Drittel des Meeresniveaus, der Körper baut unaufhaltsam ab.
+img: Edmund Hillary | Edmund Hillary
+## Stau am Gipfel
+Inzwischen haben über 6.000 Menschen den Gipfel erreicht, mehr als 300 sind am Berg gestorben. An guten Tagen bilden sich Schlangen am Gipfelgrat. Zurückgelassener Müll und Leichen sind ein Problem. Gemessen vom Erdmittelpunkt ist übrigens der Chimborazo in Ecuador der „höchste“ Berg, wegen der Abplattung der Erde.
+- 8.849 m, höchster Berg über dem Meeresspiegel.
+- Erstbesteigung 1953 durch Hillary und Tenzing Norgay.
+- Todeszone über 8.000 m, zunehmende Überfüllung.
+
+=== himalaya
+cat: geografie
+title: Der Himalaya
+teaser: Indien rammt Asien – seit 50 Millionen Jahren. Das Ergebnis: das höchste Gebirge der Welt.
+meta: Asien
+cover: Himalaya | Der Himalaya aus dem Weltraum
+## Eine Kontinentalkollision
+Die Indische Platte löste sich einst vom Urkontinent Gondwana und driftete nach Norden. Vor etwa 50 Millionen Jahren stieß sie auf die Eurasische Platte. Da beide Platten aus leichter Kontinentalkruste bestehen, taucht keine richtig ab – die Kruste faltet und stapelt sich. Auf dem Everest findet man deshalb Fossilien von Meerestieren.
+## Rekorde
+Im Himalaya und dem angrenzenden Karakorum liegen alle 14 Achttausender der Erde. Das Gebirge erstreckt sich über etwa 2.400 Kilometer durch Pakistan, Indien, Nepal, Bhutan und China. Der Name kommt aus dem Sanskrit und bedeutet „Wohnstätte des Schnees“.
+img: K2 | Der K2 im Karakorum, zweithöchster Berg der Erde
+## Wasserturm Asiens
+Die Gletscher speisen Indus, Ganges, Brahmaputra, Jangtse und weitere Flüsse, von denen fast zwei Milliarden Menschen abhängen. Durch den Klimawandel schmelzen sie schneller. Weil Indien weiter nach Norden drückt, gibt es immer wieder schwere Erdbeben, etwa 2015 in Nepal mit rund 9.000 Toten.
+- Entstanden durch Kollision Indiens mit Eurasien.
+- Alle 14 Achttausender liegen in Himalaya und Karakorum.
+- Gletscher versorgen Flüsse für fast zwei Milliarden Menschen.
+
+=== nil
+cat: geografie
+title: Der Nil
+teaser: Ohne ihn gäbe es kein Altes Ägypten – heute streiten drei Länder um sein Wasser.
+meta: Nordostafrika
+cover: Nil | Der Nil bei Assuan
+## Zwei Quellflüsse
+Der Weiße Nil entspringt im Gebiet des Viktoriasees, der Blaue Nil im äthiopischen Hochland am Tanasee. In Khartum im Sudan vereinigen sie sich. Mit rund 6.650 Kilometern gilt der Nil meist als längster Fluss der Erde, knapp vor dem Amazonas – je nach Messung.
+## Geschenk des Nils
+Der griechische Geschichtsschreiber Herodot nannte Ägypten ein „Geschenk des Nils“. Die jährliche Flut brachte fruchtbaren Schlamm auf die Felder. Bis heute leben etwa 95 Prozent der Ägypter auf nur rund fünf Prozent der Landesfläche – im schmalen Niltal und im Delta.
+img: Assuan-Staudamm | Der Assuan-Hochdamm
+## Staudämme und Streit
+Der Assuan-Hochdamm (1970) stoppte die Überschwemmungen, liefert Strom und schuf den Nassersee – aber der fruchtbare Schlamm bleibt aus, Felder brauchen Kunstdünger. Seit Äthiopien den riesigen Grand-Ethiopian-Renaissance-Damm am Blauen Nil baut, fürchtet Ägypten um sein Wasser.
+- Weißer und Blauer Nil vereinigen sich in Khartum.
+- Rund 6.650 km, Lebensader Ägyptens.
+- Staudämme verändern das System; Wasserstreit mit Äthiopien.
+
+=== plattentektonik
+cat: geografie
+title: Plattentektonik und Pangaea
+teaser: Die Kontinente wandern so schnell, wie Fingernägel wachsen – und waren einmal ein einziger Superkontinent.
+meta: Geologie
+cover: Pangaea | Der Superkontinent Pangaea vor etwa 250 Millionen Jahren
+## Wegeners verlachte Idee
+1912 stellte der deutsche Meteorologe Alfred Wegener die Theorie der Kontinentaldrift vor: Die Küsten Südamerikas und Afrikas passen wie Puzzleteile zusammen, und auf beiden Seiten finden sich gleiche Fossilien und Gesteine. Kollegen lehnten die Idee ab, weil er keinen Antriebsmechanismus erklären konnte.
+## Platten auf dem Mantel
+Erst in den 1960ern bestätigte die Erforschung des Meeresbodens die Theorie. Die Erdkruste besteht aus etwa einem Dutzend großer Platten, die sich auf dem zähplastischen Mantel bewegen – angetrieben vor allem durch absinkende Plattenränder und Konvektion. An mittelozeanischen Rücken entsteht neuer Meeresboden, an Subduktionszonen taucht er ab.
+img: Alfred Wegener | Alfred Wegener
+## Vergangenheit und Zukunft
+Vor rund 300 bis 175 Millionen Jahren waren alle Kontinente im Superkontinent Pangaea vereint. Der Atlantik öffnet sich heute weiter, der Pazifik schrumpft. In etwa 200 bis 250 Millionen Jahren könnte ein neuer Superkontinent entstehen. Erdbeben, Vulkane und Gebirge entstehen vor allem an den Plattengrenzen.
+- Alfred Wegener: Kontinentaldrift (1912), lange verspottet.
+- Lithosphärenplatten bewegen sich einige Zentimeter pro Jahr.
+- Pangaea: Superkontinent vor rund 300–175 Mio. Jahren.
+
+=== alpen
+cat: geografie
+title: Die Alpen
+teaser: 1.200 Kilometer Gebirge mitten in Europa – Wasserschloss, Klimawandel-Frühwarnsystem und Urlaubsziel zugleich.
+meta: Europa
+cover: Alpen | Die Alpen aus dem Weltraum
+## Entstehung
+Die Alpen entstanden, als die Afrikanische Platte mit der Adriatischen Mikroplatte gegen Europa drückte. Die Hauptauffaltung begann vor rund 35 Millionen Jahren. Höchster Gipfel ist der Mont Blanc mit etwa 4.806 Metern. Die Eiszeiten formten mit Gletschern die typischen U-Täler und Seen.
+## Acht Staaten
+Die Alpen erstrecken sich in einem Bogen von Nizza bis Wien über acht Länder: Frankreich, Monaco, Italien, Schweiz, Liechtenstein, Deutschland, Österreich und Slowenien. Rund 14 Millionen Menschen leben dort. Für Europa sind sie ein Wasserschloss: Rhein, Rhone, Po und viele Donau-Zuflüsse entspringen hier.
+img: Mont Blanc | Der Mont Blanc
+## Alpen im Klimawandel
+Die Alpen erwärmen sich etwa doppelt so schnell wie der globale Durchschnitt. Seit 1850 haben die Gletscher rund die Hälfte ihrer Fläche verloren. Tauender Permafrost lässt Felsstürze häufiger werden. Durch den Gotthard-Basistunnel (57 km), den längsten Eisenbahntunnel der Welt, rollen Züge unter den Alpen hindurch.
+- Entstanden durch Kollision Afrikas/Adrias mit Europa.
+- Höchster Gipfel: Mont Blanc (ca. 4.806 m), acht Alpenstaaten.
+- Erwärmen sich doppelt so schnell wie der globale Schnitt.
+
+=== rhein
+cat: geografie
+title: Der Rhein
+teaser: Von der Schweizer Quelle bis zur Nordsee: Europas wichtigste Wasserstraße und Deutschlands Sehnsuchtsfluss.
+meta: Mitteleuropa
+cover: Rhein | Der Rhein am Loreleyfelsen
+## Von den Alpen zur Nordsee
+Der Rhein entspringt in den Schweizer Alpen, fließt durch den Bodensee, stürzt am Rheinfall bei Schaffhausen hinab und bildet die Grenze zu Frankreich. Nach rund 1.230 Kilometern mündet er in den Niederlanden in die Nordsee. Er durchfließt bzw. berührt sechs Länder.
+## Wirtschaftsader
+Der Rhein ist eine der meistbefahrenen Binnenwasserstraßen der Welt. Duisburg hat den größten Binnenhafen Europas, Rotterdam an der Mündung den größten Seehafen Europas. Niedrigwasser in heißen Sommern zwingt Schiffe, weniger zu laden – mit Folgen für Industrie und Preise.
+img: Rheinfall | Der Rheinfall bei Schaffhausen
+## Romantik und Rettung
+Das Mittelrheintal mit Burgen und dem Loreleyfelsen ist UNESCO-Welterbe und Inbegriff der deutschen Romantik. In den 1970ern galt der Rhein als „Kloake Europas“. Nach dem Sandoz-Chemieunfall 1986, bei dem Fische massenhaft starben, wurden Kläranlagen ausgebaut – heute schwimmen sogar wieder Lachse im Fluss.
+- Rund 1.230 km von den Alpen bis zur Nordsee.
+- Wichtigste Binnenwasserstraße Europas.
+- Vom verschmutzten Fluss zur Erfolgsgeschichte des Umweltschutzes.
+
+=== donau
+cat: geografie
+title: Die Donau
+teaser: Sie fließt durch zehn Länder und vier Hauptstädte – mehr als jeder andere Fluss der Welt.
+meta: Europa
+cover: Donau | Die Donau in Budapest
+## Quelle im Schwarzwald
+Die Donau entsteht in Donaueschingen aus den Quellflüssen Brigach und Breg („Brigach und Breg bringen die Donau zuweg“). Nach rund 2.850 Kilometern mündet sie in einem riesigen Delta in Rumänien und der Ukraine ins Schwarze Meer. Sie ist nach der Wolga der zweitlängste Fluss Europas.
+## Zehn Länder, vier Hauptstädte
+Kein Fluss der Welt durchfließt oder berührt mehr Länder: Deutschland, Österreich, Slowakei, Ungarn, Kroatien, Serbien, Rumänien, Bulgarien, Moldau und die Ukraine. An ihren Ufern liegen Wien, Bratislava, Budapest und Belgrad.
+img: Donaudelta | Das Donaudelta am Schwarzen Meer
+## Kuriositäten
+Bei Immendingen versickert die Donau an manchen Tagen vollständig im Karst – ein Teil des Wassers taucht im Aachtopf wieder auf und fließt in den Rhein. Das Donaudelta ist eines der größten Feuchtgebiete Europas und UNESCO-Welterbe. Johann Strauss’ Walzer „An der schönen blauen Donau“ ist Österreichs heimliche Hymne.
+- Rund 2.850 km vom Schwarzwald zum Schwarzen Meer.
+- Zehn Anrainerstaaten, vier Hauptstädte.
+- Donauversickerung: Ein Teil des Wassers fließt in den Rhein.
+
+=== anden
+cat: geografie
+title: Die Anden
+teaser: Das längste Gebirge der Welt über dem Meer – 7.000 Kilometer Vulkane, Hochebenen und Lamas.
+meta: Südamerika
+cover: Anden | Die Anden in Chile
+## Rückgrat Südamerikas
+Die Anden ziehen sich auf rund 7.000 Kilometern entlang der Westküste Südamerikas von Venezuela bis Feuerland. Höchster Berg ist der Aconcagua in Argentinien mit 6.961 Metern – der höchste Berg außerhalb Asiens.
+## Wo Ozean unter Kontinent taucht
+Die ozeanische Nazca-Platte taucht unter die Südamerikanische Platte ab. Dadurch heben sich die Anden, und es entstehen zahlreiche Vulkane und starke Erdbeben. Das Erdbeben von Valdivia in Chile 1960 war mit Magnitude 9,5 das stärkste je gemessene.
+img: Aconcagua | Der Aconcagua, höchster Berg Amerikas
+## Leben in der Höhe
+Auf dem Altiplano, einer Hochebene auf etwa 3.800 Metern, liegen der Titicacasee und La Paz, der höchstgelegene Regierungssitz der Welt. Menschen dort haben sich genetisch an den Sauerstoffmangel angepasst. Lamas und Alpakas wurden hier domestiziert, ebenso die Kartoffel.
+- Längstes Gebirge der Welt (ca. 7.000 km).
+- Aconcagua 6.961 m; Vulkane durch Subduktion.
+- Altiplano mit Titicacasee und La Paz.
+
+=== grand-canyon
+cat: geografie
+title: Der Grand Canyon
+teaser: Zwei Milliarden Jahre Erdgeschichte, aufgeschnitten von einem Fluss.
+meta: Arizona, USA
+cover: Grand Canyon | Der Grand Canyon
+## Gewaltige Ausmaße
+Der Grand Canyon ist rund 450 Kilometer lang, bis zu 29 Kilometer breit und bis zu 1.800 Meter tief. Geschaffen hat ihn der Colorado River, der sich in den letzten etwa fünf bis sechs Millionen Jahren eingeschnitten hat, während sich das Colorado-Plateau hob.
+## Ein Geschichtsbuch aus Stein
+Die Gesteinsschichten an den Wänden umspannen fast zwei Milliarden Jahre: Ganz unten liegt uraltes metamorphes Gestein, darüber Sandsteine, Kalke und Schiefer aus Meeren und Wüsten. Auffällig ist die „Great Unconformity“ – eine Lücke, in der über eine Milliarde Jahre Gestein fehlen.
+img: Colorado River | Der Colorado River im Grand Canyon
+## Nationalpark
+Seit 1919 ist der Grand Canyon Nationalpark, seit 1979 UNESCO-Welterbe. Indigene Völker wie die Havasupai leben seit Jahrhunderten dort. Jährlich kommen rund fünf Millionen Besucher. Wegen Hitze und Höhenunterschied unterschätzen Wanderer oft den Rückweg nach oben.
+- Rund 450 km lang, bis 1.800 m tief, geschaffen vom Colorado River.
+- Gesteinsschichten aus fast zwei Milliarden Jahren.
+- Nationalpark seit 1919, UNESCO-Welterbe.
+
+=== niagarafaelle
+cat: geografie
+title: Die Niagarafälle
+teaser: Nicht besonders hoch, aber gewaltig: Pro Sekunde stürzen bis zu 2.800 Kubikmeter Wasser hinab.
+meta: USA/Kanada
+cover: Niagarafälle | Die Horseshoe Falls
+## Drei Fälle
+Die Niagarafälle liegen am Niagara River zwischen Eriesee und Ontariosee, auf der Grenze zwischen den USA und Kanada. Sie bestehen aus den kanadischen Horseshoe Falls, den American Falls und den kleinen Bridal Veil Falls. Die Fallhöhe beträgt nur rund 50 Meter, doch die Wassermenge ist enorm.
+## Wandernde Fälle
+Entstanden sind die Fälle nach der letzten Eiszeit vor etwa 12.000 Jahren. Weil das Wasser das weichere Gestein unter einer harten Kalksteinschicht auswäscht, wandern die Fälle stromaufwärts – früher bis zu einem Meter pro Jahr, heute wegen der Wasserentnahme nur noch etwa 30 Zentimeter pro Jahrzehnt.
+img: Horseshoe Falls | Die Horseshoe Falls von der kanadischen Seite
+## Strom und Waghalsige
+Ein großer Teil des Wassers wird für Wasserkraftwerke abgeleitet, nachts und im Winter mehr als tagsüber. 1901 stürzte sich die 63-jährige Lehrerin Annie Edson Taylor als erste Person in einem Fass die Fälle hinab – und überlebte.
+- Drei Fälle an der Grenze USA–Kanada.
+- Fallhöhe nur etwa 50 m, aber riesige Wassermenge.
+- Wandern durch Erosion stromaufwärts.
+
+=== victoriafaelle
+cat: geografie
+title: Die Victoriafälle
+teaser: „Der Rauch, der donnert“ – der breiteste zusammenhängende Wasservorhang der Erde.
+meta: Sambia/Simbabwe
+cover: Victoriafälle | Die Victoriafälle
+## Mosi-oa-Tunya
+An der Grenze zwischen Sambia und Simbabwe stürzt der Sambesi auf etwa 1.700 Metern Breite in eine bis zu 108 Meter tiefe Schlucht. Die Einheimischen nennen die Fälle Mosi-oa-Tunya, „der Rauch, der donnert“ – die Gischtwolke ist kilometerweit zu sehen.
+## Livingstone
+Der schottische Missionar David Livingstone sah die Fälle 1855 als erster Europäer und benannte sie nach Königin Victoria. Die Schlucht ist eine von mehreren im Zickzack verlaufenden Spalten im Basalt, die der Fluss über Jahrtausende ausgewaschen hat.
+img: David Livingstone | David Livingstone
+## Devil’s Pool
+In der Trockenzeit sinkt der Wasserstand so weit, dass Mutige im „Devil’s Pool“ direkt an der Abbruchkante baden können. Eine Eisenbahnbrücke von 1905 überspannt die Schlucht. Die Fälle sind UNESCO-Welterbe.
+- Rund 1.700 m breit und bis 108 m tief.
+- Name der Einheimischen: „Rauch, der donnert“.
+- Benannt 1855 von David Livingstone nach Queen Victoria.
+
+=== baikalsee
+cat: geografie
+title: Der Baikalsee
+teaser: Der tiefste und älteste See der Erde – er enthält mehr Wasser als alle Großen Seen Nordamerikas zusammen.
+meta: Sibirien, Russland
+cover: Baikalsee | Der Baikalsee im Winter
+## Rekorde
+Der Baikalsee ist mit bis zu 1.642 Metern der tiefste See der Welt und mit 25 bis 30 Millionen Jahren der älteste. Er enthält etwa 23.600 Kubikkilometer Wasser – rund ein Fünftel des flüssigen Süßwassers an der Erdoberfläche.
+## Ein wachsender Graben
+Der See liegt in einem Grabenbruch, in dem die Erdkruste auseinanderdriftet – um etwa zwei Zentimeter pro Jahr. Unter dem Seeboden liegen noch einmal mehrere Kilometer Sediment. In ferner Zukunft könnte hier ein neuer Ozean entstehen.
+img: Baikalrobbe | Die Baikalrobbe, die einzige Süßwasserrobbe
+## Einzigartiges Leben
+Rund 80 Prozent der Arten im See kommen nur hier vor, darunter die Baikalrobbe (Nerpa), eine der wenigen Süßwasserrobben. Das Wasser ist extrem klar, im Winter friert der See so dick zu, dass Straßen über das Eis führen. Der Baikalsee ist UNESCO-Welterbe.
+- Tiefster (1.642 m) und ältester See der Erde.
+- Rund 20 % des flüssigen Oberflächen-Süßwassers.
+- Viele endemische Arten, z. B. die Baikalrobbe.

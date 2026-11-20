@@ -1,0 +1,203 @@
+=== erdbeben
+cat: geografie
+title: Erdbeben
+teaser: Die Richterskala ist veraltet – und ein Beben der Stärke 9 setzt rund 1.000-mal mehr Energie frei als eines der Stärke 7.
+meta: Naturgefahren
+cover: Erdbeben | Zerstörung nach dem Erdbeben in der Türkei 2023
+## Wie Beben entstehen
+An Plattengrenzen und Verwerfungen verhaken sich Gesteinsblöcke. Spannung baut sich über Jahrzehnte auf, bis das Gestein ruckartig nachgibt. Der Punkt im Erdinneren heißt Hypozentrum, der Punkt darüber an der Oberfläche Epizentrum. Die freigesetzte Energie breitet sich als seismische Wellen aus.
+## Magnitude statt Richter
+Die Richterskala von 1935 ist für starke Beben ungenau. Heute nutzt man die Momenten-Magnitude, die die tatsächlich freigesetzte Energie beschreibt. Sie ist logarithmisch: Jede Stufe bedeutet etwa 32-mal mehr Energie. Das stärkste gemessene Beben war Valdivia, Chile, 1960 mit Magnitude 9,5.
+img: Seismograph | Ein Seismogramm
+## Vorhersage und Schutz
+Erdbeben lassen sich nicht vorhersagen – nur Wahrscheinlichkeiten für Regionen. Entscheidend ist erdbebensicheres Bauen: Beim Beben in der Türkei und Syrien 2023 starben über 50.000 Menschen, viele in schlecht gebauten Häusern. Auch Deutschland hat Erdbebengebiete, etwa den Oberrheingraben und die Niederrheinische Bucht.
+- Ruckartiges Lösen von Spannungen an Verwerfungen.
+- Momenten-Magnitude ersetzt die Richterskala; logarithmisch.
+- Nicht vorhersagbar – sichere Bauweise rettet Leben.
+
+=== vulkantypen
+cat: geografie
+title: Vulkantypen
+teaser: Warum Hawaiis Vulkane Lava fließen lassen und der Vesuv explodiert – es liegt an der Kieselsäure.
+meta: Geologie
+cover: Vulkan | Der Stratovulkan Mayon auf den Philippinen
+## Zähe und flüssige Magma
+Entscheidend ist der Gehalt an Siliciumdioxid (SiO₂). Basaltische Magma ist arm daran, heiß und dünnflüssig – Gase entweichen leicht, die Lava fließt. Andesitische oder rhyolithische Magma ist reich an SiO₂ und zäh; Gase stauen sich, bis sie explosionsartig entweichen.
+## Schild- und Schichtvulkane
+Dünnflüssige Lava baut flache, breite Schildvulkane wie den Mauna Loa auf Hawaii. Zähe Magma erzeugt steile Schicht- oder Stratovulkane aus abwechselnden Lagen von Lava und Asche, etwa Fuji, Vesuv oder Ätna. Sie liegen meist an Subduktionszonen und sind die gefährlichsten.
+img: Mauna Loa | Mauna Loa, ein Schildvulkan auf Hawaii
+## Gefahren
+Am tödlichsten sind pyroklastische Ströme – glutheiße Lawinen aus Gas und Asche, die mit über 100 km/h talwärts rasen. Dazu kommen Lahare (Schlammströme) und Aschewolken. Große Ausbrüche kühlen das Klima: Nach dem Tambora-Ausbruch 1815 folgte 1816 das „Jahr ohne Sommer“ mit Missernten in Europa.
+- SiO₂-Gehalt bestimmt, ob Lava fließt oder Vulkane explodieren.
+- Schildvulkane flach und ruhig, Schichtvulkane steil und explosiv.
+- Pyroklastische Ströme sind die größte Gefahr.
+
+=== tornados
+cat: geografie
+title: Tornados
+teaser: Die stärksten Winde der Erde – mit über 400 km/h. Und es gibt sie auch in Deutschland.
+meta: Wetter
+cover: Tornado | Tornado in Oklahoma
+## Entstehung
+Tornados entstehen meist aus Superzellen – rotierenden Gewittern. Warme, feuchte Luft am Boden trifft auf kalte, trockene Luft in der Höhe, und der Wind ändert mit der Höhe Richtung und Stärke. Dadurch kommt die Luft ins Rotieren. Wird ein Teil davon gestreckt und bis zum Boden verlängert, entsteht der Rüssel.
+## Tornado Alley
+Besonders häufig sind Tornados in der „Tornado Alley“ der USA zwischen Texas und South Dakota, wo kalte Luft aus Kanada auf warme vom Golf von Mexiko trifft – rund 1.200 pro Jahr. Ihre Stärke wird an den Schäden gemessen (Enhanced-Fujita-Skala, EF0 bis EF5).
+img: Superzelle | Eine Superzelle über den USA
+## Auch in Deutschland
+In Deutschland gibt es jährlich etwa 20 bis 60 Tornados, die meisten schwach. Der Pforzheimer Tornado von 1968 erreichte jedoch die zweithöchste Stufe F4. Tornados sind sehr kleinräumig und schwer vorherzusagen; Warnungen kommen oft nur Minuten vorher.
+- Entstehen meist aus rotierenden Gewittern (Superzellen).
+- Häufigste Region: Tornado Alley in den USA.
+- Auch in Deutschland 20–60 pro Jahr, z. B. Pforzheim 1968.
+
+=== hurrikane
+cat: geografie
+title: Hurrikane, Taifune, Zyklone
+teaser: Drei Namen für dasselbe Monster – angetrieben von warmem Meerwasser.
+meta: Wetter
+cover: Hurrikan | Hurrikan Isabel aus dem All, 2003
+## Ein Name je nach Ozean
+Tropische Wirbelstürme heißen im Atlantik und Nordostpazifik Hurrikan, im Nordwestpazifik Taifun und im Indischen Ozean Zyklon. Sie entstehen über Meerwasser von mindestens etwa 26,5 °C. Verdunstendes Wasser steigt auf, kondensiert und setzt Wärme frei – der Motor des Sturms.
+## Aufbau
+Durch die Corioliskraft rotieren sie auf der Nordhalbkugel gegen den Uhrzeigersinn. Im Zentrum liegt das windstille, oft wolkenfreie Auge, umgeben von der Eyewall mit den stärksten Winden. Über Land verlieren sie ihre Energiequelle und schwächen sich ab. Am Äquator selbst entstehen sie nicht, weil dort die Corioliskraft fehlt.
+img: Hurrikan Katrina | Hurrikan Katrina vor der US-Küste, 2005
+## Tod durch Wasser
+Am gefährlichsten ist nicht der Wind, sondern die Sturmflut, die der Sturm vor sich herschiebt, und starker Regen. 2005 überflutete Hurrikan Katrina New Orleans. Die Saffir-Simpson-Skala reicht von Kategorie 1 bis 5. Wärmere Ozeane machen die stärksten Stürme wahrscheinlich noch intensiver.
+- Hurrikan, Taifun, Zyklon: regionale Namen.
+- Benötigen warmes Meerwasser über ca. 26,5 °C.
+- Größte Gefahr: Sturmflut und Regen.
+
+=== fjorde
+cat: geografie
+title: Fjorde
+teaser: Von Gletschern ausgehobelte Täler, die das Meer geflutet hat – manche über 1.000 Meter tief.
+meta: Norwegen und weltweit
+cover: Fjord | Der Geirangerfjord in Norwegen
+## Entstehung
+In den Eiszeiten schoben sich Gletscher durch bestehende Flusstäler und schliffen sie zu tiefen, steilwandigen U-Tälern aus. Als das Eis schmolz, stieg der Meeresspiegel, und Salzwasser drang weit ins Land ein. An der Mündung liegt oft eine flachere Schwelle aus Moränenmaterial.
+## Norwegens Küste
+Norwegen ist das Land der Fjorde. Der Sognefjord ist über 200 Kilometer lang und bis zu 1.300 Meter tief. Durch die vielen Fjorde ist Norwegens Küste mit Inseln über 100.000 Kilometer lang. Geirangerfjord und Nærøyfjord sind UNESCO-Welterbe. Fjorde gibt es auch in Neuseeland, Chile, Kanada, Grönland und Schottland.
+img: Sognefjord | Der Sognefjord
+## Gefahr Felssturz
+Die steilen Wände sind instabil. Stürzen große Felsmassen in einen Fjord, entstehen Flutwellen. 1934 tötete eine solche Welle im Tafjord 40 Menschen. Heute werden gefährdete Felsen wie Åkneset am Geirangerfjord rund um die Uhr überwacht.
+- Von Gletschern geformte, vom Meer geflutete Täler.
+- Sognefjord: über 200 km lang, bis 1.300 m tief.
+- Felsstürze können Flutwellen auslösen.
+
+=== gletscher
+cat: geografie
+title: Gletscher
+teaser: Flüsse aus Eis, die langsam fließen – und deren Rückgang man mit bloßem Auge sieht.
+meta: Glaziologie
+cover: Gletscher | Der Aletschgletscher in der Schweiz
+## Eis, das fließt
+Gletscher entstehen, wo mehr Schnee fällt als im Sommer schmilzt. Unter dem Druck verdichtet sich der Schnee über Firn zu Eis. Ab einer gewissen Dicke wird das Eis plastisch und fließt der Schwerkraft folgend talwärts – einige Meter bis über einen Kilometer pro Jahr.
+## Formen der Landschaft
+Gletscher schleifen U-Täler aus, transportieren Gesteinsschutt und lagern ihn als Moränen ab. Viele Seen im Alpenvorland, Findlinge in Norddeutschland und die Fjorde sind Spuren eiszeitlicher Gletscher. Der Aletschgletscher in der Schweiz ist mit rund 20 Kilometern der längste der Alpen.
+img: Moräne | Seitenmoräne eines Alpengletschers
+## Rückzug
+Weltweit schmelzen die Gebirgsgletscher, seit 2000 immer schneller. In Deutschland gibt es nur noch wenige kleine Gletscher an Zugspitze und Watzmann; der Südliche Schneeferner verlor 2022 seinen Gletscherstatus. Für Regionen wie die Anden und den Himalaya sind Gletscher wichtige Wasserspeicher in der Trockenzeit.
+- Aus verdichtetem Schnee, fließen langsam talwärts.
+- Formen U-Täler, Moränen und Seen.
+- Weltweiter Rückgang, wichtige Wasserspeicher.
+
+=== eiszeiten
+cat: geografie
+title: Die Eiszeiten
+teaser: Vor 20.000 Jahren lag Eis bis Berlin – und der Meeresspiegel war 120 Meter tiefer.
+meta: Klimageschichte
+cover: Eiszeitalter | Maximale Vergletscherung Europas in der letzten Kaltzeit
+## Kalt- und Warmzeiten
+Seit etwa 2,6 Millionen Jahren befindet sich die Erde in einem Eiszeitalter, in dem sich Kalt- und Warmzeiten abwechseln – technisch leben wir in einer Warmzeit innerhalb dieses Eiszeitalters. Die letzte Kaltzeit erreichte ihren Höhepunkt vor rund 20.000 Jahren und endete vor etwa 11.700 Jahren.
+## Milanković-Zyklen
+Der Rhythmus folgt Schwankungen der Erdbahn: Die Form der Umlaufbahn, die Neigung der Erdachse und deren Taumeln ändern sich in Zyklen von etwa 100.000, 41.000 und 23.000 Jahren. Der serbische Mathematiker Milutin Milanković berechnete das. Rückkopplungen über CO₂ und Eisflächen verstärken die kleinen Anstöße.
+img: Wollhaarmammut | Das Wollhaarmammut, typisches Tier der Kaltzeit
+## Spuren in Deutschland
+Skandinavische Gletscher reichten bis nach Norddeutschland und hinterließen Findlinge, Seen und sandige Böden. Aus den Alpen schoben sich Gletscher ins Vorland – Chiemsee und Starnberger See sind Zeugen. Weil so viel Wasser im Eis gebunden war, war die Nordsee trockenes Land, „Doggerland“.
+- Abwechselnd Kalt- und Warmzeiten seit 2,6 Mio. Jahren.
+- Gesteuert durch Erdbahnzyklen (Milanković).
+- Eis bis Norddeutschland, Meeresspiegel rund 120 m tiefer.
+
+=== bodensee
+cat: geografie
+title: Der Bodensee
+teaser: Ein See, auf dem drei Länder keine Grenze ziehen – seit Jahrhunderten.
+meta: Deutschland/Österreich/Schweiz
+cover: Bodensee | Der Bodensee aus dem All
+## Das schwäbische Meer
+Der Bodensee ist mit rund 536 Quadratkilometern der größte See Deutschlands und der drittgrößte Mitteleuropas. Er wurde von Gletschern der letzten Kaltzeit ausgeschürft. Der Rhein fließt hindurch: Er mündet bei Bregenz in den Obersee und verlässt ihn bei Stein am Rhein.
+## Ein grenzenloser See
+Deutschland, Österreich und die Schweiz grenzen an den See – aber eine vertraglich festgelegte Grenze auf dem Wasser gibt es nicht. Die Schweiz geht von einer Teilung in der Mitte aus, Österreich vom „Kondominium“, einem gemeinsamen Gebiet. Im Alltag funktioniert das problemlos.
+img: Insel Mainau | Die Blumeninsel Mainau
+## Trinkwasser für Millionen
+Rund vier Millionen Menschen in Baden-Württemberg trinken Bodenseewasser, das über Fernleitungen bis nach Stuttgart gepumpt wird. Bekannt sind die Blumeninsel Mainau, die Pfahlbauten von Unteruhldingen und Friedrichshafen, wo Graf Zeppelin seine Luftschiffe baute.
+- Größter See Deutschlands, vom Rhein durchflossen.
+- Keine festgelegte Grenze auf dem Wasser.
+- Trinkwasserquelle für rund vier Millionen Menschen.
+
+=== wattenmeer
+cat: geografie
+title: Das Wattenmeer
+teaser: Zweimal am Tag Meer, zweimal Land – das größte zusammenhängende Wattgebiet der Erde liegt vor unserer Küste.
+meta: Nordsee
+cover: Wattenmeer | Priele im Wattenmeer
+## Ein Lebensraum im Wechsel
+Das Wattenmeer erstreckt sich über rund 500 Kilometer von den Niederlanden über Deutschland bis Dänemark. Bei Ebbe fallen große Flächen trocken, bei Flut sind sie überspült. Der schlickige Boden steckt voller Leben: In einem Quadratmeter Watt leben Zehntausende Schnecken, Muscheln und Würmer wie der Wattwurm.
+## Drehscheibe für Zugvögel
+Jedes Jahr rasten 10 bis 12 Millionen Zugvögel im Wattenmeer, um sich auf dem Weg zwischen Arktis und Afrika Fettreserven anzufressen. Seehunde und Kegelrobben ziehen auf Sandbänken ihre Jungen groß.
+img: Seehund | Seehund auf einer Sandbank
+## Schutz
+Das Wattenmeer ist in Deutschland durch drei Nationalparks geschützt und seit 2009 UNESCO-Weltnaturerbe. Wattwanderungen sind beliebt, aber nur mit Führung sicher, denn die Flut kommt schnell und Priele füllen sich rasch. Die Halligen sind kleine, nicht eingedeichte Inseln, die bei Sturmflut „Landunter“ melden.
+- Größtes zusammenhängendes Wattgebiet der Erde.
+- Rastplatz für Millionen Zugvögel, Kinderstube der Seehunde.
+- Nationalparks und UNESCO-Welterbe seit 2009.
+
+=== ostsee
+cat: geografie
+title: Die Ostsee
+teaser: Eines der jüngsten Meere der Welt – kaum salzig und so flach, dass man sie fast komplett leeren könnte.
+meta: Nordeuropa
+cover: Ostsee | Kreidefelsen auf Rügen
+## Ein junges Brackwassermeer
+Die Ostsee entstand nach der letzten Eiszeit, vor rund 10.000 Jahren. Sie ist im Mittel nur etwa 52 Meter tief. Weil viele Flüsse einmünden und der Austausch mit der Nordsee über die engen dänischen Meerengen gering ist, ist das Wasser brackig: im Westen etwa 1,5 Prozent Salz, im Bottnischen Meerbusen fast Süßwasser.
+## Neun Anrainer
+Deutschland, Dänemark, Schweden, Finnland, Russland, Estland, Lettland, Litauen und Polen grenzen an die Ostsee. Gezeiten spielen kaum eine Rolle. Sturmhochwasser entstehen durch Wind, der Wasser in die Buchten drückt, wie 2023 an der Schleswig-Holsteiner Küste.
+img: Ostseeküste | Steilküste an der Ostsee
+## Ein krankes Meer
+Dünger aus der Landwirtschaft lässt Algen wuchern; wenn sie absterben, verbrauchen Bakterien den Sauerstoff. Große „Todeszonen“ am Grund sind die Folge. Auf dem Meeresgrund liegen zudem rund 1,6 Millionen Tonnen Munition aus den Weltkriegen, die allmählich durchrosten.
+- Junges, flaches Brackwassermeer.
+- Kaum Gezeiten, neun Anrainerstaaten.
+- Probleme: Überdüngung, Sauerstoffmangel, Altmunition.
+
+=== zugspitze
+cat: geografie
+title: Die Zugspitze
+teaser: Deutschlands höchster Gipfel ist 2.962 Meter hoch – und teilt sich den Gipfel mit Österreich.
+meta: Bayern/Tirol
+cover: Zugspitze | Die Zugspitze im Wettersteingebirge
+## Ganz oben
+Die Zugspitze im Wettersteingebirge ist mit 2.962 Metern der höchste Berg Deutschlands. Die Grenze zu Österreich verläuft über das Gipfelplateau. 1820 erreichte der Vermessungsoffizier Josef Naus mit zwei Begleitern als Erste nachweislich den Gipfel.
+## Bahnen und Rekorde
+Eine Zahnradbahn fährt seit 1930 hinauf; die 2017 eröffnete Seilbahn Zugspitze hält Weltrekorde, etwa den höchsten Stahlbaustützen für Pendelbahnen (127 Meter). An der Wetterwarte auf dem Gipfel wird seit 1900 gemessen.
+img: Eibsee | Der Eibsee am Fuß der Zugspitze
+## Deutsche Gletscher
+Auf dem Zugspitzplatt liegen zwei der letzten Gletscher Deutschlands, der Nördliche Schneeferner und der Höllentalferner. Sie schrumpfen rapide. Im Inneren des Bergs liegt die Umweltforschungsstation Schneefernerhaus, in der Klima- und Atmosphärenforschung betrieben wird.
+- Höchster Berg Deutschlands mit 2.962 m.
+- Erstbesteigung 1820, heute Zahnrad- und Seilbahn.
+- Letzte deutsche Gletscher, die stark schrumpfen.
+
+=== bundeslaender
+cat: geografie
+title: Die 16 Bundesländer
+teaser: Drei Stadtstaaten, ein Freistaat-Trio und ein Bindestrich-Land, das es erst seit 1952 gibt.
+meta: Deutschland
+cover: Land (Deutschland) | Karte der deutschen Bundesländer
+## Groß und klein
+Deutschland besteht aus 16 Ländern. Das größte ist Bayern mit rund 70.500 Quadratkilometern, das bevölkerungsreichste Nordrhein-Westfalen mit etwa 18 Millionen Menschen. Das kleinste ist Bremen. Berlin, Hamburg und Bremen sind Stadtstaaten.
+## Freistaaten und Hansestädte
+Bayern, Sachsen und Thüringen nennen sich „Freistaat“ – historisch einfach ein anderes Wort für Republik, rechtlich ohne Unterschied. Hamburg und Bremen sind „Freie Hansestadt“. Baden-Württemberg entstand 1952 durch Volksabstimmung aus drei Ländern – das einzige Mal, dass Länder fusionierten.
+img: Bundesrat (Deutschland) | Der Bundesrat in Berlin
+## Neue und alte Länder
+Bei der Wiedervereinigung 1990 kamen Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen hinzu; Ost-Berlin wurde mit West-Berlin vereint. Eine Fusion von Berlin und Brandenburg scheiterte 1996 an der Volksabstimmung. Die Länder haben eigene Verfassungen, Parlamente und Regierungen.
+- 16 Länder, darunter drei Stadtstaaten.
+- Größtes Bayern, bevölkerungsreichstes NRW, kleinstes Bremen.
+- Baden-Württemberg ist das einzige fusionierte Land (1952).

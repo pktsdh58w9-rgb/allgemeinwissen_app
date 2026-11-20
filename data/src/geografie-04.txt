@@ -1,0 +1,186 @@
+=== mittelmeer
+cat: geografie
+title: Das Mittelmeer
+teaser: Vor sechs Millionen Jahren trocknete es fast komplett aus – und füllte sich dann womöglich in wenigen Jahren wieder.
+meta: Europa/Afrika/Asien
+cover: Mittelmeer | Das Mittelmeer aus dem All
+## Mitten zwischen Kontinenten
+Das Mittelmeer bedeckt etwa 2,5 Millionen Quadratkilometer und ist über die nur 14 Kilometer breite Straße von Gibraltar mit dem Atlantik verbunden. Weil mehr Wasser verdunstet als zufließt, strömt an der Oberfläche Atlantikwasser ein, in der Tiefe fließt salzreicheres Wasser hinaus.
+## Messinische Salinitätskrise
+Vor etwa sechs Millionen Jahren schloss sich die Verbindung zum Atlantik durch Plattenbewegungen. Das Mittelmeer verdunstete größtenteils und hinterließ kilometerdicke Salzschichten. Vor 5,3 Millionen Jahren brach der Atlantik wieder durch – nach einer Theorie in einer gewaltigen Flut, die das Becken in wenigen Jahren füllte.
+img: Straße von Gibraltar | Die Straße von Gibraltar
+## Wiege der Zivilisationen
+An seinen Ufern entstanden das antike Ägypten, Griechenland, Phönizien und Rom – die Römer nannten es „Mare Nostrum“, unser Meer. Heute ist es Urlaubsziel, Handelsroute und eine der gefährlichsten Fluchtrouten der Welt. Es erwärmt sich schneller als die Ozeane.
+- Verbindung zum Atlantik nur über die Straße von Gibraltar.
+- Fast ausgetrocknet vor rund sechs Millionen Jahren.
+- Wiege antiker Kulturen, heute auch gefährliche Fluchtroute.
+
+=== bosporus-istanbul
+cat: geografie
+title: Bosporus und Istanbul
+teaser: Eine Stadt auf zwei Kontinenten – mit drei Namen und 2.700 Jahren Geschichte.
+meta: Türkei
+cover: Bosporus | Der Bosporus mit Istanbul
+## Meerenge zwischen Kontinenten
+Der Bosporus verbindet das Schwarze Meer mit dem Marmarameer und trennt Europa von Asien. Er ist etwa 30 Kilometer lang und an der schmalsten Stelle rund 700 Meter breit. Für Russland und die Ukraine ist er der einzige Seeweg vom Schwarzen Meer ins Mittelmeer; der Vertrag von Montreux (1936) regelt die Durchfahrt.
+## Byzanz, Konstantinopel, Istanbul
+Griechen gründeten um 660 v. Chr. Byzantion. Kaiser Konstantin machte die Stadt 330 als Konstantinopel zur Hauptstadt des Römischen Reiches. Nach 1453 war sie als Istanbul Zentrum des Osmanischen Reiches. Hauptstadt der Türkei ist seit 1923 jedoch Ankara.
+img: Hagia Sophia | Die Hagia Sophia in Istanbul
+## Megacity
+Mit über 15 Millionen Einwohnern ist Istanbul die größte Stadt Europas. Brücken und ein Eisenbahntunnel unter dem Bosporus (Marmaray) verbinden die Kontinente. Die Stadt liegt nahe der Nordanatolischen Verwerfung; Experten erwarten ein schweres Erdbeben in den kommenden Jahrzehnten.
+- Meerenge zwischen Schwarzem Meer und Marmarameer, Grenze Europa/Asien.
+- Byzanz – Konstantinopel – Istanbul.
+- Größte Stadt Europas, akut erdbebengefährdet.
+
+=== golfstrom
+cat: geografie
+title: Der Golfstrom
+teaser: Europas Warmwasserheizung – und Forscher warnen, dass sie schwächer werden könnte.
+meta: Nordatlantik
+cover: Golfstrom | Der Golfstrom in einer Satelliten-Temperaturkarte
+## Eine warme Strömung
+Der Golfstrom transportiert warmes Wasser aus dem Golf von Mexiko an der US-Ostküste entlang nach Nordosten. Als Nordatlantikstrom erreicht er Europa. Er führt etwa 100-mal so viel Wasser wie alle Flüsse der Welt zusammen.
+## Die Umwälzpumpe
+Der Golfstrom ist Teil der Atlantischen Umwälzzirkulation (AMOC). Im Nordatlantik kühlt das Wasser ab, wird durch Verdunstung salziger, damit dichter, sinkt in die Tiefe und fließt nach Süden zurück. Dieses „Förderband“ bringt Wärme nach Norden: Norwegen hat eisfreie Häfen, obwohl es so nördlich liegt wie Alaska.
+img: Thermohaline Zirkulation | Schema der globalen Ozeanzirkulation
+## Bremst die Pumpe?
+Schmelzwasser aus Grönland und mehr Niederschlag machen das Nordatlantikwasser süßer und leichter – es sinkt schlechter ab. Messungen deuten auf eine Abschwächung hin. Ein Zusammenbruch der AMOC gilt als möglicher Kipppunkt mit starken Folgen für Europas Klima, auch wenn der Zeitpunkt sehr unsicher ist.
+- Warme Meeresströmung von der Karibik nach Europa.
+- Teil der Atlantischen Umwälzzirkulation (AMOC).
+- Mögliche Abschwächung durch Klimawandel – ein Kipppunkt.
+
+=== el-nino
+cat: geografie
+title: El Niño
+teaser: Das „Christkind“ bringt Dürre nach Australien und Regen nach Peru – und heizt die Welt zusätzlich auf.
+meta: Pazifik
+cover: El Niño | Temperaturanomalie im Pazifik während El Niño
+## Das Christkind
+Peruanische Fischer bemerkten schon vor Jahrhunderten, dass das Meer manchmal um Weihnachten herum ungewöhnlich warm wurde und die Fische ausblieben. Sie nannten das Phänomen El Niño, „das Christkind“. Normalerweise treiben Passatwinde warmes Wasser nach Westen, vor Südamerika quillt kaltes, nährstoffreiches Wasser auf.
+## Was passiert
+Bei El Niño erlahmen die Passatwinde, warmes Wasser schwappt nach Osten. Die Folgen: Starkregen und Überschwemmungen in Peru und Ecuador, Dürren und Waldbrände in Australien und Indonesien, schwächerer Monsun in Indien. Das Gegenstück mit verstärkten Passaten heißt La Niña. Zusammen nennt man das Muster ENSO.
+img: Passat (Wind) | Die Passatwinde
+## Globale Wirkung
+El Niño tritt unregelmäßig alle zwei bis sieben Jahre auf. Während eines starken El Niño steigt die globale Durchschnittstemperatur zusätzlich – viele Rekordjahre wie 1998, 2016 und 2023/24 fielen mit El Niño zusammen.
+- Erwärmung des östlichen Pazifiks durch schwache Passate.
+- Dürren in Australien, Regen in Südamerika.
+- Gegenstück La Niña; treibt globale Temperaturrekorde.
+
+=== monsun
+cat: geografie
+title: Der Monsun
+teaser: Ein Wind, der die Richtung wechselt – und über die Ernten von Milliarden Menschen entscheidet.
+meta: Süd- und Südostasien
+cover: Monsun | Monsunregen in Indien
+## Ein Wind mit Jahreszeiten
+Das Wort stammt vom arabischen „mausim“ (Jahreszeit). Im Sommer erhitzt sich der asiatische Kontinent stärker als der Indische Ozean. Über Land entsteht ein Tiefdruckgebiet, feuchte Meeresluft strömt ein und regnet ab. Im Winter kehrt sich die Windrichtung um – es wird trocken.
+## Rekordregen
+Wenn feuchte Luft an Gebirgen aufsteigt, regnet sie besonders stark ab. Cherrapunji und Mawsynram in Nordostindien zählen zu den regenreichsten Orten der Welt mit über 11.000 Millimetern pro Jahr – Deutschland bekommt etwa 800.
+img: Mawsynram | Mawsynram, einer der regenreichsten Orte der Erde
+## Segen und Gefahr
+Rund 70 Prozent des indischen Niederschlags fallen in der Monsunzeit von Juni bis September. Kommt er zu spät oder zu schwach, drohen Missernten; ist er zu stark, gibt es Überschwemmungen und Erdrutsche wie in Pakistan 2022. Auch Westafrika und Australien haben Monsunsysteme.
+- Jahreszeitlich wechselnder Wind durch Land-Meer-Temperaturunterschiede.
+- Extrem hohe Niederschläge, z. B. in Nordostindien.
+- Lebenswichtig für die Landwirtschaft, aber auch Flutgefahr.
+
+=== klimazonen
+cat: geografie
+title: Die Klimazonen der Erde
+teaser: Warum es am Äquator regnet und bei 30 Grad Breite die großen Wüsten liegen.
+meta: Klimageografie
+cover: Klimazone | Weltkarte der Klimaklassifikation nach Köppen
+## Sonne und Breitengrad
+Am Äquator steht die Sonne hoch, ihre Energie konzentriert sich auf kleine Flächen. Zu den Polen hin trifft sie flacher auf und verteilt sich. Daraus ergeben sich grob tropische, subtropische, gemäßigte und polare Zonen. Der Klimatologe Wladimir Köppen entwickelte um 1900 eine feinere Einteilung, die bis heute verwendet wird.
+## Die Hadley-Zelle
+Am Äquator steigt erwärmte, feuchte Luft auf, kühlt ab und regnet ab – daher die Regenwälder. In der Höhe strömt die nun trockene Luft polwärts und sinkt bei etwa 30 Grad Breite ab. Absinkende Luft erwärmt sich und löst Wolken auf: Dort liegen die großen Wüsten wie Sahara, Kalahari und Australiens Outback.
+img: Hadley-Zelle | Schema der globalen atmosphärischen Zirkulation
+## Deutschland
+Deutschland liegt in der gemäßigten Zone mit Westwinden, die feuchte Atlantikluft bringen. Nach Köppen ist das ein „Cfb“-Klima: warm-gemäßigt, immer feucht, warme Sommer. Mit dem Klimawandel verschieben sich die Zonen polwärts.
+- Klima hängt v. a. vom Einfallswinkel der Sonne ab.
+- Hadley-Zelle: Regen am Äquator, Wüsten bei 30° Breite.
+- Köppen-Klassifikation; Zonen verschieben sich mit dem Klimawandel.
+
+=== jahreszeiten
+cat: geografie
+title: Warum es Jahreszeiten gibt
+teaser: Nicht wegen der Entfernung zur Sonne – im Januar sind wir ihr sogar am nächsten.
+meta: Astronomie/Geografie
+cover: Jahreszeit | Schema: Erdachse und Jahreszeiten
+## Die schiefe Achse
+Die Erdachse ist um etwa 23,4 Grad gegen die Umlaufbahn geneigt. Im Nordsommer ist die Nordhalbkugel der Sonne zugeneigt: Die Sonne steht höher, die Tage sind länger, die Strahlung trifft steiler auf. Im Winter ist es umgekehrt. Auf der Südhalbkugel sind die Jahreszeiten vertauscht.
+## Nicht der Abstand
+Ein verbreiteter Irrtum: Jahreszeiten entstehen nicht durch den wechselnden Abstand zur Sonne. Die Erde ist der Sonne Anfang Januar am nächsten (Perihel) und Anfang Juli am fernsten – der Unterschied beträgt nur etwa 3 Prozent.
+img: Sommersonnenwende | Sonnenwende in Stonehenge
+## Sonnenwenden und Tagundnachtgleichen
+Am 20. oder 21. Juni steht die Sonne mittags über dem nördlichen Wendekreis – längster Tag der Nordhalbkugel. Am 21. oder 22. Dezember steht sie über dem südlichen Wendekreis. Zur Tagundnachtgleiche im März und September steht sie senkrecht über dem Äquator, Tag und Nacht sind überall fast gleich lang.
+- Ursache: Neigung der Erdachse um etwa 23,4°.
+- Abstand zur Sonne spielt kaum eine Rolle (Perihel im Januar).
+- Sonnenwenden im Juni und Dezember, Tagundnachtgleichen im März und September.
+
+=== zeitzonen
+cat: geografie
+title: Zeitzonen und Datumsgrenze
+teaser: Wer über den Pazifik fliegt, kann einen Tag verlieren – oder Silvester zweimal feiern.
+meta: Geografie
+cover: Zeitzone | Weltkarte der Zeitzonen
+## Eisenbahnen erzwingen Ordnung
+Früher hatte jede Stadt ihre eigene Ortszeit nach dem Sonnenstand. Mit den Eisenbahnen wurde das chaotisch. 1884 legte eine internationale Konferenz in Washington den Nullmeridian durch die Sternwarte von Greenwich bei London fest. Die Erde wurde in 24 Zonen zu je 15 Längengraden eingeteilt.
+## Politik schlägt Geografie
+In der Praxis folgen Zeitzonen Landesgrenzen. China nutzt eine einzige Zeitzone, obwohl es fünf geografische Zonen überspannt – im Westen geht die Sonne erst gegen 10 Uhr auf. Indien hat eine halbe Stunde Versatz (UTC+5:30), Nepal sogar eine Dreiviertelstunde (UTC+5:45). Frankreich hat mit seinen Überseegebieten die meisten Zeitzonen.
+img: Royal Observatory Greenwich | Die Sternwarte in Greenwich
+## Die Datumsgrenze
+Gegenüber von Greenwich, ungefähr am 180. Längengrad, verläuft die Datumsgrenze durch den Pazifik. Wer sie nach Westen überquert, springt einen Tag vor. Kiribati schob 1995 die Grenze, damit das ganze Land auf derselben Seite liegt – seitdem feiert es als Erstes Neujahr.
+- 1884: Nullmeridian in Greenwich, 24 Zeitzonen.
+- Zeitzonen folgen oft politischen Grenzen (z. B. China).
+- Datumsgrenze im Pazifik: einen Tag vor oder zurück.
+
+=== laengen-breitengrade
+cat: geografie
+title: Längen- und Breitengrade
+teaser: Den Breitengrad bestimmten Seefahrer schon in der Antike – für den Längengrad brauchte es eine perfekte Uhr.
+meta: Geografie/Navigation
+cover: Geographische Koordinaten | Gradnetz der Erde
+## Das Gradnetz
+Breitengrade verlaufen parallel zum Äquator (0°) bis zu den Polen (90° Nord bzw. Süd). Längengrade (Meridiane) laufen von Pol zu Pol, gezählt vom Nullmeridian in Greenwich bis 180° Ost oder West. Berlin liegt etwa bei 52,5° Nord und 13,4° Ost.
+## Breite: einfach
+Den Breitengrad kann man aus der Höhe der Sonne mittags oder des Polarsterns über dem Horizont bestimmen. Das wussten Seefahrer schon lange. Ein Breitengrad entspricht überall etwa 111 Kilometern.
+img: John Harrison | John Harrison, Erfinder des Marine-Chronometers
+## Länge: das Problem
+Für die Länge muss man die Uhrzeit am Heimathafen kennen: Eine Stunde Unterschied zur Ortszeit entspricht 15 Grad. Auf schwankenden Schiffen gingen Pendeluhren falsch, Schiffe verirrten sich und sanken. Das britische Parlament lobte 1714 einen Preis aus. Der Tischler John Harrison baute ab 1735 präzise Schiffsuhren und löste das Problem. Heute erledigt das GPS.
+- Breite: Abstand zum Äquator, Länge: Abstand zum Nullmeridian.
+- Breite über Sonnen- oder Sternhöhe bestimmbar.
+- Länge erst mit John Harrisons Schiffschronometer.
+
+=== gezeiten
+cat: geografie
+title: Ebbe und Flut
+teaser: Warum es zwei Flutberge gibt, obwohl nur ein Mond am Himmel steht.
+meta: Ozeanografie
+cover: Gezeiten | Ebbe und Flut in der Bay of Fundy
+## Die Anziehung des Mondes
+Der Mond zieht die ihm zugewandte Seite der Erde stärker an als ihren Mittelpunkt – dort entsteht ein Flutberg. Auf der abgewandten Seite ist die Anziehung schwächer als im Mittelpunkt; das Wasser „bleibt zurück“, ein zweiter Flutberg entsteht. Da sich die Erde unter beiden hinwegdreht, gibt es meist zweimal täglich Hochwasser, etwa alle 12 Stunden und 25 Minuten.
+## Spring- und Nipptide
+Auch die Sonne erzeugt Gezeiten, etwa halb so stark wie der Mond. Bei Voll- und Neumond wirken beide zusammen: Springtide mit besonders hohem Tidenhub. Bei Halbmond schwächen sie sich ab: Nipptide.
+img: Bay of Fundy | Die Bay of Fundy bei Ebbe
+## Extreme
+In der Bay of Fundy in Kanada beträgt der Tidenhub bis zu 16 Meter, weil die Bucht im Takt der Gezeiten schwingt. In der Ostsee dagegen sind es nur wenige Zentimeter. Die Gezeitenreibung bremst die Erdrotation: Die Tage werden pro Jahrhundert um etwa 1,8 Millisekunden länger, und der Mond entfernt sich um 3,8 Zentimeter pro Jahr.
+- Zwei Flutberge durch unterschiedlich starke Mondanziehung.
+- Spring- und Nipptide durch Sonne und Mond.
+- Bremst die Erdrotation, der Mond entfernt sich.
+
+=== tsunami
+cat: geografie
+title: Tsunamis
+teaser: Auf dem offenen Meer kaum einen Meter hoch, aber so schnell wie ein Jet – an der Küste eine Wasserwand.
+meta: Naturgefahren
+cover: Tsunami | Tsunami trifft 2004 auf die Küste Thailands
+## Entstehung
+Tsunamis entstehen meist, wenn bei einem Seebeben der Meeresboden ruckartig gehoben oder gesenkt wird und die gesamte Wassersäule mitbewegt. Auch Vulkanausbrüche, Erdrutsche oder Meteoriteneinschläge können sie auslösen. Das Wort ist japanisch und bedeutet „Hafenwelle“.
+## Unsichtbar schnell
+Auf offenem Ozean ist die Welle oft nur wenige Dezimeter hoch, aber Hunderte Kilometer lang und bis zu 800 km/h schnell. Erst im flachen Wasser wird sie gebremst und türmt sich auf. Ein Warnzeichen: Das Meer zieht sich plötzlich weit zurück – dann muss man sofort ins Landesinnere oder in die Höhe.
+img: Tōhoku-Erdbeben 2011 | Zerstörungen nach dem Tsunami in Japan 2011
+## Katastrophen
+Der Tsunami im Indischen Ozean am 26. Dezember 2004 tötete rund 230.000 Menschen in 14 Ländern. 2011 überflutete ein Tsunami in Japan das Kernkraftwerk Fukushima. Heute warnen Bojen und Messnetze; im Indischen Ozean gibt es seit 2006 ein Frühwarnsystem, an dem auch Deutschland beteiligt war.
+- Meist durch Seebeben ausgelöst.
+- Auf hoher See flach und extrem schnell, an der Küste meterhoch.
+- 2004 rund 230.000 Tote; heute Frühwarnsysteme.

@@ -1,0 +1,203 @@
+=== panamakanal
+cat: geografie
+title: Der Panamakanal
+teaser: 82 Kilometer, die 13.000 Kilometer Umweg um Kap Hoorn ersparen – betrieben mit Regenwasser.
+meta: Panama
+cover: Panamakanal | Schiff in den Miraflores-Schleusen
+## Ein Kanal mit Hindernissen
+Frankreich begann 1881 unter Ferdinand de Lesseps, dem Erbauer des Suezkanals, mit dem Bau – und scheiterte an Malaria, Gelbfieber und Erdrutschen; über 20.000 Arbeiter starben. Die USA übernahmen, unterstützten die Abspaltung Panamas von Kolumbien und eröffneten den Kanal 1914.
+## Schleusen statt Meereshöhe
+Anders als der Suezkanal überwindet der Panamakanal einen Höhenunterschied: Schleusen heben die Schiffe auf den 26 Meter hoch gelegenen Gatúnsee. Für jede Schleusung fließen Millionen Liter Süßwasser ins Meer. In Dürrejahren wie 2023 mussten deshalb die Durchfahrten begrenzt werden.
+img: Gatúnsee | Der Gatúnsee
+## Panama übernimmt
+1999 ging der Kanal vollständig an Panama über. 2016 wurde eine erweiterte Schleusenanlage für größere „Neopanamax“-Schiffe eröffnet. Rund fünf Prozent des Welthandels passieren den Kanal; er ist eine wichtige Einnahmequelle des Landes.
+- 1914 eröffnet nach gescheitertem französischem Versuch.
+- Schleusen heben Schiffe auf 26 m; Wasser aus dem Gatúnsee.
+- Seit 1999 in panamaischer Hand.
+
+=== suezkanal
+cat: geografie
+title: Der Suezkanal
+teaser: Ein quer stehendes Containerschiff legte 2021 sechs Tage lang einen Teil des Welthandels lahm.
+meta: Ägypten
+cover: Sueskanal | Der Suezkanal aus dem All
+## Kurzer Weg nach Asien
+Der Suezkanal verbindet das Mittelmeer mit dem Roten Meer und erspart Schiffen den Weg um Afrika. Er ist rund 193 Kilometer lang und kommt ohne Schleusen aus, weil beide Meere etwa auf gleicher Höhe liegen. Gebaut wurde er unter Ferdinand de Lesseps und 1869 eröffnet.
+## Krisen
+1956 verstaatlichte Ägyptens Präsident Nasser den Kanal. Großbritannien, Frankreich und Israel griffen an, mussten aber auf Druck der USA und der Sowjetunion abziehen – das Ende britischer Großmachtpolitik. Nach dem Sechstagekrieg war der Kanal 1967 bis 1975 gesperrt.
+img: Ever Given | Die „Ever Given“ blockiert 2021 den Kanal
+## Nadelöhr des Welthandels
+Rund zwölf Prozent des Welthandels laufen durch den Kanal. Im März 2021 lief das Containerschiff „Ever Given“ bei Sandsturm auf Grund und blockierte ihn sechs Tage. Seit Ende 2023 meiden viele Reedereien die Route wegen Angriffen der Huthi-Miliz im Roten Meer.
+- 1869 eröffnet, ohne Schleusen.
+- Suezkrise 1956 als politischer Wendepunkt.
+- Nadelöhr: 2021 „Ever Given“, seit 2023 Huthi-Angriffe.
+
+=== jangtse
+cat: geografie
+title: Jangtse und Drei-Schluchten-Damm
+teaser: Asiens längster Fluss treibt das größte Kraftwerk der Welt an – für das 1,3 Millionen Menschen umziehen mussten.
+meta: China
+cover: Jangtsekiang | Der Jangtse bei Chongqing
+## Lebensader Chinas
+Der Jangtse ist mit rund 6.300 Kilometern der längste Fluss Asiens und der drittlängste der Welt. Er entspringt im Hochland von Tibet und mündet bei Shanghai ins Ostchinesische Meer. In seinem Einzugsgebiet lebt etwa ein Drittel der chinesischen Bevölkerung.
+## Der Drei-Schluchten-Damm
+Der 2006 fertiggestellte Staudamm ist rund 2,3 Kilometer lang und 185 Meter hoch. Das Kraftwerk hat mit 22,5 Gigawatt die größte installierte Leistung der Welt. Es soll auch vor Hochwassern schützen, die früher Hunderttausende Menschen töteten.
+img: Drei-Schluchten-Talsperre | Die Drei-Schluchten-Talsperre
+## Der Preis
+Für den Stausee mussten rund 1,3 Millionen Menschen umgesiedelt werden, Städte und Kulturstätten verschwanden in den Fluten. Der Damm verändert Sedimenttransport und Ökosystem. Der Chinesische Flussdelfin (Baiji) gilt seit 2006 als ausgestorben – durch Schifffahrt, Fischerei und Verschmutzung.
+- Rund 6.300 km, längster Fluss Asiens.
+- Drei-Schluchten-Damm: größtes Kraftwerk der Welt.
+- 1,3 Mio. Umgesiedelte; der Baiji-Delfin ist ausgestorben.
+
+=== ganges
+cat: geografie
+title: Der Ganges
+teaser: Heiliger Fluss für eine Milliarde Hindus – und zugleich einer der am stärksten verschmutzten der Welt.
+meta: Indien/Bangladesch
+cover: Ganges | Ghats am Ganges in Varanasi
+## Vom Himalaya ins Delta
+Der Ganges entspringt am Gangotri-Gletscher im Himalaya und fließt rund 2.500 Kilometer durch die nordindische Tiefebene. Zusammen mit dem Brahmaputra bildet er in Bangladesch das größte Flussdelta der Welt mit den Mangrovenwäldern der Sundarbans.
+## Mutter Ganga
+Im Hinduismus ist der Fluss die Göttin Ganga. Ein Bad im Ganges soll von Sünden reinigen. In der heiligen Stadt Varanasi steigen Pilger über Treppen (Ghats) ins Wasser; an den Verbrennungs-Ghats werden Tote eingeäschert und ihre Asche dem Fluss übergeben. Zur Kumbh Mela kommen Dutzende Millionen Menschen.
+img: Kumbh Mela | Pilger bei der Kumbh Mela
+## Verschmutzung
+Abwasser von Hunderten Millionen Menschen, Industrie und Landwirtschaft belasten den Fluss stark. Programme zur Reinigung, etwa „Namami Gange“, zeigen bisher begrenzte Erfolge. Im Fluss lebt noch der seltene Gangesdelfin.
+- Rund 2.500 km vom Himalaya bis zum Delta.
+- Heiliger Fluss des Hinduismus, Zentrum Varanasi.
+- Starke Verschmutzung, Reinigungsprogramme laufen.
+
+=== mississippi
+cat: geografie
+title: Der Mississippi
+teaser: „Old Man River“ entwässert 41 Prozent der USA – und schiebt sein Delta immer weiter in den Golf.
+meta: USA
+cover: Mississippi River | Der Mississippi bei St. Louis
+## Ein riesiges Einzugsgebiet
+Der Mississippi entspringt am Lake Itasca in Minnesota und mündet nach rund 3.700 Kilometern südlich von New Orleans in den Golf von Mexiko. Mit seinem größten Nebenfluss, dem Missouri, bildet er eines der längsten Flusssysteme der Erde. Sein Einzugsgebiet umfasst Teile von 31 US-Bundesstaaten.
+## Mark Twain und der Blues
+Der Fluss war Transportweg für Baumwolle und Getreide. Mark Twain arbeitete als Lotse auf Raddampfern und setzte dem Fluss mit „Tom Sawyer“ und „Huckleberry Finn“ ein Denkmal. Im Mississippi-Delta entstand der Blues, aus dem Rock ’n’ Roll und viele andere Stile hervorgingen.
+img: Mark Twain | Mark Twain
+## Der gezähmte Fluss
+Deiche und Kanalisierung sollen Überschwemmungen verhindern – die große Flut von 1927 vertrieb Hunderttausende. Doch die Deiche halten Sediment zurück, das Mississippi-Delta in Louisiana versinkt und verliert jedes Jahr Land. Dünger aus dem Mittleren Westen erzeugt im Golf eine sauerstoffarme „Todeszone“.
+- Rund 3.700 km, mit Missouri eines der längsten Flusssysteme.
+- Kulturell prägend: Mark Twain, Blues.
+- Deiche schützen, lassen aber das Delta schrumpfen.
+
+=== mekong
+cat: geografie
+title: Der Mekong
+teaser: Sechs Länder, ein Fluss – und die größte Binnenfischerei der Welt.
+meta: Südostasien
+cover: Mekong | Der Mekong in Laos
+## Von Tibet zum Südchinesischen Meer
+Der Mekong entspringt im Hochland von Tibet und durchfließt China, Myanmar, Laos, Thailand, Kambodscha und Vietnam. Nach rund 4.900 Kilometern mündet er in einem riesigen Delta in Vietnam – einer der Reiskammern Asiens.
+## Der Fluss, der rückwärts fließt
+Ein Naturwunder: In der Regenzeit drückt das Hochwasser des Mekong so stark, dass sein Nebenfluss Tonle Sap in Kambodscha seine Richtung umkehrt und den Tonle-Sap-See auf ein Mehrfaches seiner Fläche anschwellen lässt. Daraus entsteht eine der fischreichsten Binnengewässer-Landschaften der Welt.
+img: Tonle Sap | Schwimmendes Dorf auf dem Tonle Sap
+## Staudämme
+China und Laos haben zahlreiche Staudämme gebaut. Sie liefern Strom, verändern aber den natürlichen Wasser- und Sedimenthaushalt. Fischbestände und das Delta, das ohnehin durch den steigenden Meeresspiegel bedroht ist, leiden darunter. Hier lebt auch der Mekong-Riesenwels, einer der größten Süßwasserfische.
+- Rund 4.900 km durch sechs Länder.
+- Tonle Sap kehrt in der Regenzeit seine Fließrichtung um.
+- Staudämme bedrohen Fischerei und Delta.
+
+=== venedig
+cat: geografie
+title: Venedig
+teaser: Eine Stadt auf Millionen Holzpfählen – die gegen das Meer und die Touristen kämpft.
+meta: Italien
+cover: Venedig | Der Canal Grande in Venedig
+## Gebaut auf Pfählen
+Venedig liegt auf über 100 Inseln in einer Lagune. Ab dem 5. Jahrhundert flohen Menschen vor Germanen und Hunnen dorthin. Die Häuser ruhen auf Millionen Holzpfählen aus Lärche und Eiche, die unter Wasser ohne Sauerstoff kaum verrotten. Rund 150 Kanäle und über 400 Brücken durchziehen die Stadt.
+## Republik der Kaufleute
+Über 1.000 Jahre war Venedig eine eigenständige Republik unter einem gewählten Dogen und beherrschte den Handel im östlichen Mittelmeer. Erst Napoleon beendete 1797 ihre Unabhängigkeit. Der Markusdom und der Dogenpalast zeugen vom Reichtum.
+img: MOSE (Venedig) | Mobile Fluttore des MOSE-Systems
+## Acqua alta und Overtourism
+Bei Hochwasser (acqua alta) steht der Markusplatz unter Wasser. Seit 2020 schützt das Flutsperrsystem MOSE mit beweglichen Toren die Lagune. Zugleich sinkt die Einwohnerzahl der Altstadt auf unter 50.000, während jährlich Millionen Touristen kommen; seit 2024 gibt es eine Eintrittsgebühr für Tagesbesucher.
+- Auf über 100 Inseln und Holzpfählen erbaut.
+- Mächtige Handelsrepublik bis 1797.
+- Kampf gegen Hochwasser (MOSE) und Massentourismus.
+
+=== niederlande-deiche
+cat: geografie
+title: Die Niederlande und das Meer
+teaser: Ein Viertel des Landes liegt unter dem Meeresspiegel – „Gott schuf die Welt, die Niederländer schufen die Niederlande“.
+meta: Niederlande
+cover: Deltawerke | Das Oosterscheldekering der Deltawerke
+## Land aus dem Meer
+Seit dem Mittelalter bauen Niederländer Deiche und legen Feuchtgebiete trocken. Windmühlen pumpten das Wasser aus den Poldern. Etwa ein Viertel des Landes liegt unter dem Meeresspiegel, der tiefste Punkt bei etwa −6,7 Metern. Die Provinz Flevoland wurde im 20. Jahrhundert vollständig dem Meer abgerungen.
+## Die Flutkatastrophe 1953
+In der Nacht zum 1. Februar 1953 brachen bei einer Sturmflut Deiche in Zeeland. Über 1.800 Menschen starben. Daraufhin entstanden die Deltawerke, ein System aus Dämmen und Sturmflutwehren – eines der größten Wasserbauprojekte der Welt. Schon 1932 hatte der Abschlussdeich die Zuiderzee in das IJsselmeer verwandelt.
+img: Kinderdijk | Windmühlen von Kinderdijk
+## Raum für den Fluss
+Heute setzen die Niederlande nicht nur auf höhere Deiche, sondern auch auf „Raum für den Fluss“: Überflutungsflächen, die bei Hochwasser volllaufen dürfen. Angesichts des steigenden Meeresspiegels gelten sie als Vorreiter im Küstenschutz.
+- Rund ein Viertel des Landes unter dem Meeresspiegel.
+- Flutkatastrophe 1953 führte zu den Deltawerken.
+- Moderne Strategie: Flüssen Raum geben.
+
+=== megastaedte
+cat: geografie
+title: Megastädte
+teaser: Tokio, Delhi, Shanghai: Mehr als die Hälfte der Menschheit lebt in Städten.
+meta: Stadtgeografie
+cover: Megastadt | Tokio bei Nacht
+## Was ist eine Megastadt?
+Als Megastadt gelten Ballungsräume mit über zehn Millionen Einwohnern. 1950 gab es nur zwei: New York und Tokio. Heute sind es über 30. Die größten nach UN-Angaben sind Tokio, Delhi und Shanghai, je nach Abgrenzung auch Jakarta oder Dhaka.
+## Seit 2007 städtisch
+Seit etwa 2007 lebt mehr als die Hälfte der Weltbevölkerung in Städten, bis 2050 sollen es rund zwei Drittel sein. Am schnellsten wachsen Städte in Afrika und Südasien – Lagos, Kinshasa und Dhaka gehören zu den am rasantesten wachsenden Metropolen.
+img: Dhaka | Dhaka, eine der dichtesten Städte der Welt
+## Chancen und Probleme
+Städte bieten Arbeit, Bildung und Gesundheitsversorgung und sind effizienter pro Kopf. Doch viele Megastädte kämpfen mit Slums, Verkehr, Luftverschmutzung und Wasserknappheit. Etwa eine Milliarde Menschen leben in informellen Siedlungen. Jakarta sinkt so stark, dass Indonesien eine neue Hauptstadt auf Borneo baut.
+- Megastadt: über zehn Millionen Einwohner, heute über 30.
+- Seit 2007 lebt die Mehrheit der Menschen in Städten.
+- Herausforderungen: Slums, Verkehr, Umwelt.
+
+=== weltbevoelkerung
+cat: geografie
+title: Die Weltbevölkerung
+teaser: Für die erste Milliarde brauchte die Menschheit 200.000 Jahre, für die achte nur zwölf.
+meta: Demografie
+cover: Weltbevölkerung | Entwicklung der Weltbevölkerung
+## Ein steiler Anstieg
+Um 1804 lebte erstmals eine Milliarde Menschen auf der Erde. 1927 waren es zwei, 1974 vier und im November 2022 acht Milliarden. Gründe sind vor allem bessere Ernährung, Hygiene und Medizin, die die Kindersterblichkeit drastisch senkten.
+## Der demografische Übergang
+In vielen Ländern folgt auf sinkende Sterblichkeit mit Verzögerung sinkende Geburtenzahlen – wenn Bildung, besonders von Frauen, Wohlstand und Altersvorsorge zunehmen. Die durchschnittliche Kinderzahl pro Frau weltweit ist von etwa fünf (1950) auf unter 2,3 gefallen.
+img: Indien | Menschenmenge in Indien
+## Wie geht es weiter?
+Seit 2023 ist Indien bevölkerungsreicher als China. Die UN erwartet einen Höhepunkt von rund 10,3 Milliarden Menschen in den 2080er Jahren, danach einen leichten Rückgang. Während Länder wie Japan, Südkorea und Deutschland altern und schrumpfen, wächst die Bevölkerung in Subsahara-Afrika noch stark.
+- Acht Milliarden Menschen seit November 2022.
+- Demografischer Übergang: Geburtenraten sinken mit Bildung und Wohlstand.
+- Prognose: Höhepunkt um 10,3 Mrd. in den 2080ern.
+
+=== zwergstaaten
+cat: geografie
+title: Vatikanstadt und die Zwergstaaten
+teaser: Der kleinste Staat der Welt ist kleiner als viele Stadtparks – und hat trotzdem eine eigene Armee.
+meta: Europa
+cover: Vatikanstadt | Petersplatz und Petersdom
+## Der Vatikan
+Die Vatikanstadt ist mit 0,44 Quadratkilometern der kleinste Staat der Welt, mitten in Rom. Sie entstand 1929 durch die Lateranverträge zwischen Papst und dem italienischen Staat. Staatsoberhaupt ist der Papst, Staatsbürger sind vor allem Kardinäle, Diplomaten und die Schweizergarde – die kleinste Armee der Welt.
+## Weitere Mini-Staaten
+Europa hat mehrere Zwergstaaten: Monaco (zweitkleinster Staat, extrem dicht besiedelt), San Marino (älteste bestehende Republik, seit 301 der Legende nach), Liechtenstein (ohne Armee, mit einer der höchsten Wirtschaftsleistungen pro Kopf) und Andorra, das zwei Staatsoberhäupter hat: den französischen Präsidenten und einen spanischen Bischof.
+img: Schweizergarde | Die Schweizergarde
+## Warum gibt es sie?
+Zwergstaaten sind Überbleibsel aus der Zeit vor den großen Nationalstaaten. Viele leben von Tourismus, Finanzdienstleistungen und günstigen Steuern. Liechtenstein und Usbekistan sind übrigens die beiden einzigen „doppelten Binnenstaaten“: Sie sind nur von Ländern ohne Meerzugang umgeben.
+- Vatikanstadt: 0,44 km², seit 1929 souverän.
+- Monaco, San Marino, Liechtenstein, Andorra als weitere Zwergstaaten.
+- Historische Relikte, oft Finanz- und Tourismuszentren.
+
+=== russland
+cat: geografie
+title: Russland
+teaser: Das größte Land der Erde erstreckt sich über elf Zeitzonen – und ist größer als Pluto.
+meta: Europa/Asien
+cover: Russland | Satellitenbild Russlands
+## Rekordfläche
+Mit rund 17,1 Millionen Quadratkilometern ist Russland fast doppelt so groß wie Kanada, das zweitgrößte Land. Es erstreckt sich über elf Zeitzonen und zwei Kontinente; der Ural gilt als Grenze zwischen Europa und Asien. Die Oberfläche von Pluto beträgt übrigens etwa 16,7 Millionen Quadratkilometer.
+## Wo die Menschen leben
+Von etwa 146 Millionen Einwohnern lebt die große Mehrheit im europäischen Teil im Westen. Moskau ist mit über 13 Millionen Einwohnern die größte Stadt, gefolgt von St. Petersburg. Weite Teile Sibiriens und des Fernen Ostens sind nahezu menschenleer.
+img: Kreml | Der Moskauer Kreml
+## Rohstoffe und Grenzen
+Russland verfügt über die größten Erdgasreserven der Welt, große Ölvorkommen, Holz und Metalle. Es grenzt an 14 Staaten – so viele wie kein anderes Land außer China. Mit Kaliningrad besitzt es eine Exklave zwischen Polen und Litauen. Die Wolga ist mit rund 3.530 Kilometern Europas längster Fluss.
+- 17,1 Mio. km², elf Zeitzonen.
+- Bevölkerung konzentriert sich im europäischen Teil.
+- Rohstoffreich, 14 Nachbarstaaten, Exklave Kaliningrad.

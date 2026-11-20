@@ -1,0 +1,169 @@
+=== totes-meer
+cat: geografie
+title: Das Tote Meer
+teaser: Der tiefste Punkt an Land – so salzig, dass man nicht untergehen kann. Und es schrumpft jedes Jahr um einen Meter.
+meta: Israel/Jordanien
+cover: Totes Meer | Salzformationen am Toten Meer
+## Am tiefsten Punkt
+Die Uferzone des Toten Meeres liegt rund 430 Meter unter dem Meeresspiegel – der tiefste Landpunkt der Erde. Der See hat keinen Abfluss; Wasser verlässt ihn nur durch Verdunstung. Dadurch reichern sich Salze an: Der Salzgehalt liegt bei etwa 34 Prozent, rund zehnmal so viel wie im Ozean.
+## Schwerelos baden
+Die hohe Dichte lässt Menschen an der Oberfläche treiben. Außer einigen Mikroorganismen kann hier nichts leben – daher der Name. Das Wasser enthält viel Magnesium- und Calciumchlorid, was es ölig wirken lässt. Die Mineralien werden für Kosmetik und Dünger abgebaut.
+img: Jordan (Fluss) | Der Jordan, wichtigster Zufluss des Toten Meeres
+## Ein sterbender See
+Weil Israel, Jordanien und Syrien das Wasser des Jordan abzweigen, sinkt der Spiegel um etwa einen Meter pro Jahr. Am Ufer entstehen gefährliche Erdfälle, wenn Süßwasser unterirdische Salzschichten auflöst. Pläne für eine Pipeline vom Roten Meer kamen bisher nicht voran.
+- Tiefster Landpunkt der Erde, rund −430 m.
+- Salzgehalt etwa 34 % – man treibt an der Oberfläche.
+- Sinkt jährlich um rund einen Meter.
+
+=== kaspisches-meer
+cat: geografie
+title: Das Kaspische Meer
+teaser: Ist es ein Meer oder ein See? Die Antwort entscheidet über Milliarden an Öl und Gas.
+meta: Zentralasien/Europa
+cover: Kaspisches Meer | Das Kaspische Meer aus dem All
+## Der größte See der Erde
+Mit etwa 371.000 Quadratkilometern ist das Kaspische Meer das größte Binnengewässer der Welt – fast so groß wie Deutschland und Polen zusammen. Es ist ein Rest des urzeitlichen Paratethys-Meeres, hat keinen Abfluss und ist leicht salzig. Sein Spiegel liegt etwa 28 Meter unter dem Meeresspiegel.
+## Fünf Anrainer
+Russland, Kasachstan, Turkmenistan, Iran und Aserbaidschan grenzen an das Gewässer. Ob See oder Meer, war jahrzehntelang strittig, weil davon die Aufteilung der Bodenschätze abhängt. 2018 einigte man sich auf einen Sonderstatus. Unter dem Boden lagern große Öl- und Gasvorkommen, etwa bei Baku.
+img: Baku | Baku, Hauptstadt Aserbaidschans, am Kaspischen Meer
+## Kaviar und Wolga
+Der Hauptzufluss ist die Wolga, die rund 80 Prozent des Wassers liefert. Die Störe des Kaspischen Meeres sind Quelle des echten Kaviars – Überfischung hat sie an den Rand des Aussterbens gebracht. Der Wasserspiegel sinkt zurzeit, unter anderem durch Erwärmung und Wasserentnahme.
+- Größter See der Erde (ca. 371.000 km²).
+- Fünf Anrainer, Sonderstatus seit 2018, reich an Öl und Gas.
+- Hauptzufluss Wolga; Störe für Kaviar sind bedroht.
+
+=== great-barrier-reef
+cat: geografie
+title: Das Great Barrier Reef
+teaser: Das größte von Lebewesen gebaute Gebilde der Erde – und es bleicht immer öfter aus.
+meta: Australien
+cover: Great Barrier Reef | Luftaufnahme des Great Barrier Reef
+## Ein Bauwerk aus Polypen
+Vor der Nordostküste Australiens erstreckt sich das Riff über rund 2.300 Kilometer. Es besteht aus etwa 3.000 Einzelriffen und 900 Inseln. Gebaut haben es Milliarden winziger Korallenpolypen, die Kalkskelette abscheiden. In ihrem Gewebe leben Algen (Zooxanthellen), die per Photosynthese Nährstoffe liefern und die Farbe geben.
+## Vielfalt
+Im Riff leben über 1.500 Fischarten, 400 Korallenarten, Schildkröten, Haie, Dugongs und Wale. Es ist UNESCO-Welterbe und ein wichtiger Wirtschaftsfaktor für Tourismus und Fischerei.
+img: Korallenbleiche | Ausgebleichte Korallen
+## Korallenbleiche
+Steigt die Wassertemperatur nur ein bis zwei Grad über das Sommermittel, stoßen die Korallen ihre Algen ab und werden weiß. Bleibt es zu lange zu warm, sterben sie. Seit 2016 gab es mehrere massive Bleichen. Hinzu kommen Versauerung, Nährstoffe aus der Landwirtschaft und Dornenkronenseesterne.
+- Rund 2.300 km lang, aus etwa 3.000 Einzelriffen.
+- Korallenpolypen leben in Symbiose mit Algen.
+- Wiederholte Massenbleichen durch Meereserwärmung.
+
+=== galapagos
+cat: geografie
+title: Die Galápagos-Inseln
+teaser: Finken, Riesenschildkröten und Meerechsen, die tauchen – hier fand Darwin Hinweise auf die Evolution.
+meta: Ecuador, Pazifik
+cover: Galápagos-Inseln | Riesenschildkröte auf Galápagos
+## Vulkaninseln am Äquator
+Die Inselgruppe liegt etwa 1.000 Kilometer vor Ecuador im Pazifik. Sie entstand über einem Hotspot, aus dem Magma aufsteigt; die Inseln wandern mit der Nazca-Platte und sind unterschiedlich alt. Kalte Meeresströmungen sorgen dafür, dass am Äquator sogar Pinguine leben.
+## Darwins Besuch
+1835 blieb Charles Darwin auf seiner Weltreise mit der „Beagle“ fünf Wochen. Ihm fiel auf, dass sich Spottdrosseln und Riesenschildkröten von Insel zu Insel unterschieden. Später erkannte er bei den Finken unterschiedliche Schnabelformen, je nach Nahrung. Das floss in seine Theorie der natürlichen Selektion ein.
+img: Meerechse | Meerechse – die einzige im Meer tauchende Echse
+## Bedrohtes Paradies
+Viele Arten gibt es nur hier, darunter Meerechsen, Galápagos-Kormorane, die nicht fliegen können, und Riesenschildkröten. Eingeschleppte Ziegen, Ratten und Pflanzen sowie Tourismus bedrohen das Ökosystem. Die Inseln waren 1978 das erste UNESCO-Weltnaturerbe.
+- Vulkanische Inseln über einem Hotspot, ca. 1.000 km vor Ecuador.
+- Darwins Beobachtungen 1835 prägten die Evolutionstheorie.
+- Viele endemische Arten, erstes UNESCO-Welterbe.
+
+=== hawaii
+cat: geografie
+title: Hawaii
+teaser: Eine Inselkette wie auf einem Fließband: Die Platte wandert, der Hotspot bleibt.
+meta: USA, Pazifik
+cover: Hawaii | Lava des Kīlauea fließt ins Meer
+## Der Hotspot
+Unter Hawaii steigt heißes Mantelmaterial auf – ein Hotspot. Die Pazifische Platte gleitet darüber hinweg nach Nordwesten, etwa sieben bis zehn Zentimeter pro Jahr. So entsteht eine Inselkette: Die jüngste Insel, Big Island, ist vulkanisch aktiv, die älteren im Nordwesten sind erloschen und erodieren.
+## Der höchste Berg?
+Mauna Kea ragt 4.207 Meter über das Meer – vom Meeresboden aus gemessen über 10.000 Meter, mehr als der Everest. Auf seinem Gipfel stehen bedeutende Teleskope, deren Bau mit den Rechten der indigenen Hawaiianer kollidiert. Kīlauea gehört zu den aktivsten Vulkanen der Erde.
+img: Mauna Kea | Observatorien auf dem Mauna Kea
+## Schildvulkane
+Hawaiis Vulkane sind Schildvulkane mit sehr flüssiger, basaltischer Lava. Ausbrüche sind meist nicht explosiv, Lava fließt in Strömen. Unter dem Meer entsteht bereits die nächste Insel, Kamaʻehuakanaloa (früher Lōʻihi) – in zehntausenden Jahren wird sie die Oberfläche erreichen.
+- Inselkette über einem Hotspot, Pazifische Platte wandert.
+- Mauna Kea: vom Meeresboden über 10.000 m hoch.
+- Schildvulkane mit flüssiger Lava; neue Insel entsteht unter Wasser.
+
+=== yellowstone
+cat: geografie
+title: Yellowstone
+teaser: Der erste Nationalpark der Welt liegt auf einem Supervulkan.
+meta: USA
+cover: Yellowstone-Nationalpark | Grand Prismatic Spring
+## Erster Nationalpark
+1872 wurde Yellowstone in Wyoming, Montana und Idaho zum ersten Nationalpark der Welt erklärt. Er ist berühmt für Bisonherden, Grizzlybären und Wölfe, die 1995 erfolgreich wieder angesiedelt wurden. Ihre Rückkehr veränderte das gesamte Ökosystem.
+## Geysire und heiße Quellen
+Yellowstone beherbergt rund die Hälfte aller Geysire der Welt. Der bekannteste, „Old Faithful“, bricht etwa alle 60 bis 110 Minuten aus. Die Farben der Grand Prismatic Spring stammen von hitzeliebenden Mikroorganismen – aus einem davon (<i>Thermus aquaticus</i>) stammt die Taq-Polymerase, die die PCR möglich machte.
+img: Old Faithful | Der Geysir Old Faithful
+## Der Supervulkan
+Unter dem Park liegt eine riesige Magmakammer. Vor 2,1 Millionen, 1,3 Millionen und 640.000 Jahren gab es gewaltige Ausbrüche, die eine Caldera von etwa 70 mal 45 Kilometern hinterließen. Ein „überfälliger“ Ausbruch ist ein Mythos: Die Magmakammer ist größtenteils fest, ein Superausbruch in naher Zukunft gilt als sehr unwahrscheinlich.
+- 1872 erster Nationalpark der Welt.
+- Hälfte aller Geysire, Old Faithful, bunte Thermalquellen.
+- Supervulkan mit Caldera – aktuell keine Anzeichen eines Großausbruchs.
+
+=== pazifischer-feuerring
+cat: geografie
+title: Der Pazifische Feuerring
+teaser: Ein 40.000 Kilometer langer Gürtel aus Vulkanen und Erdbeben rund um den Pazifik.
+meta: Pazifikraum
+cover: Pazifischer Feuerring | Karte des Pazifischen Feuerrings
+## Wo Platten abtauchen
+Rund um den Pazifik tauchen ozeanische Platten unter andere Platten ab: vor Südamerika, Nordamerika, Japan, den Philippinen, Indonesien und Neuseeland. Dabei schmilzt Gestein, Magma steigt auf, und es entstehen Vulkanketten. Gleichzeitig verhaken sich die Platten und lösen Erdbeben aus.
+## Drei Viertel aller Vulkane
+Etwa 75 Prozent der aktiven Vulkane der Erde liegen am Feuerring, und rund 90 Prozent aller Erdbeben ereignen sich hier. Dazu gehören der Fuji, der Mount St. Helens, der Pinatubo und der Krakatau.
+img: Mount St. Helens | Ausbruch des Mount St. Helens 1980
+## Katastrophen
+Viele der schwersten Beben fanden hier statt: Chile 1960 (Magnitude 9,5), Alaska 1964 (9,2), Sumatra 2004 (9,1) mit dem verheerenden Tsunami, Japan 2011 (9,0) mit der Fukushima-Katastrophe. Länder wie Japan und Chile bauen deshalb besonders erdbebensicher.
+- Hufeisenförmige Zone rund um den Pazifik, ca. 40.000 km.
+- Rund 75 % der aktiven Vulkane, 90 % der Erdbeben.
+- Ort der stärksten Erdbeben der Geschichte.
+
+=== antarktis
+cat: geografie
+title: Die Antarktis
+teaser: Der kälteste, trockenste, windigste Kontinent – und er gehört niemandem.
+meta: Südpol
+cover: Antarktika | Eisberg in der Antarktis
+## Ein Kontinent aus Eis
+Antarktika ist mit rund 14 Millionen Quadratkilometern größer als Europa. Fast alles ist von Eis bedeckt, im Mittel fast zwei Kilometer, stellenweise fast fünf Kilometer dick. Das Eis enthält etwa 70 Prozent des Süßwassers der Erde – würde es schmelzen, stiege der Meeresspiegel um rund 58 Meter.
+## Rekorde
+An der russischen Station Wostok wurden 1983 −89,2 °C gemessen, Satelliten zeigen Werte unter −90 °C. Die Antarktis ist zugleich eine Wüste: Im Inneren fällt kaum Niederschlag. In den „Dry Valleys“ hat es seit Millionen Jahren nicht geschneit.
+img: Kaiserpinguin | Kaiserpinguine
+## Der Antarktisvertrag
+Der Antarktisvertrag von 1959 bestimmt, dass der Kontinent nur friedlich und wissenschaftlich genutzt wird; Gebietsansprüche ruhen, Rohstoffabbau ist verboten. Im Sommer arbeiten einige tausend Forschende dort, auch an der deutschen Station Neumayer III. Eisbohrkerne verraten das Klima der letzten 800.000 Jahre.
+- Rund 14 Mio. km², fast vollständig von Eis bedeckt.
+- Kältester Ort: unter −89 °C; zugleich eine Wüste.
+- Antarktisvertrag: nur Forschung, keine Ansprüche.
+
+=== arktis
+cat: geografie
+title: Die Arktis
+teaser: Kein Kontinent, sondern ein gefrorener Ozean – der sich viermal schneller erwärmt als der Rest der Welt.
+meta: Nordpol
+cover: Arktis | Packeis im Arktischen Ozean
+## Ein Meer mit Eisdeckel
+Anders als die Antarktis ist die Arktis kein Kontinent, sondern das Nordpolarmeer, umgeben von Nordamerika, Grönland, Skandinavien und Russland. Das Meereis ist meist nur wenige Meter dick. Am Nordpol selbst steht man also auf schwimmendem Eis.
+## Arktische Verstärkung
+Die Arktis erwärmt sich etwa viermal so schnell wie der globale Durchschnitt. Ein Grund: Schmilzt helles Eis, kommt dunkles Wasser zum Vorschein, das mehr Sonnenlicht absorbiert – ein sich selbst verstärkender Effekt (Albedo-Rückkopplung). Die sommerliche Eisfläche ist seit 1979 um rund 40 Prozent geschrumpft.
+img: Eisbär | Eisbär auf Meereis
+## Neue Seewege, neue Konflikte
+Mit dem schmelzenden Eis öffnen sich die Nordostpassage entlang Russlands und die Nordwestpassage durch Kanada. Anrainer streiten um Rohstoffe unter dem Meeresboden. Eisbären, die auf Meereis jagen, verlieren ihren Lebensraum. Rund vier Millionen Menschen leben in der Arktis, darunter indigene Völker wie die Inuit und Samen.
+- Nordpolarmeer mit schwimmendem Meereis.
+- Erwärmt sich etwa viermal so schnell wie der globale Schnitt.
+- Neue Seewege und Rohstoffkonflikte durch Eisschmelze.
+
+=== groenland
+cat: geografie
+title: Grönland
+teaser: Die größte Insel der Welt – grün ist sie kaum, und sein Eis könnte die Meere um sieben Meter heben.
+meta: Dänemark (autonom)
+cover: Grönland | Eisberge vor Ilulissat
+## Grünes Land?
+Grönland ist mit rund 2,2 Millionen Quadratkilometern die größte Insel der Erde (Australien zählt als Kontinent). Etwa 80 Prozent sind von Eis bedeckt. Der Name geht auf den Wikinger Erik den Roten zurück, der um 985 Siedler anlocken wollte – Marketing im Mittelalter.
+## Eisschild
+Der grönländische Eisschild ist bis zu drei Kilometer dick. Würde er komplett schmelzen, stiege der Meeresspiegel um etwa sieben Meter. Er verliert derzeit jedes Jahr Hunderte Milliarden Tonnen Eis. Vom Jakobshavn-Gletscher bei Ilulissat könnte der Eisberg stammen, der die Titanic versenkte.
+img: Ilulissat-Eisfjord | Der Ilulissat-Eisfjord
+## Politik
+Grönland gehört zum Königreich Dänemark, ist aber weitgehend autonom. Die rund 57.000 Einwohner, überwiegend Inuit, diskutieren über volle Unabhängigkeit. Wegen seiner Lage zwischen Nordamerika und Europa und seiner Rohstoffe ist Grönland strategisch begehrt – das Interesse der USA sorgt immer wieder für Schlagzeilen.
+- Größte Insel der Welt, rund 80 % Eis.
+- Eisschmelze könnte den Meeresspiegel um ca. 7 m heben.
+- Autonomer Teil Dänemarks mit strategischer Bedeutung.

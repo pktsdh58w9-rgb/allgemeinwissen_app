@@ -1,0 +1,203 @@
+=== sibirien
+cat: geografie
+title: Sibirien
+teaser: Größer als die USA und Europa zusammen, aber kaum bewohnt – mit dem kältesten bewohnten Ort der Erde.
+meta: Russland
+cover: Sibirien | Taiga in Sibirien
+## Riesig und leer
+Sibirien erstreckt sich vom Ural bis zum Pazifik und umfasst rund 13 Millionen Quadratkilometer – etwa drei Viertel Russlands. Dort leben aber nur rund 35 Millionen Menschen. Der Name leitet sich vermutlich vom Khanat Sibir ab, das die Russen im 16. Jahrhundert eroberten.
+## Kältepol
+In Oimjakon und Werchojansk wurden unter −67 °C gemessen – die tiefsten Temperaturen bewohnter Orte. Im Sommer kann es dagegen über 30 °C heiß werden. Diese extreme Spanne ist typisch für das Kontinentalklima fernab der Meere.
+img: Transsibirische Eisenbahn | Zug der Transsibirischen Eisenbahn
+## Schatzkammer und Verbannungsort
+Sibirien ist reich an Öl, Gas, Gold, Diamanten und Nickel – Grundlage der russischen Wirtschaft. Die Transsibirische Eisenbahn verbindet Moskau auf über 9.000 Kilometern mit Wladiwostok. Unter den Zaren und in der Sowjetunion war Sibirien Ort der Verbannung und der Gulag-Lager.
+- Etwa drei Viertel Russlands, aber dünn besiedelt.
+- Oimjakon: kältester bewohnter Ort (unter −67 °C).
+- Reich an Rohstoffen, historisch Verbannungsort.
+
+=== permafrost
+cat: geografie
+title: Permafrost
+teaser: Ein Viertel der Landfläche der Nordhalbkugel ist dauerhaft gefroren – und taut jetzt auf.
+meta: Arktis, Hochgebirge
+cover: Permafrost | Tauender Permafrost in Sibirien
+## Was ist Permafrost?
+Als Permafrost bezeichnet man Boden, der mindestens zwei Jahre ununterbrochen gefroren ist. In Sibirien reicht er stellenweise über 1.000 Meter tief. Nur die oberste Schicht taut im Sommer auf. Auch in den Alpen gibt es Permafrost in Höhen über etwa 2.500 Metern.
+## Gespeicherter Kohlenstoff
+Im Permafrost lagern abgestorbene Pflanzen und Tiere aus Jahrtausenden, die nie verrotten konnten – rund 1.500 Milliarden Tonnen Kohlenstoff, etwa doppelt so viel wie in der Atmosphäre. Taut der Boden, zersetzen Mikroben das Material und setzen CO₂ und Methan frei. Das kann die Erwärmung weiter beschleunigen.
+img: Batagaika-Krater | Der Batagaika-Krater in Sibirien
+## Sichtbare Folgen
+Häuser, Pipelines und Straßen auf tauendem Boden sacken ab. Der Batagaika-Krater in Sibirien wächst jedes Jahr. Man findet gut erhaltene Mammuts – und Wissenschaftler haben sogar uralte Viren wiederbelebt, die im Eis überdauert hatten.
+- Dauerhaft gefrorener Boden, v. a. in Sibirien, Kanada, Alaska.
+- Speichert rund doppelt so viel Kohlenstoff wie die Atmosphäre.
+- Tauen setzt CO₂ und Methan frei und beschädigt Infrastruktur.
+
+=== gobi
+cat: geografie
+title: Die Wüste Gobi
+teaser: Eine Kältewüste mit Dinosaurier-Nestern – und Sandstürmen, die bis Peking wehen.
+meta: Mongolei/China
+cover: Gobi | Dünen in der Wüste Gobi
+## Kalt und trocken
+Die Gobi erstreckt sich über rund 1,3 Millionen Quadratkilometer in der Mongolei und Nordchina. Sie liegt im Regenschatten des Himalaya. Weil sie hoch und weit vom Meer entfernt liegt, schwanken die Temperaturen extrem: von über 40 °C im Sommer bis −40 °C im Winter. Der größte Teil ist Fels- und Kieswüste, nicht Sand.
+## Dinosaurier
+In den 1920ern fand der Amerikaner Roy Chapman Andrews in der Gobi die ersten bekannten Dinosaurier-Eier. Die Flammenden Klippen von Bayanzag sind eine der reichsten Fundstellen der Welt; dort wurden etwa Velociraptor und Protoceratops ausgegraben.
+img: Velociraptor | Skelett eines Velociraptor
+## Die Wüste wächst
+Überweidung und Klimawandel lassen die Gobi wachsen. Staubstürme wehen bis nach Peking und Korea. China pflanzt deshalb seit Jahrzehnten die „Große Grüne Mauer“, einen riesigen Waldgürtel – mit gemischtem Erfolg. Hier leben auch die seltenen Wildkamele und Gobibären.
+- Kältewüste in Mongolei und China, extreme Temperaturen.
+- Berühmte Dinosaurierfunde, erste Dino-Eier.
+- Wachsende Wüste, Staubstürme bis Peking.
+
+=== atacama
+cat: geografie
+title: Die Atacama
+teaser: Der trockenste Ort der Erde außerhalb der Pole – hier testet die NASA ihre Marsrover.
+meta: Chile
+cover: Atacama | Das Valle de la Luna in der Atacama
+## Fast kein Regen
+In manchen Teilen der Atacama im Norden Chiles wurde jahrzehntelang kein Niederschlag gemessen. Gründe sind der kalte Humboldtstrom vor der Küste, der kaum Wolken bildet, die Anden, die feuchte Luft aus dem Osten abhalten, und ein stabiles Hochdruckgebiet.
+## Wie auf dem Mars
+Der Boden ist so trocken und salzhaltig, dass kaum Leben existiert. NASA und ESA testen hier Rover und Instrumente für die Suche nach Leben auf dem Mars. Selten fällt doch einmal Regen – dann erblüht die Wüste in einem bunten Blütenmeer, dem „desierto florido“.
+img: Atacama Large Millimeter/submillimeter Array | Antennen des ALMA-Observatoriums
+## Fenster zum All
+Die trockene, klare Luft in großer Höhe ist ideal für Astronomie. Hier stehen das Radioteleskop ALMA und das Very Large Telescope der Europäischen Südsternwarte; das Extremely Large Telescope ist im Bau. Außerdem lagern in der Atacama große Vorkommen an Kupfer, Salpeter und Lithium.
+- Trockenster nichtpolarer Ort der Erde.
+- Testgelände für Marsmissionen.
+- Weltklasse-Observatorien und Lithiumvorkommen.
+
+=== namib
+cat: geografie
+title: Die Namib
+teaser: Die älteste Wüste der Welt hat die höchsten Dünen – und Käfer, die Nebel trinken.
+meta: Namibia
+cover: Namib | Dünen im Sossusvlei
+## Uralt
+Die Namib erstreckt sich entlang der Atlantikküste Namibias und gilt mit 55 bis 80 Millionen Jahren als älteste Wüste der Erde. Wie bei der Atacama sorgt eine kalte Meeresströmung – hier der Benguelastrom – für Trockenheit. Im Sossusvlei erheben sich Dünen über 300 Meter hoch, rot gefärbt durch Eisenoxid.
+## Leben aus dem Nebel
+Vom Meer zieht häufig Nebel ins Land. Der Nebeltrinker-Käfer stellt sich mit dem Hinterteil in den Wind; auf seinem Panzer kondensieren Tropfen, die zum Mund rinnen. Die Welwitschia, eine bizarre Pflanze mit nur zwei Blättern, kann über 1.000 Jahre alt werden.
+img: Welwitschia mirabilis | Welwitschia mirabilis
+## Skelettküste
+Der nördliche Küstenabschnitt heißt Skelettküste – wegen der Walknochen und Schiffswracks, die dort liegen. Im Deadvlei stehen abgestorbene Kameldornbäume seit rund 600 Jahren vor weißem Lehmboden und roten Dünen, eines der meistfotografierten Motive Afrikas.
+- Älteste Wüste der Erde, Dünen über 300 m.
+- Leben vom Küstennebel, z. B. Nebeltrinker-Käfer.
+- Skelettküste und Deadvlei als ikonische Orte.
+
+=== uluru-outback
+cat: geografie
+title: Uluru und das Outback
+teaser: Ein roter Monolith mitten im Nichts – heilig für die Aborigines, seit 2019 darf ihn niemand mehr besteigen.
+meta: Australien
+cover: Uluru | Der Uluru bei Sonnenuntergang
+## Das rote Zentrum
+Der Uluru, früher Ayers Rock, ragt 348 Meter aus der flachen Ebene Zentralaustraliens. Er besteht aus Arkose-Sandstein, dessen Eisenanteil ihn rostrot färbt; bei Sonnenauf- und -untergang leuchtet er intensiv. Der größte Teil des Gesteinskörpers liegt unter der Erde.
+## Heiliger Ort
+Für die Anangu, die traditionellen Eigentümer, ist der Uluru ein heiliger Ort, verbunden mit Geschichten der „Traumzeit“. 1985 erhielten sie das Land zurück. Seit Oktober 2019 ist das Besteigen verboten. Die Aborigines leben seit mindestens 50.000 Jahren in Australien – eine der ältesten durchgehenden Kulturen der Welt.
+img: Kata Tjuṯa | Die Felsformation Kata Tjuṯa in der Nähe
+## Das Outback
+Rund 70 Prozent Australiens sind trocken oder halbtrocken. Im dünn besiedelten Outback liegen Rinderfarmen so groß wie Bundesländer; Kinder lernten früher per Funk in der „School of the Air“, Ärzte kommen per Flugzeug (Royal Flying Doctor Service).
+- Uluru: 348 m hoher Sandsteinberg im Zentrum Australiens.
+- Heilige Stätte der Anangu, Besteigung seit 2019 verboten.
+- Outback: riesige, trockene, kaum besiedelte Landschaft.
+
+=== neuseeland
+cat: geografie
+title: Neuseeland
+teaser: Das letzte große Land, das Menschen besiedelten – erst vor rund 750 Jahren.
+meta: Südpazifik
+cover: Neuseeland | Milford Sound auf der Südinsel
+## Spät entdeckt
+Polynesische Seefahrer, die Vorfahren der Māori, erreichten Neuseeland erst um 1250–1300 – als eine der letzten größeren Landmassen der Erde. 1642 kam der Niederländer Abel Tasman, 1769 James Cook. Der Vertrag von Waitangi 1840 zwischen britischer Krone und Māori-Häuptlingen ist bis heute umstritten.
+## Vögel statt Säugetiere
+Vor den Menschen gab es außer Fledermäusen keine Landsäugetiere. Vögel besetzten deren Nischen: der riesige Moa (bis 3,6 Meter), der Haastadler und der flugunfähige Kiwi, Nationalsymbol. Die Moas wurden innerhalb von etwa 150 Jahren nach Ankunft der Menschen ausgerottet.
+img: Kiwis | Ein Kiwi
+## Feuer und Eis
+Neuseeland liegt auf der Grenze zwischen Pazifischer und Australischer Platte. Die Südinsel hat die Neuseeländischen Alpen mit Gletschern und Fjorden, die Nordinsel Vulkane und Geysire. Erdbeben wie in Christchurch 2011 sind häufig. Neuseeland führte 1893 als erstes Land das Frauenwahlrecht ein.
+- Besiedelt erst um 1300 durch die Vorfahren der Māori.
+- Vogelwelt ohne Landsäugetiere: Moa und Kiwi.
+- Auf einer Plattengrenze: Alpen, Vulkane, Erdbeben.
+
+=== madagaskar
+cat: geografie
+title: Madagaskar
+teaser: Fast alle Säugetiere und Reptilien dort gibt es nirgends sonst – zum Beispiel über 100 Lemurenarten.
+meta: Indischer Ozean
+cover: Madagaskar | Baobab-Allee in Madagaskar
+## Eine Insel als Arche
+Madagaskar ist die viertgrößte Insel der Welt. Es trennte sich vor etwa 160 Millionen Jahren von Afrika und vor rund 88 Millionen Jahren von Indien. Seitdem entwickelte sich die Tierwelt isoliert: Rund 90 Prozent der Pflanzen- und Tierarten sind endemisch.
+## Lemuren
+Lemuren sind Primaten, die nur auf Madagaskar vorkommen. Ihre Vorfahren kamen vermutlich auf Treibgut über das Meer. Heute gibt es über 100 Arten, vom winzigen Mausmaki bis zum Indri. Fast alle sind vom Aussterben bedroht.
+img: Katta | Kattas (Ringelschwanzlemuren)
+## Bedrohte Wälder
+Mehr als 40 Prozent der Wälder sind seit den 1950ern verschwunden, vor allem durch Brandrodung („Tavy“) für Reisfelder und Holzkohle. Madagaskar ist eines der ärmsten Länder der Welt. Kulturell vereint es afrikanische und südostasiatische Einflüsse – die Sprache Malagasy ist mit Sprachen auf Borneo verwandt.
+- Seit Jahrmillionen isoliert, rund 90 % endemische Arten.
+- Über 100 Lemurenarten – fast alle bedroht.
+- Massive Waldverluste; Mischkultur aus Afrika und Asien.
+
+=== kongo
+cat: geografie
+title: Der Kongo
+teaser: Der tiefste Fluss der Welt, der zweimal den Äquator kreuzt – und Herz des zweitgrößten Regenwalds.
+meta: Zentralafrika
+cover: Kongo (Fluss) | Der Kongo
+## Ein Rekordfluss
+Der Kongo ist mit rund 4.700 Kilometern der zweitlängste Fluss Afrikas und nach dem Amazonas der wasserreichste der Welt. Mit über 220 Metern ist er zudem der tiefste bekannte Fluss. Er kreuzt als einziger großer Fluss zweimal den Äquator, deshalb führt er das ganze Jahr Wasser.
+## Der Regenwald
+Das Kongobecken beherbergt den zweitgrößten tropischen Regenwald der Erde. Hier leben Waldelefanten, Gorillas, Schimpansen und Bonobos, die nur südlich des Flusses vorkommen – der Strom trennt die Arten. Moore im Becken speichern riesige Mengen Kohlenstoff.
+img: Bonobo | Ein Bonobo
+## Reichtum und Leid
+Die Region ist reich an Rohstoffen wie Kobalt, Coltan und Kupfer, die für Smartphones und Batterien gebraucht werden. Doch die Demokratische Republik Kongo leidet seit Jahrzehnten unter Konflikten und Armut. Die Inga-Fälle könnten einmal eines der größten Wasserkraftwerke der Welt speisen.
+- Wasserreichster Fluss Afrikas, tiefster Fluss der Welt.
+- Zweitgrößter Regenwald der Erde, Heimat der Bonobos.
+- Reich an Kobalt und Coltan, aber von Konflikten geprägt.
+
+=== serengeti
+cat: geografie
+title: Die Serengeti
+teaser: Jedes Jahr ziehen rund zwei Millionen Gnus, Zebras und Gazellen im Kreis – die größte Tierwanderung der Erde.
+meta: Tansania/Kenia
+cover: Serengeti | Gnuwanderung in der Serengeti
+## Endlose Ebene
+Der Name stammt aus der Sprache der Massai und bedeutet etwa „endloses Land“. Die Grassavanne im Norden Tansaniens geht in Kenia in die Masai Mara über. Die Böden aus Vulkanasche sind nährstoffreich – ideales Weideland.
+## Die große Wanderung
+Den Regenfällen folgend wandern etwa 1,5 Millionen Gnus und Hunderttausende Zebras und Gazellen im Uhrzeigersinn durch das Ökosystem. Höhepunkt ist die Überquerung des Mara-Flusses, wo Krokodile lauern. Im Süden bringen die Gnus innerhalb weniger Wochen Hunderttausende Kälber zur Welt.
+img: Ngorongoro-Krater | Der Ngorongoro-Krater
+## „Serengeti darf nicht sterben“
+Der Frankfurter Zoodirektor Bernhard Grzimek und sein Sohn Michael erforschten die Wanderrouten aus dem Flugzeug. Ihr Film „Serengeti darf nicht sterben“ gewann 1960 einen Oscar. Michael starb bei einem Flugunfall und ist am Ngorongoro-Krater begraben. Der Nationalpark ist UNESCO-Welterbe.
+- Savanne in Tansania und Kenia.
+- Größte Tierwanderung der Erde mit rund zwei Millionen Tieren.
+- Bekannt geworden durch die Grzimeks; UNESCO-Welterbe.
+
+=== kilimandscharo
+cat: geografie
+title: Der Kilimandscharo
+teaser: Schnee am Äquator: Afrikas höchster Berg verliert seine Gletscher.
+meta: Tansania
+cover: Kilimandscharo | Der Kilimandscharo hinter Savanne
+## Afrikas Dach
+Mit 5.895 Metern ist der Kilimandscharo der höchste Berg Afrikas und der höchste freistehende Berg der Welt. Er ist ein ruhender Schichtvulkan aus drei Kegeln; der höchste Gipfel, Uhuru Peak, liegt auf dem Kibo.
+## Ein Berg für alle
+Weil keine Kletterausrüstung nötig ist, versuchen jährlich rund 35.000 Menschen den Aufstieg. Die eigentliche Gefahr ist die Höhenkrankheit. Unterwegs durchquert man Klimazonen vom Regenwald über Heide und alpine Wüste bis zur Eiszone – wie eine Reise vom Äquator zum Pol.
+img: Kibo (Kilimandscharo) | Der Kibo mit Gletscherresten
+## Schwindende Gletscher
+Seit 1912 haben die Gipfelgletscher über 80 Prozent ihrer Fläche verloren. Sie könnten in den nächsten Jahrzehnten verschwinden. Ursache ist neben der Erwärmung vor allem trockenere Luft, die weniger Schnee bringt. Hemingways „Schnee am Kilimandscharo“ machte den Berg literarisch berühmt.
+- 5.895 m, höchster Berg Afrikas, ruhender Vulkan.
+- Besteigung ohne Klettern, aber Höhenkrankheit als Risiko.
+- Gletscher seit 1912 um über 80 % geschrumpft.
+
+=== ostafrikanischer-graben
+cat: geografie
+title: Der Ostafrikanische Grabenbruch
+teaser: Afrika reißt auseinander – und in vielen Millionen Jahren entsteht hier ein neuer Ozean.
+meta: Ostafrika
+cover: Ostafrikanischer Graben | Das Great Rift Valley in Kenia
+## Ein Kontinent spaltet sich
+Vom Roten Meer bis Mosambik zieht sich über rund 6.000 Kilometer ein System von Gräben. Hier driften die Nubische und die Somalische Platte auseinander, um einige Millimeter pro Jahr. Die Kruste dünnt aus, Magma steigt auf, Vulkane wie der Kilimandscharo und der Nyiragongo entstehen.
+## Seen in der Tiefe
+In den Gräben liegen große, tiefe Seen, etwa der Tanganjikasee (zweittiefster See der Erde) und der Malawisee, in dem Hunderte Buntbarscharten leben. In der Danakil-Senke in Äthiopien liegt die Erde über 100 Meter unter dem Meeresspiegel – mit Lavaseen und giftig-bunten Salzquellen.
+img: Danakil-Senke | Bunte Mineralquellen in der Danakil-Senke
+## Wiege der Menschheit
+Im Grabenbruch fanden Forscher einige der wichtigsten Fossilien unserer Vorfahren, etwa „Lucy“ (Australopithecus afarensis, 3,2 Millionen Jahre) in Äthiopien. Die sich verändernde Landschaft könnte die Evolution des aufrechten Gangs gefördert haben.
+- Rund 6.000 km lange Grabenzone, Afrika driftet auseinander.
+- Tiefe Seen, Vulkane und die Danakil-Senke.
+- Fundort früher Menschenfossilien wie „Lucy“.
