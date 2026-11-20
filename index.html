@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GoKnowledge">
+<meta name="theme-color" content="#FBF4E8">
+<title>GoKnowledge</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- FEED -->
+  <section id="view-feed" class="view active">
+    <div id="feed" class="feed" aria-label="Feed"></div>
+    <button id="filter-btn" class="filter-btn" aria-label="Themen filtern">
+      <svg viewBox="0 0 24 24"><path d="M3 5h18l-7 8v6l-4 2v-8z"/></svg>
+      <span id="filter-label">Alle Themen</span>
+    </button>
+  </section>
+
+  <!-- GEMERKT -->
+  <section id="view-saved" class="view page">
+    <header class="page-head">
+      <h1 class="serif">Gemerkt</h1>
+      <p class="muted" id="saved-count"></p>
+    </header>
+    <div id="saved-list" class="list"></div>
+  </section>
+
+  <!-- STATISTIK -->
+  <section id="view-stats" class="view page">
+    <header class="page-head">
+      <h1 class="serif">Deine Statistik</h1>
+      <p class="muted" id="stats-since"></p>
+    </header>
+    <div id="stats-body"></div>
+  </section>
+
+  <!-- TAB BAR -->
+  <nav class="tabbar">
+    <button data-view="feed" class="tab active">
+      <svg viewBox="0 0 24 24"><path d="M4 11l8-7 8 7v9h-5v-6h-6v6H4z"/></svg><span>Feed</span>
+    </button>
+    <button data-view="saved" class="tab">
+      <svg viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg><span>Gemerkt</span>
+    </button>
+    <button data-view="stats" class="tab">
+      <svg viewBox="0 0 24 24" class="stroke-thick"><path d="M5 20V10M12 20V4M19 20v-7"/></svg><span>Statistik</span>
+    </button>
+  </nav>
+
+  <!-- ARTICLE -->
+  <article id="article" class="article" aria-hidden="true">
+    <div class="progress"><i id="progress-bar"></i></div>
+    <button id="article-close" class="article-close" aria-label="Schließen">
+      <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+    <div id="article-scroll" class="article-scroll"></div>
+    <div class="article-bar">
+      <button data-act="like"><svg viewBox="0 0 24 24"><use href="#i-heart"/></svg><span>Gefällt mir</span></button>
+      <button data-act="save"><svg viewBox="0 0 24 24"><use href="#i-save"/></svg><span>Merken</span></button>
+      <button data-act="repeat"><svg viewBox="0 0 24 24"><use href="#i-repeat"/></svg><span>Bald wieder</span></button>
+    </div>
+  </article>
+
+  <!-- FILTER SHEET -->
+  <div id="sheet-backdrop" class="backdrop"></div>
+  <div id="sheet" class="sheet" aria-hidden="true">
+    <div class="grab"></div>
+    <h2 class="serif">Themen</h2>
+    <p class="muted">Standard: alles gemischt</p>
+    <div id="sheet-options"></div>
+    <button id="sheet-done" class="btn-primary">Fertig</button>
+  </div>
+
+  <div id="toast" class="toast"></div>
+</div>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20.5s-7.3-4.5-9.3-9C1.3 8.2 3.5 5 6.7 5c2 0 3.4 1.1 4.3 2.5C12 6.1 13.3 5 15.3 5c3.2 0 5.4 3.2 4 6.5-2 4.5-7.3 9-7.3 9z"/></symbol>
+  <symbol id="i-save" viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4.5L6 21z"/></symbol>
+  <symbol id="i-repeat" viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 13.7-5.6L20 9M20 4v5h-5M20 12a8 8 0 0 1-13.7 5.6L4 15M4 20v-5h5"/></symbol>
+</svg>
+
+<script src="app.js"></script>
+</body>
+</html>

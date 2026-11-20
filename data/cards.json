@@ -1,0 +1,724 @@
+{
+ "cards": [
+  {
+   "id": "mauerfall",
+   "cat": "geschichte",
+   "title": "Mauerfall",
+   "teaser": "9. November 1989: Ein missverstandener Zettel öffnet die Grenze – und verändert Europa.",
+   "meta": "Berlin, 1989",
+   "cover": {
+    "file": "Thefalloftheberlinwall1989.JPG",
+    "caption": "Menschen auf der Mauer am Brandenburger Tor, November 1989"
+   },
+   "sections": [
+    {
+     "h": "Der Zettel von Schabowski",
+     "p": "Am Abend des 9. November 1989 stellt SED-Politbüromitglied Günter Schabowski auf einer live übertragenen Pressekonferenz eine neue Reiseregelung vor. Eigentlich sollte sie erst am nächsten Tag gelten. Auf die Frage, ab wann, blättert er in seinen Notizen und sagt: „Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich.“",
+     "img": {
+      "file": "Bundesarchiv Bild 183-1989-1109-030, Berlin, Schabowski auf Pressekonferenz.jpg",
+      "caption": "Günter Schabowski auf der Pressekonferenz am 9. November 1989"
+     }
+    },
+    {
+     "h": "Ansturm auf die Bornholmer Straße",
+     "p": "Westfernsehen verbreitet die Nachricht, Tausende Ost-Berliner strömen zu den Grenzübergängen. An der Bornholmer Straße gibt Stasi-Oberstleutnant Harald Jäger gegen 23:30 Uhr dem Druck nach – ohne Befehl von oben lässt er den Schlagbaum öffnen. Noch in der Nacht folgen weitere Übergänge.",
+     "img": {
+      "file": "Berlinermauer.jpg",
+      "caption": "Die Berliner Mauer, von der Westseite gesehen"
+     }
+    },
+    {
+     "h": "Vom Fall zur Einheit",
+     "p": "Der Mauerfall war kein Plan, sondern das Ergebnis monatelanger Proteste: Montagsdemonstrationen in Leipzig, Massenflucht über Ungarn und Prag. 28 Jahre hatte die Mauer Berlin geteilt, mindestens 140 Menschen kamen an ihr ums Leben. Am 3. Oktober 1990 trat die DDR der Bundesrepublik bei."
+    }
+   ],
+   "summary": [
+    "Auslöser war Schabowskis versehentliches „sofort, unverzüglich“.",
+    "Als Erstes öffnete der Übergang Bornholmer Straße – auf eigene Faust des Grenzoffiziers.",
+    "Elf Monate später folgte die Deutsche Einheit am 3. Oktober 1990."
+   ]
+  },
+  {
+   "id": "franz-revolution",
+   "cat": "geschichte",
+   "title": "Französische Revolution",
+   "teaser": "Ein bankrotter Staat, teures Brot und eine Festung voller Pulver: Wie 1789 das Ancien Régime fiel.",
+   "meta": "Frankreich, 1789–1799",
+   "cover": {
+    "file": "Anonymous - Prise de la Bastille.jpg",
+    "caption": "Der Sturm auf die Bastille, 14. Juli 1789 (zeitgenössisches Gemälde)"
+   },
+   "sections": [
+    {
+     "h": "Ein Staat am Abgrund",
+     "p": "Kriege – auch die Unterstützung der amerikanischen Revolution – hatten Frankreich ruiniert. Adel und Klerus zahlten kaum Steuern, der Dritte Stand trug die Last. Nach Missernten explodierte der Brotpreis. Ludwig XVI. berief 1789 die Generalstände ein; der Dritte Stand erklärte sich kurzerhand zur Nationalversammlung."
+    },
+    {
+     "h": "14. Juli: die Bastille",
+     "p": "Pariser stürmten das Staatsgefängnis, vor allem wegen des dort gelagerten Schießpulvers. Im August schaffte die Nationalversammlung die Feudalprivilegien ab und verkündete die Erklärung der Menschen- und Bürgerrechte: Freiheit, Gleichheit vor dem Gesetz, Volkssouveränität.",
+     "img": {
+      "file": "Declaration of the Rights of Man and of the Citizen in 1789.jpg",
+      "caption": "Erklärung der Menschen- und Bürgerrechte von 1789"
+     }
+    },
+    {
+     "h": "Terror und Napoleon",
+     "p": "1792 wurde die Republik ausgerufen, 1793 der König hingerichtet. Unter Robespierre folgte die „Terrorherrschaft“ mit Tausenden Todesurteilen. 1799 übernahm Napoleon Bonaparte per Staatsstreich die Macht – die Ideen der Revolution aber prägen Verfassungen bis heute.",
+     "img": {
+      "file": "Eugène Delacroix - La liberté guidant le peuple.jpg",
+      "caption": "Eugène Delacroix: Die Freiheit führt das Volk (1830) – Sinnbild revolutionärer Ideale"
+     }
+    }
+   ],
+   "summary": [
+    "Ursachen: Staatsbankrott, Steuerungerechtigkeit, Hunger.",
+    "1789: Bastille-Sturm und Menschenrechtserklärung.",
+    "Endpunkt 1799 mit Napoleon – Erbe: moderne Bürgerrechte."
+   ]
+  },
+  {
+   "id": "schwarzer-tod",
+   "cat": "geschichte",
+   "title": "Der Schwarze Tod",
+   "teaser": "Zwischen 1347 und 1353 starb rund ein Drittel Europas. Der Täter: ein Bakterium im Floh.",
+   "meta": "Europa, 1347–1353",
+   "cover": {
+    "file": "The Triumph of Death by Pieter Bruegel the Elder.jpg",
+    "caption": "Pieter Bruegel d. Ä.: Der Triumph des Todes (um 1562)"
+   },
+   "sections": [
+    {
+     "h": "Über die Handelswege",
+     "p": "Die Pest kam aus Zentralasien. 1347 brachten genuesische Schiffe sie von der Krim nach Messina auf Sizilien. Entlang der Handelsrouten erreichte sie binnen fünf Jahren fast ganz Europa – bis nach Skandinavien und Russland.",
+     "img": {
+      "file": "1346-1353 spread of the Black Death in Europe map.svg",
+      "caption": "Ausbreitung der Pest in Europa 1346–1353"
+     }
+    },
+    {
+     "h": "Yersinia pestis",
+     "p": "Erreger ist das Bakterium <i>Yersinia pestis</i>. Es wird vor allem durch Rattenflöhe übertragen und verursacht die Beulenpest mit geschwollenen Lymphknoten. Gelangt es in die Lunge, entsteht die Lungenpest, die sich per Tröpfchen von Mensch zu Mensch verbreitet und fast immer tödlich war.",
+     "img": {
+      "file": "Yersinia pestis fluorescent.jpeg",
+      "caption": "Yersinia pestis unter dem Fluoreszenzmikroskop"
+     }
+    },
+    {
+     "h": "Folgen für Europa",
+     "p": "Schätzungen gehen von 25 Millionen Toten in Europa aus. Arbeitskräfte wurden knapp, Löhne stiegen, das Feudalsystem geriet ins Wanken. Zugleich kam es zu brutalen Judenpogromen, weil man Juden fälschlich der Brunnenvergiftung beschuldigte. Venedig führte später die „quaranta giorni“ ein – 40 Tage Isolation: die Quarantäne.",
+     "img": {
+      "file": "Paul Fürst, Der Doctor Schnabel von Rom (Holländer version).png",
+      "caption": "„Doctor Schnabel von Rom“, Kupferstich von 1656 – die Schnabelmaske stammt aus späteren Pestwellen"
+     }
+    }
+   ],
+   "summary": [
+    "1347–1353, etwa ein Drittel der Bevölkerung Europas starb.",
+    "Erreger Yersinia pestis, übertragen durch Flöhe, als Lungenpest auch von Mensch zu Mensch.",
+    "Folgen: Arbeitskräftemangel, Pogrome – und die Erfindung der Quarantäne."
+   ]
+  },
+  {
+   "id": "mondlandung",
+   "cat": "geschichte",
+   "title": "Mondlandung 1969",
+   "teaser": "Acht Jahre nach Kennedys Versprechen stand ein Mensch auf dem Mond – mit 25 Sekunden Treibstoff Reserve.",
+   "meta": "20. Juli 1969",
+   "cover": {
+    "file": "Aldrin Apollo 11 original.jpg",
+    "caption": "Buzz Aldrin auf dem Mond, fotografiert von Neil Armstrong"
+   },
+   "sections": [
+    {
+     "h": "Wettlauf im Kalten Krieg",
+     "p": "Die Sowjetunion hatte mit Sputnik (1957) und Juri Gagarin (1961) vorgelegt. Präsident John F. Kennedy kündigte 1961 an, noch vor Ende des Jahrzehnts einen Amerikaner auf den Mond zu bringen. Das Apollo-Programm beschäftigte zeitweise rund 400.000 Menschen.",
+     "img": {
+      "file": "Apollo 11 Launch - GPN-2000-000630.jpg",
+      "caption": "Start der Saturn V mit Apollo 11, 16. Juli 1969"
+     }
+    },
+    {
+     "h": "Landung in letzter Sekunde",
+     "p": "Beim Anflug meldete der Bordcomputer Alarme, und das Zielgebiet war voller Felsbrocken. Neil Armstrong steuerte die Mondfähre „Eagle“ von Hand weiter und setzte sie mit nur noch rund 25 Sekunden Treibstoffreserve auf. „The Eagle has landed.“",
+     "img": {
+      "file": "Apollo 11 Lunar Module Eagle in landing configuration in lunar orbit from the Command and Service Module Columbia.jpg",
+      "caption": "Die Mondfähre „Eagle“ im Mondorbit"
+     }
+    },
+    {
+     "h": "Ein kleiner Schritt",
+     "p": "Am 21. Juli 1969 um 3:56 Uhr MEZ betrat Armstrong den Mond, gefolgt von Buzz Aldrin; Michael Collins kreiste im Kommandomodul. Rund 600 Millionen Menschen sahen live zu. Bis 1972 landeten insgesamt zwölf Astronauten auf dem Mond."
+    }
+   ],
+   "summary": [
+    "Antrieb war der Systemwettbewerb mit der Sowjetunion.",
+    "Armstrong landete von Hand, mit knapper Treibstoffreserve.",
+    "Zwölf Menschen betraten zwischen 1969 und 1972 den Mond."
+   ]
+  },
+  {
+   "id": "marianengraben",
+   "cat": "geografie",
+   "title": "Marianengraben",
+   "teaser": "Fast 11 Kilometer tief: Wäre der Mount Everest hier versenkt, läge sein Gipfel noch 2 km unter Wasser.",
+   "meta": "Westpazifik",
+   "cover": {
+    "file": "Bathyscaphe Trieste.jpg",
+    "caption": "Das Tauchboot „Trieste“ – 1960 erstmals am tiefsten Punkt der Erde"
+   },
+   "sections": [
+    {
+     "h": "Wo Platten abtauchen",
+     "p": "Der Marianengraben liegt östlich der Marianeninseln im Westpazifik. Hier taucht die Pazifische Platte unter die kleinere Marianen-Platte ab – eine Subduktionszone. Der Graben ist rund 2.500 km lang, aber im Mittel nur etwa 70 km breit.",
+     "img": {
+      "file": "Cross section of mariana trench.svg",
+      "caption": "Querschnitt durch den Marianengraben"
+     }
+    },
+    {
+     "h": "Challengertief",
+     "p": "Der tiefste bekannte Punkt, das Challengertief, liegt bei etwa 10.935 Metern. Der Wasserdruck dort beträgt rund 1.100 bar – das entspricht etwa einer Tonne Gewicht auf jedem Quadratzentimeter. Dennoch ist es dort nicht kochend heiß, sondern 1–4 °C kalt."
+    },
+    {
+     "h": "Wenige Besucher",
+     "p": "1960 erreichten Jacques Piccard und Don Walsh mit der „Trieste“ den Grund. Erst 2012 folgte Regisseur James Cameron allein; seit 2019 waren mehrere Expeditionen unten. Selbst dort fanden Forschende Leben – Flohkrebse, Seegurken – und leider auch eine Plastiktüte."
+    }
+   ],
+   "summary": [
+    "Tiefster Punkt der Erde: Challengertief, rund 10.935 m.",
+    "Entsteht durch Subduktion der Pazifischen Platte.",
+    "Druck von über 1.000 bar – trotzdem gibt es dort Leben."
+   ]
+  },
+  {
+   "id": "sahara",
+   "cat": "geografie",
+   "title": "Sahara",
+   "teaser": "So groß wie die USA – und vor 8.000 Jahren eine grüne Savanne mit Seen und Flusspferden.",
+   "meta": "Nordafrika",
+   "cover": {
+    "file": "Libya 4985 Tadrart Acacus Luca Galuzzi 2007.jpg",
+    "caption": "Felsen und Dünen im Tadrart Acacus, Libyen"
+   },
+   "sections": [
+    {
+     "h": "Größte Trockenwüste",
+     "p": "Mit rund 9 Millionen km² ist die Sahara die größte heiße Wüste der Erde – nur die Kältewüsten der Antarktis und Arktis sind größer. Nur etwa ein Fünftel ist Sanddünen (Erg); den größten Teil bedecken Fels- und Kiesflächen (Hamada und Serir).",
+     "img": {
+      "file": "Sahara satellite hires.jpg",
+      "caption": "Die Sahara aus dem All"
+     }
+    },
+    {
+     "h": "Die grüne Sahara",
+     "p": "Zwischen etwa 11.000 und 5.000 Jahren vor heute war die Sahara feucht. Ursache war eine Schwankung der Erdbahn, die den westafrikanischen Monsun nach Norden verschob. Felsbilder zeigen Giraffen, Rinder und Schwimmer – mitten in heutiger Wüste."
+    },
+    {
+     "h": "Staub für den Amazonas",
+     "p": "Jedes Jahr wehen Passatwinde Hunderte Millionen Tonnen Saharastaub über den Atlantik. Ein Teil davon düngt mit Phosphor den Amazonas-Regenwald. Auch in Deutschland färbt Saharastaub manchmal den Himmel orange."
+    }
+   ],
+   "summary": [
+    "Rund 9 Mio. km² – größte heiße Wüste, überwiegend Fels und Kies.",
+    "Bis vor ca. 5.000 Jahren war sie grün – wegen der Erdbahn.",
+    "Ihr Staub düngt den Amazonas-Regenwald."
+   ]
+  },
+  {
+   "id": "island",
+   "cat": "geografie",
+   "title": "Island",
+   "teaser": "Eine Insel, die jedes Jahr um zwei Zentimeter breiter wird – weil Europa und Amerika auseinanderdriften.",
+   "meta": "Nordatlantik",
+   "cover": {
+    "file": "Strokkur geyser eruption, close-up view.jpg",
+    "caption": "Der Geysir Strokkur bricht aus"
+   },
+   "sections": [
+    {
+     "h": "Auf dem Mittelatlantischen Rücken",
+     "p": "Island ist einer der wenigen Orte, an denen der Mittelatlantische Rücken über dem Meer liegt. Hier driften die Nordamerikanische und die Eurasische Platte auseinander, rund 2 cm pro Jahr. Zusätzlich liegt unter der Insel ein Mantelplume, ein „Hotspot“ – deshalb ist Island überhaupt so groß.",
+     "img": {
+      "file": "Silfra.jpg",
+      "caption": "Die Silfra-Spalte im Þingvellir-Nationalpark – Taucher schwimmen zwischen zwei Kontinentalplatten"
+     }
+    },
+    {
+     "h": "Feuer und Eis",
+     "p": "Rund 30 aktive Vulkansysteme gibt es. 2010 legte die Aschewolke des Eyjafjallajökull wochenlang den europäischen Flugverkehr lahm. Seit 2021 brechen auf der Reykjanes-Halbinsel immer wieder Spalten auf.",
+     "img": {
+      "file": "Eyjafjallajokull Gigjokull in ash.jpg",
+      "caption": "Ausbruch des Eyjafjallajökull, 2010"
+     }
+    },
+    {
+     "h": "Energie aus dem Boden",
+     "p": "Fast der gesamte Strom stammt aus Wasser- und Erdwärme, etwa 90 % der Häuser werden geothermisch beheizt. Das Wort „Geysir“ stammt übrigens vom isländischen Großen Geysir."
+    }
+   ],
+   "summary": [
+    "Island liegt auf der Grenze zweier Kontinentalplatten plus Hotspot.",
+    "Etwa 30 aktive Vulkansysteme, z. B. Eyjafjallajökull 2010.",
+    "Strom und Wärme fast vollständig aus Erdwärme und Wasserkraft."
+   ]
+  },
+  {
+   "id": "amazonas",
+   "cat": "geografie",
+   "title": "Amazonas",
+   "teaser": "Ein Fluss, der mehr Wasser führt als die nächsten sieben zusammen – und keine einzige Brücke hat.",
+   "meta": "Südamerika",
+   "cover": {
+    "file": "Amazon Manaus forest.jpg",
+    "caption": "Regenwald bei Manaus, Brasilien"
+   },
+   "sections": [
+    {
+     "h": "Gigantische Wassermassen",
+     "p": "Der Amazonas transportiert im Mittel rund 200.000 m³ Wasser pro Sekunde – etwa ein Fünftel allen Flusswassers, das weltweit ins Meer fließt. Ob er oder der Nil der längste Fluss ist, hängt davon ab, wo man die Quelle ansetzt; beide liegen bei rund 6.500–7.000 km."
+    },
+    {
+     "h": "Wo sich Flüsse nicht mischen",
+     "p": "Bei Manaus trifft der dunkle Rio Negro auf den hellen, lehmigen Rio Solimões. Wegen unterschiedlicher Temperatur, Dichte und Fließgeschwindigkeit fließen beide kilometerweit nebeneinander her, ohne sich zu vermischen: das „Encontro das Águas“.",
+     "img": {
+      "file": "Encontro das Águas.jpg",
+      "caption": "Zusammenfluss von Rio Negro und Rio Solimões bei Manaus"
+     }
+    },
+    {
+     "h": "Die Lunge unter Druck",
+     "p": "Das Amazonasbecken beherbergt den größten Regenwald der Erde und schätzungsweise jede zehnte bekannte Tierart. Etwa 17 % des Waldes sind bereits abgeholzt. Forschende warnen vor einem Kipppunkt, an dem Teile des Waldes in Savanne übergehen könnten.",
+     "img": {
+      "file": "Amazon CIAT (3).jpg",
+      "caption": "Flusslandschaft im Amazonasgebiet"
+     }
+    }
+   ],
+   "summary": [
+    "Wasserreichster Fluss der Erde – rund 200.000 m³/s.",
+    "Bei Manaus fließen Rio Negro und Solimões ungemischt nebeneinander.",
+    "Etwa 17 % des Regenwalds sind abgeholzt; ein Kipppunkt droht."
+   ]
+  },
+  {
+   "id": "haber-bosch",
+   "cat": "natur",
+   "title": "Haber-Bosch-Verfahren",
+   "teaser": "Brot aus Luft: Die Ammoniaksynthese ernährt heute rund die Hälfte der Menschheit.",
+   "meta": "Chemie · 1909/1913",
+   "cover": {
+    "file": "Ammoniak Reaktor BASF.jpg",
+    "caption": "Historischer Hochdruckreaktor zur Ammoniaksynthese (BASF)"
+   },
+   "sections": [
+    {
+     "h": "Die Reaktion",
+     "p": "N<sub>2</sub> + 3 H<sub>2</sub> ⇌ 2 NH<sub>3</sub>, ΔH ≈ −92 kJ/mol. Nach Le Chatelier begünstigen hoher Druck (Volumenabnahme von 4 auf 2 mol Gas) und niedrige Temperatur das Produkt. Doch die N≡N-Dreifachbindung (≈ 945 kJ/mol) macht die Reaktion kinetisch extrem träge.",
+     "img": {
+      "file": "Ammonia-3D-balls-A.png",
+      "caption": "Ammoniak-Molekül (NH₃)"
+     }
+    },
+    {
+     "h": "Der Kompromiss",
+     "p": "Industriell arbeitet man bei 150–300 bar und 400–500 °C an einem promotierten Eisenkatalysator (Fe mit K<sub>2</sub>O, Al<sub>2</sub>O<sub>3</sub>). Geschwindigkeitsbestimmend ist die dissoziative Chemisorption von N<sub>2</sub> an der Oberfläche. Pro Durchgang setzen sich nur etwa 15 % um – unverbrauchtes Gas wird im Kreislauf zurückgeführt."
+    },
+    {
+     "h": "Haber, Bosch – und der Preis",
+     "p": "Fritz Haber gelang 1909 der Laborversuch, Carl Bosch skalierte ihn bei der BASF; 1913 lief die erste Anlage in Oppau. Beide erhielten den Nobelpreis. Haber leitete im Ersten Weltkrieg aber auch den Giftgaseinsatz. Heute verbraucht das Verfahren etwa 1–2 % der Weltenergie – der Wasserstoff stammt meist aus Erdgas.",
+     "img": {
+      "file": "Fritz Haber.png",
+      "caption": "Fritz Haber (1868–1934)"
+     }
+    }
+   ],
+   "summary": [
+    "N₂ + 3 H₂ ⇌ 2 NH₃: exotherm, aber kinetisch gehemmt durch die N≡N-Bindung.",
+    "Kompromiss: ~200 bar, ~450 °C, Eisenkatalysator, Kreislaufführung.",
+    "Grundlage für Kunstdünger – und ein großer CO₂-Emittent."
+   ]
+  },
+  {
+   "id": "chiralitaet-contergan",
+   "cat": "natur",
+   "title": "Chiralität & Contergan",
+   "teaser": "Zwei Moleküle wie Bild und Spiegelbild – eines beruhigt, das andere schädigt Ungeborene. Oder?",
+   "meta": "Chemie · Pharmakologie",
+   "cover": {
+    "file": "Chirality with hands.svg",
+    "caption": "Chiralität: linke und rechte Hand sind Spiegelbilder, aber nicht deckungsgleich"
+   },
+   "sections": [
+    {
+     "h": "Händigkeit von Molekülen",
+     "p": "Ein Kohlenstoffatom mit vier verschiedenen Substituenten ist ein Stereozentrum. Die beiden Enantiomere (R und S nach Cahn-Ingold-Prelog) haben identische physikalische Eigenschaften – bis auf die Drehung linear polarisierten Lichts. In der chiralen Umgebung des Körpers, an Enzymen und Rezeptoren, verhalten sie sich jedoch oft völlig verschieden."
+    },
+    {
+     "h": "Der Contergan-Skandal",
+     "p": "Thalidomid kam 1957 als Schlafmittel „Contergan“ auf den Markt, als Racemat. Bis 1961 wurden weltweit etwa 10.000 Kinder mit Fehlbildungen geboren, vor allem verkürzten Gliedmaßen. Später zeigte sich: Teratogen ist vor allem das (S)-Enantiomer, sedierend das (R)-Enantiomer.",
+     "img": {
+      "file": "Thalidomide-enantiomers.png",
+      "caption": "(R)- und (S)-Thalidomid"
+     }
+    },
+    {
+     "h": "Warum Enantiomerenreinheit nicht half",
+     "p": "Das Proton am Stereozentrum ist acide (α zu einer Imid-Carbonylgruppe). Im Körper racemisiert Thalidomid deshalb innerhalb von Stunden – auch reines (R)-Thalidomid wäre gefährlich gewesen. Der Fall führte zu strengen Arzneimittelgesetzen und Prüfung auf Fruchtschädigung. Heute wird Thalidomid unter strengen Auflagen gegen Multiples Myelom eingesetzt."
+    }
+   ],
+   "summary": [
+    "Enantiomere unterscheiden sich nur in chiraler Umgebung – wie im Körper.",
+    "(S)-Thalidomid ist teratogen, (R) sedierend.",
+    "Racemisierung in vivo: Ein reines Enantiomer hätte das Unglück nicht verhindert."
+   ]
+  },
+  {
+   "id": "crispr",
+   "cat": "natur",
+   "title": "CRISPR-Cas9",
+   "teaser": "Eine Genschere aus dem Immunsystem von Bakterien – und seit 2023 eine zugelassene Therapie.",
+   "meta": "Molekularbiologie · Nobelpreis 2020",
+   "cover": {
+    "file": "Crystal Structure of Cas9 in Complex with Guide RNA and Target DNA.jpg",
+    "caption": "Kristallstruktur von Cas9 mit Leit-RNA und Ziel-DNA"
+   },
+   "sections": [
+    {
+     "h": "Ein bakterielles Immungedächtnis",
+     "p": "Bakterien speichern Schnipsel von Virus-DNA in ihrem Genom zwischen kurzen Wiederholungen – den „Clustered Regularly Interspaced Short Palindromic Repeats“. Abgelesene RNA-Kopien führen Cas-Proteine zu passenden Viren, die dann zerschnitten werden."
+    },
+    {
+     "h": "So funktioniert die Schere",
+     "p": "Eine Leit-RNA (sgRNA) paart über etwa 20 Basen mit der Ziel-DNA. Cas9 schneidet nur, wenn direkt daneben ein PAM-Motiv liegt (bei <i>S. pyogenes</i> 5′-NGG-3′). Zwei Nukleasedomänen (HNH und RuvC) erzeugen einen Doppelstrangbruch. Die Zelle repariert ihn fehlerhaft (NHEJ → Gen-Knockout) oder präzise nach Vorlage (HDR).",
+     "img": {
+      "file": "GRNA-Cas9.png",
+      "caption": "Cas9 (blau) mit Leit-RNA an der Ziel-DNA"
+     }
+    },
+    {
+     "h": "Nobelpreis und erste Therapie",
+     "p": "Emmanuelle Charpentier und Jennifer Doudna zeigten 2012, dass sich das System programmieren lässt, und erhielten 2020 den Chemie-Nobelpreis. 2023 wurde mit Casgevy die erste CRISPR-Therapie gegen Sichelzellanämie zugelassen. Weiterentwicklungen wie Base- und Prime-Editing kommen ohne Doppelstrangbruch aus.",
+     "img": {
+      "file": "Jennifer Doudna in 2021 by Christopher Michel.jpg",
+      "caption": "Jennifer Doudna"
+     }
+    }
+   ],
+   "summary": [
+    "Ursprung: adaptives Immunsystem von Bakterien.",
+    "sgRNA + PAM-Motiv bestimmen den Schnitt; Reparatur via NHEJ oder HDR.",
+    "Nobelpreis 2020; erste zugelassene Therapie 2023 (Casgevy)."
+   ]
+  },
+  {
+   "id": "schwarze-loecher",
+   "cat": "natur",
+   "title": "Schwarze Löcher",
+   "teaser": "Erst eine mathematische Kuriosität, dann fotografiert: Orte, aus denen nicht einmal Licht entkommt.",
+   "meta": "Astrophysik",
+   "cover": {
+    "file": "Black hole - Messier 87 crop max res.jpg",
+    "caption": "Das erste Bild eines Schwarzen Lochs: M87*, Event Horizon Telescope 2019"
+   },
+   "sections": [
+    {
+     "h": "Der Schwarzschild-Radius",
+     "p": "Kurz nach Einsteins Allgemeiner Relativitätstheorie fand Karl Schwarzschild 1916 eine Lösung für eine kugelsymmetrische Masse. Wird sie innerhalb von r<sub>s</sub> = 2GM/c² komprimiert, entsteht ein Ereignishorizont. Für die Sonne wären das knapp 3 km, für die Erde etwa 9 mm."
+    },
+    {
+     "h": "Wie sie entstehen",
+     "p": "Stellare Schwarze Löcher bilden sich, wenn der Kern eines sehr massereichen Sterns kollabiert. Im Zentrum fast jeder Galaxie sitzt zudem ein supermassereiches Schwarzes Loch – in der Milchstraße Sagittarius A* mit rund 4 Millionen Sonnenmassen. 2015 maßen die LIGO-Detektoren erstmals Gravitationswellen zweier verschmelzender Schwarzer Löcher."
+    },
+    {
+     "h": "Ein Foto vom Schatten",
+     "p": "Das Event Horizon Telescope verband Radioteleskope weltweit zu einem erdgroßen Interferometer. 2019 zeigte es den Schatten von M87*, 2022 den von Sagittarius A*. Und sie sind nicht ewig: Durch Hawking-Strahlung verdampfen Schwarze Löcher – extrem langsam.",
+     "img": {
+      "file": "EHT Sagittarius A black hole.tif",
+      "caption": "Sagittarius A*, das Schwarze Loch im Zentrum der Milchstraße (EHT 2022)"
+     }
+    }
+   ],
+   "summary": [
+    "Ereignishorizont bei r = 2GM/c² – für die Sonne ca. 3 km.",
+    "Stellare und supermassereiche Schwarze Löcher, z. B. Sagittarius A*.",
+    "2015 Gravitationswellen gemessen, 2019 erstes Bild."
+   ]
+  },
+  {
+   "id": "mona-lisa",
+   "cat": "kunst",
+   "title": "Mona Lisa",
+   "teaser": "Ein eher kleines Porträt wurde erst durch einen Diebstahl 1911 zum berühmtesten Gemälde der Welt.",
+   "meta": "Leonardo da Vinci, um 1503–1519",
+   "cover": {
+    "file": "Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg",
+    "caption": "Leonardo da Vinci: Mona Lisa, Louvre, Paris"
+   },
+   "sections": [
+    {
+     "h": "Wer ist die Frau?",
+     "p": "Dargestellt ist sehr wahrscheinlich Lisa del Giocondo, Frau eines Florentiner Seidenhändlers – daher der italienische Titel „La Gioconda“. Leonardo begann das Bild um 1503, gab es aber nie ab und arbeitete bis zu seinem Tod 1519 daran.",
+     "img": {
+      "file": "Leonardo self.jpg",
+      "caption": "Mutmaßliches Selbstporträt Leonardos (Rötelzeichnung)"
+     }
+    },
+    {
+     "h": "Das Geheimnis des Lächelns",
+     "p": "Leonardo nutzte das Sfumato: hauchdünne Lasurschichten, die Konturen in weiche Übergänge auflösen. Weil die Mundwinkel im Unscharfen liegen, scheint das Lächeln je nach Blickpunkt zu kommen und zu gehen. Das Bild ist mit 77 × 53 cm übrigens recht klein und auf Pappelholz gemalt."
+    },
+    {
+     "h": "Der Diebstahl von 1911",
+     "p": "Am 21. August 1911 trug der Glaser Vincenzo Peruggia das Bild unter seinem Kittel aus dem Louvre. Zwei Jahre lang blieb es verschwunden, die Presse berichtete weltweit. Als es 1913 in Florenz auftauchte, war die Mona Lisa ein Weltstar. Heute sehen sie jährlich Millionen Menschen – hinter Panzerglas.",
+     "img": {
+      "file": "Mona Lisa crowd.jpg",
+      "caption": "Andrang vor der Mona Lisa im Louvre"
+     }
+    }
+   ],
+   "summary": [
+    "Porträt der Lisa del Giocondo, gemalt ab etwa 1503.",
+    "Das Sfumato macht das Lächeln „lebendig“.",
+    "Erst der Diebstahl 1911 machte sie weltberühmt."
+   ]
+  },
+  {
+   "id": "impressionismus",
+   "cat": "kunst",
+   "title": "Impressionismus",
+   "teaser": "Ein Spottname wurde zum Stilbegriff: Wie junge Maler das Licht statt der Dinge malten.",
+   "meta": "Frankreich, ab 1874",
+   "cover": {
+    "file": "Claude Monet, Impression, soleil levant.jpg",
+    "caption": "Claude Monet: Impression, Sonnenaufgang (1872)"
+   },
+   "sections": [
+    {
+     "h": "Ein Schimpfwort als Name",
+     "p": "1874 stellten Monet, Renoir, Degas, Pissarro, Morisot und andere unabhängig vom offiziellen Pariser Salon aus. Ein Kritiker verspottete sie nach Monets Bild „Impression, Sonnenaufgang“ als „Impressionisten“. Die Gruppe übernahm den Namen."
+    },
+    {
+     "h": "Licht statt Kontur",
+     "p": "Statt im Atelier malten sie oft draußen (en plein air), schnell und mit sichtbarem Pinselstrich. Farben wurden nebeneinandergesetzt statt gemischt; erst im Auge des Betrachters verschmelzen sie. Möglich machten das auch neue Farben in Tuben, die man mitnehmen konnte.",
+     "img": {
+      "file": "Pierre-Auguste Renoir, Le Moulin de la Galette.jpg",
+      "caption": "Pierre-Auguste Renoir: Bal du moulin de la Galette (1876)"
+     }
+    },
+    {
+     "h": "Vom Skandal zum Publikumsliebling",
+     "p": "Anfangs galten die Bilder als unfertig. Heute erzielen sie Rekordpreise. Monet malte in Giverny über 250 Seerosenbilder – fast schon ein Schritt zur Abstraktion, die das 20. Jahrhundert prägen sollte.",
+     "img": {
+      "file": "Claude Monet - Water Lilies - 1906, Ryerson.jpg",
+      "caption": "Claude Monet: Seerosen (1906)"
+     }
+    }
+   ],
+   "summary": [
+    "Name entstand 1874 aus Spott über Monets Bild.",
+    "Freilichtmalerei, sichtbarer Pinselstrich, Fokus auf Licht.",
+    "Wegbereiter der modernen und abstrakten Kunst."
+   ]
+  },
+  {
+   "id": "bauhaus",
+   "cat": "kunst",
+   "title": "Bauhaus",
+   "teaser": "Nur 14 Jahre existierte die Schule – doch ihre Formen stehen heute in fast jeder Wohnung.",
+   "meta": "Weimar, Dessau, Berlin · 1919–1933",
+   "cover": {
+    "file": "Bauhaus Dessau 2018.jpg",
+    "caption": "Das Bauhausgebäude in Dessau (Walter Gropius, 1926)"
+   },
+   "sections": [
+    {
+     "h": "Kunst und Handwerk vereint",
+     "p": "Walter Gropius gründete das Staatliche Bauhaus 1919 in Weimar. Die Idee: Künstler und Handwerker sollten gemeinsam gestalten, die Trennung zwischen freier und angewandter Kunst aufgehoben werden. Lehrer waren unter anderem Kandinsky, Klee und Moholy-Nagy."
+    },
+    {
+     "h": "Form folgt Funktion",
+     "p": "Klare geometrische Formen, Primärfarben, Stahl und Glas, industrielle Serienfertigung: Das Bauhaus wollte gutes Design für alle. Berühmt sind etwa Marcel Breuers Stahlrohrsessel, die Wagenfeld-Tischleuchte und die Typografie in Kleinbuchstaben.",
+     "img": {
+      "file": "Wassily chair.jpg",
+      "caption": "Stahlrohrsessel von Marcel Breuer"
+     }
+    },
+    {
+     "h": "Vertreibung und Weltwirkung",
+     "p": "Von Weimar ging die Schule 1925 nach Dessau, 1932 nach Berlin. 1933 löste sie sich unter dem Druck der Nationalsozialisten auf. Viele Lehrer emigrierten – Gropius und Mies van der Rohe in die USA –, und so verbreitete sich der Stil weltweit. In Tel Aviv stehen rund 4.000 Bauhaus-Gebäude."
+    }
+   ],
+   "summary": [
+    "1919 von Walter Gropius in Weimar gegründet, 1933 aufgelöst.",
+    "Leitgedanke: Kunst + Handwerk + Industrie, Form folgt Funktion.",
+    "Durch Emigration weltweit einflussreich (z. B. „Weiße Stadt“ Tel Aviv)."
+   ]
+  },
+  {
+   "id": "sixtinische-kapelle",
+   "cat": "kunst",
+   "title": "Sixtinische Kapelle",
+   "teaser": "Vier Jahre über Kopf: Michelangelo, der sich eigentlich als Bildhauer sah, malte die berühmteste Decke der Welt.",
+   "meta": "Vatikan · 1508–1512",
+   "cover": {
+    "file": "Michelangelo - Creation of Adam (cropped).jpg",
+    "caption": "Michelangelo: Die Erschaffung Adams (Ausschnitt)"
+   },
+   "sections": [
+    {
+     "h": "Ein widerwilliger Auftrag",
+     "p": "Papst Julius II. beauftragte 1508 Michelangelo mit der Ausmalung der Decke. Der wollte eigentlich das Grabmal des Papstes meißeln und hielt sich nicht für einen Maler. Auf einem selbst konstruierten Gerüst arbeitete er rund vier Jahre lang – stehend, mit nach hinten gebeugtem Kopf, nicht liegend, wie oft behauptet."
+    },
+    {
+     "h": "Über 300 Figuren",
+     "p": "Die rund 500 m² große Decke zeigt neun Szenen aus der Genesis, von der Trennung von Licht und Finsternis bis zur Trunkenheit Noahs, umgeben von Propheten und Sibyllen. Gemalt ist sie al fresco: in den frischen Kalkputz, sodass jeder Tagesabschnitt fertig werden musste.",
+     "img": {
+      "file": "CAPPELLA SISTINA Ceiling.jpg",
+      "caption": "Die Decke der Sixtinischen Kapelle"
+     }
+    },
+    {
+     "h": "Jüngstes Gericht und Konklave",
+     "p": "Jahrzehnte später malte Michelangelo an der Altarwand das „Jüngste Gericht“ (1536–1541). Die Kapelle ist bis heute der Ort, an dem die Kardinäle im Konklave den Papst wählen. Eine Restaurierung (1980–1994) brachte überraschend leuchtende Farben unter dem Ruß zum Vorschein."
+    }
+   ],
+   "summary": [
+    "Michelangelo malte die Decke 1508–1512 im Auftrag von Julius II.",
+    "Neun Genesis-Szenen, darunter die Erschaffung Adams, als Fresko.",
+    "Hier findet bis heute die Papstwahl statt."
+   ]
+  },
+  {
+   "id": "gewaltenteilung",
+   "cat": "politik",
+   "title": "Gewaltenteilung",
+   "teaser": "Warum keine Institution alles darf – und wie das Grundgesetz Macht absichtlich verteilt.",
+   "meta": "Staatsrecht",
+   "cover": {
+    "file": "Reichstag building Berlin view from west before sunset.jpg",
+    "caption": "Das Reichstagsgebäude in Berlin, Sitz des Bundestags"
+   },
+   "sections": [
+    {
+     "h": "Montesquieus Idee",
+     "p": "Der französische Philosoph Montesquieu beschrieb 1748 in „Vom Geist der Gesetze“: Wer Gesetze macht, sie ausführt und über sie richtet, darf nicht dieselbe Person sein – sonst droht Willkür. Daraus entstand die Dreiteilung in Legislative, Exekutive und Judikative.",
+     "img": {
+      "file": "Montesquieu 1.png",
+      "caption": "Charles de Montesquieu (1689–1755)"
+     }
+    },
+    {
+     "h": "So ist es in Deutschland",
+     "p": "Legislative: Bundestag und Bundesrat beschließen Gesetze. Exekutive: Bundesregierung und Verwaltung führen sie aus. Judikative: unabhängige Gerichte kontrollieren – an der Spitze das Bundesverfassungsgericht in Karlsruhe, das sogar Gesetze für nichtig erklären kann."
+    },
+    {
+     "h": "Verschränkt statt getrennt",
+     "p": "In parlamentarischen Systemen ist die Trennung nicht strikt: Der Bundestag wählt den Kanzler, Minister sind oft Abgeordnete. Zusätzlich teilt der Föderalismus Macht zwischen Bund und Ländern (vertikale Gewaltenteilung). Auch freie Presse wird gern „vierte Gewalt“ genannt."
+    }
+   ],
+   "summary": [
+    "Idee von Montesquieu (1748): Macht aufteilen, um Missbrauch zu verhindern.",
+    "Legislative, Exekutive, Judikative – mit Verfassungsgericht als Hüter.",
+    "In Deutschland zusätzlich vertikal durch Bund und Länder."
+   ]
+  },
+  {
+   "id": "eu-entstehung",
+   "cat": "politik",
+   "title": "Entstehung der EU",
+   "teaser": "Aus Kohle und Stahl wurde eine Union von 27 Staaten – die Idee: Krieg materiell unmöglich machen.",
+   "meta": "Europa, seit 1951",
+   "cover": {
+    "file": "European Parliament Strasbourg Hemicycle - Diliff.jpg",
+    "caption": "Plenarsaal des Europäischen Parlaments in Straßburg"
+   },
+   "sections": [
+    {
+     "h": "Der Schuman-Plan",
+     "p": "Am 9. Mai 1950 schlug der französische Außenminister Robert Schuman vor, die Kohle- und Stahlproduktion Frankreichs und Deutschlands gemeinsam zu verwalten – die Grundstoffe der Rüstung. 1951 gründeten sechs Staaten die Europäische Gemeinschaft für Kohle und Stahl (Montanunion). Der 9. Mai ist heute Europatag."
+    },
+    {
+     "h": "Von Rom nach Maastricht",
+     "p": "1957 folgten die Römischen Verträge und die Europäische Wirtschaftsgemeinschaft mit gemeinsamem Markt. Der Vertrag von Maastricht schuf 1993 die Europäische Union mit Unionsbürgerschaft und dem Weg zum Euro, der 1999 als Buchgeld und 2002 als Bargeld kam."
+    },
+    {
+     "h": "Wachstum und Austritt",
+     "p": "Aus sechs Gründerstaaten wurden durch Erweiterungen – die größte 2004 mit zehn Ländern – 28. Mit dem Brexit 2020 verließ erstmals ein Mitglied die Union; heute hat die EU 27 Mitgliedstaaten. 2012 erhielt sie den Friedensnobelpreis.",
+     "img": {
+      "file": "Flag of Europe.svg",
+      "caption": "Flagge der Europäischen Union"
+     }
+    }
+   ],
+   "summary": [
+    "Start 1951 mit der Montanunion nach dem Schuman-Plan.",
+    "1957 Römische Verträge, 1993 EU durch Maastricht, 2002 Euro-Bargeld.",
+    "Heute 27 Mitglieder nach dem Brexit 2020."
+   ]
+  },
+  {
+   "id": "un-sicherheitsrat",
+   "cat": "politik",
+   "title": "UN-Sicherheitsrat",
+   "teaser": "15 Mitglieder, 5 davon mit Vetorecht – warum das mächtigste UN-Gremium so oft blockiert ist.",
+   "meta": "Vereinte Nationen, New York",
+   "cover": {
+    "file": "Headquarters of the United Nations.jpg",
+    "caption": "Hauptquartier der Vereinten Nationen in New York"
+   },
+   "sections": [
+    {
+     "h": "Aufbau",
+     "p": "Der Sicherheitsrat ist für den Weltfrieden zuständig. Er hat fünf ständige Mitglieder – USA, Russland, China, Frankreich und Großbritannien, die Siegermächte des Zweiten Weltkriegs – und zehn nichtständige, die für jeweils zwei Jahre gewählt werden.",
+     "img": {
+      "file": "United Nations Security Council.jpg",
+      "caption": "Sitzungssaal des UN-Sicherheitsrats"
+     }
+    },
+    {
+     "h": "Die Macht des Vetos",
+     "p": "Nur der Sicherheitsrat kann völkerrechtlich bindende Beschlüsse fassen, etwa Sanktionen oder militärische Maßnahmen nach Kapitel VII der UN-Charta. Ein Beschluss braucht neun Stimmen – und keines der fünf ständigen Mitglieder darf mit Nein stimmen. Ein einziges Veto genügt, um ihn zu stoppen."
+    },
+    {
+     "h": "Ewige Reformdebatte",
+     "p": "Kritiker bemängeln, dass das Gremium die Welt von 1945 abbildet: Afrika und Lateinamerika haben keinen ständigen Sitz. Deutschland, Japan, Indien und Brasilien (G4) fordern seit Jahren ständige Sitze. Eine Reform bräuchte aber die Zustimmung der Vetomächte selbst."
+    }
+   ],
+   "summary": [
+    "5 ständige Mitglieder mit Veto, 10 gewählte auf zwei Jahre.",
+    "Einziges UN-Organ mit bindenden Beschlüssen; ein Veto stoppt alles.",
+    "Reformen scheitern bislang an den Vetomächten."
+   ]
+  },
+  {
+   "id": "erst-zweitstimme",
+   "cat": "politik",
+   "title": "Erst- und Zweitstimme",
+   "teaser": "Welche Stimme ist wichtiger – und was hat die Wahlrechtsreform 2023 verändert?",
+   "meta": "Bundestagswahl",
+   "cover": {
+    "file": "Deutscher Bundestag Plenarsaal.jpg",
+    "caption": "Plenarsaal des Deutschen Bundestags"
+   },
+   "sections": [
+    {
+     "h": "Zwei Kreuze",
+     "p": "Mit der Erststimme wählt man eine Person im eigenen Wahlkreis, davon gibt es 299. Mit der Zweitstimme wählt man die Landesliste einer Partei. Entscheidend für die Sitzverteilung im Bundestag ist die Zweitstimme – sie bestimmt, wie viele Sitze jede Partei insgesamt bekommt."
+    },
+    {
+     "h": "Die Reform von 2023",
+     "p": "Früher führten Überhang- und Ausgleichsmandate zu einem immer größeren Parlament (2021: 736 Abgeordnete). Seit der Reform ist der Bundestag auf 630 Sitze gedeckelt. Gewinnt eine Partei mehr Wahlkreise, als ihr nach Zweitstimmen zustehen, gehen die Wahlkreissieger mit den schwächsten Ergebnissen leer aus."
+    },
+    {
+     "h": "Fünf-Prozent-Hürde",
+     "p": "Parteien brauchen mindestens 5 % der Zweitstimmen. Die Grundmandatsklausel – drei gewonnene Wahlkreise reichen auch ohne 5 % – wollte die Reform streichen; das Bundesverfassungsgericht hat sie 2024 bis zu einer Neuregelung wieder in Kraft gesetzt. Ausgenommen von der Hürde sind Parteien nationaler Minderheiten wie der SSW."
+    }
+   ],
+   "summary": [
+    "Erststimme: Person im Wahlkreis; Zweitstimme: Parteiliste – sie entscheidet.",
+    "Seit 2023 fest 630 Sitze, keine Überhangmandate mehr.",
+    "5 %-Hürde, Grundmandatsklausel gilt laut BVerfG weiter."
+   ]
+  }
+ ]
+}
