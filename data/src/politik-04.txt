@@ -1,0 +1,186 @@
+=== euro-ezb
+cat: politik
+title: Der Euro und die EZB
+teaser: Eine Währung für über 350 Millionen Menschen – gesteuert von einer Bank in Frankfurt.
+meta: seit 1999/2002
+cover: Euro | Euro-Banknoten und -Münzen
+## Die gemeinsame Währung
+Der Vertrag von Maastricht 1992 legte den Weg zur Währungsunion fest. 1999 wurde der Euro als Buchgeld eingeführt, am 1. Januar 2002 kamen Scheine und Münzen. Inzwischen nutzen ihn 21 EU-Staaten, seit 2026 auch Bulgarien. Für den Beitritt müssen Länder Kriterien bei Inflation, Defizit, Schulden und Zinsen erfüllen.
+## Die Europäische Zentralbank
+Die EZB in Frankfurt am Main steuert die Geldpolitik der Eurozone. Ihr vorrangiges Ziel ist Preisstabilität, definiert als Inflation von zwei Prozent mittelfristig. Sie ist politisch unabhängig – nach dem Vorbild der Bundesbank. Präsidentin ist seit 2019 Christine Lagarde.
+img: Europäische Zentralbank | Das EZB-Gebäude in Frankfurt
+## Die Eurokrise
+Ab 2010 gerieten Griechenland, Irland, Portugal, Spanien und Zypern in Schuldenkrisen. Rettungsschirme und Auflagen folgten. EZB-Präsident Mario Draghi beruhigte 2012 die Märkte mit dem Satz, man werde tun, „whatever it takes“, um den Euro zu retten. Kritiker bemängeln, dass eine gemeinsame Währung ohne gemeinsame Finanzpolitik krisenanfällig bleibt.
+- Euro als Bargeld seit 2002, 21 Länder (seit 2026 inkl. Bulgarien).
+- EZB in Frankfurt: Ziel 2 % Inflation, unabhängig.
+- Eurokrise ab 2010, Draghis „whatever it takes“.
+
+=== brexit
+cat: politik
+title: Der Brexit
+teaser: 52 zu 48 Prozent – und nach fast 50 Jahren verließ ein Land erstmals die EU.
+meta: 2016–2020
+cover: Brexit | Brexit-Demonstration in London
+## Das Referendum
+Premierminister David Cameron versprach ein Referendum über die EU-Mitgliedschaft, um Konflikte in seiner Konservativen Partei zu beruhigen. Am 23. Juni 2016 stimmten 51,9 Prozent für den Austritt. Wichtige Argumente waren Kontrolle über Einwanderung („Take back control“), Souveränität und Kosten der Mitgliedschaft – teils mit falschen Zahlen.
+## Zähe Verhandlungen
+Die Verhandlungen dauerten Jahre. Besonders schwierig war die Grenze zwischen Nordirland und Irland, die nach dem Karfreitagsabkommen offen bleiben sollte. Theresa May scheiterte dreimal mit ihrem Abkommen im Parlament. Boris Johnson setzte schließlich einen Deal durch; am 31. Januar 2020 trat Großbritannien aus, Ende 2020 auch aus Binnenmarkt und Zollunion.
+img: Boris Johnson | Boris Johnson
+## Folgen
+Der Handel mit der EU wurde aufwendiger, Zölle entfielen zwar, aber Kontrollen und Bürokratie nahmen zu. Viele EU-Bürger verließen das Land, Branchen klagten über Fachkräftemangel. Umfragen zeigen inzwischen eine Mehrheit, die den Austritt für falsch hält. Schottland stimmte 2016 mehrheitlich für den Verbleib, was die Unabhängigkeitsdebatte befeuert.
+- Referendum 2016: 51,9 % für den Austritt.
+- Streit um Nordirland, Austritt am 31. Januar 2020.
+- Mehr Handelsbürokratie, Fachkräftemangel, Reue in Umfragen.
+
+=== inflation-leitzins
+cat: politik
+title: Inflation und Leitzins
+teaser: Warum Notenbanken Zinsen erhöhen, wenn alles teurer wird – und warum zwei Prozent das Ziel sind.
+meta: Wirtschaftspolitik
+cover: Inflation | Preisschilder im Supermarkt
+## Was Inflation ist
+Inflation bedeutet, dass das allgemeine Preisniveau steigt und Geld an Kaufkraft verliert. Gemessen wird sie in Deutschland über den Verbraucherpreisindex: ein „Warenkorb“ typischer Ausgaben von Miete bis Brot. Ursachen können steigende Nachfrage, höhere Kosten (etwa Energie) oder eine zu stark wachsende Geldmenge sein.
+## Das Werkzeug Leitzins
+Zentralbanken wie die EZB steuern über Leitzinsen, zu welchen Konditionen Banken sich Geld leihen. Steigen die Zinsen, werden Kredite teurer, Investitionen und Konsum gehen zurück, die Inflation sinkt – aber auch das Wachstum. Sinkende Zinsen wirken umgekehrt. Angestrebt werden etwa zwei Prozent Inflation: genug Puffer gegen Deflation, aber stabil.
+img: Europäische Zentralbank | Die Europäische Zentralbank
+## Die jüngste Welle
+Nach der Corona-Pandemie und Russlands Angriff auf die Ukraine stieg die Inflation in Deutschland 2022 auf fast 7 Prozent im Jahresschnitt, im Oktober 2022 auf 8,8 Prozent – vor allem durch Energie- und Lebensmittelpreise. Die EZB erhöhte die Zinsen ab Juli 2022 in schneller Folge und senkte sie ab 2024 wieder, als die Inflation nachließ.
+- Steigendes Preisniveau, gemessen am Warenkorb.
+- Leitzins als Bremse oder Gaspedal; Ziel 2 %.
+- Inflationswelle 2022, Zinswende der EZB.
+
+=== schuldenbremse
+cat: politik
+title: Die Schuldenbremse
+teaser: Seit 2009 im Grundgesetz – und 2025 für Verteidigung und Infrastruktur weitreichend gelockert.
+meta: Deutschland
+cover: Schuldenbremse | Das Bundesfinanzministerium in Berlin
+## Die Regel
+Die Schuldenbremse wurde 2009 nach der Finanzkrise ins Grundgesetz geschrieben. Der Bund darf strukturell nur Schulden in Höhe von 0,35 Prozent der Wirtschaftsleistung aufnehmen, die Länder gar keine. Eine Konjunkturkomponente erlaubt mehr Schulden in schlechten Zeiten. In Notlagen wie Naturkatastrophen kann der Bundestag sie aussetzen – so geschehen in der Corona-Pandemie.
+## Das Urteil 2023
+Die Ampelregierung wollte 60 Milliarden Euro nicht genutzter Corona-Kreditermächtigungen für den Klimaschutz umwidmen. Das Bundesverfassungsgericht erklärte das im November 2023 für verfassungswidrig. Die Haushaltslücke trug zum Bruch der Koalition im November 2024 bei.
+img: Bundesfinanzministerium | Detlev-Rohwedder-Haus, Sitz des Finanzministeriums
+## Die Reform 2025
+Im März 2025 änderte der alte Bundestag noch vor der Konstituierung des neuen das Grundgesetz: Verteidigungsausgaben über einem Prozent der Wirtschaftsleistung sind von der Schuldenbremse ausgenommen, ein Sondervermögen von 500 Milliarden Euro für Infrastruktur und Klimaschutz wurde geschaffen, die Länder erhielten etwas Spielraum. Befürworter sehen Investitionsbedarf, Kritiker Lasten für künftige Generationen.
+- Seit 2009 im Grundgesetz: max. 0,35 % strukturelles Defizit.
+- Verfassungsgericht stoppte 2023 eine Umwidmung von 60 Mrd. Euro.
+- Reform 2025: Ausnahme für Verteidigung, 500-Mrd.-Sondervermögen.
+
+=== rente-umlageverfahren
+cat: politik
+title: Die Rente im Umlageverfahren
+teaser: Deine Beiträge werden nicht gespart, sondern sofort an heutige Rentner ausgezahlt – ein Generationenvertrag.
+meta: Deutschland
+cover: Gesetzliche Rentenversicherung (Deutschland) | Rentenbescheid
+## Wie es funktioniert
+Die gesetzliche Rente in Deutschland funktioniert im Umlageverfahren: Die Beiträge der Erwerbstätigen und Arbeitgeber (zusammen derzeit 18,6 Prozent des Bruttolohns) fließen direkt an die heutigen Rentner. Wer einzahlt, erwirbt Ansprüche, die später von der nächsten Generation finanziert werden – der „Generationenvertrag“. Ein Zuschuss aus Steuermitteln von über 100 Milliarden Euro jährlich ergänzt das.
+## Das demografische Problem
+Als das System 1957 unter Adenauer reformiert wurde, kamen auf einen Rentner etwa sechs Beitragszahler, heute sind es unter zwei. Die Babyboomer gehen in Rente, die Lebenserwartung steigt, Geburtenraten sind niedrig. Das Rentenniveau – das Verhältnis der Standardrente zum Durchschnittslohn – liegt bei etwa 48 Prozent.
+img: Deutsche Rentenversicherung | Sitz der Deutschen Rentenversicherung
+## Lösungsideen
+Diskutiert werden ein höheres Rentenalter (es steigt bis 2031 schrittweise auf 67), höhere Beiträge, mehr Steuerzuschüsse, mehr Einwanderung und Frauenerwerbstätigkeit, Einbeziehung von Beamten und Selbstständigen sowie kapitalgedeckte Ergänzungen wie in Schweden. Private und betriebliche Vorsorge („Riester“, Betriebsrente) sollen Lücken schließen.
+- Umlageverfahren: Beiträge finanzieren direkt heutige Renten.
+- Demografie: immer weniger Beitragszahler pro Rentner.
+- Reformideen von Rentenalter bis Kapitaldeckung.
+
+=== sozialversicherung
+cat: politik
+title: Die Sozialversicherung
+teaser: Bismarck erfand sie, um die Arbeiter von den Sozialdemokraten fernzuhalten – heute fünf Säulen.
+meta: Deutschland, seit 1883
+cover: Sozialversicherung (Deutschland) | Krankenversicherungskarte
+## Bismarcks Idee
+Otto von Bismarck führte in den 1880er Jahren die Krankenversicherung (1883), die Unfallversicherung (1884) und die Invaliditäts- und Altersversicherung (1889) ein. Er wollte die Arbeiter an den Staat binden und der Sozialdemokratie, die er gleichzeitig mit den Sozialistengesetzen verfolgte, das Wasser abgraben. Deutschland war damit weltweit Vorreiter.
+## Die fünf Säulen
+Heute besteht die Sozialversicherung aus Kranken-, Renten-, Unfall-, Arbeitslosen- (seit 1927) und Pflegeversicherung (seit 1995). Finanziert wird sie überwiegend durch Beiträge, die sich Arbeitgeber und Arbeitnehmer meist teilen – die Unfallversicherung zahlen die Arbeitgeber allein. Zusammen machen die Beiträge über 40 Prozent des Bruttolohns aus.
+img: Otto von Bismarck | Otto von Bismarck
+## Solidarität und Selbstverwaltung
+Prinzip ist Solidarität: In der Krankenversicherung zahlen Menschen nach Einkommen, erhalten aber Leistungen nach Bedarf. Die Kassen verwalten sich selbst, Versicherte und Arbeitgeber wählen in Sozialwahlen ihre Vertreter. Neben der gesetzlichen gibt es die private Krankenversicherung, etwa für Beamte und Gutverdiener – das „Zwei-Klassen-System“ ist umstritten.
+- Von Bismarck ab 1883 eingeführt.
+- Fünf Säulen: Kranken, Rente, Unfall, Arbeitslosigkeit, Pflege.
+- Solidarprinzip und Selbstverwaltung; Streit um private Versicherung.
+
+=== steuerprogression
+cat: politik
+title: Die Steuerprogression
+teaser: Wer mehr verdient, zahlt prozentual mehr – aber nicht auf das ganze Einkommen. Ein häufiges Missverständnis.
+meta: Steuerpolitik
+cover: Einkommensteuer (Deutschland) | Steuerformulare
+## Der Tarif
+Die Einkommensteuer in Deutschland ist progressiv: Bis zum Grundfreibetrag (2026 gut 12.000 Euro) bleibt das Einkommen steuerfrei. Danach steigt der Steuersatz von 14 Prozent kontinuierlich bis auf 42 Prozent, für sehr hohe Einkommen gilt der „Reichensteuersatz“ von 45 Prozent. Hinzu kommt für Gutverdiener noch der Solidaritätszuschlag.
+## Grenz- und Durchschnittssteuersatz
+Wichtig: Der Spitzensteuersatz gilt nur für den Teil des Einkommens oberhalb der Grenze, nicht für das ganze Einkommen. Wer eine Gehaltserhöhung bekommt, hat deshalb nie weniger netto. Der Durchschnittssteuersatz liegt immer unter dem Grenzsteuersatz. Durch Ehegattensplitting werden die Einkommen von Ehepaaren zusammengerechnet und halbiert besteuert.
+img: Bundeszentralamt für Steuern | Das Bundeszentralamt für Steuern
+## Kalte Progression
+Steigen Löhne nur im Ausmaß der Inflation, rutschen Menschen trotzdem in höhere Steuersätze, obwohl sie real nicht mehr verdienen – die „kalte Progression“. Deshalb verschiebt der Gesetzgeber die Tarifgrenzen regelmäßig. Ökonomen streiten, wie progressiv ein Steuersystem sein sollte: Gerechtigkeit gegen Leistungsanreize.
+- Grundfreibetrag, dann Steuersatz von 14 % bis 42 % bzw. 45 %.
+- Grenzsteuersatz gilt nur für den Teil oberhalb der Grenze.
+- Kalte Progression durch Inflation.
+
+=== mindestlohn
+cat: politik
+title: Der Mindestlohn
+teaser: Erst 2015 kam er in Deutschland – die befürchteten Massenentlassungen blieben aus.
+meta: Deutschland, seit 2015
+cover: Mindestlohn (Deutschland) | Arbeiterin
+## Spät eingeführt
+Lange setzte Deutschland darauf, dass Gewerkschaften und Arbeitgeber Löhne aushandeln. Doch die Tarifbindung sank, ein großer Niedriglohnsektor entstand. Am 1. Januar 2015 führte die Große Koalition einen allgemeinen gesetzlichen Mindestlohn von 8,50 Euro pro Stunde ein. Viele Ökonomen warnten vor dem Verlust Hunderttausender Jobs.
+## Die Mindestlohnkommission
+Die Höhe empfiehlt eine Kommission aus Arbeitgeber- und Gewerkschaftsvertretern. 2022 griff die Politik ausnahmsweise direkt ein und erhöhte ihn auf 12 Euro. Seit Januar 2026 liegt er bei 13,90 Euro, für 2027 sind 14,60 Euro beschlossen. Ausnahmen gelten etwa für Auszubildende, Langzeitarbeitslose in den ersten sechs Monaten und Minderjährige ohne Abschluss.
+img: Deutscher Gewerkschaftsbund | Logo/Sitz des DGB
+## Die Bilanz
+Studien zeigen: Die Löhne von Geringverdienern stiegen deutlich, nennenswerte Jobverluste blieben aus. Manche Minijobs wurden in reguläre Stellen umgewandelt. Diskutiert wird, ob sich der Mindestlohn an 60 Prozent des mittleren Lohns orientieren sollte, wie es eine EU-Richtlinie nahelegt.
+- Seit 2015, Start bei 8,50 Euro.
+- Höhe über eine Kommission; 2026: 13,90 Euro.
+- Höhere Löhne ohne die befürchteten Jobverluste.
+
+=== tarifautonomie
+cat: politik
+title: Tarifautonomie und Gewerkschaften
+teaser: Löhne handelt in Deutschland nicht der Staat aus, sondern Gewerkschaften und Arbeitgeber – notfalls mit Streik.
+meta: Deutschland
+cover: Gewerkschaft | Warnstreik
+## Im Grundgesetz verankert
+Artikel 9 Absatz 3 garantiert die Koalitionsfreiheit: Arbeitnehmer dürfen sich in Gewerkschaften, Arbeitgeber in Verbänden zusammenschließen. Sie handeln ohne Einmischung des Staates Tarifverträge aus – über Löhne, Arbeitszeit und Urlaub. Das ist die Tarifautonomie.
+## Streik und Aussperrung
+Scheitern Verhandlungen, dürfen Gewerkschaften streiken, oft zuerst mit Warnstreiks. Politische Streiks sind in Deutschland verboten. Beamte dürfen nicht streiken. Die IG Metall erkämpfte 1984 den Einstieg in die 35-Stunden-Woche. Große Gewerkschaften sind im Deutschen Gewerkschaftsbund (DGB) organisiert, etwa Verdi und die IG Metall; daneben gibt es Spartengewerkschaften wie die GDL der Lokführer.
+img: IG Metall | Die IG Metall
+## Sozialpartnerschaft
+Typisch für Deutschland ist die „Sozialpartnerschaft“: Gewerkschaften und Arbeitgeber streiten, kooperieren aber auch, etwa in der Mitbestimmung in Aufsichtsräten großer Unternehmen. Problem: Die Tarifbindung sinkt; nur noch etwa die Hälfte der Beschäftigten arbeitet in tarifgebundenen Betrieben. Der Staat kann Tarifverträge für allgemeinverbindlich erklären.
+- Koalitionsfreiheit (Art. 9 Abs. 3), Tarifverträge ohne Staat.
+- Streikrecht, aber keine politischen Streiks.
+- Sozialpartnerschaft und Mitbestimmung; sinkende Tarifbindung.
+
+=== soziale-marktwirtschaft
+cat: politik
+title: Die Soziale Marktwirtschaft
+teaser: „Wohlstand für alle“: Markt plus sozialer Ausgleich – das Erfolgsmodell der Bundesrepublik.
+meta: Deutschland, seit 1948
+cover: Soziale Marktwirtschaft | Ludwig Erhard mit Zigarre
+## Ein dritter Weg
+Die Soziale Marktwirtschaft verbindet freien Wettbewerb mit sozialem Ausgleich. Den Begriff prägte der Ökonom Alfred Müller-Armack. Grundlagen lieferte der Ordoliberalismus der Freiburger Schule um Walter Eucken: Der Staat setzt einen Ordnungsrahmen, sorgt für Wettbewerb und verhindert Monopole, greift aber nicht in einzelne Preise ein.
+## Ludwig Erhard
+Wirtschaftsdirektor Ludwig Erhard gab 1948 zusammen mit der Währungsreform die meisten Preise frei – gegen den Willen der Alliierten. Die Schaufenster füllten sich über Nacht. Als Wirtschaftsminister und später Kanzler wurde er zum „Vater des Wirtschaftswunders“. Sein Buch hieß „Wohlstand für alle“.
+img: Ludwig Erhard | Ludwig Erhard
+## Heute
+Zur Sozialen Marktwirtschaft gehören Kartellrecht, Sozialversicherungen, Tarifautonomie, Mitbestimmung und Umverteilung über Steuern. Sie ist im Grundgesetz nicht ausdrücklich festgeschrieben, wurde aber im Einigungsvertrag 1990 als Wirtschaftsordnung vereinbart. Diskutiert wird, wie sie um Klimaschutz zur „ökosozialen“ Marktwirtschaft erweitert werden kann.
+- Markt mit sozialem Ausgleich; Ordoliberalismus als Grundlage.
+- Erhard 1948: Preisfreigabe, Wirtschaftswunder.
+- Kartellrecht, Sozialversicherung, Mitbestimmung.
+
+=== politische-ideologien
+cat: politik
+title: Liberalismus, Konservatismus, Sozialismus
+teaser: Die drei großen politischen Strömungen der Moderne – und warum sie „links“ und „rechts“ heißen.
+meta: Politische Theorie
+cover: Politisches Spektrum | Schema des politischen Spektrums
+## Links und rechts
+Die Begriffe stammen aus der französischen Nationalversammlung 1789: Rechts vom Präsidenten saßen die Anhänger des Königs, links die Befürworter grundlegender Veränderungen. Bis heute steht „links“ eher für Gleichheit und Wandel, „rechts“ eher für Ordnung und Tradition – eine starke Vereinfachung.
+## Drei Strömungen
+Der Liberalismus (John Locke, Adam Smith) betont individuelle Freiheit, Eigentum, Marktwirtschaft und einen begrenzten Staat. Der Konservatismus (Edmund Burke) misstraut radikalen Umbrüchen und will Bewährtes, Traditionen und Institutionen bewahren. Der Sozialismus (Karl Marx und andere) kritisiert die Ungleichheit des Kapitalismus und will Produktionsmittel vergesellschaften oder Wohlstand umverteilen; die Sozialdemokratie wählte dafür den Weg der Reformen.
+img: Edmund Burke | Edmund Burke
+## Weitere Strömungen
+Dazu kamen Nationalismus, Anarchismus, Faschismus, Feminismus und Ökologie. Moderne Parteien mischen oft Elemente: Christdemokraten verbinden Konservatismus mit sozialem Ausgleich, Grüne Ökologie mit Liberalismus. Neben links-rechts nutzen Politikwissenschaftler weitere Achsen, etwa autoritär gegen libertär oder offen gegen geschlossen.
+- „Links“ und „rechts“ aus der Nationalversammlung von 1789.
+- Liberalismus (Freiheit), Konservatismus (Bewahren), Sozialismus (Gleichheit).
+- Heute Mischformen und weitere Achsen.

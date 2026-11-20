@@ -1,0 +1,169 @@
+=== pressefreiheit
+cat: politik
+title: Die Pressefreiheit
+teaser: „Eine Zensur findet nicht statt“ – fünf Wörter im Grundgesetz, um die anderswo gekämpft wird.
+meta: Grundrechte
+cover: Pressefreiheit | Zeitungen
+## Im Grundgesetz
+Artikel 5 garantiert Meinungs-, Presse- und Rundfunkfreiheit und stellt fest: „Eine Zensur findet nicht statt.“ Grenzen setzen allgemeine Gesetze, der Jugendschutz und das Recht der persönlichen Ehre. Journalisten haben ein Zeugnisverweigerungsrecht, um ihre Quellen zu schützen.
+## Die Spiegel-Affäre
+1962 veröffentlichte der „Spiegel“ einen kritischen Artikel über die Bundeswehr. Die Polizei durchsuchte die Redaktion, Herausgeber Rudolf Augstein saß über 100 Tage in Haft, Verteidigungsminister Franz Josef Strauß hatte das Parlament belogen und musste zurücktreten. Das Bundesverfassungsgericht betonte die Rolle einer freien Presse; die Affäre gilt als Wendepunkt der Demokratie in der Bundesrepublik.
+img: Rudolf Augstein | Rudolf Augstein
+## Weltweit unter Druck
+Reporter ohne Grenzen veröffentlicht jährlich eine Rangliste der Pressefreiheit; Skandinavien liegt meist vorne, Länder wie Nordkorea, China und Eritrea hinten. Jedes Jahr werden weltweit Dutzende Journalisten getötet. In Demokratien geraten Medien durch Hasskampagnen, wirtschaftlichen Druck und Desinformation unter Druck.
+- Art. 5 GG: Meinungs- und Pressefreiheit, keine Zensur.
+- Spiegel-Affäre 1962 als Wendepunkt.
+- Weltweit bedroht; Rangliste von Reporter ohne Grenzen.
+
+=== lobbyismus
+cat: politik
+title: Lobbyismus
+teaser: Interessenvertretung gehört zur Demokratie – problematisch wird sie, wenn sie im Verborgenen geschieht.
+meta: Politik
+cover: Lobbyismus | Lobby des Bundestags
+## Woher der Name kommt
+Der Begriff stammt aus den Vorhallen (Lobbys) der Parlamente, in denen Interessenvertreter Abgeordnete abfingen. Heute vertreten Verbände, Unternehmen, Gewerkschaften, Umweltgruppen und Kirchen ihre Anliegen gegenüber Politik und Verwaltung. In Berlin sind Tausende Lobbyisten aktiv.
+## Nutzen und Gefahr
+Lobbyisten liefern Fachwissen und zeigen, wie Gesetze in der Praxis wirken. Problematisch wird es, wenn finanzstarke Interessen ungleich mehr Zugang haben, wenn Gesetzentwürfe fast wörtlich aus Verbandsvorlagen stammen oder wenn Politiker direkt nach dem Amt in Konzerne wechseln („Drehtür-Effekt“), wie Gerhard Schröder zu russischen Energiekonzernen.
+img: Gerhard Schröder | Gerhard Schröder
+## Mehr Transparenz
+Seit 2022 gibt es in Deutschland ein verpflichtendes Lobbyregister beim Bundestag, in dem Interessenvertreter Auftraggeber und Ausgaben angeben müssen. Kritiker fordern zusätzlich einen „legislativen Fußabdruck“, der zeigt, wer an einem Gesetz mitgewirkt hat. Die Maskenaffäre 2021, bei der Abgeordnete Provisionen für Maskengeschäfte kassierten, verschärfte die Regeln.
+- Interessenvertretung gegenüber der Politik.
+- Fachwissen vs. ungleicher Einfluss, Drehtür-Effekt.
+- Lobbyregister seit 2022.
+
+=== wehrhafte-demokratie
+cat: politik
+title: Die wehrhafte Demokratie
+teaser: Keine Freiheit für die Feinde der Freiheit – die Lehre aus dem Untergang Weimars.
+meta: Deutschland
+cover: Streitbare Demokratie | Das Bundesamt für Verfassungsschutz in Köln
+## Die Lehre aus Weimar
+Die Weimarer Republik wurde von Gegnern der Demokratie mit demokratischen Mitteln abgeschafft. Das Grundgesetz soll das verhindern: Die freiheitliche demokratische Grundordnung darf nicht abgeschafft werden, selbst nicht durch Mehrheiten. Man spricht von „wehrhafter“ oder „streitbarer“ Demokratie.
+## Die Instrumente
+Verfassungsfeindliche Parteien können verboten werden (Art. 21), Vereine ebenso. Wer Grundrechte zum Kampf gegen die Demokratie missbraucht, kann sie verwirken (Art. 18) – angewandt wurde das noch nie. Der Verfassungsschutz beobachtet extremistische Bestrebungen. Beamte müssen sich zur Verfassung bekennen, und alle Deutschen haben ein Widerstandsrecht gegen Umsturzversuche (Art. 20).
+img: Bundesamt für Verfassungsschutz | Das Bundesamt für Verfassungsschutz
+## Das Dilemma
+Jede Maßnahme gegen Verfassungsfeinde schränkt auch Freiheit ein. Wer bestimmt, was extremistisch ist? Deshalb liegen die schärfsten Mittel – Parteiverbot und Grundrechtsverwirkung – allein beim Bundesverfassungsgericht. Die Einstufung der AfD durch den Verfassungsschutz und die Debatte über ein Verbotsverfahren zeigen, wie umstritten der Einsatz ist.
+- Lehre aus Weimar: Demokratie darf sich nicht selbst abschaffen.
+- Parteiverbot, Grundrechtsverwirkung, Verfassungsschutz.
+- Spannungsfeld zwischen Schutz und Freiheit.
+
+=== parteiverbot
+cat: politik
+title: Das Parteiverbot
+teaser: Nur zweimal wurde in der Bundesrepublik eine Partei verboten – beim NPD-Verfahren reichte Gefährlichkeit nicht.
+meta: Deutschland
+cover: Parteiverbot | Das Bundesverfassungsgericht
+## Hohe Hürden
+Über ein Parteiverbot entscheidet allein das Bundesverfassungsgericht, auf Antrag von Bundestag, Bundesrat oder Bundesregierung. Die Partei muss darauf ausgehen, die freiheitliche demokratische Grundordnung zu beseitigen. Für ein Verbot braucht es eine Zweidrittelmehrheit im zuständigen Senat.
+## Zwei Verbote
+1952 wurde die Sozialistische Reichspartei (SRP) als Nachfolgeorganisation der NSDAP verboten, 1956 die Kommunistische Partei Deutschlands (KPD). Ein erstes Verfahren gegen die rechtsextreme NPD scheiterte 2003, weil zu viele V-Leute des Verfassungsschutzes in der Parteiführung saßen.
+img: Nationaldemokratische Partei Deutschlands | Ehemalige NPD-Zentrale
+## Das NPD-Urteil 2017
+2017 stellte das Gericht fest: Die NPD ist verfassungsfeindlich und wesensverwandt mit dem Nationalsozialismus – aber zu unbedeutend, um ihre Ziele erreichen zu können. Es fehle an „Potentialität“. Daraufhin wurde das Grundgesetz geändert: Verfassungsfeindliche Parteien können seitdem von der Parteienfinanzierung ausgeschlossen werden, was 2024 die NPD-Nachfolgerin „Die Heimat“ traf.
+- Nur das Bundesverfassungsgericht kann Parteien verbieten.
+- Verboten wurden SRP (1952) und KPD (1956).
+- NPD 2017 nicht verboten (zu unbedeutend); Ausschluss von Finanzierung möglich.
+
+=== asylrecht
+cat: politik
+title: Das Asylrecht
+teaser: „Politisch Verfolgte genießen Asylrecht“ – ein Satz, der 1993 stark eingeschränkt wurde.
+meta: Deutschland
+cover: Asylrecht (Deutschland) | Bundesamt für Migration und Flüchtlinge in Nürnberg
+## Ein Grundrecht
+Artikel 16a des Grundgesetzes garantiert politisch Verfolgten Asyl. Die Väter und Mütter des Grundgesetzes erinnerten sich daran, dass viele Deutsche in der NS-Zeit nur überlebten, weil andere Länder sie aufnahmen. Deutschland ist eines der wenigen Länder, in denen Asyl ein einklagbares Grundrecht ist.
+## Der Asylkompromiss 1993
+Anfang der 1990er stiegen die Antragszahlen stark, es kam zu rassistischen Anschlägen wie in Rostock-Lichtenhagen und Solingen. 1993 wurde das Grundrecht eingeschränkt: Wer über einen „sicheren Drittstaat“ einreist – und das sind alle Nachbarn Deutschlands –, kann sich nicht darauf berufen. In der Praxis werden heute die meisten Menschen nach der Genfer Flüchtlingskonvention oder als subsidiär Schutzberechtigte anerkannt.
+img: Bundesamt für Migration und Flüchtlinge | Das BAMF
+## Europäische Ebene
+Nach dem Dublin-System ist meist das Land zuständig, in dem ein Flüchtling zuerst EU-Boden betritt – das belastet Grenzstaaten wie Italien und Griechenland. 2024 beschloss die EU eine Reform (GEAS) mit Grenzverfahren in Lagern an den Außengrenzen und einem Solidaritätsmechanismus, die ab 2026 gelten soll.
+- Art. 16a GG: Asyl als Grundrecht.
+- Asylkompromiss 1993 mit Drittstaatenregelung.
+- Dublin-System und EU-Asylreform GEAS ab 2026.
+
+=== genfer-fluechtlingskonvention
+cat: politik
+title: Die Genfer Flüchtlingskonvention
+teaser: Seit 1951 definiert sie, wer als Flüchtling gilt – und verbietet, Menschen in Verfolgung zurückzuschicken.
+meta: UN, 1951
+cover: Abkommen über die Rechtsstellung der Flüchtlinge | UNHCR-Flüchtlingslager
+## Wer ist Flüchtling?
+Die Konvention von 1951 definiert als Flüchtling, wer begründete Furcht vor Verfolgung wegen Rasse, Religion, Nationalität, Zugehörigkeit zu einer sozialen Gruppe oder politischer Überzeugung hat und sich außerhalb seines Heimatlandes befindet. Ursprünglich galt sie nur für Ereignisse vor 1951 in Europa; das Protokoll von 1967 hob diese Beschränkungen auf.
+## Das Non-Refoulement-Prinzip
+Kern ist das Verbot der Zurückweisung: Kein Flüchtling darf in ein Land zurückgeschickt werden, in dem ihm Verfolgung droht. Flüchtlinge erhalten Rechte etwa auf Arbeit, Bildung und Reisedokumente. Wer vor Krieg, Armut oder Klimafolgen flieht, fällt nicht automatisch unter die Konvention, kann aber anderen Schutz erhalten.
+img: Hoher Flüchtlingskommissar der Vereinten Nationen | Das UNHCR in Genf
+## UNHCR
+Das UN-Flüchtlingshilfswerk UNHCR überwacht die Einhaltung und hilft Geflüchteten weltweit; es erhielt zweimal den Friedensnobelpreis (1954 und 1981). Ende 2024 waren über 120 Millionen Menschen weltweit gewaltsam vertrieben, die meisten davon innerhalb ihres eigenen Landes. Die meisten Flüchtlinge leben in Nachbarländern ihrer Herkunftsstaaten, nicht in Europa.
+- Flüchtlingsdefinition von 1951, erweitert 1967.
+- Non-Refoulement: keine Zurückweisung in Verfolgung.
+- UNHCR; über 120 Mio. Vertriebene weltweit.
+
+=== staatsangehoerigkeit
+cat: politik
+title: Die Staatsangehörigkeit
+teaser: Blut oder Boden? Wie man Deutscher wird – und warum es seit 2024 der Doppelpass ist.
+meta: Deutschland
+cover: Deutsche Staatsangehörigkeit | Deutscher Reisepass
+## Abstammungsprinzip
+Lange galt in Deutschland fast nur das Abstammungsprinzip (ius sanguinis): Deutsch ist, wer deutsche Eltern hat. Grundlage war ein Gesetz von 1913. In Ländern wie den USA gilt dagegen das Geburtsortprinzip (ius soli): Wer dort geboren wird, ist Staatsbürger.
+## Reformen
+Im Jahr 2000 führte die rot-grüne Regierung ein, dass in Deutschland geborene Kinder ausländischer Eltern unter Bedingungen die deutsche Staatsangehörigkeit erhalten. Eine Kampagne der Union gegen die doppelte Staatsbürgerschaft hatte zuvor eine Landtagswahl entschieden. Lange mussten sich diese Kinder später für eine Staatsangehörigkeit entscheiden (Optionspflicht).
+img: Einbürgerung | Einbürgerungsfeier
+## Seit 2024
+Seit Juni 2024 ist Mehrstaatigkeit generell erlaubt. Die Einbürgerung war nach fünf Jahren Aufenthalt möglich, bei besonderer Integration nach drei; die neue Koalition schaffte die Drei-Jahres-Regel 2025 wieder ab. Voraussetzungen sind unter anderem Sprachkenntnisse, Lebensunterhalt, Einbürgerungstest und ein Bekenntnis zur freiheitlichen Grundordnung, ausdrücklich auch zur besonderen Verantwortung für jüdisches Leben.
+- Traditionell Abstammungsprinzip, seit 2000 teilweise Geburtsortprinzip.
+- Seit 2024 doppelte Staatsbürgerschaft erlaubt.
+- Einbürgerung nach fünf Jahren mit Sprach- und Werteanforderungen.
+
+=== pariser-klimaabkommen
+cat: politik
+title: Das Pariser Klimaabkommen
+teaser: Fast alle Staaten der Welt einigten sich 2015 auf „deutlich unter 2 Grad“ – aber jeder legt seinen Beitrag selbst fest.
+meta: 2015
+cover: Übereinkommen von Paris | Die Delegierten bei der Annahme des Abkommens 2015
+## Das Ziel
+Auf der Klimakonferenz in Paris (COP21) beschlossen 195 Staaten, die Erderwärmung auf deutlich unter 2 Grad gegenüber vorindustriellem Niveau zu begrenzen, möglichst auf 1,5 Grad. In der zweiten Hälfte des Jahrhunderts sollen die Treibhausgasemissionen netto null erreichen. Es trat 2016 in Kraft.
+## Freiwillige Beiträge
+Anders als das Kyoto-Protokoll von 1997, das nur Industrieländer verpflichtete, müssen alle Staaten nationale Klimaschutzbeiträge (NDCs) vorlegen und alle fünf Jahre verschärfen. Wie hoch sie ausfallen, bestimmt jedes Land selbst; Sanktionen gibt es nicht. Reiche Länder sagten Klimafinanzierung für ärmere zu.
+img: Laurent Fabius | Laurent Fabius, Präsident der Pariser Konferenz
+## Die Lücke
+Die bisherigen Zusagen reichen bei Weitem nicht für 1,5 Grad; Analysen erwarten eher rund 2,5 bis 3 Grad. 2024 war das erste Kalenderjahr über 1,5 Grad. Die USA traten unter Trump zweimal aus dem Abkommen aus (2017/2020 wirksam, erneut 2025). Jährliche Klimakonferenzen (COPs) verhandeln über Umsetzung, Finanzierung und den Ausstieg aus fossilen Energien.
+- 2015: Ziel deutlich unter 2 °C, möglichst 1,5 °C.
+- Alle Staaten mit selbst gesetzten Beiträgen (NDCs).
+- Zusagen reichen nicht; USA erneut ausgetreten.
+
+=== co2-preis
+cat: politik
+title: CO₂-Preis und Emissionshandel
+teaser: Wer verschmutzt, zahlt – ein marktwirtschaftliches Instrument, das in Europa die Kohle verdrängte.
+meta: Klimapolitik
+cover: Emissionshandel | Kohlekraftwerk
+## Die Idee
+Treibhausgasemissionen verursachen Schäden, für die der Verursacher nicht zahlt – Ökonomen sprechen von externen Kosten. Ein CO₂-Preis soll sie „einpreisen“. Dann lohnt es sich, Emissionen dort zu vermeiden, wo es am billigsten ist. Möglich ist das über eine Steuer oder über Emissionshandel.
+## Der EU-Emissionshandel
+Seit 2005 müssen Kraftwerke und Industrieanlagen in der EU für jede Tonne CO₂ ein Zertifikat abgeben. Die Gesamtmenge ist gedeckelt und sinkt jährlich („Cap and Trade“). Anfangs gab es zu viele Gratiszertifikate, der Preis lag bei wenigen Euro. Nach Reformen stieg er zeitweise auf über 80 Euro pro Tonne – Kohlekraftwerke wurden unrentabel.
+img: Braunkohlekraftwerk | Braunkohlekraftwerk
+## Verkehr und Wärme
+Seit 2021 gibt es in Deutschland auch einen CO₂-Preis auf Benzin, Diesel, Heizöl und Gas, der jährlich steigt. Ab 2027 soll ein EU-weiter Emissionshandel für Gebäude und Verkehr (ETS 2) folgen. Damit es sozial gerecht bleibt, wird ein „Klimageld“ diskutiert, das die Einnahmen pro Kopf zurückzahlt – umgesetzt ist es bisher nicht.
+- Externe Kosten werden über einen Preis sichtbar gemacht.
+- EU-Emissionshandel seit 2005, Cap and Trade.
+- Nationaler CO₂-Preis seit 2021; ETS 2 ab 2027 geplant.
+
+=== atomausstieg
+cat: politik
+title: Der Atomausstieg
+teaser: Beschlossen, zurückgenommen, wieder beschlossen – am 15. April 2023 gingen die letzten drei AKW vom Netz.
+meta: Deutschland, 2000–2023
+cover: Atomausstieg | Das Kernkraftwerk Isar
+## Vom Konsens zur Rolle rückwärts
+Nach jahrzehntelangen Protesten – etwa in Wackersdorf, Brokdorf und Gorleben – vereinbarte die rot-grüne Regierung 2000 mit den Energiekonzernen den Atomausstieg bis etwa 2022. 2010 beschloss die schwarz-gelbe Regierung unter Angela Merkel eine Laufzeitverlängerung um durchschnittlich zwölf Jahre.
+## Fukushima
+Am 11. März 2011 kam es nach einem Erdbeben und Tsunami in Japan zu Kernschmelzen im Kraftwerk Fukushima Daiichi. Merkel vollzog eine Kehrtwende: Acht Reaktoren wurden sofort abgeschaltet, der Ausstieg bis Ende 2022 festgeschrieben. Wegen der Energiekrise nach Russlands Angriff auf die Ukraine liefen die letzten drei Kraftwerke bis zum 15. April 2023.
+img: Kernkraftwerk Fukushima Daiichi | Das Kernkraftwerk Fukushima Daiichi
+## Streitpunkt bleibt
+Befürworter verweisen auf Unfallrisiken und den ungelösten Atommüll – ein Endlager soll frühestens in den 2040er/2050er Jahren bereitstehen. Kritiker bemängeln, dass durch den Ausstieg länger Kohle verbrannt wurde und CO₂-arme Kapazität verloren ging. Andere Länder wie Frankreich setzen weiter stark auf Kernkraft.
+- Ausstieg 2000 beschlossen, 2010 verlängert, 2011 nach Fukushima neu beschlossen.
+- Letzte AKW am 15. April 2023 abgeschaltet.
+- Debatte um Endlager, Klima und Versorgungssicherheit.
