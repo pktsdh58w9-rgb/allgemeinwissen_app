@@ -1,0 +1,203 @@
+=== periodensystem
+cat: natur
+title: Das Periodensystem
+teaser: Mendelejew ließ Lücken für Elemente, die noch niemand kannte – und sagte ihre Eigenschaften voraus.
+meta: Chemie · 1869
+cover: Periodensystem | Das Periodensystem der Elemente
+## Ordnung im Chaos
+1869 ordnete Dmitri Mendelejew die 63 bekannten Elemente nach Atommasse und chemischen Eigenschaften. Unabhängig davon kam Lothar Meyer zu einem ähnlichen Ergebnis. Mendelejews Geniestreich: Er ließ Lücken und sagte Eigenschaften unbekannter Elemente voraus – „Eka-Silicium“ wurde 1886 als Germanium entdeckt, mit fast exakt den vorhergesagten Werten.
+## Warum es funktioniert
+Heute ordnet man nach der Ordnungszahl (Protonenzahl), wie Henry Moseley 1913 zeigte. Die Periodizität folgt aus der Elektronenkonfiguration: Elemente einer Gruppe haben gleich viele Valenzelektronen. Die Blöcke s, p, d und f entsprechen den Orbitaltypen, die gerade aufgefüllt werden. Elektronegativität und Ionisierungsenergie steigen tendenziell nach rechts oben.
+img: Dmitri Iwanowitsch Mendelejew | Dmitri Mendelejew
+## Das Ende der Tabelle
+Seit 2016 ist die siebte Periode mit Oganesson (Element 118) komplett. Superschwere Elemente existieren nur Millisekunden. Bei ihnen werden relativistische Effekte so stark, dass die Periodizität bröckelt – Gold ist übrigens wegen relativistischer Kontraktion der 6s-Orbitale gelblich und nicht silbern.
+- Mendelejew 1869, Vorhersage unbekannter Elemente (z. B. Germanium).
+- Ordnung nach Protonenzahl; Gruppen = gleiche Valenzelektronen.
+- Bis Element 118 vollständig; relativistische Effekte bei schweren Elementen.
+
+=== atommodelle
+cat: natur
+title: Atommodelle
+teaser: Vom Rosinenkuchen zur Elektronenwolke: Wie sich unser Bild vom Atom viermal grundlegend änderte.
+meta: Chemie/Physik
+cover: Atommodell | Darstellung des bohrschen Atommodells
+## Thomson und Rutherford
+J. J. Thomson entdeckte 1897 das Elektron und stellte sich das Atom als positive Masse mit eingestreuten Elektronen vor („Rosinenkuchen“). Ernest Rutherford beschoss 1911 dünne Goldfolie mit Alphateilchen: Die meisten flogen durch, einige prallten zurück. Schluss: fast die gesamte Masse sitzt in einem winzigen, positiv geladenen Kern.
+## Bohr
+Klassisch müssten kreisende Elektronen Energie abstrahlen und in den Kern stürzen. Niels Bohr postulierte 1913 erlaubte Bahnen mit festen Energien; Übergänge zwischen ihnen erklären die Spektrallinien des Wasserstoffs exakt. Für Mehrelektronenatome versagte das Modell aber.
+img: Niels Bohr | Niels Bohr
+## Orbitale
+Die Quantenmechanik (Schrödinger 1926) ersetzt Bahnen durch Orbitale: Wahrscheinlichkeitsverteilungen, beschrieben durch Wellenfunktionen mit den Quantenzahlen n, l, m<sub>l</sub> und m<sub>s</sub>. Pauli-Prinzip und Hundsche Regel erklären die Elektronenkonfiguration und damit das Periodensystem. Der Kern ist etwa 100.000-mal kleiner als das Atom.
+- Thomson: Elektron; Rutherford: winziger, massiver Kern.
+- Bohr: quantisierte Bahnen erklären das H-Spektrum.
+- Quantenmechanik: Orbitale statt Bahnen.
+
+=== chemische-bindungen
+cat: natur
+title: Chemische Bindungen
+teaser: Ionisch, kovalent, metallisch – eigentlich ein Kontinuum, das von der Elektronegativität bestimmt wird.
+meta: Chemie
+cover: Chemische Bindung | Kristallgitter von Natriumchlorid
+## Ionenbindung
+Bei großer Elektronegativitätsdifferenz (grob über 1,7) gibt ein Atom Elektronen ab, das andere nimmt sie auf. Die Ionen ordnen sich zu Gittern; die Gitterenergie lässt sich mit dem Born-Haber-Kreisprozess bestimmen. Ionische Verbindungen wie NaCl sind hart, spröde, hochschmelzend und leiten geschmolzen Strom.
+## Kovalente Bindung
+Atome mit ähnlicher Elektronegativität teilen Elektronenpaare. Die MO-Theorie beschreibt das als Überlappung von Atomorbitalen zu bindenden und antibindenden Molekülorbitalen – sie erklärt etwa, warum O<sub>2</sub> paramagnetisch ist (zwei ungepaarte Elektronen in π*-Orbitalen), was die Lewis-Formel nicht kann. Polare Bindungen liegen zwischen ionisch und unpolar.
+img: Gilbert Newton Lewis | Gilbert N. Lewis, Begründer der Elektronenpaarbindung
+## Metallbindung
+In Metallen bilden die Valenzelektronen ein delokalisiertes „Elektronengas“ bzw. Bänder. Das erklärt Leitfähigkeit, Glanz und Verformbarkeit. Daneben gibt es schwächere Wechselwirkungen – Wasserstoffbrücken, Dipol-Dipol- und Van-der-Waals-Kräfte –, die Siedepunkte und Proteinfaltung bestimmen.
+- Elektronegativitätsdifferenz entscheidet über den Bindungstyp.
+- MO-Theorie erklärt z. B. den Paramagnetismus von O₂.
+- Metallbindung: delokalisierte Elektronen.
+
+=== wasseranomalie
+cat: natur
+title: Die Anomalie des Wassers
+teaser: Ohne die Eigenheiten des Wassers wären Seen im Winter durchgefroren – und Leben schwierig.
+meta: Chemie/Physik
+cover: Wasser | Wassertropfen
+## Ein gewinkeltes Molekül
+H<sub>2</sub>O ist mit etwa 104,5° gewinkelt und stark polar. Jedes Molekül kann bis zu vier Wasserstoffbrücken bilden. Deshalb siedet Wasser bei 100 °C, obwohl das schwerere H<sub>2</sub>S schon bei −60 °C gasförmig ist. Wasser hat zudem eine sehr hohe Wärmekapazität und Oberflächenspannung.
+## Dichtemaximum bei 4 °C
+Die meisten Stoffe werden beim Abkühlen dichter. Wasser hat sein Dichtemaximum bei etwa 3,98 °C. Eis ist rund neun Prozent weniger dicht als flüssiges Wasser, weil die Wasserstoffbrücken ein offenes, hexagonales Gitter bilden. Folge: Eis schwimmt, Seen frieren von oben zu, und am Grund bleibt 4 °C kaltes Wasser.
+img: Eis | Hexagonale Struktur eines Schneekristalls
+## Noch mehr Seltsames
+Wasser hat über 70 bekannte Anomalien, darunter mindestens 20 kristalline Eisphasen und die Zunahme der Kompressibilität beim Abkühlen. Durch Druck sinkt der Schmelzpunkt von Eis leicht – fürs Schlittschuhlaufen spielt das aber kaum eine Rolle; dort wirkt vor allem eine dünne, quasi-flüssige Oberflächenschicht.
+- Polarität und Wasserstoffbrücken erklären den hohen Siedepunkt.
+- Dichtemaximum bei ca. 4 °C, Eis schwimmt.
+- Über 70 Anomalien und viele Eisphasen.
+
+=== ph-wert-puffer
+cat: natur
+title: pH-Wert und Puffer
+teaser: Warum unser Blut bei pH 7,4 bleibt, egal was wir essen – dank Kohlensäure und Henderson-Hasselbalch.
+meta: Chemie
+cover: PH-Wert | Universalindikator-Farbskala
+## Was der pH misst
+Der pH-Wert ist der negative dekadische Logarithmus der Hydronium-Aktivität: pH = −log a(H<sub>3</sub>O<sup>+</sup>). Wasser autoprotolysiert mit K<sub>W</sub> = 10<sup>−14</sup> bei 25 °C, neutral ist dort also pH 7. Bei 37 °C liegt der Neutralpunkt übrigens bei etwa 6,8. Eingeführt hat den Begriff 1909 der Däne Søren Sørensen im Carlsberg-Labor.
+## Puffer
+Ein Puffer besteht aus einer schwachen Säure und ihrer korrespondierenden Base. Nach der Henderson-Hasselbalch-Gleichung pH = pK<sub>S</sub> + log([A<sup>−</sup>]/[HA]) puffert er am besten nahe seinem pK<sub>S</sub>. Zugesetzte Säure oder Base verschiebt nur das Verhältnis, nicht dramatisch den pH.
+img: Søren Sørensen | Søren Sørensen
+## Das Blut
+Der wichtigste Blutpuffer ist das Kohlensäure-Hydrogencarbonat-System. Obwohl sein pK<sub>S</sub> bei etwa 6,1 liegt, funktioniert es hervorragend, weil es offen ist: Die Lunge regelt den CO<sub>2</sub>-Partialdruck, die Niere die HCO<sub>3</sub><sup>−</sup>-Ausscheidung. Fällt der Blut-pH unter 7,35, spricht man von Azidose – unter etwa 6,8 ist sie tödlich.
+- pH = −log a(H₃O⁺); neutral bei 25 °C pH 7.
+- Puffer: schwache Säure + konjugierte Base, Henderson-Hasselbalch.
+- Blut: offenes CO₂/HCO₃⁻-System, reguliert von Lunge und Niere.
+
+=== redoxreaktionen
+cat: natur
+title: Redoxreaktionen
+teaser: Rosten, Atmen, Batterien laden – alles Elektronenübertragungen.
+meta: Chemie
+cover: Redoxreaktion | Rost an Eisen
+## Oxidation und Reduktion
+Bei der Oxidation gibt ein Teilchen Elektronen ab, bei der Reduktion nimmt es welche auf – beides passiert immer gekoppelt. Oxidationszahlen machen den Elektronenfluss buchhalterisch sichtbar. Merkhilfe: „OIL RIG – Oxidation is loss, reduction is gain“.
+## Die Spannungsreihe
+Standardpotenziale E° geben an, wie stark ein Redoxpaar Elektronen anzieht, bezogen auf die Standard-Wasserstoffelektrode (0 V). Lithium ist mit −3,04 V das stärkste Reduktionsmittel, Fluor mit +2,87 V das stärkste Oxidationsmittel. Über ΔG = −zFΔE und die Nernst-Gleichung hängen Potenzial, Freie Enthalpie und Konzentrationen zusammen.
+img: Walther Nernst | Walther Nernst
+## Im Alltag
+Rost ist die Oxidation von Eisen durch Sauerstoff mit Wasser als Elektrolyt; eine Zinkschicht schützt als Opferanode. In unseren Mitochondrien fließen Elektronen von NADH über die Atmungskette auf Sauerstoff – kontrollierte „Verbrennung“. Bleichmittel, Feuerwerk, Batterien und Photosynthese sind ebenfalls Redoxchemie.
+- Oxidation = Elektronenabgabe, Reduktion = -aufnahme, immer gekoppelt.
+- Standardpotenziale und Nernst-Gleichung quantifizieren die Triebkraft.
+- Korrosion, Atmungskette, Batterien.
+
+=== katalyse
+cat: natur
+title: Katalyse
+teaser: Rund 90 Prozent aller chemischen Industrieprodukte durchlaufen mindestens einen katalytischen Schritt.
+meta: Chemie
+cover: Katalyse | Energiediagramm mit und ohne Katalysator
+## Ein anderer Weg
+Ein Katalysator senkt die Aktivierungsenergie, indem er einen alternativen Reaktionsweg mit anderem Übergangszustand eröffnet. Er beschleunigt Hin- und Rückreaktion gleichermaßen – das Gleichgewicht verschiebt er also nicht – und liegt am Ende unverändert vor. Nach Arrhenius wirkt sich eine kleinere E<sub>A</sub> exponentiell auf die Geschwindigkeit aus.
+## Homogen und heterogen
+Bei der heterogenen Katalyse liegen Katalysator und Edukte in verschiedenen Phasen vor, typischerweise Gase an Metalloberflächen – Adsorption, Reaktion, Desorption. Das Sabatier-Prinzip sagt: Die Bindung darf weder zu schwach noch zu stark sein („Vulkan-Kurve“). Homogene Katalysatoren, etwa Übergangsmetallkomplexe, sind gelöst und oft selektiver.
+img: Gerhard Ertl | Gerhard Ertl, Nobelpreis 2007 für Oberflächenchemie
+## Beispiele
+Der Dreiwegekatalysator im Auto oxidiert CO und Kohlenwasserstoffe und reduziert NO<sub>x</sub> an Platin, Palladium und Rhodium. Ziegler-Natta-Katalysatoren ermöglichen Polyethylen und Polypropylen. Organokatalyse (Nobelpreis 2021 für List und MacMillan) kommt ohne Metalle aus. Die besten Katalysatoren sind aber Enzyme.
+- Katalysatoren senken die Aktivierungsenergie, nicht das Gleichgewicht.
+- Heterogen (Oberflächen) vs. homogen (gelöst); Sabatier-Prinzip.
+- Autokatalysator, Polymerisation, Organokatalyse.
+
+=== enzyme
+cat: natur
+title: Enzyme
+teaser: Manche beschleunigen Reaktionen um den Faktor 10¹⁷ – bei Körpertemperatur und in Wasser.
+meta: Biochemie
+cover: Enzym | Struktur des Enzyms Lysozym
+## Proteine als Katalysatoren
+Enzyme sind meist Proteine (es gibt auch katalytische RNA, Ribozyme). Das aktive Zentrum bindet das Substrat; nach dem Induced-Fit-Modell von Koshland passen sich Enzym und Substrat dabei an. Vor allem stabilisiert das Enzym den Übergangszustand stärker als das Substrat – das senkt die Aktivierungsenergie.
+## Michaelis-Menten
+Die Kinetik beschreibt v = v<sub>max</sub>·[S]/(K<sub>M</sub> + [S]). K<sub>M</sub> ist die Substratkonzentration bei halbmaximaler Geschwindigkeit, ein Maß für die Affinität. Kompetitive Hemmstoffe erhöhen das scheinbare K<sub>M</sub>, nicht-kompetitive senken v<sub>max</sub>. Viele Medikamente sind Enzymhemmer – Aspirin, Statine, ACE-Hemmer.
+img: Maud Menten | Maud Menten
+## Rekordhalter
+Die Orotidin-5′-phosphat-Decarboxylase beschleunigt ihre Reaktion um etwa 10<sup>17</sup>: Ohne Enzym würde die Hälfte der Moleküle 78 Millionen Jahre brauchen. Carboanhydrase setzt pro Sekunde bis zu eine Million CO<sub>2</sub>-Moleküle um. Fast jede Reaktion im Stoffwechsel ist enzymkatalysiert und wird über Allosterie, Phosphorylierung und Expression reguliert.
+- Stabilisieren den Übergangszustand, Induced-Fit.
+- Michaelis-Menten-Kinetik, Hemmung als Wirkprinzip vieler Medikamente.
+- Beschleunigung bis 10¹⁷-fach.
+
+=== gibbs-energie
+cat: natur
+title: Gibbs-Energie und Entropie
+teaser: Warum Eis bei Raumtemperatur schmilzt, obwohl es dafür Wärme braucht – Entropie gewinnt.
+meta: Thermodynamik
+cover: Josiah Willard Gibbs | Josiah Willard Gibbs
+## Die Formel
+Ob ein Prozess bei konstantem Druck und Temperatur freiwillig abläuft, entscheidet die Freie Enthalpie: ΔG = ΔH − TΔS. Ist ΔG negativ, ist der Vorgang exergon. Enthalpie (Wärme) und Entropie (Zahl der Mikrozustände) konkurrieren; die Temperatur gewichtet den Entropieterm.
+## Entropie
+Ludwig Boltzmann deutete die Entropie statistisch: S = k<sub>B</sub>·ln W, wobei W die Zahl der Mikrozustände ist – die Formel steht auf seinem Grabstein in Wien. Beim Schmelzen ist ΔH positiv, aber ΔS auch; oberhalb von 0 °C überwiegt TΔS. Auch das Lösen von Ammoniumnitrat im Kühlpack ist endotherm und läuft trotzdem freiwillig – entropiegetrieben.
+img: Ludwig Boltzmann | Ludwig Boltzmann
+## Gleichgewicht und Kinetik
+Im Gleichgewicht gilt ΔG = 0; mit ΔG° = −RT ln K hängen Standardgröße und Gleichgewichtskonstante zusammen. Wichtig: ΔG sagt nichts über die Geschwindigkeit. Diamant ist bei Normalbedingungen thermodynamisch instabil gegenüber Graphit – wandelt sich aber praktisch nie um. Lebewesen koppeln endergone Reaktionen an die ATP-Hydrolyse.
+- ΔG = ΔH − TΔS entscheidet über Freiwilligkeit.
+- Boltzmann: S = k·ln W.
+- ΔG° = −RT ln K; Thermodynamik sagt nichts über Kinetik.
+
+=== le-chatelier
+cat: natur
+title: Das Prinzip von Le Chatelier
+teaser: Ein Gleichgewicht weicht dem Zwang aus – warum Haber-Bosch unter Hochdruck läuft.
+meta: Chemie
+cover: Henry Le Chatelier | Henry Le Chatelier
+## Das Prinzip
+Henry Le Chatelier formulierte 1884: Übt man auf ein System im Gleichgewicht einen Zwang aus – Änderung von Konzentration, Druck oder Temperatur –, verschiebt sich das Gleichgewicht so, dass der Zwang verringert wird. Es ist eine qualitative Folgerung aus der Thermodynamik und dem Massenwirkungsgesetz.
+## Druck, Konzentration, Temperatur
+Erhöht man den Druck, begünstigt das die Seite mit weniger Gasteilchen – deshalb Hochdruck bei der Ammoniaksynthese. Entfernt man ein Produkt, läuft mehr Hinreaktion nach – Veresterungen werden durch Abdestillieren von Wasser vorangetrieben. Temperatur ist ein Sonderfall: Sie ändert die Gleichgewichtskonstante selbst (van ’t-Hoff-Gleichung); exotherme Reaktionen werden durch Erwärmung zurückgedrängt.
+img: Ammoniak | Ammoniak-Molekül
+## Im Körper
+Hämoglobin bindet in der Lunge bei hohem O<sub>2</sub>-Partialdruck Sauerstoff und gibt ihn im Gewebe ab. In großer Höhe ist der Partialdruck niedriger – der Körper reagiert mit mehr roten Blutkörperchen. Bei einer Kohlenmonoxidvergiftung hilft reiner Sauerstoff unter Überdruck, CO aus der Bindung zu verdrängen.
+- Gleichgewichte weichen äußerem Zwang aus.
+- Druck → weniger Gasteilchen; Produktentzug → mehr Umsatz.
+- Temperatur ändert K selbst (van ’t Hoff).
+
+=== lithium-ionen-akku
+cat: natur
+title: Der Lithium-Ionen-Akku
+teaser: Drei Nobelpreisträger, ein schaukelndes Ion – und das Fundament der mobilen Welt.
+meta: Elektrochemie · Nobelpreis 2019
+cover: Lithium-Ionen-Akkumulator | Lithium-Ionen-Zellen
+## Das Schaukelstuhl-Prinzip
+Beim Laden wandern Li<sup>+</sup>-Ionen durch den Elektrolyten von der Kathode (z. B. LiCoO<sub>2</sub>) in die Graphit-Anode und lagern sich zwischen die Graphenschichten ein (Interkalation). Beim Entladen wandern sie zurück, während Elektronen durch den äußeren Stromkreis fließen. Lithium als leichtes Element mit sehr negativem Potenzial ermöglicht hohe Energiedichte.
+## Die Entwickler
+Stanley Whittingham entwickelte in den 1970ern eine Kathode aus Titandisulfid. John Goodenough fand 1980 das leistungsfähigere Lithiumcobaltoxid, Akira Yoshino ersetzte metallisches Lithium durch kohlenstoffbasierte Anoden und machte den Akku 1985 sicher. Sony brachte ihn 1991 auf den Markt; 2019 gab es den Chemie-Nobelpreis.
+img: John B. Goodenough | John B. Goodenough – mit 97 Jahren ältester Nobelpreisträger
+## Schwachstellen
+Die SEI-Schicht (Solid Electrolyte Interphase) auf der Anode schützt, kostet aber Kapazität. Dendriten und Überhitzung können zum „thermischen Durchgehen“ führen, weil organische Elektrolyte brennbar sind. Kobalt ist teuer und oft unter problematischen Bedingungen gefördert; daher setzen sich LFP-Zellen (LiFePO<sub>4</sub>) und künftig Natrium-Ionen- und Festkörperakkus durch.
+- Li⁺-Ionen interkalieren zwischen Kathode und Graphit-Anode.
+- Whittingham, Goodenough, Yoshino: Nobelpreis 2019.
+- Risiken: thermisches Durchgehen; Alternativen LFP, Na-Ionen, Festkörper.
+
+=== brennstoffzelle
+cat: natur
+title: Die Brennstoffzelle
+teaser: „Kalte Verbrennung“ von Wasserstoff – erfunden 1838, berühmt durch die Apollo-Mondflüge.
+meta: Elektrochemie
+cover: Brennstoffzelle | Schema einer PEM-Brennstoffzelle
+## Prinzip
+In einer Brennstoffzelle reagieren Wasserstoff und Sauerstoff zu Wasser, ohne Flamme: An der Anode wird H<sub>2</sub> zu 2 H<sup>+</sup> + 2 e<sup>−</sup> oxidiert, die Elektronen fließen über den äußeren Kreis zur Kathode, wo O<sub>2</sub> reduziert wird. Die theoretische Zellspannung liegt bei 1,23 V; Platin katalysiert die träge Sauerstoffreduktion.
+## Wirkungsgrad
+Weil sie nicht über Wärme und Kolben läuft, unterliegt die Brennstoffzelle nicht dem Carnot-Wirkungsgrad. Praktisch erreicht sie 40 bis 60 Prozent elektrisch. Christian Friedrich Schönbein und William Grove beschrieben das Prinzip schon 1838/39. Die Apollo-Raumschiffe nutzten Brennstoffzellen und tranken das entstehende Wasser.
+img: William Robert Grove | William Grove
+## Typen und Grenzen
+PEM-Zellen mit Polymermembran laufen bei etwa 80 °C und eignen sich für Fahrzeuge, Festoxid-Zellen (SOFC) bei 600–1.000 °C für stationäre Anlagen. Probleme: teure Katalysatoren, Wasserstoffspeicherung und vor allem die Herstellung von grünem Wasserstoff. Im Pkw hat sich der Batterieantrieb durchgesetzt, bei Lkw, Zügen und Schiffen wird weiter getestet.
+- H₂ + ½ O₂ → H₂O, elektrochemisch statt thermisch.
+- Kein Carnot-Limit, 40–60 % Wirkungsgrad.
+- PEM vs. SOFC; Herausforderungen: Platin und grüner Wasserstoff.

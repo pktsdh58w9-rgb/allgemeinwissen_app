@@ -1,0 +1,186 @@
+=== endosymbiontentheorie
+cat: natur
+title: Die Endosymbiontentheorie
+teaser: Unsere Kraftwerke waren einmal freilebende Bakterien – eine Theorie, die 15 Fachzeitschriften ablehnten.
+meta: Zellbiologie
+cover: Endosymbiontentheorie | Schema der Endosymbiose
+## Zelle in der Zelle
+Vor etwa zwei Milliarden Jahren nahm eine Wirtszelle (wohl ein Archaeon) ein Bakterium auf, verdaute es aber nicht. Beide profitierten: Das Bakterium lieferte Energie durch aerobe Atmung, der Wirt Schutz und Nährstoffe. Aus dem Bakterium wurden die Mitochondrien. Später nahmen einige Zellen Cyanobakterien auf – die Chloroplasten der Pflanzen.
+## Die Belege
+Mitochondrien und Chloroplasten haben eine eigene, ringförmige DNA wie Bakterien, eigene Ribosomen vom bakteriellen 70S-Typ, eine doppelte Membran und teilen sich durch Spaltung. Ihre Gene sind nah mit Alphaproteobakterien bzw. Cyanobakterien verwandt. Viele Gene wanderten im Lauf der Zeit in den Zellkern.
+img: Lynn Margulis | Lynn Margulis
+## Lynn Margulis
+Die Idee stammte ursprünglich von Konstantin Mereschkowski (1905). Die US-Biologin Lynn Margulis machte sie 1967 populär – ihr Artikel wurde etwa 15-mal abgelehnt. Heute ist die Theorie Lehrbuchwissen. Mitochondrien werden nur über die Mutter vererbt, daher nutzt man ihre DNA zur Erforschung menschlicher Abstammung („mitochondriale Eva“).
+- Mitochondrien und Chloroplasten waren einst freie Bakterien.
+- Belege: eigene DNA, 70S-Ribosomen, Doppelmembran.
+- Von Margulis gegen Widerstand durchgesetzt.
+
+=== mikrobiom
+cat: natur
+title: Das Mikrobiom
+teaser: Rund 38 Billionen Mikroben in unserem Darm beeinflussen Verdauung, Immunsystem – und vielleicht die Stimmung.
+meta: Biologie/Medizin
+cover: Darmflora | Bakterien der Darmflora
+## Ein Organ aus Mikroben
+Im Dickdarm leben Bakterien, Archaeen, Pilze und Viren aus Hunderten Arten – zusammen etwa ein bis zwei Kilogramm. Ihre Gene übertreffen unsere eigenen um ein Vielfaches. Sie zerlegen Ballaststoffe, die wir nicht verdauen können, zu kurzkettigen Fettsäuren wie Butyrat, das die Darmzellen ernährt, und bilden Vitamine wie K und B12.
+## Immunsystem und mehr
+Das Mikrobiom trainiert das Immunsystem und verdrängt Krankheitserreger. Störungen werden mit Darmerkrankungen, Allergien, Übergewicht und Diabetes in Verbindung gebracht. Über die „Darm-Hirn-Achse“ (Vagusnerv, Botenstoffe) könnte es sogar Verhalten beeinflussen – vieles davon ist aber erst in Tierversuchen gezeigt.
+img: Escherichia coli | Escherichia coli
+## Stuhltransplantation
+Antibiotika können das Mikrobiom stark stören; dann kann sich etwa <i>Clostridioides difficile</i> ausbreiten. Bei wiederkehrenden Infektionen hilft eine Stuhltransplantation von gesunden Spendern in über 80 Prozent der Fälle. Babys erhalten ihre ersten Mikroben bei der Geburt und über Muttermilch, die spezielle Zucker für Bifidobakterien enthält.
+- Billionen Mikroben, v. a. im Dickdarm.
+- Verdauung, Vitamine, Immuntraining; Darm-Hirn-Achse.
+- Stuhltransplantation hilft bei C.-difficile-Infektionen.
+
+=== prionen
+cat: natur
+title: Prionen
+teaser: Infektiöse Proteine ohne Erbgut – eine Theorie so ketzerisch, dass sie erst nach Jahren einen Nobelpreis bekam.
+meta: Biochemie/Medizin
+cover: Prion | Schwammartige Hirnveränderungen bei Prionenerkrankung
+## Falsch gefaltet und ansteckend
+Prionen sind fehlgefaltete Formen des körpereigenen Prionproteins (PrP). Die normale Form (PrP<sup>C</sup>) ist reich an α-Helices, die krankhafte (PrP<sup>Sc</sup>) an β-Faltblättern. Kommt die falsche Form mit der richtigen in Kontakt, zwingt sie diese in die eigene Gestalt – eine Kettenreaktion. Die Aggregate sind extrem stabil gegen Hitze und Desinfektion.
+## Prusiners Theorie
+Stanley Prusiner postulierte 1982, dass ein Protein ohne Nukleinsäure Krankheiten übertragen kann – entgegen dem damaligen Dogma. Er erhielt 1997 den Nobelpreis. Zu den Prionenkrankheiten zählen Scrapie bei Schafen, BSE („Rinderwahn“), Kuru bei den Fore in Papua-Neuguinea (übertragen durch rituellen Kannibalismus) und die Creutzfeldt-Jakob-Krankheit.
+img: Stanley Prusiner | Stanley Prusiner
+## BSE-Krise
+In den 1980ern und 1990ern verbreitete sich BSE in Großbritannien über Tiermehl aus Kadavern. Menschen erkrankten durch infiziertes Rindfleisch an der neuen Variante der Creutzfeldt-Jakob-Krankheit; rund 230 starben. Tiermehlverfütterung wurde verboten. Ähnliche Ausbreitungsmechanismen werden bei Alzheimer und Parkinson diskutiert.
+- Fehlgefaltetes Protein zwingt normales in die falsche Form.
+- Prusiner, Nobelpreis 1997; BSE, Kuru, CJK.
+- Extrem widerstandsfähig; ähnliche Mechanismen bei Alzheimer diskutiert.
+
+=== immunsystem
+cat: natur
+title: Das Immunsystem
+teaser: Zwei Verteidigungslinien – eine schnell und grob, eine langsam, aber mit lebenslangem Gedächtnis.
+meta: Immunologie
+cover: Immunsystem | Fresszelle umschließt Bakterien
+## Angeborene Abwehr
+Haut, Schleimhäute und Magensäure sind die ersten Barrieren. Dringen Erreger ein, reagieren Fresszellen (Makrophagen, Neutrophile) und das Komplementsystem binnen Minuten bis Stunden. Sie erkennen typische Muster von Mikroben, etwa bakterielle Zellwandbestandteile, über Rezeptoren wie die Toll-like-Rezeptoren. Entzündung lockt weitere Zellen an.
+## Adaptive Abwehr
+B-Zellen produzieren Antikörper, die genau zu einem Antigen passen. T-Helferzellen koordinieren, zytotoxische T-Zellen töten infizierte Zellen. Die enorme Vielfalt entsteht durch zufällige Umlagerung von Gensegmenten (V(D)J-Rekombination) – Milliarden verschiedene Rezeptoren. Nach einer Infektion bleiben Gedächtniszellen zurück: Beim zweiten Kontakt ist die Antwort schneller und stärker.
+img: Antikörper | Struktur eines Antikörpers
+## Wenn es schiefgeht
+Richtet sich das Immunsystem gegen den eigenen Körper, entstehen Autoimmunerkrankungen wie Typ-1-Diabetes oder Multiple Sklerose. Überreaktionen auf harmlose Stoffe sind Allergien. HIV zerstört gezielt T-Helferzellen. Moderne Krebstherapien lösen die „Bremsen“ (Checkpoints wie PD-1) von T-Zellen – Nobelpreis 2018.
+- Angeborene Abwehr: schnell, unspezifisch.
+- Adaptive Abwehr: B- und T-Zellen, Antikörper, Gedächtnis.
+- Fehlfunktionen: Autoimmunität, Allergien; Checkpoint-Therapie gegen Krebs.
+
+=== nervenzellen-aktionspotential
+cat: natur
+title: Nervenzellen und Aktionspotential
+teaser: Gedanken sind Ionenströme – bis zu 120 Meter pro Sekunde schnell. Entschlüsselt am Riesenaxon eines Tintenfischs.
+meta: Neurobiologie
+cover: Nervenzelle | Nervenzelle (Neuron)
+## Ruhe und Erregung
+Eine Nervenzelle hat in Ruhe innen eine Spannung von etwa −70 mV, aufrechterhalten durch die Natrium-Kalium-Pumpe und Kaliumkanäle. Wird ein Schwellenwert überschritten, öffnen spannungsgesteuerte Natriumkanäle, Na<sup>+</sup> strömt ein, das Potenzial schnellt auf etwa +30 mV. Dann schließen sie und Kaliumkanäle öffnen – die Zelle repolarisiert. Alles oder nichts, in etwa einer Millisekunde.
+## Hodgkin und Huxley
+Alan Hodgkin und Andrew Huxley maßen in den 1950ern die Ströme am Riesenaxon des Tintenfischs, das fast einen Millimeter dick ist, und beschrieben das Aktionspotential mathematisch. Nobelpreis 1963. Myelinscheiden isolieren viele Axone; das Signal springt dann von Schnürring zu Schnürring (saltatorische Erregungsleitung) – bis zu 120 m/s.
+img: Synapse | Schema einer chemischen Synapse
+## Die Synapse
+An der Synapse wird das elektrische Signal chemisch: Neurotransmitter wie Glutamat, GABA, Dopamin oder Acetylcholin werden ausgeschüttet und binden an Rezeptoren der nächsten Zelle. Das menschliche Gehirn hat etwa 86 Milliarden Neuronen und rund 100 Billionen Synapsen. Gifte wie Tetrodotoxin (Kugelfisch) blockieren Natriumkanäle.
+- Ruhepotential −70 mV; Aktionspotential durch Na⁺-Einstrom.
+- Hodgkin-Huxley am Tintenfischaxon; Myelin beschleunigt.
+- Chemische Übertragung an Synapsen durch Neurotransmitter.
+
+=== stammzellen
+cat: natur
+title: Stammzellen
+teaser: Zellen, die alles werden können – und ein Japaner fand, wie man erwachsene Zellen zurück in die Jugend versetzt.
+meta: Zellbiologie · Nobelpreis 2012
+cover: Stammzelle | Menschliche embryonale Stammzellen
+## Was sie können
+Stammzellen können sich selbst erneuern und in spezialisierte Zellen ausdifferenzieren. Die befruchtete Eizelle ist totipotent: Aus ihr kann ein ganzer Organismus werden. Embryonale Stammzellen sind pluripotent und können alle Gewebe bilden. Adulte Stammzellen, etwa im Knochenmark, sind auf bestimmte Zelltypen beschränkt (multipotent).
+## Reprogrammierung
+Shin’ya Yamanaka zeigte 2006, dass vier Transkriptionsfaktoren (Oct4, Sox2, Klf4, c-Myc) ausreichen, um Hautzellen in pluripotente Stammzellen zurückzuversetzen: induzierte pluripotente Stammzellen (iPS). Damit entfällt das ethische Problem embryonaler Stammzellen. Er erhielt 2012 den Nobelpreis zusammen mit John Gurdon, der schon 1962 Frösche aus Darmzellkernen geklont hatte.
+img: Shin’ya Yamanaka | Shin’ya Yamanaka
+## Medizin
+Knochenmarktransplantationen bei Leukämie sind etablierte Stammzelltherapie. Aus iPS-Zellen werden Netzhautzellen, Herzmuskelzellen und Nervenzellen gezüchtet und in Studien getestet, etwa gegen Parkinson. Organoide – Mini-Organe aus Stammzellen – helfen bei der Erforschung von Krankheiten. In Deutschland regelt das Stammzellgesetz den Import embryonaler Stammzellen streng.
+- Selbsterneuerung und Differenzierung; toti-, pluri-, multipotent.
+- Yamanaka 2006: iPS-Zellen aus Hautzellen.
+- Knochenmarktransplantation; Forschung an Organoiden und Zellersatz.
+
+=== epigenetik
+cat: natur
+title: Epigenetik
+teaser: Gleiche Gene, verschiedenes Leben: Warum eineiige Zwillinge mit dem Alter unterschiedlicher werden.
+meta: Genetik
+cover: Epigenetik | Schema epigenetischer Mechanismen
+## Schalter auf der DNA
+Epigenetik beschreibt vererbbare Veränderungen der Genaktivität ohne Änderung der DNA-Sequenz. Wichtigster Mechanismus ist die DNA-Methylierung: Methylgruppen an Cytosinen in CpG-Inseln schalten Gene meist ab. Daneben werden die Histone, um die DNA gewickelt ist, chemisch verändert (Acetylierung, Methylierung) – das öffnet oder verdichtet das Chromatin.
+## Ein Genom, viele Zellen
+Alle Körperzellen haben dieselbe DNA, doch eine Leberzelle liest andere Gene ab als eine Nervenzelle. Epigenetische Markierungen fixieren diese Identität. Bei Frauen wird eines der beiden X-Chromosomen epigenetisch stillgelegt – bei Schildpattkatzen sieht man das am fleckigen Fell.
+img: Schildpattkatze | Schildpattkatze – ein Beispiel für X-Inaktivierung
+## Umwelt und Vererbung
+Ernährung, Stress und Gifte können epigenetische Muster verändern. Kinder von Müttern, die während des niederländischen Hungerwinters 1944/45 schwanger waren, zeigten noch Jahrzehnte später veränderte Methylierung und mehr Stoffwechselerkrankungen. Ob solche Effekte beim Menschen über mehrere Generationen vererbt werden, ist umstritten. In der Krebsforschung sind epigenetische Medikamente bereits zugelassen.
+- Genaktivität ohne Sequenzänderung: Methylierung, Histonmodifikation.
+- Bestimmt Zellidentität; X-Inaktivierung.
+- Umwelteinflüsse wirken; transgenerationale Vererbung umstritten.
+
+=== pcr
+cat: natur
+title: Die PCR
+teaser: Eine Idee auf einer nächtlichen Autofahrt – und plötzlich ließ sich jedes DNA-Stück milliardenfach kopieren.
+meta: Molekularbiologie · Nobelpreis 1993
+cover: Polymerase-Kettenreaktion | Thermocycler für die PCR
+## Das Prinzip
+Die Polymerase-Kettenreaktion vervielfältigt gezielt einen DNA-Abschnitt in Zyklen: Denaturierung bei etwa 95 °C trennt die Stränge, beim Annealing (etwa 55–65 °C) binden kurze Primer an die Zielsequenz, bei der Elongation (72 °C) verlängert eine Polymerase die Primer. Jeder Zyklus verdoppelt die Menge – nach 30 Zyklen rund eine Milliarde Kopien.
+## Kary Mullis und die Taq
+Kary Mullis kam die Idee 1983 auf einer nächtlichen Autofahrt in Kalifornien. Anfangs musste nach jedem Zyklus neues Enzym zugegeben werden, weil die Hitze es zerstörte. Die Lösung war die Taq-Polymerase aus dem Bakterium <i>Thermus aquaticus</i>, das in heißen Quellen im Yellowstone lebt. Mullis erhielt 1993 den Nobelpreis.
+img: Kary Mullis | Kary Mullis
+## Anwendungen
+Mit der quantitativen Echtzeit-PCR (qPCR) misst man, wie viel Ausgangs-DNA vorlag – so funktionierten die Corona-Tests, nach einer Umschreibung der Virus-RNA in DNA (RT-PCR). Die PCR ist Grundlage für Vaterschaftstests, Forensik, Diagnostik, Paläogenetik und Gentechnik.
+- Zyklen aus Denaturierung, Annealing, Elongation – exponentielle Vervielfältigung.
+- Erfunden von Kary Mullis 1983; hitzestabile Taq-Polymerase.
+- qPCR, RT-PCR für Corona-Tests, Forensik, Diagnostik.
+
+=== krebs
+cat: natur
+title: Krebs
+teaser: Keine einzelne Krankheit, sondern Hunderte – vereint durch Zellen, die sich der Kontrolle entziehen.
+meta: Medizin
+cover: Krebs (Medizin) | Krebszellen unter dem Mikroskop
+## Mutationen in der Kontrolle
+Krebs entsteht, wenn sich in einer Zelle Mutationen in Genen anhäufen, die Wachstum und Teilung steuern. Onkogene wirken wie ein klemmendes Gaspedal (z. B. RAS), Tumorsuppressorgene wie defekte Bremsen (z. B. p53, „Wächter des Genoms“, oder BRCA1/2). Meist sind mehrere Mutationen nötig – deshalb steigt das Risiko mit dem Alter.
+## Die Kennzeichen
+Hanahan und Weinberg beschrieben „Hallmarks of Cancer“: unkontrolliertes Wachstum, Umgehen des programmierten Zelltods, unbegrenzte Teilungsfähigkeit (durch Telomerase), Bildung neuer Blutgefäße, Invasion und Metastasierung sowie Ausweichen vor dem Immunsystem. Krebszellen stellen ihren Stoffwechsel oft auf Glykolyse um (Warburg-Effekt).
+img: Tumorsuppressorgen | Struktur von p53 an DNA
+## Ursachen und Therapie
+Rauchen ist der größte vermeidbare Risikofaktor, dazu UV-Strahlung, Alkohol, Übergewicht und Infektionen wie HPV (Impfung schützt vor Gebärmutterhalskrebs). Therapien umfassen Operation, Bestrahlung, Chemotherapie, zielgerichtete Medikamente gegen bestimmte Mutationen und Immuntherapien wie Checkpoint-Hemmer und CAR-T-Zellen.
+- Mutationen in Onkogenen und Tumorsuppressorgenen.
+- Hallmarks: Wachstum, Unsterblichkeit, Metastasen, Immunflucht.
+- Rauchen als Hauptrisiko; Therapie zunehmend zielgerichtet und immunologisch.
+
+=== schlaf
+cat: natur
+title: Schlaf
+teaser: Wir verschlafen ein Drittel unseres Lebens – und das Gehirn wäscht dabei buchstäblich seinen Müll aus.
+meta: Neurobiologie
+cover: Schlaf | Schlafende Person
+## Schlafphasen
+Eine Nacht besteht aus etwa vier bis sechs Zyklen von je rund 90 Minuten. Auf Leichtschlaf folgt Tiefschlaf mit langsamen Hirnwellen, dann REM-Schlaf mit schnellen Augenbewegungen und intensiven Träumen – die Muskeln sind dabei gelähmt, damit wir Träume nicht ausleben. In der ersten Nachthälfte überwiegt Tiefschlaf, gegen Morgen REM-Schlaf.
+## Innere Uhr und Schlafdruck
+Zwei Prozesse steuern den Schlaf: Der Schlafdruck baut sich im Wachzustand auf, unter anderem durch Adenosin – Koffein blockiert dessen Rezeptoren. Die innere Uhr im Nucleus suprachiasmaticus folgt einem etwa 24-Stunden-Rhythmus und wird über Licht und das Hormon Melatonin synchronisiert. Für die Aufklärung der molekularen Uhr gab es 2017 den Nobelpreis.
+img: Melatonin | Strukturformel von Melatonin
+## Wozu schlafen wir?
+Im Schlaf festigt das Gehirn Erinnerungen und spielt Gelerntes erneut ab. Das glymphatische System spült im Tiefschlaf Stoffwechselprodukte wie Beta-Amyloid aus. Chronischer Schlafmangel erhöht das Risiko für Übergewicht, Diabetes, Herz-Kreislauf-Erkrankungen und Unfälle. Erwachsene brauchen meist sieben bis neun Stunden.
+- Zyklen aus Leicht-, Tief- und REM-Schlaf.
+- Gesteuert durch Schlafdruck (Adenosin) und innere Uhr (Melatonin).
+- Gedächtnisbildung und „Gehirnreinigung“; Schlafmangel schadet.
+
+=== blutgruppen
+cat: natur
+title: Die Blutgruppen
+teaser: Warum Bluttransfusionen bis 1900 so oft tödlich waren – und was Zucker damit zu tun hat.
+meta: Medizin
+cover: Blutgruppe | Blutgruppenbestimmung
+## Landsteiners Entdeckung
+Karl Landsteiner mischte 1900 in Wien Blut verschiedener Menschen und sah, dass es manchmal verklumpte. Er entdeckte die Blutgruppen A, B und 0, kurz darauf kam AB hinzu. Damit wurden sichere Transfusionen möglich. Er erhielt 1930 den Nobelpreis; sein Geburtstag, der 14. Juni, ist heute Weltblutspendetag.
+## Zucker auf den Blutkörperchen
+Die Blutgruppen sind Zuckerketten (Antigene) auf den roten Blutkörperchen. Ein Gen auf Chromosom 9 kodiert eine Glykosyltransferase: Die A-Variante hängt N-Acetylgalactosamin an, die B-Variante Galactose, bei 0 ist das Enzym defekt. Im Plasma hat man Antikörper gegen die Antigene, die man selbst nicht besitzt – Typ A also Anti-B.
+img: Karl Landsteiner | Karl Landsteiner
+## Rhesus und Spender
+1940 entdeckten Landsteiner und Wiener den Rhesusfaktor. Ist eine Rh-negative Mutter mit einem Rh-positiven Kind schwanger, kann sie Antikörper bilden, die ein folgendes Kind schädigen – eine Anti-D-Prophylaxe verhindert das. 0 negativ gilt als Universalspender für rote Blutkörperchen, AB positiv als Universalempfänger. In Deutschland ist A positiv am häufigsten.
+- Landsteiner 1900: AB0-System, Nobelpreis 1930.
+- Blutgruppen sind Zuckerantigene; Antikörper gegen fremde.
+- Rhesusfaktor; 0 negativ als Universalspender.

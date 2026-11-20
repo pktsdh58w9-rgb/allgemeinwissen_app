@@ -1,0 +1,203 @@
+=== elektrolyse-wasserstoff
+cat: natur
+title: Elektrolyse und grüner Wasserstoff
+teaser: Wasser mit Strom spalten klingt einfach – warum grüner Wasserstoff trotzdem knapp und teuer ist.
+meta: Elektrochemie/Energie
+cover: Elektrolyse | Wasserelektrolyse im Hofmann-Apparat
+## Erzwungene Redoxreaktion
+Bei der Elektrolyse treibt eine äußere Spannung eine Reaktion an, die von selbst nicht abliefe. Wasser zerfällt an der Kathode zu H<sub>2</sub>, an der Anode zu O<sub>2</sub>. Theoretisch genügen 1,23 V; wegen Überspannungen, vor allem bei der trägen Sauerstoffentwicklung, braucht man praktisch 1,8 bis 2 V. Michael Faraday formulierte 1834 die Gesetze der Elektrolyse.
+## Verfahren
+Alkalische Elektrolyseure mit Kalilauge sind etabliert und günstig. PEM-Elektrolyseure reagieren schnell auf schwankenden Wind- und Solarstrom, brauchen aber Iridium und Platin. Hochtemperatur-Elektrolyse (SOEC) nutzt Abwärme. Industriell bekannt ist auch die Chlor-Alkali-Elektrolyse, die Chlor und Natronlauge liefert, sowie die Schmelzflusselektrolyse von Aluminium.
+img: Michael Faraday | Michael Faraday
+## Die Farben des Wasserstoffs
+Heute stammt Wasserstoff überwiegend aus Erdgas per Dampfreformierung („grau“) – mit hohen CO<sub>2</sub>-Emissionen. „Grün“ ist er nur mit erneuerbarem Strom. Etwa 50–55 kWh Strom braucht man pro Kilogramm H<sub>2</sub>. Sinnvoll ist er vor allem dort, wo Strom direkt nicht geht: Stahl (Direktreduktion), Ammoniak, Raffinerien, eventuell Luft- und Schifffahrt.
+- Elektrolyse erzwingt Redoxreaktionen mit Strom; Faradaysche Gesetze.
+- Alkalisch, PEM, Hochtemperatur; auch Chlor-Alkali und Aluminium.
+- Grüner Wasserstoff ist energieintensiv – Einsatz v. a. in Industrie.
+
+=== kunststoffe
+cat: natur
+title: Kunststoffe und Polymere
+teaser: Ketten aus Tausenden Bausteinen: vom zufällig entdeckten Polyethylen bis zum Mikroplastik im Ozean.
+meta: Polymerchemie
+cover: Kunststoff | Granulat verschiedener Kunststoffe
+## Makromoleküle
+Hermann Staudinger setzte gegen viel Widerstand durch, dass Polymere echte, kovalent verknüpfte Riesenmoleküle sind – Nobelpreis 1953. Polymere entstehen durch Kettenpolymerisation (z. B. radikalisch bei Polyethylen, PVC, Polystyrol) oder Stufenwachstum durch Polykondensation (Polyester, Polyamide wie Nylon).
+## Thermoplaste, Duroplaste, Elastomere
+Thermoplaste bestehen aus unvernetzten Ketten und werden beim Erwärmen weich – recycelbar. Duroplaste sind engmaschig vernetzt und härten irreversibel aus (Epoxidharze). Elastomere sind weitmaschig vernetzt und gummielastisch; Charles Goodyear vulkanisierte Kautschuk 1839 mit Schwefel. Glasübergangstemperatur und Kristallinität bestimmen die Eigenschaften.
+img: Hermann Staudinger | Hermann Staudinger
+## Das Plastikproblem
+Jährlich werden über 400 Millionen Tonnen Kunststoff produziert, ein großer Teil davon Verpackung. Nur ein kleiner Teil wird weltweit stofflich recycelt. Die stabilen C–C-Rückgrate machen die Polymere langlebig – im Meer zerfallen sie zu Mikroplastik, statt abgebaut zu werden. Chemisches Recycling und biologisch abbaubare Polymere wie PLA sind Ansätze.
+- Staudinger: Polymere sind Makromoleküle (Nobelpreis 1953).
+- Thermoplaste, Duroplaste, Elastomere.
+- Über 400 Mio. t pro Jahr, geringe Recyclingquote, Mikroplastik.
+
+=== graphen-fullerene
+cat: natur
+title: Graphen und Fullerene
+teaser: Mit Klebeband zum Nobelpreis: Kohlenstoff in einer Lage, als Fußball und als Röhrchen.
+meta: Materialchemie
+cover: Graphen | Gitterstruktur von Graphen
+## Buckyballs
+1985 entdeckten Harold Kroto, Robert Curl und Richard Smalley beim Verdampfen von Graphit das Molekül C<sub>60</sub>: 60 Kohlenstoffatome in Form eines Fußballs aus 12 Fünf- und 20 Sechsecken. Benannt nach dem Architekten Buckminster Fuller und seinen geodätischen Kuppeln. Nobelpreis 1996. Kurz darauf folgten Kohlenstoff-Nanoröhren.
+## Graphen
+Andre Geim und Konstantin Novoselov zogen 2004 mit Klebeband einzelne Atomlagen von Graphit ab: Graphen, eine wabenförmige Schicht sp<sup>2</sup>-hybridisierter Kohlenstoffatome. Nobelpreis Physik 2010. Graphen ist extrem reißfest, leitet Wärme und Strom hervorragend; die Elektronen verhalten sich nahe dem Dirac-Punkt wie masselose Teilchen.
+img: Fulleren | Das C60-Fulleren-Molekül
+## Hype und Realität
+Graphen hat keine Bandlücke, was Transistoren erschwert. Die Massenproduktion hochwertiger Schichten ist schwierig. Anwendungen gibt es in Verbundwerkstoffen, Sensoren, Batterien und Wärmeleitpasten. Spannend: Zwei um etwa 1,1° verdrehte Graphenlagen („magic angle“) werden supraleitend.
+- C₆₀-Fulleren 1985 entdeckt, Nobelpreis 1996.
+- Graphen 2004 per Klebeband isoliert, Nobelpreis 2010.
+- Herausragende Eigenschaften, aber schwierige Anwendung.
+
+=== diamant-graphit
+cat: natur
+title: Diamant und Graphit
+teaser: Gleiches Element, völlig verschiedene Stoffe – und Diamanten sind eigentlich nicht für immer.
+meta: Chemie/Mineralogie
+cover: Diamant | Rohdiamant
+## Allotropie
+Diamant und Graphit bestehen beide nur aus Kohlenstoff. Im Diamant ist jedes Atom sp<sup>3</sup>-hybridisiert und tetraedrisch an vier Nachbarn gebunden – ein dreidimensionales Netz, das ihn zum härtesten natürlichen Stoff macht. Im Graphit sind die Atome sp<sup>2</sup>-hybridisiert in Schichten angeordnet; zwischen den Schichten wirken nur schwache Van-der-Waals-Kräfte.
+## Eigenschaften
+Graphit ist weich, schmiert und leitet Strom entlang der Schichten durch delokalisierte π-Elektronen – Bleistiftminen enthalten Graphit, kein Blei. Diamant ist ein Isolator, aber ein exzellenter Wärmeleiter, und hat einen hohen Brechungsindex von 2,42, daher das Funkeln.
+img: Graphit | Graphit
+## Nicht für immer
+Bei Normalbedingungen ist Graphit die thermodynamisch stabilere Form – Diamant wandelt sich aber unmessbar langsam um. Natürliche Diamanten entstehen in etwa 150 km Tiefe im Erdmantel und werden mit Kimberlit-Vulkanen nach oben gebracht. Synthetische Diamanten werden per Hochdruck-Hochtemperatur-Verfahren oder chemischer Gasphasenabscheidung (CVD) hergestellt und sind chemisch identisch.
+- Zwei Allotrope: sp³-Netz (Diamant) vs. sp²-Schichten (Graphit).
+- Graphit leitet und ist weich, Diamant extrem hart und lichtbrechend.
+- Graphit ist stabiler; Laborsdiamanten sind chemisch gleich.
+
+=== radioaktivitaet-curie
+cat: natur
+title: Radioaktivität und Marie Curie
+teaser: Die einzige Person mit Nobelpreisen in zwei verschiedenen Naturwissenschaften – ihre Notizbücher strahlen noch heute.
+meta: Physik/Chemie
+cover: Marie Curie | Marie Curie
+## Eine Entdeckung per Zufall
+1896 bemerkte Henri Becquerel, dass Uransalze eine Fotoplatte auch im Dunkeln schwärzen. Marie Skłodowska-Curie untersuchte das systematisch, prägte den Begriff „Radioaktivität“ und zeigte, dass sie eine Eigenschaft der Atome selbst ist. Mit Pierre Curie entdeckte sie 1898 Polonium und Radium – aus Tonnen von Pechblende.
+## Zerfallsarten
+Alphastrahlung besteht aus Heliumkernen (stoppbar mit Papier), Betastrahlung aus Elektronen oder Positronen, Gammastrahlung aus energiereichen Photonen. Die Zerfallsrate folgt einem Exponentialgesetz mit fester Halbwertszeit – von Mikrosekunden bis Milliarden Jahren (U-238: 4,5 Mrd. Jahre). Ursache ist die Kernphysik: starke und schwache Wechselwirkung.
+img: Pierre Curie | Pierre Curie
+## Nobelpreise und Gefahr
+Marie Curie erhielt 1903 den Physik-Nobelpreis (mit Pierre und Becquerel) und 1911 den Chemie-Nobelpreis. Sie starb 1934 an aplastischer Anämie, wohl als Folge der Strahlung. Ihre Laborbücher werden in mit Blei ausgekleideten Kisten aufbewahrt. Ihre Tochter Irène erhielt 1935 ebenfalls einen Nobelpreis für künstliche Radioaktivität.
+- 1896 Becquerel, ab 1898 Curies: Polonium und Radium.
+- Alpha, Beta, Gamma; exponentieller Zerfall mit Halbwertszeit.
+- Marie Curie: Nobelpreise in Physik und Chemie.
+
+=== kernspaltung
+cat: natur
+title: Die Kernspaltung
+teaser: 1938 in Berlin entdeckt, von Lise Meitner erklärt – und sieben Jahre später über Hiroshima gezündet.
+meta: Kernphysik
+cover: Kernspaltung | Schema der Kernspaltung von Uran-235
+## Die Entdeckung
+Otto Hahn und Fritz Straßmann beschossen 1938 in Berlin Uran mit Neutronen und fanden zu ihrer Verblüffung Barium. Lise Meitner, die als Jüdin nach Schweden hatte fliehen müssen, und ihr Neffe Otto Frisch erklärten es: Der Urankern zerplatzt. Hahn erhielt 1944 allein den Nobelpreis – Meitners Übergehung gilt als eine der großen Ungerechtigkeiten der Wissenschaftsgeschichte.
+## Kettenreaktion
+Ein langsames Neutron spaltet U-235 in zwei mittelschwere Kerne plus zwei bis drei Neutronen und rund 200 MeV Energie – die Massendifferenz nach E = mc². Die freigesetzten Neutronen können weitere Kerne spalten. In Reaktoren bremsen Moderatoren wie Wasser die Neutronen, Steuerstäbe aus Bor oder Cadmium fangen überschüssige ein.
+img: Lise Meitner | Lise Meitner
+## Kraftwerk und Bombe
+Enrico Fermi gelang 1942 in Chicago die erste kontrollierte Kettenreaktion. Für Bomben braucht man hochangereichertes U-235 (über 80–90 %) oder Plutonium-239; Kraftwerke nutzen Uran mit 3–5 % U-235. Die Energiedichte ist enorm: Ein Kilogramm U-235 liefert so viel Energie wie etwa 2.700 Tonnen Steinkohle. Problematisch bleiben Endlagerung und Sicherheit.
+- Hahn/Straßmann 1938, Erklärung durch Meitner und Frisch.
+- Kettenreaktion durch freigesetzte Neutronen, ~200 MeV pro Spaltung.
+- Kraftwerke (3–5 % U-235) vs. Bomben (hochangereichert).
+
+=== kernfusion
+cat: natur
+title: Kernfusion
+teaser: Das Feuer der Sonne auf der Erde – seit Jahrzehnten „30 Jahre entfernt“. Doch es gibt echte Fortschritte.
+meta: Physik/Energie
+cover: ITER | Baustelle des Fusionsreaktors ITER in Frankreich
+## Verschmelzen statt Spalten
+Bei leichten Kernen wird Energie frei, wenn sie verschmelzen, weil die Bindungsenergie pro Nukleon bis zum Eisen steigt. Technisch am einfachsten ist die Fusion von Deuterium und Tritium zu Helium-4 und einem Neutron mit 17,6 MeV. Dazu muss die elektrische Abstoßung überwunden werden: Man braucht ein Plasma von über 100 Millionen Grad.
+## Zwei Wege
+Beim magnetischen Einschluss halten starke Magnetfelder das Plasma in einem Ring (Tokamak, z. B. ITER in Frankreich) oder einer verdrehten Form (Stellarator, z. B. Wendelstein 7-X in Greifswald). Beim Trägheitseinschluss komprimieren Laser eine winzige Brennstoffkapsel. 2022 erzeugte die National Ignition Facility in den USA erstmals mehr Fusionsenergie, als die Laser in die Kapsel brachten.
+img: Wendelstein 7-X | Der Stellarator Wendelstein 7-X in Greifswald
+## Hürden
+Der Gesamtenergiebedarf der Anlage liegt noch weit über dem Ertrag. Tritium ist selten und muss im Reaktor aus Lithium „erbrütet“ werden. Materialien müssen dem Neutronenbeschuss standhalten. Fusion erzeugt keine langlebigen Spaltprodukte und kann nicht „durchgehen“. Einen kommerziellen Reaktor erwartet man frühestens in den 2040ern.
+- D-T-Fusion bei über 100 Millionen Grad.
+- Tokamak/Stellarator (Magnetfeld) oder Laser (Trägheit).
+- 2022 erstmals Netto-Energiegewinn an der Kapsel; kommerziell noch fern.
+
+=== ozonloch
+cat: natur
+title: Das Ozonloch
+teaser: Ein seltenes Beispiel, wie die Welt ein Umweltproblem gemeinsam löst – dank drei Chemikern.
+meta: Atmosphärenchemie · Nobelpreis 1995
+cover: Ozonloch | Das Ozonloch über der Antarktis
+## Der Schutzschild
+In der Stratosphäre, in etwa 15 bis 35 km Höhe, absorbiert Ozon (O<sub>3</sub>) einen Großteil der UV-B-Strahlung. Es entsteht und zerfällt im Chapman-Zyklus: UV spaltet O<sub>2</sub>, O-Atome bilden mit O<sub>2</sub> Ozon. 1974 warnten Mario Molina und Sherwood Rowland, dass Fluorchlorkohlenwasserstoffe (FCKW) diesen Schild zerstören.
+## Der Mechanismus
+FCKW sind in der Troposphäre inert und steigen bis in die Stratosphäre. Dort spaltet UV-Licht Chloratome ab, die katalytisch Ozon abbauen: Cl + O<sub>3</sub> → ClO + O<sub>2</sub>; ClO + O → Cl + O<sub>2</sub>. Ein Chloratom zerstört so Zehntausende Ozonmoleküle. Über der Antarktis beschleunigen polare Stratosphärenwolken die Freisetzung von aktivem Chlor im Frühling.
+img: Mario J. Molina | Mario Molina
+## Montreal-Protokoll
+1985 wurde das Ozonloch über der Antarktis entdeckt. Schon 1987 beschloss die Welt im Montreal-Protokoll den Ausstieg aus FCKW – das erste von allen UN-Staaten ratifizierte Abkommen. Paul Crutzen, Molina und Rowland erhielten 1995 den Chemie-Nobelpreis. Die Ozonschicht erholt sich langsam; über der Antarktis wird sie um 2066 wieder auf dem Stand von 1980 erwartet.
+- Ozon in der Stratosphäre filtert UV-B.
+- FCKW setzen Chlor frei, das Ozon katalytisch zerstört.
+- Montreal-Protokoll 1987 – Erholung bis etwa 2066.
+
+=== treibhauseffekt
+cat: natur
+title: Der Treibhauseffekt
+teaser: Ohne ihn wäre die Erde −18 °C kalt. Mit zu viel davon wird es gefährlich warm.
+meta: Klimaphysik
+cover: Treibhauseffekt | Schema des Treibhauseffekts
+## Das Prinzip
+Die Erde empfängt sichtbares Sonnenlicht und strahlt Wärme als Infrarot ab. Moleküle wie CO<sub>2</sub>, H<sub>2</sub>O, CH<sub>4</sub> und N<sub>2</sub>O absorbieren Infrarot, weil sie Schwingungen mit Dipolmomentänderung haben – N<sub>2</sub> und O<sub>2</sub> können das nicht. Die Strahlung wird in alle Richtungen wieder abgegeben, ein Teil zurück zur Erde. Ergebnis: im Mittel +15 °C statt −18 °C.
+## Eine alte Erkenntnis
+Joseph Fourier beschrieb den Effekt 1824, John Tyndall maß 1859 die Infrarotabsorption von CO<sub>2</sub> und Wasserdampf, die Amerikanerin Eunice Foote kam 1856 zu ähnlichen Ergebnissen. Svante Arrhenius berechnete 1896, dass eine Verdopplung von CO<sub>2</sub> die Erde um mehrere Grad erwärmen würde – nahe an heutigen Werten von etwa 3 °C.
+img: Svante Arrhenius | Svante Arrhenius
+## Der menschliche Anteil
+Seit der Industrialisierung stieg die CO<sub>2</sub>-Konzentration von etwa 280 auf über 420 ppm – höher als in den letzten Millionen Jahren. Die Keeling-Kurve am Mauna Loa zeigt den Anstieg seit 1958. Methan ist pro Molekül weit stärker, aber kurzlebiger. Rückkopplungen über Wasserdampf und Eis-Albedo verstärken die Erwärmung.
+- IR-aktive Gase halten Wärmestrahlung zurück; natürlich +33 °C.
+- Fourier, Tyndall, Foote, Arrhenius – seit dem 19. Jh. bekannt.
+- CO₂ von 280 auf über 420 ppm gestiegen.
+
+=== photosynthese
+cat: natur
+title: Photosynthese
+teaser: Der wichtigste chemische Prozess der Erde – und das häufigste Enzym ist erstaunlich ineffizient.
+meta: Biochemie
+cover: Photosynthese | Chloroplasten in Pflanzenzellen
+## Licht wird Chemie
+Die Bruttogleichung lautet 6 CO<sub>2</sub> + 6 H<sub>2</sub>O → C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub>. In den Thylakoidmembranen der Chloroplasten fangen Chlorophylle Licht ein. Photosystem II spaltet Wasser – daher stammt der gesamte Sauerstoff der Luft –, Elektronen wandern über Photosystem I zu NADP<sup>+</sup>, ein Protonengradient treibt die ATP-Synthase an.
+## Der Calvin-Zyklus
+Im Stroma wird mit ATP und NADPH CO<sub>2</sub> fixiert. Das Schlüsselenzym RuBisCO ist das häufigste Protein der Erde, aber langsam und verwechselt CO<sub>2</sub> oft mit O<sub>2</sub> (Photorespiration). C4-Pflanzen wie Mais und CAM-Pflanzen wie Kakteen haben Tricks entwickelt, CO<sub>2</sub> anzureichern. Melvin Calvin erhielt 1961 den Nobelpreis.
+img: Melvin Calvin | Melvin Calvin
+## Erdgeschichte
+Cyanobakterien erfanden die oxygene Photosynthese vor über 2,5 Milliarden Jahren. Der freigesetzte Sauerstoff löste die „Große Sauerstoffkatastrophe“ aus, ermöglichte aber die Ozonschicht und aerobe Atmung. Chloroplasten sind ehemalige Cyanobakterien. Der Wirkungsgrad der Photosynthese liegt nur bei wenigen Prozent.
+- Lichtreaktion: Wasserspaltung, ATP und NADPH; Sauerstoff als Nebenprodukt.
+- Calvin-Zyklus: CO₂-Fixierung durch RuBisCO.
+- Cyanobakterien schufen die sauerstoffreiche Atmosphäre.
+
+=== zellatmung-atp
+cat: natur
+title: Zellatmung und ATP
+teaser: Ein Mensch setzt täglich etwa sein eigenes Körpergewicht an ATP um – angetrieben von einem molekularen Motor.
+meta: Biochemie
+cover: Mitochondrium | Mitochondrium im Elektronenmikroskop
+## Von Glucose zu CO₂
+Die Zellatmung oxidiert Glucose schrittweise: Glykolyse im Cytoplasma, Pyruvat-Oxidation und Citratzyklus im Mitochondrium. Dabei entstehen vor allem reduzierte Coenzyme, NADH und FADH<sub>2</sub>. Erst die Atmungskette überträgt deren Elektronen auf Sauerstoff, der zu Wasser reduziert wird.
+## Chemiosmose
+Die Komplexe der Atmungskette pumpen dabei Protonen über die innere Mitochondrienmembran. Der entstehende Gradient treibt die ATP-Synthase an – eine echte Rotationsmaschine, die sich etwa 100-mal pro Sekunde dreht. Peter Mitchell schlug diese chemiosmotische Theorie 1961 vor und erntete erst Spott, 1978 dann den Nobelpreis.
+img: ATP-Synthase | Struktur der ATP-Synthase
+## Energiewährung
+Pro Glucose entstehen etwa 30 bis 32 ATP. Die Hydrolyse von ATP zu ADP liefert unter Zellbedingungen etwa −50 kJ/mol. Ein Mensch hat nur rund 250 g ATP im Körper, recycelt es aber so schnell, dass täglich etwa das eigene Körpergewicht umgesetzt wird. Cyanid blockiert Komplex IV – deshalb ist es so tödlich.
+- Glykolyse, Citratzyklus, Atmungskette.
+- Protonengradient treibt die rotierende ATP-Synthase (Mitchell).
+- ~30–32 ATP pro Glucose; Cyanid blockiert die Kette.
+
+=== benzol-aromatizitaet
+cat: natur
+title: Benzol und Aromatizität
+teaser: Kekulé träumte angeblich von einer Schlange, die sich in den Schwanz beißt – die Wahrheit ist quantenmechanisch.
+meta: Organische Chemie
+cover: Benzol | Strukturformel von Benzol
+## Kekulés Ring
+1865 schlug August Kekulé für C<sub>6</sub>H<sub>6</sub> einen Ring mit abwechselnden Einfach- und Doppelbindungen vor. Doch Benzol verhält sich nicht wie ein Alken: Es addiert kaum Brom, sondern geht Substitutionsreaktionen ein, und alle C–C-Bindungen sind gleich lang (139 pm). Kekulé postulierte deshalb ein schnelles Umklappen zwischen zwei Strukturen.
+## Delokalisierung
+Heute beschreibt man die sechs π-Elektronen als über den ganzen Ring delokalisiert. Die Hydrierenthalpie zeigt eine Resonanzenergie von etwa 150 kJ/mol gegenüber einem hypothetischen Cyclohexatrien. Die Hückel-Regel sagt: Planare, cyclisch konjugierte Systeme mit 4n+2 π-Elektronen sind aromatisch, solche mit 4n antiaromatisch und instabil.
+img: August Kekulé | August Kekulé
+## Bedeutung und Gefahr
+Aromaten sind überall: in Aminosäuren wie Phenylalanin, DNA-Basen, Farbstoffen, Medikamenten wie Paracetamol und Kunststoffen wie Polystyrol. Typische Reaktion ist die elektrophile aromatische Substitution. Benzol selbst ist krebserregend und kann Leukämie auslösen; im Labor wird es weitgehend durch Toluol ersetzt.
+- Kekulé 1865: Ringstruktur, aber gleiche Bindungslängen.
+- Delokalisierte π-Elektronen, Resonanzenergie, Hückel-Regel 4n+2.
+- Allgegenwärtig in Biochemie und Industrie; Benzol ist karzinogen.

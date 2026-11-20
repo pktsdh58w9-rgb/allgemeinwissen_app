@@ -1,0 +1,50 @@
+=== viktoriasee
+cat: geografie
+title: Der Viktoriasee
+teaser: Afrikas größter See ist erst 15.000 Jahre alt – und ein eingeschleppter Fisch löste dort ein Massenaussterben aus.
+meta: Uganda/Kenia/Tansania
+cover: Victoriasee | Der Viktoriasee aus dem All
+## Ein flacher Riese
+Mit rund 68.800 Quadratkilometern ist der Viktoriasee der größte See Afrikas und der größte tropische See der Erde – aber nur maximal etwa 80 Meter tief. Er liegt zwischen den beiden Armen des Ostafrikanischen Grabens. Geologen zeigten, dass er vor rund 17.000 Jahren fast vollständig ausgetrocknet war.
+## Quelle des Nils
+Bei Jinja in Uganda verlässt der Weiße Nil den See. Der britische Entdecker John Hanning Speke erkannte 1858 den See als Nilquelle und benannte ihn nach Königin Victoria – die Bewohner hatten natürlich eigene Namen wie Nalubaale.
+img: John Hanning Speke | John Hanning Speke
+## Der Nilbarsch
+In den 1950ern wurde der räuberische Nilbarsch eingesetzt, um die Fischerei anzukurbeln. Er fraß Hunderte endemische Buntbarscharten, die sich in nur wenigen Jahrtausenden entwickelt hatten – eines der größten Artensterben der Neuzeit bei Wirbeltieren. Zudem wuchert die eingeschleppte Wasserhyazinthe. Rund 40 Millionen Menschen leben im Einzugsgebiet.
+- Größter See Afrikas, aber flach.
+- Quellsee des Weißen Nils.
+- Eingeschleppter Nilbarsch rottete Hunderte Buntbarscharten aus.
+
+=== rotes-meer
+cat: geografie
+title: Das Rote Meer
+teaser: Ein Meer, das sich langsam zum Ozean weitet – mit Korallen, die Hitze besser aushalten als andere.
+meta: Afrika/Arabien
+cover: Rotes Meer | Das Rote Meer aus dem All
+## Ein werdender Ozean
+Das Rote Meer liegt zwischen Afrika und der Arabischen Halbinsel. Es entstand, weil Arabien sich von Afrika wegbewegt – um etwa einen Zentimeter pro Jahr. Am Boden bildet sich neue ozeanische Kruste. In Millionen Jahren könnte hier ein richtiger Ozean entstehen.
+## Warm und salzig
+Kaum ein Fluss mündet ins Rote Meer, und die Verdunstung ist enorm. Deshalb ist es mit etwa vier Prozent Salzgehalt eines der salzigsten Meere. Der Name stammt vermutlich von zeitweiligen Algenblüten oder roten Bergen an der Küste.
+img: Korallenriff | Korallenriff im Roten Meer
+## Korallen und Handel
+Die Riffe gelten als besonders hitzetolerant, vielleicht weil die Korallen beim Einwandern durch den heißen Süden „abgehärtet“ wurden – Forschende hoffen, daraus für andere Riffe zu lernen. Über den Suezkanal und die Meerenge Bab al-Mandab ist das Rote Meer eine der wichtigsten Schifffahrtsrouten der Welt.
+- Entsteht durch das Auseinanderdriften von Afrika und Arabien.
+- Sehr warm und salzig, kaum Zuflüsse.
+- Hitzetolerante Korallen und zentrale Handelsroute.
+
+=== kaukasus
+cat: geografie
+title: Der Kaukasus
+teaser: Zwischen Schwarzem und Kaspischem Meer: das Gebirge mit Europas höchstem Berg und über 50 Sprachen.
+meta: Russland/Georgien/Armenien/Aserbaidschan
+cover: Kaukasus | Der Große Kaukasus
+## Hochgebirge mit Elbrus
+Der Große Kaukasus erstreckt sich über rund 1.100 Kilometer. Sein höchster Gipfel, der Elbrus, ein erloschener Vulkan mit 5.642 Metern, gilt oft als höchster Berg Europas – je nachdem, wo man die Grenze zu Asien zieht. Entstanden ist das Gebirge durch die Kollision der Arabischen mit der Eurasischen Platte.
+## Berg der Sprachen
+Der Kaukasus ist eine der sprachlich vielfältigsten Regionen der Welt. Über 50 Sprachen werden gesprochen, viele davon nur hier, etwa Georgisch mit eigener Schrift. Arabische Geografen nannten ihn „Berg der Sprachen“. Georgien gilt mit 8.000 Jahre alten Funden als eine Wiege des Weinbaus.
+img: Elbrus | Der Elbrus
+## Konfliktregion
+Die Vielfalt brachte auch Konflikte: zwei Tschetschenienkriege, der Krieg in Georgien 2008 und der jahrzehntelange Streit zwischen Armenien und Aserbaidschan um Bergkarabach, das Aserbaidschan 2023 vollständig eroberte, woraufhin über 100.000 Armenier flohen. In der griechischen Sage war Prometheus an einen Kaukasusfelsen geschmiedet.
+- Gebirge zwischen Schwarzem und Kaspischem Meer.
+- Elbrus (5.642 m), über 50 Sprachen.
+- Zahlreiche Konflikte, z. B. um Bergkarabach.

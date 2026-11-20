@@ -1,0 +1,186 @@
+=== maillard-reaktion
+cat: natur
+title: Die Maillard-Reaktion
+teaser: Warum Brotkruste, Steak und Kaffee so gut riechen – und warum dabei auch Acrylamid entsteht.
+meta: Lebensmittelchemie
+cover: Maillard-Reaktion | Brotkruste
+## Zucker trifft Aminosäure
+1912 beschrieb Louis-Camille Maillard die Reaktion zwischen reduzierenden Zuckern und Aminogruppen. Zuerst bildet sich eine Schiff’sche Base, die über die Amadori-Umlagerung zu Ketosaminen wird. Diese zerfallen in einer Kaskade zu Hunderten Aromastoffen und braunen Polymeren, den Melanoidinen.
+## Hitze und Trockenheit
+Die Reaktion läuft merklich ab etwa 140 °C schnell ab – deshalb bräunt Fleisch beim Anbraten, aber nicht beim Kochen in Wasser (maximal 100 °C). Ein leicht basisches Milieu beschleunigt sie: Laugengebäck wird so dunkel. Beim Strecker-Abbau von Aminosäuren entstehen typische Aldehyde mit Röstaromen.
+img: Laugenbrezel | Laugenbrezel – Lauge beschleunigt die Bräunung
+## Nicht nur Genuss
+Aus der Aminosäure Asparagin und Zuckern entsteht bei starker Erhitzung Acrylamid, das im Tierversuch krebserregend ist – deshalb „vergolden statt verkohlen“ bei Pommes. Im Körper laufen ähnliche Reaktionen langsam ab: Glykierung von Proteinen, etwa der HbA1c-Wert, der bei Diabetikern den Blutzucker der letzten Wochen anzeigt.
+- Reaktion zwischen reduzierenden Zuckern und Aminogruppen.
+- Schnell ab etwa 140 °C, beschleunigt durch basisches Milieu.
+- Bildet Aromen, aber auch Acrylamid; im Körper: HbA1c.
+
+=== seifen-tenside
+cat: natur
+title: Seifen und Tenside
+teaser: Ein Molekül mit Doppelleben – ein Ende liebt Wasser, das andere Fett.
+meta: Chemie
+cover: Seife | Seifenblasen
+## Verseifung
+Seifen entstehen seit Jahrtausenden durch Kochen von Fetten mit Lauge: Die Esterbindungen der Triglyceride werden hydrolysiert, es entstehen Glycerin und die Salze langkettiger Fettsäuren. Schon die Sumerer kannten das Verfahren. Mit Natronlauge entsteht feste Kernseife, mit Kalilauge Schmierseife.
+## Mizellen
+Tenside sind amphiphil: Ein polarer, hydrophiler Kopf und ein langer, unpolarer, lipophiler Schwanz. Oberhalb der kritischen Mizellbildungskonzentration lagern sie sich zu Kugeln zusammen, die Schwänze nach innen. Fett wird im Inneren eingeschlossen und abgespült. Zudem senken Tenside die Oberflächenspannung des Wassers, das dadurch besser benetzt.
+img: Mizelle | Schema einer Mizelle
+## Moderne Tenside
+Seifen bilden mit Calcium- und Magnesiumionen in hartem Wasser unlösliche „Kalkseifen“. Synthetische anionische Tenside wie Natriumlaurylsulfat sind unempfindlicher. In den 1960ern schäumten Flüsse, weil verzweigte Tenside nicht abbaubar waren; heute sind sie gesetzlich vorgeschrieben biologisch abbaubar. Unsere Zellmembranen bestehen aus ähnlich gebauten Phospholipiden.
+- Verseifung: Fett + Lauge → Glycerin + Fettsäuresalze.
+- Amphiphile Moleküle bilden Mizellen und lösen Fett.
+- Synthetische Tenside funktionieren auch in hartem Wasser.
+
+=== penicillin
+cat: natur
+title: Penicillin
+teaser: Eine verschimmelte Petrischale veränderte die Medizin – aber erst zwölf Jahre später.
+meta: Medizin/Biochemie
+cover: Penicillin | Penicillium-Schimmel auf einer Agarplatte
+## Ein glücklicher Zufall
+Alexander Fleming kehrte im September 1928 aus dem Urlaub zurück und bemerkte, dass auf einer Bakterienkultur ein Schimmelpilz (<i>Penicillium</i>) gewachsen war – um ihn herum starben Staphylokokken ab. Er nannte den Wirkstoff Penicillin, konnte ihn aber nicht in ausreichender Menge isolieren.
+## Florey und Chain
+Erst 1940 gelang es Howard Florey und Ernst Chain in Oxford, Penicillin zu reinigen und seine Wirkung an Mäusen und Menschen zu zeigen. Im Zweiten Weltkrieg wurde die Produktion in den USA massiv ausgeweitet, unter anderem mit einem besonders ergiebigen Schimmel von einer Melone aus Peoria. 1945 erhielten Fleming, Florey und Chain den Nobelpreis.
+img: Alexander Fleming | Alexander Fleming
+## Wirkmechanismus
+Penicillin ist ein β-Lactam-Antibiotikum. Der gespannte Vierring acyliert die Transpeptidasen (Penicillin-bindende Proteine), die die Peptidoglykan-Zellwand der Bakterien quervernetzen – die Bakterien platzen. Menschliche Zellen haben keine solche Wand. Dorothy Hodgkin klärte 1945 die Struktur per Röntgenkristallografie auf. Viele Bakterien bilden inzwischen β-Lactamasen, die den Ring spalten.
+- Fleming 1928 zufällig entdeckt, Florey und Chain 1940 nutzbar gemacht.
+- Massenproduktion im Zweiten Weltkrieg, Nobelpreis 1945.
+- β-Lactam hemmt den Zellwandaufbau; Resistenz durch β-Lactamasen.
+
+=== aspirin
+cat: natur
+title: Aspirin
+teaser: Seit über 125 Jahren auf dem Markt – und wie es wirkt, verstand man erst 1971.
+meta: Pharmazie
+cover: Acetylsalicylsäure | Aspirin-Tabletten
+## Von der Weidenrinde
+Schon die Antike nutzte Weidenrinde gegen Schmerzen und Fieber. Der Wirkstoff Salicin wird im Körper zu Salicylsäure umgewandelt. Salicylsäure selbst reizt aber stark den Magen. 1897 synthetisierte Felix Hoffmann bei Bayer reine Acetylsalicylsäure (ASS) durch Acetylierung mit Essigsäureanhydrid; 1899 kam „Aspirin“ auf den Markt. Arthur Eichengrün beanspruchte später die Idee für sich.
+## Wie es wirkt
+Erst 1971 zeigte John Vane, dass ASS die Cyclooxygenasen (COX-1 und COX-2) hemmt, die aus Arachidonsäure Prostaglandine bilden – Botenstoffe für Schmerz, Fieber und Entzündung. Einzigartig: ASS acetyliert ein Serin im aktiven Zentrum irreversibel. Vane erhielt 1982 den Nobelpreis.
+img: Felix Hoffmann | Felix Hoffmann
+## Blutverdünnung
+Weil Blutplättchen keinen Zellkern haben, können sie die gehemmte COX-1 nicht neu bilden. Für ihre gesamte Lebensdauer von etwa zehn Tagen produzieren sie weniger Thromboxan und verklumpen schlechter. Daher wird niedrig dosiertes ASS nach Herzinfarkt und Schlaganfall eingesetzt. Nebenwirkungen sind Magenblutungen; bei Kindern kann es das Reye-Syndrom auslösen.
+- 1897 von Felix Hoffmann bei Bayer synthetisiert.
+- Irreversible Hemmung der Cyclooxygenase (Vane 1971).
+- Hemmt Blutplättchen dauerhaft – Einsatz zur Infarktprophylaxe.
+
+=== nmr-spektroskopie
+cat: natur
+title: NMR-Spektroskopie
+teaser: Atomkerne als winzige Magnete verraten die Struktur von Molekülen – und im MRT unser Inneres.
+meta: Analytische Chemie
+cover: NMR-Spektroskopie | NMR-Spektrometer mit supraleitendem Magneten
+## Kernspins im Magnetfeld
+Kerne mit Spin, etwa <sup>1</sup>H und <sup>13</sup>C, richten sich im starken Magnetfeld parallel oder antiparallel aus. Ein Radiofrequenzpuls regt Übergänge zwischen den Zuständen an. Die Resonanzfrequenz hängt von der elektronischen Umgebung ab: Elektronen schirmen den Kern ab. So entsteht die chemische Verschiebung in ppm, bezogen auf Tetramethylsilan.
+## Was ein Spektrum verrät
+Im <sup>1</sup>H-NMR zeigt die Verschiebung die Art der Protonen (aromatisch um 7 ppm, Aldehyd um 9–10 ppm), das Integral ihre Anzahl und die Aufspaltung (n+1-Regel) die Zahl der Nachbarprotonen über die skalare Kopplung. 2D-Methoden wie COSY, HSQC und NOESY verknüpfen Atome und zeigen räumliche Nähe – so lassen sich sogar Proteinstrukturen bestimmen.
+img: Richard R. Ernst | Richard Ernst, Nobelpreis 1991 für Fourier-NMR
+## Vom Labor zum Krankenhaus
+Felix Bloch und Edward Purcell entdeckten die NMR 1946 (Nobelpreis 1952). Richard Ernst führte die Puls-Fourier-Technik ein, Kurt Wüthrich die Proteinstrukturanalyse. Die Magnetresonanztomografie nutzt die Protonen im Wasser und Fett des Körpers: Unterschiedliche Relaxationszeiten (T1, T2) erzeugen Kontraste – ohne ionisierende Strahlung.
+- Kernspins im Magnetfeld, Anregung mit Radiowellen.
+- Chemische Verschiebung, Integral und Kopplung ergeben die Struktur.
+- MRT nutzt dasselbe Prinzip in der Medizin.
+
+=== chromatographie
+cat: natur
+title: Chromatographie
+teaser: Ein russischer Botaniker trennte Blattfarbstoffe in einer Kreidesäule – heute findet man so Doping im Urin.
+meta: Analytische Chemie
+cover: Chromatographie | Dünnschichtchromatographie
+## Farbschreiben
+1903 trennte der Botaniker Michail Tswett Pflanzenfarbstoffe, indem er einen Extrakt durch eine mit Calciumcarbonat gefüllte Säule laufen ließ – es entstanden farbige Banden. Er nannte das „Chromatographie“, Farbschreiben. Das Prinzip: Stoffe verteilen sich unterschiedlich zwischen einer stationären und einer mobilen Phase und wandern daher unterschiedlich schnell.
+## Viele Varianten
+Bei der Dünnschichtchromatographie (DC) wandert ein Laufmittel über eine Kieselgelschicht; der R<sub>f</sub>-Wert charakterisiert die Substanz. Die Gaschromatographie (GC) trennt verdampfbare Stoffe in langen Kapillarsäulen, die Hochleistungsflüssigkeitschromatographie (HPLC) arbeitet mit hohem Druck und feinen Partikeln, oft als Umkehrphase (C18). Martin und Synge erhielten 1952 den Nobelpreis für die Verteilungschromatographie.
+img: Gaschromatographie | Gaschromatograph
+## Anwendungen
+Gekoppelt mit Massenspektrometrie (GC-MS, LC-MS) identifiziert die Chromatographie Spuren im Nano- und Pikogrammbereich – in der Dopinganalyse, Lebensmittelkontrolle, Umweltanalytik und Forensik. Präparativ reinigt man damit Medikamente und Proteine (Säulen-, Affinitäts- und Größenausschlusschromatographie).
+- Trennung durch Verteilung zwischen stationärer und mobiler Phase.
+- DC, GC, HPLC als Hauptvarianten.
+- Mit MS gekoppelt: Spurenanalytik von Doping bis Umwelt.
+
+=== massenspektrometrie
+cat: natur
+title: Massenspektrometrie
+teaser: Moleküle werden ionisiert, beschleunigt und gewogen – und ein Nobelpreis ging an einen Ingenieur ohne Doktortitel.
+meta: Analytische Chemie
+cover: Massenspektrometrie | Massenspektrometer
+## Das Prinzip
+Ein Massenspektrometer ionisiert Moleküle, trennt die Ionen nach ihrem Masse-zu-Ladung-Verhältnis (m/z) und zählt sie. J. J. Thomson und sein Schüler Francis Aston entdeckten so um 1913 Isotope. Trennen kann man im Magnetfeld, über die Flugzeit (TOF), in Quadrupolen oder in Ionenfallen wie der Orbitrap.
+## Fragmente verraten Struktur
+Bei der Elektronenstoßionisation zerbrechen Moleküle in charakteristische Fragmente – ein Fingerabdruck, der mit Datenbanken verglichen wird. Hochauflösende Geräte bestimmen Massen so genau, dass man daraus die Summenformel ablesen kann. Isotopenmuster verraten Chlor (3:1) oder Brom (1:1).
+img: Kōichi Tanaka | Kōichi Tanaka
+## Große Moleküle fliegen lassen
+Proteine ließen sich lange nicht unzerstört ionisieren. John Fenn entwickelte die Elektrospray-Ionisation (ESI), der japanische Ingenieur Kōichi Tanaka die Laserdesorption, eine Vorstufe von MALDI. Beide erhielten 2002 den Nobelpreis. Heute bestimmt die Proteomik damit Tausende Proteine in einer Probe, und Kliniken identifizieren Bakterien in Minuten.
+- Ionen werden nach m/z getrennt und gezählt.
+- Fragmentmuster und exakte Masse ergeben Struktur und Formel.
+- ESI und MALDI ermöglichen Analyse von Proteinen.
+
+=== supraleitung
+cat: natur
+title: Supraleitung
+teaser: Unter einer kritischen Temperatur verschwindet der elektrische Widerstand komplett – und Magnete schweben.
+meta: Festkörperphysik
+cover: Supraleiter | Ein Magnet schwebt über einem Supraleiter
+## Entdeckung
+1911 kühlte Heike Kamerlingh Onnes in Leiden Quecksilber mit flüssigem Helium auf 4,2 K – der elektrische Widerstand fiel abrupt auf null. 1933 entdeckten Meißner und Ochsenfeld, dass Supraleiter Magnetfelder aus ihrem Inneren verdrängen. Deshalb kann ein Magnet darüber schweben.
+## Cooper-Paare
+Die BCS-Theorie (Bardeen, Cooper, Schrieffer, 1957) erklärt klassische Supraleiter: Elektronen koppeln über Gitterschwingungen (Phononen) zu Cooper-Paaren. Diese verhalten sich wie Bosonen und kondensieren in einen gemeinsamen Quantenzustand, der ohne Streuung fließt.
+img: Heike Kamerlingh Onnes | Heike Kamerlingh Onnes
+## Hochtemperatur-Supraleiter
+1986 fanden Bednorz und Müller keramische Kupferoxide, die bei über 30 K supraleiten; YBa<sub>2</sub>Cu<sub>3</sub>O<sub>7</sub> schafft 93 K – über dem Siedepunkt von Stickstoff. Ihr Mechanismus ist bis heute nicht vollständig verstanden. Anwendungen: MRT-Magnete, Teilchenbeschleuniger wie der LHC, Fusionsmagnete. Die angebliche Raumtemperatur-Supraleitung von „LK-99“ (2023) erwies sich als Irrtum.
+- Widerstand null unterhalb einer kritischen Temperatur (Onnes 1911).
+- Meißner-Effekt, BCS-Theorie mit Cooper-Paaren.
+- Kupraten bis über 90 K; Einsatz in MRT und Beschleunigern.
+
+=== edelgase
+cat: natur
+title: Die Edelgase
+teaser: Lange galten sie als völlig reaktionsträge – bis 1962 ein Chemiker Xenon zum Reagieren brachte.
+meta: Chemie
+cover: Edelgas | Leuchtende Edelgase in Gasentladungsröhren
+## Entdeckung
+Lord Rayleigh bemerkte, dass Stickstoff aus Luft schwerer war als chemisch hergestellter. William Ramsay fand 1894 die Ursache: Argon (griech. „der Träge“). Bis 1898 folgten Neon, Krypton und Xenon. Helium war schon 1868 im Sonnenspektrum entdeckt worden, bevor man es auf der Erde fand. Ramsay erhielt 1904 den Nobelpreis.
+## Edelgaskonfiguration
+Mit vollständig gefüllten s- und p-Schalen haben Edelgase sehr hohe Ionisierungsenergien und kaum Elektronenaffinität. Das Streben anderer Atome nach dieser Konfiguration erklärt die Oktettregel. Helium wird bei Normaldruck nicht einmal am absoluten Nullpunkt fest und wird unter 2,17 K suprafluid.
+img: William Ramsay | William Ramsay
+## Doch nicht so edel
+1962 synthetisierte Neil Bartlett Xenonhexafluoroplatinat – die erste Edelgasverbindung. Heute kennt man XeF<sub>2</sub>, XeF<sub>4</sub>, XeO<sub>3</sub> und sogar Krypton- und Argonverbindungen. Anwendungen: Argon als Schutzgas, Neon in Leuchtreklamen, Helium in MRT-Kühlung und Ballons, Xenon in Autoscheinwerfern und als Narkosegas. Radon ist radioaktiv und ein Lungenkrebsrisiko in Kellern.
+- Entdeckung durch Rayleigh und Ramsay (1894–1898).
+- Volle Schalen, sehr reaktionsträge; Helium wird suprafluid.
+- Seit 1962 Edelgasverbindungen bekannt (Bartlett).
+
+=== seltene-erden
+cat: natur
+title: Seltene Erden
+teaser: Gar nicht so selten – aber schwer zu trennen und strategisch so wichtig wie Öl.
+meta: Chemie/Rohstoffe
+cover: Metalle der Seltenen Erden | Oxide Seltener Erden
+## Wer dazugehört
+Zu den Seltenen Erden zählen die 15 Lanthanoide sowie Scandium und Yttrium. Mehrere wurden in einer einzigen Grube bei Ytterby in Schweden entdeckt – daher Yttrium, Ytterbium, Terbium und Erbium. „Selten“ sind sie eigentlich nicht: Cer ist häufiger als Kupfer. Aber sie kommen selten in abbauwürdigen Konzentrationen vor.
+## Schwer zu trennen
+Die Lanthanoide füllen die 4f-Orbitale, die tief im Atom liegen und chemisch kaum mitspielen. Alle bilden bevorzugt dreiwertige Ionen ähnlicher Größe – die Lanthanoidenkontraktion macht die Unterschiede nur minimal. Die Trennung erfordert Hunderte Stufen der Flüssig-Flüssig-Extraktion und erzeugt viel giftigen, teils radioaktiven Abfall (Thorium).
+img: Ytterby | Die Grube von Ytterby in Schweden
+## Strategisch wichtig
+Neodym-Eisen-Bor-Magnete stecken in Elektromotoren, Windturbinen und Kopfhörern; Europium und Terbium in Leuchtstoffen; Lanthan in Kameralinsen. Die besonderen magnetischen und optischen Eigenschaften stammen von den ungepaarten 4f-Elektronen. China dominiert Abbau und vor allem Verarbeitung – ein geopolitischer Hebel.
+- 15 Lanthanoide plus Scandium und Yttrium.
+- Chemisch sehr ähnlich, aufwendige Trennung.
+- Unverzichtbar für Magnete und Leuchtstoffe; China dominiert.
+
+=== halbleiter-transistor
+cat: natur
+title: Halbleiter und Transistor
+teaser: Die wichtigste Erfindung des 20. Jahrhunderts? Ein Smartphone-Chip hat über 15 Milliarden davon.
+meta: Physik/Elektronik
+cover: Transistor | Nachbau des ersten Transistors von 1947
+## Bänder und Lücken
+In Festkörpern bilden die Energieniveaus Bänder. Bei Metallen überlappen Valenz- und Leitungsband, bei Isolatoren trennt sie eine große Lücke. Halbleiter wie Silicium (Bandlücke 1,12 eV) liegen dazwischen: Thermisch oder durch Licht angeregte Elektronen können leiten. Durch Dotierung mit Phosphor (n-Typ) oder Bor (p-Typ) steuert man die Leitfähigkeit gezielt.
+## Der Transistor
+1947 bauten John Bardeen, Walter Brattain und William Shockley bei den Bell Labs den ersten Transistor – einen Halbleiterschalter und -verstärker, der Röhren ersetzte. Nobelpreis 1956. Am p-n-Übergang entsteht eine Sperrschicht; heutige MOSFETs schalten den Stromfluss über eine Gate-Spannung.
+img: William Shockley | William Shockley
+## Moores Gesetz
+Gordon Moore bemerkte 1965, dass sich die Zahl der Transistoren auf einem Chip etwa alle zwei Jahre verdoppelt. Heute sind Strukturen nur noch wenige Nanometer groß, belichtet mit extremem UV-Licht (13,5 nm) aus Maschinen von ASML mit Optiken von Zeiss. Die Fertigung konzentriert sich auf wenige Firmen wie TSMC in Taiwan.
+- Halbleiter: Bandlücke zwischen Metall und Isolator; Dotierung.
+- Transistor 1947 bei Bell Labs, Nobelpreis 1956.
+- Moores Gesetz; EUV-Lithografie und TSMC als Schlüsselakteure.

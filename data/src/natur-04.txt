@@ -1,0 +1,203 @@
+=== nobel-dynamit
+cat: natur
+title: Alfred Nobel und das Dynamit
+teaser: Ein Chemiker, der mit Sprengstoff reich wurde, las seinen eigenen Nachruf – und stiftete die Nobelpreise.
+meta: Chemie · 1867
+cover: Alfred Nobel | Alfred Nobel
+## Das Problem Nitroglycerin
+Nitroglycerin, 1847 von Ascanio Sobrero hergestellt, ist ein extrem starker, aber stoßempfindlicher Sprengstoff. Die Zersetzung zu N<sub>2</sub>, CO<sub>2</sub>, H<sub>2</sub>O und O<sub>2</sub> erzeugt in Mikrosekunden riesige Gasvolumina – der Sauerstoff ist bereits im Molekül, Luft ist nicht nötig. 1864 starb Nobels jüngerer Bruder Emil bei einer Explosion in der Familienfabrik.
+## Die Lösung: Kieselgur
+1867 fand Alfred Nobel heraus, dass Nitroglycerin in Kieselgur aufgesaugt handhabbar wird – das Dynamit. Zusammen mit dem Initialzünder (Sprengkapsel mit Knallquecksilber) revolutionierte es Bergbau, Tunnel- und Straßenbau. Später folgte Gelatine-Dynamit. Nobel besaß über 350 Patente und baute ein Industrieimperium auf.
+img: Nobelpreis | Nobelpreis-Medaille
+## Der „Händler des Todes“
+1888 starb sein Bruder Ludvig; eine französische Zeitung verwechselte ihn und schrieb einen Nachruf auf Alfred: „Der Händler des Todes ist tot.“ Das soll ihn bewegt haben, sein Vermögen in eine Stiftung zu geben. Seit 1901 werden die Nobelpreise für Physik, Chemie, Medizin, Literatur und Frieden verliehen – den für Wirtschaft stiftete 1968 die schwedische Reichsbank.
+- Nitroglycerin: hochenergetisch, aber gefährlich instabil.
+- 1867 Dynamit durch Aufsaugen in Kieselgur.
+- Testament begründete die Nobelpreise (seit 1901).
+
+=== kohlenstoffkreislauf
+cat: natur
+title: Der Kohlenstoffkreislauf
+teaser: Von Atmung bis Kalkgestein: Wie Kohlenstoff zwischen Luft, Meer, Leben und Gestein wandert – und was wir daran ändern.
+meta: Geochemie
+cover: Kohlenstoffzyklus | Schema des globalen Kohlenstoffkreislaufs
+## Schneller Kreislauf
+Pflanzen und Plankton binden durch Photosynthese jährlich etwa 120 bzw. 100 Gigatonnen Kohlenstoff, fast ebenso viel wird durch Atmung und Zersetzung wieder frei. Ozeane nehmen CO<sub>2</sub> auf und lösen es als Hydrogencarbonat. Kalkschalen sinkender Organismen transportieren Kohlenstoff in die Tiefsee – die „biologische Pumpe“.
+## Langsamer Kreislauf
+Über Jahrmillionen verwittern Silikatgesteine: CO<sub>2</sub> und Wasser lösen sie, Calcium- und Hydrogencarbonationen gelangen ins Meer und werden als Kalk abgelagert. Vulkane geben CO<sub>2</sub> zurück. Dieser „Thermostat“ hat das Erdklima über geologische Zeiträume stabilisiert. Fossile Brennstoffe sind Kohlenstoff, der vor Hunderten Millionen Jahren dem Kreislauf entzogen wurde.
+img: Keeling-Kurve | Die Keeling-Kurve des CO₂-Anstiegs
+## Der menschliche Eingriff
+Durch Verbrennung fossiler Energieträger und Entwaldung setzen Menschen jährlich rund 10 bis 11 Gigatonnen Kohlenstoff frei. Etwa die Hälfte bleibt in der Atmosphäre, je ein Viertel nehmen Ozeane und Landbiosphäre auf. Isotopenmessungen (<sup>13</sup>C/<sup>12</sup>C, Suess-Effekt) belegen, dass das zusätzliche CO<sub>2</sub> fossilen Ursprungs ist.
+- Schneller Kreislauf über Photosynthese, Atmung und Ozean.
+- Langsamer Kreislauf über Verwitterung und Vulkanismus.
+- Menschen setzen ~10 Gt C/Jahr frei, etwa die Hälfte bleibt in der Luft.
+
+=== stickstoffkreislauf
+cat: natur
+title: Der Stickstoffkreislauf
+teaser: 78 Prozent der Luft sind Stickstoff – und trotzdem war er lange der knappste Nährstoff der Landwirtschaft.
+meta: Biogeochemie
+cover: Stickstoffkreislauf | Schema des Stickstoffkreislaufs
+## Unerreichbarer Stickstoff
+Die N≡N-Dreifachbindung ist extrem stabil, die meisten Organismen können N<sub>2</sub> nicht nutzen. Nur bestimmte Bakterien besitzen das Enzym Nitrogenase, das unter hohem ATP-Verbrauch N<sub>2</sub> zu NH<sub>3</sub> reduziert. Ihr aktives Zentrum enthält einen Eisen-Molybdän-Schwefel-Cluster. Weil Sauerstoff die Nitrogenase zerstört, schützen Leguminosen ihre Knöllchenbakterien mit Leghämoglobin.
+## Der Kreislauf
+Ammonium wird von nitrifizierenden Bakterien zu Nitrit und Nitrat oxidiert, das Pflanzen gut aufnehmen. Denitrifizierende Bakterien reduzieren Nitrat unter Sauerstoffmangel wieder zu N<sub>2</sub> und N<sub>2</sub>O. Anammox-Bakterien setzen Ammonium und Nitrit direkt zu N<sub>2</sub> um – ein erst in den 1990ern entdeckter Weg.
+img: Wurzelknöllchen | Wurzelknöllchen einer Leguminose
+## Menschliche Überdüngung
+Durch das Haber-Bosch-Verfahren hat der Mensch die Menge reaktiven Stickstoffs etwa verdoppelt. Folgen: Nitrat im Grundwasser, Algenblüten und Todeszonen in Meeren, Ammoniak-Emissionen, die Feinstaub bilden, und Lachgas (N<sub>2</sub>O), ein starkes Treibhausgas und heute der wichtigste ozonabbauende Stoff.
+- Nur Bakterien mit Nitrogenase können N₂ fixieren.
+- Nitrifikation, Denitrifikation, Anammox.
+- Haber-Bosch verdoppelte reaktiven Stickstoff – Überdüngungsfolgen.
+
+=== ozeanversauerung
+cat: natur
+title: Die Ozeanversauerung
+teaser: Das „andere CO₂-Problem“: Die Meere schlucken Kohlendioxid – und werden saurer.
+meta: Meereschemie
+cover: Versauerung der Meere | Pteropoden – Flügelschnecken mit Kalkschale
+## Die Chemie
+Etwa ein Viertel des menschengemachten CO<sub>2</sub> löst sich im Meer. Dort bildet es Kohlensäure, die zu Hydrogencarbonat und H<sup>+</sup> dissoziiert. Die Protonen reagieren mit Carbonat-Ionen zu weiterem Hydrogencarbonat – die Carbonatkonzentration sinkt. Der pH-Wert der Ozeanoberfläche fiel seit der Industrialisierung von etwa 8,2 auf 8,1. Klingt wenig, entspricht aber rund 30 Prozent mehr H<sup>+</sup>.
+## Problem für Kalkbildner
+Korallen, Muscheln, Schnecken, Seeigel und Kalkalgen bauen Schalen aus Calciumcarbonat (Aragonit oder Calcit). Sinkt die Carbonatkonzentration unter die Sättigung, wird der Aufbau mühsam oder Schalen lösen sich sogar auf. Besonders betroffen sind kalte Polarmeere, weil sich CO<sub>2</sub> in kaltem Wasser besser löst.
+img: Korallenriff | Korallen bauen Kalkskelette aus Aragonit
+## Folgen
+Flügelschnecken (Pteropoden), wichtige Nahrung für Fische und Wale, zeigen bereits angegriffene Schalen. Austernfarmen an der US-Westküste verloren Larven, wenn saures Tiefenwasser aufquoll. Die Versauerung wirkt zusammen mit Erwärmung und Sauerstoffmangel. In der Erdgeschichte gingen schnelle Versauerungen mit Massenaussterben einher.
+- Gelöstes CO₂ senkt pH und Carbonatkonzentration.
+- Oberflächen-pH von ~8,2 auf ~8,1 (≈ 30 % mehr H⁺).
+- Bedroht Kalkbildner wie Korallen, Muscheln, Pteropoden.
+
+=== dna-doppelhelix
+cat: natur
+title: Die DNA-Doppelhelix
+teaser: Watson und Crick bauten das Modell – das entscheidende Foto stammte von Rosalind Franklin.
+meta: Molekularbiologie · 1953
+cover: Desoxyribonukleinsäure | Modell der DNA-Doppelhelix
+## Das Erbmolekül
+Dass DNA und nicht Proteine die Erbinformation trägt, zeigten Avery, MacLeod und McCarty 1944 sowie Hershey und Chase 1952. Erwin Chargaff fand, dass Adenin und Thymin sowie Guanin und Cytosin stets in gleichen Mengen vorkommen. Die räumliche Struktur blieb aber ein Rätsel.
+## Foto 51
+Rosalind Franklin und ihr Doktorand Raymond Gosling gelang 1952 am King’s College in London ein Röntgenbeugungsbild mit charakteristischem X-Muster – „Foto 51“. Maurice Wilkins zeigte es James Watson ohne Franklins Wissen. Mit diesen Daten bauten Watson und Francis Crick 1953 in Cambridge ihr Modell: zwei antiparallele Stränge, Zucker-Phosphat-Rückgrat außen, Basenpaare innen, verbunden über Wasserstoffbrücken.
+img: Rosalind Franklin | Rosalind Franklin
+## Ein Prinzip des Lebens
+Watson und Crick bemerkten trocken, die Basenpaarung lege einen Kopiermechanismus nahe – die semikonservative Replikation, 1958 von Meselson und Stahl bestätigt. 1962 erhielten Watson, Crick und Wilkins den Nobelpreis. Franklin war 1958 mit 37 Jahren an Krebs gestorben; ihr Beitrag wurde lange heruntergespielt.
+- DNA als Erbträger; Chargaff-Regeln A=T, G=C.
+- Franklins Foto 51 lieferte entscheidende Daten.
+- Doppelhelix 1953 – Grundlage für Replikation und Genetik.
+
+=== proteinfaltung-alphafold
+cat: natur
+title: Proteinfaltung und AlphaFold
+teaser: Ein 50 Jahre altes Rätsel der Biologie – gelöst von einer künstlichen Intelligenz.
+meta: Biochemie · Nobelpreis 2024
+cover: AlphaFold | Von AlphaFold vorhergesagte Proteinstruktur
+## Die Sequenz bestimmt die Form
+Christian Anfinsen zeigte in den 1960ern, dass sich das Enzym Ribonuclease nach Entfaltung von selbst wieder korrekt faltet: Die Aminosäuresequenz enthält alle Information für die 3D-Struktur. Nobelpreis 1972. Doch wie genau? Ein Protein hat astronomisch viele mögliche Konformationen – es kann sie nicht alle durchprobieren (Levinthal-Paradox). Es faltet sich entlang eines „Energietrichters“.
+## Mühsame Strukturaufklärung
+Strukturen bestimmte man jahrzehntelang mit Röntgenkristallografie, NMR und seit den 2010ern mit Kryo-Elektronenmikroskopie – oft Monate bis Jahre Arbeit pro Protein. Fehlgefaltete Proteine verursachen Krankheiten wie Alzheimer, Parkinson und Prionenerkrankungen. Chaperone helfen in der Zelle beim Falten.
+img: Demis Hassabis | Demis Hassabis
+## AlphaFold
+2020 sagte AlphaFold 2 von Google DeepMind beim Wettbewerb CASP Strukturen mit nahezu experimenteller Genauigkeit vorher. Inzwischen sind über 200 Millionen vorhergesagte Strukturen frei verfügbar. 2024 erhielten Demis Hassabis und John Jumper den Chemie-Nobelpreis, zusammen mit David Baker, der Proteine am Computer neu entwirft.
+- Anfinsen: Sequenz bestimmt Struktur; Levinthal-Paradox.
+- Fehlfaltung verursacht Krankheiten; Chaperone helfen.
+- AlphaFold 2020, Nobelpreis 2024 an Hassabis, Jumper und Baker.
+
+=== mrna-impfstoffe
+cat: natur
+title: mRNA-Impfstoffe
+teaser: Jahrzehntelang belächelt, dann in Rekordzeit gegen Covid-19 – dank eines kleinen chemischen Tricks.
+meta: Medizin · Nobelpreis 2023
+cover: MRNA-Impfstoff | Fläschchen eines mRNA-Impfstoffs
+## Die Idee
+Statt Virusteilen gibt man der Zelle die Bauanleitung: Boten-RNA (mRNA) für ein Antigen, etwa das Spike-Protein von SARS-CoV-2. Die Zelle produziert das Protein, das Immunsystem lernt es zu erkennen. Die mRNA gelangt nicht in den Zellkern und wird nach Tagen abgebaut.
+## Der Durchbruch
+Lange scheiterte das, weil fremde RNA heftige Entzündungen auslöst und schnell zerfällt. Katalin Karikó und Drew Weissman entdeckten 2005, dass der Einbau von modifizierten Nukleosiden – Pseudouridin statt Uridin – die Immunreaktion gegen die RNA dämpft und die Proteinproduktion steigert. Lipid-Nanopartikel schützen die RNA und schleusen sie in die Zellen.
+img: Katalin Karikó | Katalin Karikó
+## Covid und danach
+BioNTech aus Mainz mit Pfizer sowie Moderna brachten 2020 innerhalb von weniger als einem Jahr hochwirksame Impfstoffe heraus. Karikó und Weissman erhielten 2023 den Medizin-Nobelpreis. Die Technik wird nun gegen Grippe, RSV, Krebs (personalisierte Tumorimpfstoffe) und andere Krankheiten erforscht.
+- mRNA liefert die Bauanleitung für ein Antigen.
+- Pseudouridin und Lipid-Nanopartikel als Schlüsseltricks.
+- Covid-Impfstoffe 2020; Nobelpreis 2023 für Karikó und Weissman.
+
+=== antibiotikaresistenz
+cat: natur
+title: Antibiotikaresistenz
+teaser: Schon Fleming warnte davor – heute sterben jedes Jahr über eine Million Menschen an resistenten Keimen.
+meta: Medizin/Mikrobiologie
+cover: Antibiotikaresistenz | Hemmhoftest zur Resistenzprüfung
+## Evolution im Zeitraffer
+Bakterien teilen sich teilweise alle 20 Minuten. Zufällige Mutationen, die das Überleben unter Antibiotika ermöglichen, setzen sich durch, sobald empfindliche Konkurrenten absterben – Selektion in Echtzeit. Außerdem tauschen Bakterien Resistenzgene über Plasmide aus (horizontaler Gentransfer), sogar zwischen Arten.
+## Mechanismen
+Bakterien zerstören das Antibiotikum enzymatisch (β-Lactamasen), verändern die Zielstruktur (z. B. MRSA mit einem veränderten Penicillin-bindenden Protein), pumpen den Wirkstoff aus der Zelle (Effluxpumpen) oder lassen ihn gar nicht erst herein. Biofilme schützen zusätzlich.
+img: Methicillin-resistenter Staphylococcus aureus | MRSA unter dem Elektronenmikroskop
+## Eine stille Pandemie
+2019 waren resistente Keime direkt an rund 1,3 Millionen Todesfällen beteiligt. Ursachen sind unnötige Verschreibungen, abgebrochene Therapien und massiver Einsatz in der Tiermast. Neue Antibiotikaklassen werden kaum entwickelt, weil sie wirtschaftlich unattraktiv sind. Hoffnung machen Phagentherapie und KI-gestützte Wirkstoffsuche.
+- Selektion und horizontaler Gentransfer verbreiten Resistenzen.
+- Enzyme, veränderte Ziele, Effluxpumpen.
+- Über eine Million Todesfälle pro Jahr; kaum neue Antibiotika.
+
+=== viren
+cat: natur
+title: Viren
+teaser: Leben sie oder nicht? Winzige Pakete aus Erbgut, die ohne Wirt nichts können – und doch die Welt prägen.
+meta: Biologie
+cover: Virus | Coronaviren im Elektronenmikroskop
+## Bauplan
+Viren bestehen aus Erbgut (DNA oder RNA) in einer Proteinhülle (Kapsid), manche zusätzlich mit einer Lipidhülle. Sie haben keinen eigenen Stoffwechsel und vermehren sich nur in Wirtszellen, deren Maschinerie sie kapern. Ob sie „leben“, ist eine Definitionsfrage. Die meisten sind 20 bis 300 Nanometer groß.
+## Entdeckung
+1892 zeigte Dmitri Iwanowski, dass der Erreger der Tabakmosaikkrankheit durch bakteriendichte Filter geht. Martinus Beijerinck nannte ihn „contagium vivum fluidum“ – Virus. Erst das Elektronenmikroskop machte Viren in den 1930ern sichtbar. Riesenviren wie das Mimivirus sind größer als manche Bakterien.
+img: Bakteriophage | Bakteriophagen auf einer Bakterienzelle
+## Allgegenwärtig
+Viren sind die häufigsten biologischen Einheiten der Erde – ein Liter Meerwasser enthält Milliarden. Bakteriophagen töten täglich einen großen Teil der Meeresbakterien und steuern so Nährstoffkreisläufe. Etwa acht Prozent unseres Genoms stammen von Retroviren, die sich vor langer Zeit eingebaut haben. Ein solches Gen (Syncytin) ist für die Plazenta unverzichtbar.
+- Erbgut in Proteinhülle, Vermehrung nur in Wirtszellen.
+- Entdeckt 1892 am Tabakmosaikvirus.
+- Häufigste biologische Einheiten; ~8 % unseres Genoms viralen Ursprungs.
+
+=== evolution
+cat: natur
+title: Die Evolutionstheorie
+teaser: Darwin wartete 20 Jahre mit der Veröffentlichung – bis ein Brief von Wallace ihn zum Handeln zwang.
+meta: Biologie · 1859
+cover: Charles Darwin | Charles Darwin
+## Natürliche Selektion
+Lebewesen produzieren mehr Nachkommen, als überleben können. Sie unterscheiden sich in erblichen Merkmalen. Wer besser angepasst ist, hinterlässt im Schnitt mehr Nachkommen. Über viele Generationen verändern sich so Populationen – ohne Plan und Ziel. Neue Arten entstehen oft, wenn Populationen voneinander isoliert werden.
+## Darwin und Wallace
+Charles Darwin entwickelte die Idee nach seiner Reise mit der „Beagle“ (1831–1836), zögerte aber mit der Veröffentlichung. 1858 schickte ihm Alfred Russel Wallace aus Südostasien einen Aufsatz mit derselben Theorie. Beide Arbeiten wurden gemeinsam vorgestellt; 1859 erschien „Über die Entstehung der Arten“.
+img: Alfred Russel Wallace | Alfred Russel Wallace
+## Die Synthese
+Darwin kannte den Vererbungsmechanismus nicht. Erst die Verbindung mit der Genetik in der „Modernen Synthese“ der 1930er/40er und später die Molekularbiologie lieferten ihn. Heute belegen Fossilien, DNA-Vergleiche und direkte Beobachtungen – etwa Antibiotikaresistenzen oder Darwinfinken – die Evolution. Mensch und Schimpanse teilen etwa 98,8 Prozent ihrer DNA-Sequenz.
+- Variation, Vererbung, Selektion – ohne Ziel.
+- Darwin und Wallace unabhängig; „Entstehung der Arten“ 1859.
+- Moderne Synthese mit Genetik; vielfach belegt.
+
+=== mendelsche-regeln
+cat: natur
+title: Die Mendelschen Regeln
+teaser: Ein Mönch zählte 28.000 Erbsenpflanzen – und wurde erst 16 Jahre nach seinem Tod verstanden.
+meta: Genetik · 1866
+cover: Gregor Mendel | Gregor Mendel
+## Erbsen im Klostergarten
+Der Augustinermönch Gregor Mendel kreuzte im Brünner Klostergarten ab 1856 Erbsen mit klar unterscheidbaren Merkmalen: Samenfarbe, Samenform, Blütenfarbe. Entscheidend war sein mathematischer Ansatz: Er zählte die Nachkommen und erkannte feste Zahlenverhältnisse. 1866 veröffentlichte er die Ergebnisse – kaum jemand nahm Notiz.
+## Die drei Regeln
+Uniformitätsregel: Kreuzt man reinerbige Eltern, sind alle Nachkommen der ersten Generation gleich. Spaltungsregel: In der zweiten Generation spalten die Merkmale im Verhältnis 3:1 (dominant–rezessiv) auf. Unabhängigkeitsregel: Verschiedene Merkmale werden unabhängig voneinander vererbt (9:3:3:1) – das gilt allerdings nur für Gene auf verschiedenen Chromosomen oder weit voneinander entfernt.
+img: Erbse | Erbsenpflanze
+## Wiederentdeckung
+1900 entdeckten Hugo de Vries, Carl Correns und Erich von Tschermak die Regeln unabhängig neu. Mendels „Faktoren“ heißen heute Gene, ihre Varianten Allele. Statistiker wie Ronald Fisher meinten später, Mendels Daten seien „zu schön, um wahr zu sein“ – möglicherweise hat er unbewusst geschönt. Gültig sind die Regeln trotzdem.
+- Systematische Kreuzungsversuche mit Erbsen, 1866 veröffentlicht.
+- Uniformität, Spaltung 3:1, Unabhängigkeit 9:3:3:1.
+- 1900 wiederentdeckt – Grundlage der Genetik.
+
+=== die-zelle
+cat: natur
+title: Die Zelle
+teaser: Der Mensch besteht aus etwa 37 Billionen Zellen – und trägt fast ebenso viele Bakterienzellen mit sich herum.
+meta: Biologie
+cover: Zelle (Biologie) | Schema einer tierischen Zelle
+## Die Zelltheorie
+Robert Hooke sah 1665 in Kork kleine Kammern und nannte sie „cells“. Matthias Schleiden und Theodor Schwann formulierten 1838/39: Alle Lebewesen bestehen aus Zellen. Rudolf Virchow ergänzte 1855: „Omnis cellula e cellula“ – jede Zelle entsteht aus einer Zelle.
+## Prokaryoten und Eukaryoten
+Bakterien und Archaeen (Prokaryoten) haben keinen Zellkern; ihre DNA liegt frei im Cytoplasma. Eukaryotische Zellen – von Pflanzen, Tieren, Pilzen – haben einen Kern und Organellen: Mitochondrien, endoplasmatisches Retikulum, Golgi-Apparat, Lysosomen, bei Pflanzen Chloroplasten und eine Zellwand aus Cellulose. Die Zellmembran ist eine Lipiddoppelschicht mit Proteinen.
+img: Rudolf Virchow | Rudolf Virchow
+## Zahlen
+Ein Mensch besteht aus etwa 30 bis 37 Billionen Zellen von rund 200 Typen, die meisten davon rote Blutkörperchen. Die längsten Zellen sind Nervenzellen mit bis zu einem Meter langen Fortsätzen, die größte menschliche Zelle die Eizelle. Im Darm leben etwa ebenso viele Bakterien wie Körperzellen.
+- Zelltheorie von Schleiden, Schwann und Virchow.
+- Prokaryoten ohne Kern, Eukaryoten mit Kern und Organellen.
+- Mensch: ~30–37 Billionen Zellen, ~200 Zelltypen.
