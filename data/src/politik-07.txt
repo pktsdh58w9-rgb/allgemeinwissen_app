@@ -1,0 +1,203 @@
+=== gewaltmonopol
+cat: politik
+title: Das Gewaltmonopol des Staates
+teaser: Nur der Staat darf Gewalt anwenden – und genau das macht friedliches Zusammenleben möglich.
+meta: Staatstheorie
+cover: Max Weber | Max Weber
+## Max Webers Definition
+Der Soziologe Max Weber definierte 1919 in „Politik als Beruf“ den Staat als jene Gemeinschaft, die „das Monopol legitimer physischer Gewaltsamkeit“ für sich beansprucht. Nicht jede Gewalt ist verboten, aber nur der Staat – Polizei, Justiz, Militär – darf sie rechtmäßig ausüben, und das nur nach Gesetzen.
+## Warum das wichtig ist
+Ohne Gewaltmonopol nehmen Menschen das Recht in die eigene Hand: Blutrache, Fehden, Milizen. Im Mittelalter beendete der „Ewige Landfrieden“ von 1495 das Fehderecht im Reich. Bürger verzichten auf Selbstjustiz und erhalten dafür Schutz und Rechtssicherheit. Notwehr bleibt erlaubt, wenn der Staat nicht rechtzeitig helfen kann.
+img: Polizei | Polizei als Trägerin des Gewaltmonopols
+## Gescheiterte Staaten
+Wo der Staat sein Gewaltmonopol verliert, spricht man von fragilen oder gescheiterten Staaten – etwa Somalia, Haiti oder Teile der Sahelzone, wo Banden, Warlords oder Milizen herrschen. Im Rechtsstaat ist das Gewaltmonopol selbst gebunden: Grundrechte, Verhältnismäßigkeit und unabhängige Gerichte kontrollieren es.
+- Max Weber: Staat beansprucht das Monopol legitimer Gewalt.
+- Verhindert Selbstjustiz, ermöglicht Rechtssicherheit.
+- Verlust des Monopols bedeutet Staatszerfall.
+
+=== gesellschaftsvertrag
+cat: politik
+title: Der Gesellschaftsvertrag
+teaser: Hobbes, Locke, Rousseau: Drei Philosophen fragten, warum Menschen überhaupt einen Staat brauchen.
+meta: Politische Philosophie
+cover: Leviathan (Thomas Hobbes) | Titelbild des „Leviathan“ (1651)
+## Hobbes
+Thomas Hobbes erlebte den Englischen Bürgerkrieg. Im „Leviathan“ (1651) beschreibt er den Naturzustand ohne Staat als „Krieg aller gegen alle“, in dem das Leben „einsam, armselig, ekelhaft, tierisch und kurz“ sei. Um Sicherheit zu erlangen, übertragen die Menschen ihre Macht per Vertrag einem allmächtigen Souverän. Der Mensch sei dem Menschen ein Wolf.
+## Locke
+John Locke sah den Naturzustand freundlicher. Menschen haben natürliche Rechte auf Leben, Freiheit und Eigentum. Der Staat entsteht, um diese Rechte zu schützen – verletzt er sie, haben die Bürger ein Widerstandsrecht. Lockes Ideen prägten die amerikanische Unabhängigkeitserklärung und den Liberalismus.
+img: John Locke | John Locke
+## Rousseau
+Jean-Jacques Rousseau begann seinen „Gesellschaftsvertrag“ (1762) mit dem Satz: „Der Mensch ist frei geboren, und überall liegt er in Ketten.“ Legitim sei nur ein Staat, der dem „Gemeinwillen“ (volonté générale) folgt – Grundlage der Volkssouveränität. Kritiker sehen darin auch eine Gefahr, wenn sich jemand anmaßt, den Gemeinwillen zu verkörpern.
+- Hobbes: Sicherheit durch einen starken Souverän.
+- Locke: Staat schützt natürliche Rechte, sonst Widerstand.
+- Rousseau: Volkssouveränität und Gemeinwille.
+
+=== machiavelli
+cat: politik
+title: Machiavelli
+teaser: „Der Zweck heiligt die Mittel“ hat er so nie geschrieben – doch sein Name wurde zum Synonym für skrupellose Macht.
+meta: Florenz, 1469–1527
+cover: Niccolò Machiavelli | Niccolò Machiavelli (Porträt von Santi di Tito)
+## Ein Diplomat im Exil
+Niccolò Machiavelli war Beamter und Diplomat der Republik Florenz. Als die Medici 1512 zurückkehrten, wurde er gefoltert und verbannt. Auf seinem Landgut schrieb er 1513 „Il Principe“ (Der Fürst), wohl auch, um bei den neuen Herrschern wieder in Gunst zu kommen. Es erschien erst nach seinem Tod.
+## Realpolitik
+Machiavelli beschrieb, wie Politik tatsächlich funktioniert, nicht wie sie sein sollte. Ein Fürst müsse, um seinen Staat zu erhalten, auch grausam, listig und wortbrüchig sein können. Besser gefürchtet als geliebt zu werden, wenn man nicht beides haben kann. Vorbild war ihm der skrupellose Cesare Borgia. Damit trennte er Politik von christlicher Moral – revolutionär.
+img: Cesare Borgia | Cesare Borgia
+## Republikaner?
+In seinem anderen Hauptwerk, den „Discorsi“, zeigt sich Machiavelli als Anhänger der Republik und der Bürgerfreiheit. Manche lesen den „Fürsten“ deshalb als Satire oder als Anleitung, Italien zu einen. „Machiavellistisch“ steht heute für rücksichtsloses Machtstreben; in der Psychologie gehört Machiavellismus zur „dunklen Triade“.
+- „Il Principe“ (1513): Realpolitik statt Moral.
+- Besser gefürchtet als geliebt; Vorbild Cesare Borgia.
+- Auch Republikaner („Discorsi“); Name wurde zum Begriff.
+
+=== karl-marx
+cat: politik
+title: Karl Marx
+teaser: Ein Philosoph aus Trier, der in London im Lesesaal saß – und dessen Ideen ein Drittel der Menschheit regieren sollten.
+meta: 1818–1883
+cover: Karl Marx | Karl Marx, 1875
+## Das Kommunistische Manifest
+Karl Marx stammte aus Trier und musste als radikaler Journalist mehrmals ins Exil, zuletzt nach London. 1848 veröffentlichte er mit Friedrich Engels das „Manifest der Kommunistischen Partei“: „Ein Gespenst geht um in Europa – das Gespenst des Kommunismus.“ Es endet mit „Proletarier aller Länder, vereinigt euch!“
+## Das Kapital
+In „Das Kapital“ (Band 1, 1867) analysierte Marx den Kapitalismus: Arbeiter erzeugen mehr Wert, als sie an Lohn erhalten; den „Mehrwert“ eignen sich die Kapitalisten an. Die Geschichte sei eine Geschichte von Klassenkämpfen. Der Kapitalismus werde an seinen inneren Widersprüchen zugrunde gehen und in eine klassenlose Gesellschaft münden.
+img: Friedrich Engels | Friedrich Engels
+## Wirkung
+Marx’ Ideen beeinflussten Arbeiterbewegung und Sozialdemokratie. Lenin, Mao und andere beriefen sich auf ihn, als sie kommunistische Diktaturen mit Millionen Opfern errichteten – ob Marx das so gewollt hätte, ist umstritten. Als Analytiker von Globalisierung, Krisen und Ungleichheit wird er bis heute gelesen. Sein Grab liegt auf dem Highgate Cemetery in London.
+- Kommunistisches Manifest (1848) mit Engels.
+- „Das Kapital“: Mehrwert, Klassenkampf.
+- Einfluss von Sozialdemokratie bis zu kommunistischen Diktaturen.
+
+=== rechtsstaat
+cat: politik
+title: Der Rechtsstaat
+teaser: Auch der Staat muss sich an Gesetze halten – und jeder kann ihn vor Gericht verklagen.
+meta: Verfassungsprinzip
+cover: Rechtsstaat | Justitia
+## Herrschaft des Rechts
+Im Rechtsstaat ist alle staatliche Gewalt an Recht und Gesetz gebunden (Art. 20 GG). Der Staat darf nur handeln, wenn ein Gesetz ihn dazu ermächtigt (Vorbehalt des Gesetzes), und Gesetze müssen mit der Verfassung übereinstimmen. Gegenteil ist der Willkür- oder Polizeistaat.
+## Die Elemente
+Dazu gehören Gewaltenteilung, unabhängige Gerichte, Grundrechte, Rechtsweggarantie – jeder kann sich gegen staatliches Handeln vor Gericht wehren (Art. 19 Abs. 4) – und Verhältnismäßigkeit: Eingriffe müssen geeignet, erforderlich und angemessen sein. Strafgesetze dürfen nicht rückwirkend gelten („keine Strafe ohne Gesetz“). Jeder hat Anspruch auf rechtliches Gehör.
+img: Justitia | Justitia mit Waage und Augenbinde
+## Unter Druck
+Europaweit gibt es Konflikte um den Rechtsstaat. In Polen und Ungarn bauten Regierungen Justiz und Verfassungsgerichte zu ihren Gunsten um. Die EU kann seit 2021 Gelder kürzen, wenn Rechtsstaatsmängel den EU-Haushalt gefährden, und tat das gegenüber Ungarn. Auch überlastete Gerichte und lange Verfahren gefährden den Rechtsstaat im Alltag.
+- Staatliche Gewalt an Recht und Gesetz gebunden.
+- Unabhängige Gerichte, Rechtsweggarantie, Verhältnismäßigkeit.
+- Gefährdet durch Justizumbau, z. B. in Ungarn.
+
+=== parlamentsarmee
+cat: politik
+title: Die Bundeswehr als Parlamentsarmee
+teaser: Kein Auslandseinsatz ohne Bundestag – und Soldaten als „Staatsbürger in Uniform“.
+meta: Deutschland
+cover: Bundeswehr | Soldaten der Bundeswehr
+## Gründung mit Lehren
+Die Bundeswehr wurde 1955 gegründet – gegen große Proteste, zehn Jahre nach Kriegsende. Um eine Wiederholung der Wehrmacht zu verhindern, entwickelte man das Leitbild der „Inneren Führung“: Soldaten sind „Staatsbürger in Uniform“ mit Grundrechten und Gewissen; Befehle, die gegen die Menschenwürde verstoßen oder Straftaten verlangen, dürfen nicht befolgt werden.
+## Parlamentsvorbehalt
+Das Bundesverfassungsgericht entschied 1994: Bewaffnete Auslandseinsätze brauchen grundsätzlich die vorherige Zustimmung des Bundestags. Deshalb heißt die Bundeswehr „Parlamentsarmee“. Ein Wehrbeauftragter des Bundestags kümmert sich um Beschwerden von Soldaten. Der Oberbefehl liegt im Frieden beim Verteidigungsminister, im Verteidigungsfall beim Kanzler.
+img: Bendlerblock | Der Bendlerblock in Berlin, Sitz des Verteidigungsministeriums
+## Zeitenwende
+Nach dem Ende des Kalten Krieges schrumpfte die Bundeswehr stark und wurde zur Einsatzarmee, etwa im Kosovo und in Afghanistan, wo 59 deutsche Soldaten starben. Nach Russlands Angriff auf die Ukraine rief Kanzler Scholz 2022 die „Zeitenwende“ aus, mit einem Sondervermögen von 100 Milliarden Euro. Die Bundeswehr soll wieder „kriegstüchtig“ werden.
+- 1955 gegründet; Innere Führung, Staatsbürger in Uniform.
+- Auslandseinsätze nur mit Zustimmung des Bundestags.
+- Zeitenwende 2022 und Aufrüstung.
+
+=== wehrpflicht
+cat: politik
+title: Die Wehrpflicht
+teaser: 2011 ausgesetzt, nicht abgeschafft – angesichts der Bedrohung durch Russland kehrt die Debatte zurück.
+meta: Deutschland
+cover: Wehrpflicht in Deutschland | Musterung
+## Geschichte
+In der Bundesrepublik galt ab 1956 die allgemeine Wehrpflicht für Männer. Wer den Dienst an der Waffe aus Gewissensgründen ablehnte, konnte Zivildienst leisten – meist in Pflege und Sozialwesen. Die Dauer sank von anfangs 12 (zeitweise 18) Monaten auf zuletzt sechs. Zum 1. Juli 2011 wurde die Wehrpflicht ausgesetzt, aber nicht aus dem Grundgesetz gestrichen.
+## Neuer Wehrdienst
+Nach Russlands Angriff auf die Ukraine fehlen der Bundeswehr Soldaten. Die Bundesregierung setzte deshalb auf einen neuen Wehrdienst, zunächst auf Freiwilligkeit gestützt: Junge Männer müssen einen Fragebogen ausfüllen und sich mustern lassen, für Frauen ist das freiwillig. Reicht die Zahl der Freiwilligen nicht, kann der Bundestag eine Pflicht beschließen. Im Spannungs- oder Verteidigungsfall lebt die Wehrpflicht ohnehin wieder auf.
+img: Bundesministerium der Verteidigung | Das Verteidigungsministerium
+## Vorbilder und Debatte
+Schweden führte 2017 eine selektive Wehrpflicht wieder ein: Alle werden gemustert, aber nur ein Teil eingezogen. Diskutiert wird auch ein allgemeines Gesellschaftsjahr für alle, mit Wahl zwischen Militär, Pflege oder Katastrophenschutz. Kritiker verweisen auf Eingriffe in die Freiheit junger Menschen und Generationengerechtigkeit.
+- Wehrpflicht ab 1956, Zivildienst als Alternative, 2011 ausgesetzt.
+- Neuer Wehrdienst mit Fragebogen und Musterung, zunächst freiwillig.
+- Vorbild Schweden; Debatte über Gesellschaftsjahr.
+
+=== dsgvo
+cat: politik
+title: Die Datenschutz-Grundverordnung
+teaser: Seit 2018 gilt in der ganzen EU: Deine Daten gehören dir – und Verstöße kosten bis zu vier Prozent des Weltumsatzes.
+meta: EU, seit 2018
+cover: Datenschutz-Grundverordnung | Cookie-Banner
+## Wurzeln
+Deutschland war Vorreiter: Hessen erließ 1970 das erste Datenschutzgesetz der Welt, 1983 erkannte das Bundesverfassungsgericht im Volkszählungsurteil ein Recht auf informationelle Selbstbestimmung an. Die EU-Datenschutz-Grundverordnung (DSGVO) gilt seit dem 25. Mai 2018 unmittelbar in allen Mitgliedstaaten.
+## Rechte der Nutzer
+Personenbezogene Daten dürfen nur mit Rechtsgrundlage verarbeitet werden, etwa Einwilligung oder Vertrag. Betroffene haben ein Recht auf Auskunft, Berichtigung, Löschung („Recht auf Vergessenwerden“) und Datenübertragbarkeit. Verstöße können mit bis zu 20 Millionen Euro oder vier Prozent des weltweiten Jahresumsatzes geahndet werden – Meta musste 2023 eine Rekordstrafe von 1,2 Milliarden Euro zahlen.
+img: Max Schrems | Max Schrems, Datenschutzaktivist
+## Kritik und Wirkung
+Kritiker beklagen Bürokratie, besonders für kleine Unternehmen und Vereine, sowie die Flut an Cookie-Bannern. Andere loben, dass die DSGVO weltweit zum Vorbild wurde – der „Brüssel-Effekt“. Der Österreicher Max Schrems brachte mit Klagen zweimal Abkommen zum Datentransfer in die USA zu Fall.
+- Wurzeln im deutschen Datenschutz; DSGVO seit 2018.
+- Rechte auf Auskunft, Löschung, hohe Bußgelder.
+- Kritik an Bürokratie, weltweites Vorbild.
+
+=== whistleblower
+cat: politik
+title: Whistleblower
+teaser: Verräter oder Helden? Menschen, die Missstände öffentlich machen, riskieren oft alles.
+meta: Politik und Recht
+cover: Edward Snowden | Edward Snowden
+## Pfeife blasen
+Whistleblower („Hinweisgeber“) machen Missstände, Rechtsverstöße oder Gefahren in Behörden und Unternehmen öffentlich, an denen sie selbst beteiligt sind oder die sie kennen. Daniel Ellsberg veröffentlichte 1971 die „Pentagon Papers“ über Lügen zum Vietnamkrieg. „Deep Throat“ half Journalisten bei der Watergate-Affäre, die 1974 Präsident Nixon zu Fall brachte.
+## Snowden
+2013 enthüllte der NSA-Mitarbeiter Edward Snowden, wie die USA und Großbritannien weltweit Kommunikation überwachten – sogar das Handy von Kanzlerin Merkel. Er floh nach Russland, wo er bis heute lebt und 2022 die russische Staatsbürgerschaft erhielt. Für die einen ist er Held, für die USA ein Verräter. Auch Chelsea Manning und Julian Assange (Wikileaks) wurden verfolgt.
+img: Daniel Ellsberg | Daniel Ellsberg
+## Schutz
+Whistleblower verlieren oft Job und Existenz. Die EU verabschiedete 2019 eine Richtlinie zu ihrem Schutz; Deutschland setzte sie 2023 mit dem Hinweisgeberschutzgesetz um. Unternehmen ab 50 Beschäftigten müssen Meldestellen einrichten, Hinweisgeber werden vor Kündigung und Benachteiligung geschützt. Die Abwägung zwischen Geheimhaltung und öffentlichem Interesse bleibt schwierig.
+- Hinweisgeber decken Missstände auf (Pentagon Papers, Watergate).
+- Snowden 2013: massenhafte Überwachung durch die NSA.
+- Schutz durch EU-Richtlinie und Hinweisgeberschutzgesetz 2023.
+
+=== gleichberechtigung
+cat: politik
+title: Gleichberechtigung von Frauen und Männern
+teaser: „Männer und Frauen sind gleichberechtigt“ – bis 1977 brauchten Frauen trotzdem die Erlaubnis ihres Mannes für einen Job.
+meta: Deutschland
+cover: Gleichberechtigung | Frauen bei einer Demonstration
+## Der Satz im Grundgesetz
+Die Juristin Elisabeth Selbert setzte 1949 gegen Widerstände den Satz „Männer und Frauen sind gleichberechtigt“ ins Grundgesetz. Doch das Bürgerliche Gesetzbuch blieb lange patriarchal: Bis 1958 durfte der Ehemann das Arbeitsverhältnis seiner Frau kündigen, bis 1977 durfte sie nur erwerbstätig sein, wenn das mit ihren „Pflichten in Ehe und Familie“ vereinbar war.
+## Meilensteine
+1994 wurde Artikel 3 ergänzt: Der Staat fördert die tatsächliche Durchsetzung der Gleichberechtigung. Vergewaltigung in der Ehe ist erst seit 1997 strafbar. Seit 2016 gilt für große börsennotierte Unternehmen eine Frauenquote von 30 Prozent im Aufsichtsrat. 2005 wurde Angela Merkel erste Bundeskanzlerin.
+img: Elisabeth Selbert | Elisabeth Selbert
+## Offene Baustellen
+Frauen verdienen in Deutschland pro Stunde im Schnitt etwa 16 Prozent weniger als Männer (unbereinigter Gender Pay Gap), bereinigt etwa 6 Prozent. Gründe sind Teilzeit, Berufswahl und die ungleiche Verteilung von Sorgearbeit. Im Bundestag liegt der Frauenanteil bei etwa einem Drittel. Ein Paritätsgesetz für Wahllisten ist umstritten.
+- Gleichberechtigung seit 1949 im Grundgesetz (Selbert).
+- Ehemänner bestimmten bis 1977 über die Erwerbstätigkeit mit.
+- Gender Pay Gap und Unterrepräsentation bleiben.
+
+=== volksentscheid-deutschland
+cat: politik
+title: Volksentscheide in Deutschland
+teaser: Auf Bundesebene gibt es sie fast nicht – in den Ländern und Kommunen aber schon.
+meta: Deutschland
+cover: Volksentscheid | Unterschriftensammlung für ein Volksbegehren
+## Repräsentativ im Bund
+Das Grundgesetz sieht Volksabstimmungen auf Bundesebene nur bei der Neugliederung des Bundesgebiets vor. Die Mütter und Väter des Grundgesetzes hatten Bedenken nach den Erfahrungen der Weimarer Republik, in der Volksbegehren auch zur Hetze genutzt wurden. Ob bundesweite Volksentscheide eingeführt werden sollen, ist seit Jahrzehnten umstritten.
+## In Ländern und Kommunen
+Alle Bundesländer kennen Volksbegehren und Volksentscheide, Kommunen Bürgerbegehren. Bayern ist besonders aktiv: Der Volksentscheid „Rettet die Bienen“ 2019 wurde mit über 1,7 Millionen Unterschriften zum erfolgreichsten Volksbegehren Bayerns. In Hamburg setzten Bürger 2013 den Rückkauf der Energienetze durch.
+img: Tempelhofer Feld | Das Tempelhofer Feld in Berlin
+## Berlin als Beispiel
+In Berlin entschieden die Bürger 2014, das Tempelhofer Feld nicht zu bebauen. 2021 stimmte eine Mehrheit für die Enteignung großer Wohnungskonzerne („Deutsche Wohnen & Co. enteignen“) – der Beschluss war aber rechtlich nicht bindend und wurde nicht umgesetzt. Kritiker direkter Demokratie fürchten Vereinfachung, Befürworter mehr Beteiligung und Legitimität.
+- Im Bund kaum vorgesehen (Lehre aus Weimar).
+- In Ländern und Kommunen verbreitet, z. B. „Rettet die Bienen“.
+- Berlin: Tempelhofer Feld und Enteignungsvolksentscheid.
+
+=== staatsverschuldung
+cat: politik
+title: Staatsverschuldung
+teaser: Japan hat über 230 Prozent Schulden gemessen an der Wirtschaftsleistung – und kaum Probleme. Griechenland ging fast pleite.
+meta: Wirtschaftspolitik
+cover: Staatsverschuldung | Schuldenuhr des Bundes der Steuerzahler
+## Warum Staaten Schulden machen
+Staaten leihen sich Geld, indem sie Anleihen verkaufen. Sinnvoll kann das sein für Investitionen in Straßen, Schulen oder Klimaschutz, die auch künftigen Generationen nützen, und in Krisen, um die Wirtschaft zu stabilisieren (Keynes). Gemessen wird die Verschuldung meist im Verhältnis zur jährlichen Wirtschaftsleistung (BIP).
+## Wann es gefährlich wird
+Deutschlands Schuldenquote liegt bei etwa 63 Prozent, Italien bei rund 135, die USA bei über 120, Japan bei über 230 Prozent. Entscheidend ist, ob Anleger dem Staat vertrauen, in welcher Währung er sich verschuldet und wie hoch die Zinsen im Verhältnis zum Wachstum sind. Japan verschuldet sich überwiegend bei den eigenen Bürgern und seiner Zentralbank.
+img: Bund der Steuerzahler | Die Schuldenuhr in Berlin
+## Regeln
+In der EU sollen Staaten nach dem Maastricht-Vertrag ein Defizit von höchstens drei Prozent und eine Schuldenquote von höchstens 60 Prozent des BIP haben – viele halten das nicht ein. Deutschland hat zusätzlich die Schuldenbremse. Ökonomen streiten, ob zu viele Schulden künftige Generationen belasten oder zu wenige Investitionen die größere Last sind.
+- Anleihen finanzieren Investitionen und Krisenpolitik.
+- Tragfähigkeit hängt von Vertrauen, Zinsen und Wachstum ab.
+- Maastricht-Kriterien 3 % und 60 %; Schuldenbremse.

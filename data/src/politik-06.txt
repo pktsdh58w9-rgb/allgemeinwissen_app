@@ -1,0 +1,237 @@
+=== energiewende
+cat: politik
+title: Die Energiewende
+teaser: Ein deutsches Wort, das es ins Englische geschafft hat – und ein Umbau des gesamten Energiesystems.
+meta: Deutschland
+cover: Energiewende in Deutschland | Windkraftanlagen und Solarpark
+## Vom Nischenstrom zur Mehrheit
+Mit dem Erneuerbare-Energien-Gesetz (EEG) von 2000 garantierte Deutschland feste Vergütungen für Strom aus Wind, Sonne und Biomasse. Das machte Solar- und Windkraft weltweit billiger. Der Anteil erneuerbarer Energien am Stromverbrauch stieg von rund 6 Prozent (2000) auf über 50 Prozent (2023/24).
+## Die schwierigen Teile
+Strom ist nur ein Teil: Wärme und Verkehr hängen noch stark an Öl und Gas. Wind weht im Norden, viel Strom wird im Süden gebraucht – es fehlen Stromtrassen wie Suedlink. Für windstille, dunkle Phasen („Dunkelflaute“) braucht es Speicher, flexible Verbraucher und Reservekraftwerke, die perspektivisch mit Wasserstoff laufen sollen. Der Kohleausstieg ist spätestens 2038 geplant.
+img: Offshore-Windpark | Offshore-Windpark in der Nordsee
+## Kosten und Ziele
+Deutschland will bis 2045 klimaneutral sein. Kritiker bemängeln hohe Strompreise, langsame Genehmigungen und Bürokratie; Befürworter verweisen auf sinkende Kosten erneuerbarer Energien und mehr Unabhängigkeit von Importen – eine Lehre aus dem Gasstreit mit Russland 2022. Umstritten war auch das Gebäudeenergiegesetz („Heizungsgesetz“) 2023.
+- EEG 2000 als Startpunkt; Erneuerbare über 50 % beim Strom.
+- Herausforderungen: Wärme, Verkehr, Netze, Speicher.
+- Ziel Klimaneutralität 2045; Kohleausstieg bis spätestens 2038.
+
+=== zweistaatenloesung
+cat: politik
+title: Die Zweistaatenlösung
+teaser: Israel und Palästina Seite an Seite – seit Jahrzehnten das Ziel der Diplomatie, aber weiter entfernt denn je.
+meta: Nahostkonflikt
+cover: Zweistaatenlösung | Die Sperranlage im Westjordanland
+## Die Idee
+Neben Israel soll ein unabhängiger palästinensischer Staat im Westjordanland und im Gazastreifen mit Ost-Jerusalem als Hauptstadt entstehen. Grundlage sind UN-Resolutionen und die Grenzen von 1967. Strittig sind Grenzverlauf, Status Jerusalems, Rückkehrrecht der Flüchtlinge, israelische Siedlungen und Sicherheitsgarantien.
+## Oslo
+In den Oslo-Abkommen 1993 erkannten sich Israel und die PLO gegenseitig an; Jitzchak Rabin und Jassir Arafat reichten sich in Washington die Hand. Eine Palästinensische Autonomiebehörde entstand. Rabin wurde 1995 von einem israelischen Extremisten ermordet. Verhandlungen in Camp David 2000 scheiterten, es folgte die Zweite Intifada.
+img: Jitzchak Rabin | Jitzchak Rabin
+## Heute
+Seit Jahren wachsen israelische Siedlungen im Westjordanland, und die Palästinenser sind gespalten zwischen Fatah und der islamistischen Hamas im Gazastreifen. Nach dem Terrorangriff der Hamas am 7. Oktober 2023 mit rund 1.200 Toten folgte ein verheerender Krieg in Gaza mit Zehntausenden Toten. Mehrere westliche Staaten erkannten Palästina 2025 als Staat an; Israels Regierung lehnt einen Palästinenserstaat ab.
+- Zwei Staaten auf Basis der Grenzen von 1967.
+- Oslo-Abkommen 1993, Scheitern ab 2000.
+- 7. Oktober 2023 und Gaza-Krieg; Lösung fern.
+
+=== taiwan-konflikt
+cat: politik
+title: Der Taiwan-Konflikt
+teaser: Eine Insel mit eigener Demokratie, die China als abtrünnige Provinz sieht – und die die meisten Hightech-Chips der Welt herstellt.
+meta: Ostasien
+cover: Taiwan | Taipeh mit dem Taipei 101
+## Zwei Chinas
+Nach dem chinesischen Bürgerkrieg floh die Regierung der Republik China unter Chiang Kai-shek 1949 nach Taiwan, während Mao auf dem Festland die Volksrepublik ausrief. Beide beanspruchten lange, ganz China zu vertreten. 1971 übernahm die Volksrepublik den UN-Sitz. Heute erkennen nur noch rund ein Dutzend Staaten Taiwan diplomatisch an.
+## Demokratie
+Taiwan war jahrzehntelang eine Militärdiktatur, wandelte sich ab den späten 1980ern aber zu einer lebendigen Demokratie mit freien Wahlen, Pressefreiheit und als erstes Land Asiens der gleichgeschlechtlichen Ehe (2019). Viele Taiwaner verstehen sich heute nicht mehr als Chinesen. Peking will die „Wiedervereinigung“ – notfalls mit Gewalt.
+img: Taiwan Semiconductor Manufacturing Company | TSMC-Fabrik in Taiwan
+## Strategische Ambiguität
+Die USA erkennen offiziell nur die Volksrepublik an („Ein-China-Politik“), liefern aber Waffen an Taiwan und lassen offen, ob sie im Angriffsfall militärisch eingreifen würden. Taiwan produziert über 90 Prozent der modernsten Mikrochips (TSMC); eine Blockade würde die Weltwirtschaft erschüttern. Chinas Militär hält regelmäßig Manöver rund um die Insel ab.
+- Seit 1949 getrennte Regierungen; China beansprucht Taiwan.
+- Taiwan ist heute eine liberale Demokratie.
+- US-„strategische Ambiguität“; Chipproduktion macht Taiwan global wichtig.
+
+=== nordkorea
+cat: politik
+title: Nordkorea
+teaser: Die einzige kommunistische Erbmonarchie der Welt – mit Atomwaffen und Lagern für Hunderttausende.
+meta: Ostasien
+cover: Nordkorea | Pjöngjang
+## Die Kim-Dynastie
+Seit 1948 herrscht in Nordkorea die Familie Kim: Kim Il-sung, sein Sohn Kim Jong-il und seit 2011 sein Enkel Kim Jong-un. Ein Personenkult umgibt die Herrscher. Staatsideologie ist „Juche“, die Selbstständigkeit. In den 1990ern kostete eine Hungersnot schätzungsweise Hunderttausende Leben.
+## Atomprogramm
+Nordkorea trat 2003 aus dem Atomwaffensperrvertrag aus und testete 2006 seine erste Atombombe. Inzwischen besitzt es vermutlich Dutzende Sprengköpfe und Interkontinentalraketen. UN-Sanktionen konnten das Programm nicht stoppen. Gipfeltreffen zwischen Kim Jong-un und Donald Trump 2018/19 brachten keine Einigung. Seit 2023 kooperiert Nordkorea eng mit Russland und schickte Soldaten gegen die Ukraine.
+img: Kim Jong-un | Kim Jong-un
+## Abschottung
+Nordkorea ist eines der abgeschottetsten Länder der Welt; Internet und ausländische Medien sind verboten. Nach UN-Berichten sitzen Zehntausende bis Hunderttausende Menschen in Straflagern. Satellitenbilder zeigen das Land nachts fast dunkel neben dem hell erleuchteten Südkorea. Zehntausende sind über China geflohen.
+- Kim-Dynastie seit 1948, Juche-Ideologie.
+- Atomwaffen seit 2006, Zusammenarbeit mit Russland.
+- Extreme Abschottung und Menschenrechtsverletzungen.
+
+=== iran-atomabkommen
+cat: politik
+title: Iran und das Atomabkommen
+teaser: 2015 schien der Atomstreit gelöst – zehn Jahre später bombardierten Israel und die USA iranische Anlagen.
+meta: Naher Osten
+cover: Gemeinsamer umfassender Aktionsplan | Verhandlungsrunde in Wien 2015
+## Die Islamische Republik
+Seit der Revolution 1979 regiert im Iran ein theokratisches System. Höchste Instanz ist der Revolutionsführer, seit 1989 Ali Chamenei. Es gibt Wahlen, aber der Wächterrat siebt die Kandidaten. Proteste wie 2022 nach dem Tod von Jina Mahsa Amini im Polizeigewahrsam („Frau, Leben, Freiheit“) wurden brutal niedergeschlagen.
+## Das Abkommen
+Der Iran baute ein Programm zur Urananreicherung auf und gab an, nur zivile Ziele zu verfolgen. Der Westen fürchtete eine Bombe. 2015 einigten sich Iran, die USA, Russland, China, Frankreich, Großbritannien und Deutschland auf den Joint Comprehensive Plan of Action (JCPOA): Begrenzung der Anreicherung und Kontrollen gegen Aufhebung von Sanktionen.
+img: Ali Chamenei | Ali Chamenei
+## Das Scheitern
+2018 stiegen die USA unter Trump aus. Der Iran reicherte daraufhin Uran bis auf 60 Prozent an – nah an waffenfähigem Material. Im Juni 2025 griffen Israel und dann die USA iranische Atomanlagen an, darunter Fordo und Natans. Im Herbst 2025 setzten die Europäer die alten UN-Sanktionen wieder in Kraft („Snapback“). Wie weit das Programm zurückgeworfen wurde, ist unklar.
+- Theokratisches System seit 1979.
+- Atomabkommen 2015, US-Ausstieg 2018.
+- Anreicherung auf 60 %; Angriffe 2025 und UN-Sanktionen.
+
+=== globalisierung
+cat: politik
+title: Die Globalisierung
+teaser: Ein T-Shirt reist um die halbe Welt, bevor du es kaufst – mit Gewinnern und Verlierern.
+meta: Wirtschaft und Politik
+cover: Globalisierung | Containerschiff
+## Die Welt wächst zusammen
+Globalisierung bezeichnet die zunehmende Verflechtung von Wirtschaft, Kommunikation, Kultur und Politik. Treiber waren sinkende Transportkosten – der Standardcontainer seit den 1950ern revolutionierte die Schifffahrt –, das Internet, der Abbau von Zöllen und das Ende des Kalten Krieges. Chinas WTO-Beitritt 2001 machte das Land zur „Werkbank der Welt“.
+## Gewinner und Verlierer
+Hunderte Millionen Menschen in Asien entkamen der extremen Armut. Konsumenten profitieren von billigen Waren. Gleichzeitig verloren Industriearbeiter in Europa und den USA Jobs; Ökonomen sprechen vom „China-Schock“. Die „Elefantenkurve“ von Branko Milanović zeigt: Die globale Mittelschicht und die Superreichen gewannen am meisten, die Mittelschicht reicher Länder stagnierte.
+img: Branko Milanović | Branko Milanović
+## Deglobalisierung?
+Finanzkrise, Pandemie mit unterbrochenen Lieferketten, Russlands Krieg und der Konflikt zwischen USA und China haben das Pendel zurückschwingen lassen. Staaten setzen auf „Resilienz“, holen Produktion zurück („Reshoring“) oder zu Verbündeten („Friendshoring“). Zölle steigen wieder, besonders seit 2025 unter Präsident Trump.
+- Verflechtung durch Container, Internet, Freihandel.
+- Armutsrückgang in Asien, Jobverluste in Industrieländern.
+- Trend zu Resilienz, Reshoring und neuen Zöllen.
+
+=== entwicklungszusammenarbeit
+cat: politik
+title: Entwicklungszusammenarbeit
+teaser: 0,7 Prozent des Einkommens versprachen reiche Länder schon 1970 – erreicht haben es nur wenige.
+meta: Internationale Politik
+cover: Entwicklungszusammenarbeit | Brunnenbau in Afrika
+## Von Hilfe zu Zusammenarbeit
+Nach dem Zweiten Weltkrieg und der Dekolonisierung begannen reiche Länder, ärmere zu unterstützen – anfangs auch, um sie im Kalten Krieg an sich zu binden. Heute spricht man lieber von Entwicklungszusammenarbeit als von Hilfe, um Partnerschaft zu betonen. Deutschland hat dafür seit 1961 ein eigenes Ministerium (BMZ).
+## Ziele
+Die UN beschlossen 2015 die 17 Ziele für nachhaltige Entwicklung (SDGs), etwa extreme Armut und Hunger bis 2030 zu beenden, Bildung, Gesundheit und Gleichberechtigung. 1970 versprachen die Industrieländer, 0,7 Prozent ihres Bruttonationaleinkommens für öffentliche Entwicklungsleistungen auszugeben. Deutschland erreichte das zeitweise, auch weil Flüchtlingskosten im Inland angerechnet werden.
+img: Ziele für nachhaltige Entwicklung | Die 17 Nachhaltigkeitsziele der UN
+## Wirkt das?
+Erfolge gibt es etwa bei Impfungen, Kindersterblichkeit und Schulbildung. Kritiker wie Dambisa Moyo meinen, Hilfe fördere Abhängigkeit und Korruption; Befürworter verweisen auf gut evaluierte Programme, etwa Bargeldtransfers. 2025 kürzten die USA ihre Entwicklungsbehörde USAID drastisch, auch Deutschland und Großbritannien senkten ihre Budgets.
+- Seit der Dekolonisierung; Deutschland mit eigenem Ministerium.
+- 17 UN-Nachhaltigkeitsziele, 0,7-Prozent-Ziel.
+- Wirksamkeit umstritten; große Kürzungen 2025.
+
+=== afrikanische-union
+cat: politik
+title: Die Afrikanische Union
+teaser: 55 Staaten, ein Kontinent mit der jüngsten Bevölkerung der Welt – und seit 2023 Mitglied der G20.
+meta: Addis Abeba, seit 2002
+cover: Afrikanische Union | Hauptquartier der Afrikanischen Union in Addis Abeba
+## Von der OAU zur AU
+1963 gründeten unabhängige afrikanische Staaten die Organisation für Afrikanische Einheit (OAU), vor allem um den Kolonialismus und die Apartheid zu bekämpfen. Sie hielt aber am Prinzip der Nichteinmischung fest und schwieg zu vielen Diktaturen. 2002 wurde sie zur Afrikanischen Union (AU) mit Sitz in Addis Abeba, Äthiopien.
+## Mehr Einmischung
+Anders als die OAU darf die AU bei Völkermord und Kriegsverbrechen eingreifen. Mitglieder, in denen geputscht wird, werden suspendiert – in den letzten Jahren etwa Mali, Burkina Faso, Niger und Gabun. Die AU entsendet Friedenstruppen, etwa nach Somalia. Ihre „Agenda 2063“ beschreibt eine Vision für die Entwicklung des Kontinents.
+img: Addis Abeba | Addis Abeba
+## Freihandel und Gewicht
+Mit der Afrikanischen Freihandelszone (AfCFTA) entsteht seit 2021 nach Zahl der Mitgliedsstaaten die größte Freihandelszone der Welt. Afrika hat rund 1,5 Milliarden Einwohner, die Hälfte jünger als 20. 2023 wurde die AU ständiges Mitglied der G20. Probleme bleiben Finanzierung, Durchsetzungskraft und Konflikte wie im Sudan.
+- Nachfolgerin der OAU seit 2002, Sitz Addis Abeba.
+- Darf bei schweren Verbrechen eingreifen; suspendiert Putschstaaten.
+- Freihandelszone AfCFTA; seit 2023 in der G20.
+
+=== asean
+cat: politik
+title: ASEAN
+teaser: Zehn, bald elf sehr unterschiedliche Staaten Südostasiens – vereint durch das Prinzip, sich nicht einzumischen.
+meta: Südostasien, seit 1967
+cover: Verband Südostasiatischer Nationen | Flaggen der ASEAN-Staaten
+## Gründung im Kalten Krieg
+1967 gründeten Indonesien, Malaysia, die Philippinen, Singapur und Thailand den Verband Südostasiatischer Nationen (ASEAN), auch als Bollwerk gegen den Kommunismus. Später traten Brunei, Vietnam, Laos, Myanmar und Kambodscha bei; Osttimor wurde 2025 als elftes Mitglied aufgenommen.
+## Der ASEAN-Weg
+Die Mitglieder reichen von Demokratien bis zu Einparteienstaaten und Militärregimen. Zusammenhalt sichert der „ASEAN Way“: Konsens, Nichteinmischung, informelle Diplomatie. Kritiker bemängeln, dass ASEAN deshalb bei Menschenrechtsverletzungen wie in Myanmar wenig ausrichtet.
+img: Jakarta | Jakarta, Sitz des ASEAN-Sekretariats
+## Wirtschaftlicher Aufstieg
+Die Region mit rund 680 Millionen Menschen ist eine der am schnellsten wachsenden der Welt. ASEAN hat eine Freihandelszone und ist Kern der RCEP, des größten Freihandelsabkommens der Welt mit China, Japan, Südkorea, Australien und Neuseeland. Im Südchinesischen Meer streiten mehrere Mitglieder mit China um Inseln und Seegebiete.
+- 1967 gegründet, heute elf Mitglieder.
+- Konsens und Nichteinmischung („ASEAN Way“).
+- Wachstumsregion, Kern der RCEP; Streit mit China im Südchinesischen Meer.
+
+=== brics
+cat: politik
+title: BRICS
+teaser: Ein Akronym einer Investmentbank wurde zur politischen Gruppe, die den Westen herausfordern will.
+meta: seit 2009
+cover: BRICS | BRICS-Gipfel
+## Vom Akronym zum Club
+2001 prägte der Goldman-Sachs-Ökonom Jim O’Neill den Begriff „BRIC“ für die aufstrebenden Volkswirtschaften Brasilien, Russland, Indien und China. 2009 trafen sich deren Staatschefs erstmals, 2010 kam Südafrika hinzu – BRICS. 2024 und 2025 traten unter anderem Ägypten, Äthiopien, Iran, die Vereinigten Arabischen Emirate und Indonesien bei.
+## Was sie wollen
+Die BRICS-Staaten kritisieren die Dominanz des Westens in IWF, Weltbank und UN-Sicherheitsrat. Sie gründeten eine eigene Entwicklungsbank (New Development Bank) in Shanghai und diskutieren, Handel stärker in eigenen Währungen statt in Dollar abzuwickeln. Zusammen stellen sie fast die Hälfte der Weltbevölkerung.
+img: Neue Entwicklungsbank | Die New Development Bank in Shanghai
+## Uneinigkeit
+Die Gruppe ist heterogen: Indien und China sind Rivalen, Demokratien sitzen neben Autokratien. Eine gemeinsame Währung gilt als unrealistisch. Für Russland und China ist BRICS auch ein Instrument gegen westliche Sanktionen und die US-Vorherrschaft; Länder wie Brasilien und Indien wollen dagegen gute Beziehungen in alle Richtungen.
+- Begriff von Jim O’Neill 2001; Gipfel seit 2009.
+- Erweiterung 2024/25; eigene Entwicklungsbank.
+- Heterogen: Rivalitäten und unterschiedliche Systeme.
+
+=== china-politisches-system
+cat: politik
+title: Das politische System Chinas
+teaser: Eine Partei mit fast 100 Millionen Mitgliedern führt das Land – und ihr Chef regiert ohne Amtszeitbegrenzung.
+meta: Volksrepublik China
+cover: Kommunistische Partei Chinas | Große Halle des Volkes in Peking
+## Die Partei führt
+Die Kommunistische Partei Chinas (KPCh) ist laut Verfassung die führende Kraft. Ihr Ständiger Ausschuss des Politbüros mit sieben Mitgliedern ist das eigentliche Machtzentrum. Der Nationale Volkskongress, das Parlament, bestätigt Entscheidungen meist einstimmig. Staat, Militär, Medien und Justiz sind der Partei untergeordnet.
+## Xi Jinping
+Seit 2012 ist Xi Jinping Generalsekretär, seit 2013 Staatspräsident. 2018 ließ er die Amtszeitbegrenzung für den Präsidenten abschaffen; 2022 begann seine dritte Amtszeit. Er führte eine große Antikorruptionskampagne, die auch Rivalen traf, und baut den Überwachungsstaat aus. Seine Lehre („Xi-Jinping-Ideen“) steht in der Verfassung.
+img: Xi Jinping | Xi Jinping
+## Wirtschaft und Kontrolle
+Seit Deng Xiaopings Reformen ab 1978 öffnete sich China der Marktwirtschaft und wurde zur zweitgrößten Volkswirtschaft der Welt. Politisch blieb das Land autoritär: Die Proteste auf dem Tian’anmen-Platz 1989 wurden blutig niedergeschlagen. In Xinjiang werden Uiguren in Lagern festgehalten, in Hongkong wurde die Demokratiebewegung nach 2020 zerschlagen.
+- Führungsanspruch der KP, Politbüro als Machtzentrum.
+- Xi Jinping ohne Amtszeitbegrenzung.
+- Marktwirtschaft unter autoritärer Kontrolle.
+
+=== russland-politisches-system
+cat: politik
+title: Das politische System Russlands
+teaser: Formal eine Demokratie mit Wahlen – tatsächlich hat ein Mann seit 1999 fast unangefochten die Macht.
+meta: Russland
+cover: Kreml | Der Moskauer Kreml
+## Ein starker Präsident
+Die russische Verfassung von 1993 gibt dem Präsidenten sehr große Macht. Wladimir Putin wurde 1999 Ministerpräsident und 2000 Präsident. 2008 bis 2012 tauschte er wegen der Amtszeitbegrenzung die Rollen mit Dmitri Medwedew. Eine Verfassungsänderung 2020 erlaubt ihm, bis 2036 im Amt zu bleiben.
+## Gelenkte Demokratie
+Es gibt Wahlen und mehrere Parteien, doch die Opposition wird behindert, Medien sind weitgehend unter staatlicher Kontrolle, Wahlergebnisse gelten als manipuliert. Kritiker wurden inhaftiert, vergiftet oder getötet – der Oppositionspolitiker Alexej Nawalny starb 2024 in einem Straflager. Die Duma, das Parlament, folgt weitgehend dem Kreml.
+img: Wladimir Putin | Wladimir Putin
+## Krieg und Repression
+2014 annektierte Russland die ukrainische Krim, im Februar 2022 begann es einen umfassenden Angriffskrieg gegen die Ukraine. Seitdem wurden Kritik am Krieg unter Strafe gestellt, unabhängige Medien und Organisationen wie Memorial verboten. Hunderttausende Russen verließen das Land. Einnahmen aus Öl und Gas finanzieren Staat und Krieg.
+- Starkes Präsidialsystem, Putin seit 1999/2000.
+- Wahlen ohne echten Wettbewerb, Verfolgung der Opposition.
+- Angriffskrieg gegen die Ukraine seit 2022, verschärfte Repression.
+
+=== indien-demokratie
+cat: politik
+title: Indien – die größte Demokratie der Welt
+teaser: Fast eine Milliarde Wahlberechtigte, Wahlen über sechs Wochen – und Sorge um den Zustand der Demokratie.
+meta: Südasien
+cover: Indien | Das indische Parlament in Neu-Delhi
+## Gigantische Wahlen
+Indien ist seit 1947 unabhängig und mit über 1,4 Milliarden Menschen seit 2023 das bevölkerungsreichste Land der Erde. Bei der Parlamentswahl 2024 waren rund 970 Millionen Menschen wahlberechtigt; gewählt wurde in sieben Phasen über sechs Wochen, mit elektronischen Wahlgeräten – selbst in entlegensten Bergdörfern.
+## Ein föderaler Vielvölkerstaat
+Indien hat 28 Bundesstaaten, über 20 Amtssprachen und Hunderte weitere Sprachen. Die Verfassung von 1950, maßgeblich von B. R. Ambedkar ausgearbeitet, der selbst aus der Kaste der „Unberührbaren“ stammte, ist säkular und verbietet Diskriminierung nach Kaste. Quoten sollen benachteiligte Gruppen fördern.
+img: Narendra Modi | Narendra Modi
+## Modi und der Hindunationalismus
+Seit 2014 regiert Narendra Modi von der hindunationalistischen BJP. Er gilt als wirtschaftsfreundlich und populär. Kritiker werfen ihm vor, Muslime zu benachteiligen, Pressefreiheit und Opposition einzuschränken. Organisationen wie V-Dem stufen Indien inzwischen als „Wahlautokratie“ ein – die Regierung weist das zurück. 2024 verlor die BJP ihre absolute Mehrheit.
+- Bevölkerungsreichstes Land, rund 970 Mio. Wahlberechtigte 2024.
+- Föderal, vielsprachig, säkulare Verfassung von Ambedkar.
+- Hindunationalismus unter Modi; Sorge um demokratische Standards.
+
+=== konstitutionelle-monarchie
+cat: politik
+title: Die konstitutionelle Monarchie
+teaser: Könige ohne Macht: Warum Schweden, Spanien und Großbritannien Demokratien mit Krone sind.
+meta: Staatsformen
+cover: Konstitutionelle Monarchie | Krönung von König Charles III.
+## Gezähmte Monarchen
+In einer konstitutionellen Monarchie ist die Macht des Monarchen durch eine Verfassung begrenzt. Heute meist in Form der parlamentarischen Monarchie: Der König oder die Königin ist Staatsoberhaupt, aber die Regierung ist dem Parlament verantwortlich. Der Monarch erfüllt repräsentative Aufgaben, unterschreibt Gesetze und ernennt formell den Regierungschef.
+## Beispiele
+In Europa gibt es solche Monarchien in Großbritannien, Spanien, den Niederlanden, Belgien, Dänemark, Schweden, Norwegen, Luxemburg, Liechtenstein, Monaco und Andorra. Der britische König Charles III. ist zugleich Staatsoberhaupt von 14 weiteren Ländern wie Kanada und Australien. Japan hat das älteste Kaiserhaus der Welt.
+img: Charles III. | König Charles III.
+## Wozu Monarchie?
+Befürworter sehen in Monarchen ein überparteiliches Symbol nationaler Einheit und Kontinuität; der spanische König Juan Carlos stellte sich 1981 gegen einen Militärputsch. Kritiker halten erbliche Ämter für undemokratisch und teuer. Absolute Monarchien mit realer Herrschermacht gibt es noch etwa in Saudi-Arabien, Brunei, Oman und Eswatini.
+- Monarch als Staatsoberhaupt, Macht beim Parlament.
+- Viele europäische Beispiele; Charles III. auch für Commonwealth-Staaten.
+- Symbol der Einheit vs. undemokratisches Erbe.
