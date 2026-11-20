@@ -22,7 +22,7 @@
   const imgUrl = (file, w = 960) =>
     'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(file.replace(/ /g, '_')) + '?width=' + w;
   const fileUrl = (file) => 'https://commons.wikimedia.org/wiki/File:' + encodeURIComponent(file.replace(/ /g, '_'));
-  const imgTag = (file, cls, w, eager) =>
+  const imgTag = (file, cls, w, eager) => !file ? (cls === 'thumb' ? '<span class="thumb"></span>' : '') :
     `<img class="${cls}" src="${imgUrl(file, w)}" alt="" ${eager ? '' : 'loading="lazy"'} decoding="async" onerror="this.style.visibility='hidden'">`;
 
   /* ---------- Persistent state ---------- */

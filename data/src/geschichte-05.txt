@@ -1,0 +1,203 @@
+=== zwanzigster-juli-1944
+cat: geschichte
+title: Das Attentat vom 20. Juli 1944
+teaser: Eine Bombe in einer Aktentasche – und ein schwerer Eichentisch, der Hitler das Leben rettete.
+meta: Wolfsschanze, 20. Juli 1944
+cover: Claus Schenk Graf von Stauffenberg | Claus Schenk Graf von Stauffenberg
+## Der Plan
+Offiziere um Oberst Claus Schenk Graf von Stauffenberg wollten Hitler töten und mit dem Plan „Walküre“ – eigentlich für Unruhen gedacht – die Macht übernehmen, um den Krieg zu beenden. Viele hatten das NS-Regime anfangs unterstützt; Motive waren Verbrechen im Osten, die sichere Niederlage und Gewissen.
+## Die Explosion
+Stauffenberg platzierte am 20. Juli in der Lagebaracke der „Wolfsschanze“ in Ostpreußen eine Bombe in seiner Aktentasche. Sie wurde vermutlich hinter einen massiven Tischsockel geschoben. Vier Menschen starben, Hitler wurde nur leicht verletzt. Der Umsturz in Berlin scheiterte.
+img: Wolfsschanze | Die zerstörte Lagebaracke in der Wolfsschanze
+## Rache und Erinnerung
+Stauffenberg wurde noch in der Nacht im Bendlerblock erschossen. Rund 200 Beteiligte wurden hingerichtet, viele nach Schauprozessen vor dem Volksgerichtshof. Heute ist der 20. Juli Gedenktag des Widerstands; im Bendlerblock befindet sich die Gedenkstätte Deutscher Widerstand.
+- Militärischer Widerstand um Stauffenberg, Plan „Walküre“.
+- Hitler überlebte leicht verletzt, Umsturz scheiterte.
+- Hunderte Beteiligte hingerichtet; heute zentraler Gedenktag.
+
+=== hiroshima-nagasaki
+cat: geschichte
+title: Hiroshima und Nagasaki
+teaser: Zwei Bomben, zehntausende Tote in Sekunden – der einzige Einsatz von Atomwaffen im Krieg.
+meta: 6. und 9. August 1945
+cover: Atombombenabwürfe auf Hiroshima und Nagasaki | Atompilz über Nagasaki, 9. August 1945
+## Das Manhattan-Projekt
+Aus Angst, NS-Deutschland könnte zuerst eine Atombombe bauen, entwickelten die USA ab 1942 unter Leitung von J. Robert Oppenheimer die Waffe. Am 16. Juli 1945 explodierte in der Wüste von New Mexico die erste Testbombe („Trinity“).
+## Little Boy und Fat Man
+Am 6. August 1945 warf ein US-Bomber die Uranbombe „Little Boy“ über Hiroshima ab, am 9. August die Plutoniumbombe „Fat Man“ über Nagasaki. Bis Ende 1945 starben etwa 110.000 bis 210.000 Menschen – durch Druckwelle, Hitze und Strahlung. Viele Überlebende (Hibakusha) litten jahrzehntelang an Krebs.
+img: Atombombendom | Der Atombombendom in Hiroshima, heute Mahnmal
+## Kapitulation und Debatte
+Am 15. August verkündete Kaiser Hirohito Japans Kapitulation; auch der sowjetische Kriegseintritt am 8. August spielte eine Rolle. Ob die Bomben nötig waren, um den Krieg zu beenden, ist bis heute umstritten. Sie läuteten das Atomzeitalter und das nukleare Wettrüsten ein.
+- Manhattan-Projekt unter Oppenheimer, Test „Trinity“.
+- 6. und 9. August 1945: Abwürfe auf Hiroshima und Nagasaki.
+- Japans Kapitulation, Beginn des Atomzeitalters.
+
+=== nuernberger-prozesse
+cat: geschichte
+title: Die Nürnberger Prozesse
+teaser: Erstmals mussten sich Führer eines Staates vor einem internationalen Gericht verantworten.
+meta: 1945–1946
+cover: Nürnberger Prozesse | Die Anklagebank im Nürnberger Prozess
+## Gericht statt Rache
+Statt die NS-Führung einfach zu erschießen, wie Churchill zunächst erwog, setzten die Alliierten einen Internationalen Militärgerichtshof ein. Ab November 1945 standen im Nürnberger Justizpalast 24 Hauptkriegsverbrecher vor Gericht, darunter Hermann Göring und Rudolf Heß.
+## Neue Straftatbestände
+Angeklagt wurden Verbrechen gegen den Frieden, Kriegsverbrechen und erstmals „Verbrechen gegen die Menschlichkeit“. Der Einwand, man habe nur Befehle befolgt, wurde nicht akzeptiert. Im Oktober 1946 wurden zwölf Todesurteile gesprochen, Göring entzog sich durch Suizid.
+img: Justizpalast Nürnberg | Der Justizpalast in Nürnberg
+## Vermächtnis
+Die „Nürnberger Prinzipien“ legten fest, dass auch Staatsführer persönlich haften. Sie wurden zur Grundlage des Völkerstrafrechts und des Internationalen Strafgerichtshofs in Den Haag (2002). Kritiker sprachen von „Siegerjustiz“, da alliierte Verbrechen nicht verhandelt wurden.
+- Internationales Militärtribunal gegen 24 NS-Hauptkriegsverbrecher.
+- Neu: „Verbrechen gegen die Menschlichkeit“, keine Ausrede durch Befehl.
+- Grundstein des heutigen Völkerstrafrechts.
+
+=== gruendung-brd-ddr
+cat: geschichte
+title: Die doppelte Staatsgründung 1949
+teaser: Aus den Besatzungszonen entstanden zwei deutsche Staaten – getrennt für 41 Jahre.
+meta: 1949
+cover: Gründung der Bundesrepublik Deutschland | Konrad Adenauer unterzeichnet das Grundgesetz, 23. Mai 1949
+## Vier Zonen
+Nach 1945 teilten die USA, Großbritannien, Frankreich und die Sowjetunion Deutschland und Berlin in Besatzungszonen. Mit dem Beginn des Kalten Krieges wuchsen die Gegensätze: Die Westzonen erhielten 1948 die D-Mark, die Sowjets antworteten mit der Berlin-Blockade.
+## Bundesrepublik und DDR
+Am 23. Mai 1949 trat das Grundgesetz in Kraft – bewusst als Provisorium bis zur Wiedervereinigung. Erster Bundeskanzler wurde Konrad Adenauer, Hauptstadt Bonn. Am 7. Oktober 1949 folgte in der sowjetischen Zone die Deutsche Demokratische Republik mit der SED als führender Partei.
+img: Konrad Adenauer | Konrad Adenauer, erster Bundeskanzler
+## Zwei Wege
+Die Bundesrepublik band sich an den Westen (NATO 1955), erlebte das „Wirtschaftswunder“ und eine stabile Demokratie. Die DDR wurde Teil des Ostblocks (Warschauer Pakt), eine Diktatur mit Planwirtschaft und Staatssicherheit. Beide Staaten wurden 1973 Mitglied der Vereinten Nationen.
+- 23. Mai 1949 Grundgesetz, 7. Oktober 1949 DDR.
+- Westbindung und Wirtschaftswunder vs. SED-Diktatur im Ostblock.
+- Teilung bis zur Einheit 1990.
+
+=== marshallplan
+cat: geschichte
+title: Der Marshallplan
+teaser: 13 Milliarden Dollar für den Wiederaufbau Europas – Hilfe und zugleich Waffe im Kalten Krieg.
+meta: 1948–1952
+cover: Marshallplan | Plakat für das European Recovery Program
+## Die Idee
+US-Außenminister George C. Marshall kündigte 1947 in einer Rede an der Harvard-Universität ein Hilfsprogramm für das zerstörte Europa an. Hunger und Armut sollten bekämpft werden – auch, damit der Kommunismus keinen Nährboden fand.
+## Das Programm
+Von 1948 bis 1952 flossen rund 13 Milliarden US-Dollar als Kredite, Lebensmittel, Rohstoffe und Maschinen an 16 westeuropäische Staaten. Westdeutschland erhielt etwa 1,4 Milliarden. Die Sowjetunion verbot ihren Satellitenstaaten die Teilnahme.
+img: George C. Marshall | George C. Marshall
+## Wirkung
+Der Marshallplan förderte den Wiederaufbau und die europäische Zusammenarbeit; aus der Verwaltungsorganisation entstand später die OECD. In Deutschland verwaltet die KfW noch heute das ERP-Sondervermögen. Marshall erhielt 1953 den Friedensnobelpreis.
+- 1948–1952, rund 13 Milliarden Dollar für Westeuropa.
+- Ziel: Wiederaufbau und Eindämmung des Kommunismus.
+- Grundlage europäischer Kooperation; Marshall erhielt den Friedensnobelpreis.
+
+=== berliner-luftbruecke
+cat: geschichte
+title: Die Berliner Luftbrücke
+teaser: Fast ein Jahr lang wurde eine Millionenstadt aus der Luft versorgt – mit „Rosinenbombern“.
+meta: Berlin, 1948–1949
+cover: Berliner Luftbrücke | Ein „Rosinenbomber“ landet in Tempelhof
+## Die Blockade
+Als die Westmächte im Juni 1948 die D-Mark auch in West-Berlin einführten, sperrte die Sowjetunion alle Land- und Wasserwege. Rund 2,2 Millionen West-Berliner sollten ausgehungert und die Westalliierten aus der Stadt gedrängt werden.
+## Versorgung aus der Luft
+Die USA und Großbritannien antworteten mit einer Luftbrücke. Zeitweise landete alle drei Minuten ein Flugzeug in Tempelhof, Gatow oder dem eigens gebauten Flughafen Tegel. Insgesamt wurden rund 2,3 Millionen Tonnen Kohle, Lebensmittel und Medikamente eingeflogen. Pilot Gail Halvorsen warf an Taschentuch-Fallschirmen Süßigkeiten für Kinder ab.
+img: Luftbrückendenkmal | Das Luftbrückendenkmal in Berlin-Tempelhof
+## Ende der Blockade
+Im Mai 1949 gab Stalin auf. Aus Besatzern waren Schutzmächte geworden. Bei Unfällen starben über 70 Menschen. Die Luftbrücke festigte die Westbindung West-Berlins und der entstehenden Bundesrepublik.
+- Sowjetische Blockade West-Berlins ab Juni 1948.
+- Versorgung per Flugzeug, rund 2,3 Mio. Tonnen Fracht.
+- Ende im Mai 1949; Westalliierte werden zu Schutzmächten.
+
+=== siebzehnter-juni-1953
+cat: geschichte
+title: Der Volksaufstand vom 17. Juni 1953
+teaser: Bauarbeiter legten ihre Arbeit nieder – am Ende rollten sowjetische Panzer durch Ost-Berlin.
+meta: DDR, 17. Juni 1953
+cover: Volksaufstand vom 17. Juni 1953 | Sowjetische Panzer in Ost-Berlin am 17. Juni 1953
+## Höhere Normen
+Die SED forderte 1953 von Arbeitern bei gleichem Lohn zehn Prozent mehr Leistung. Gleichzeitig herrschten Versorgungsengpässe, und Tausende flohen in den Westen. Am 16. Juni legten Bauarbeiter an der Ost-Berliner Stalinallee die Arbeit nieder.
+## Vom Streik zum Aufstand
+Am 17. Juni protestierten in über 700 Orten der DDR rund eine Million Menschen. Sie forderten freie Wahlen und den Rücktritt der Regierung. Die Sowjetunion verhängte den Ausnahmezustand und schlug den Aufstand mit Panzern nieder. Mindestens 55 Menschen starben, Tausende wurden verhaftet.
+img: Karl-Marx-Allee | Die Stalinallee (heute Karl-Marx-Allee), Ausgangspunkt der Proteste
+## Gedenken
+In der Bundesrepublik war der 17. Juni bis 1990 als „Tag der deutschen Einheit“ Feiertag. In Berlin trägt die Straße des 17. Juni seinen Namen. Bertolt Brecht spottete: Ob es nicht einfacher wäre, die Regierung löste das Volk auf und wählte ein anderes?
+- Auslöser: Normerhöhung und Unzufriedenheit.
+- Rund eine Million Menschen protestierten, Niederschlagung durch Sowjettruppen.
+- Bis 1990 westdeutscher Nationalfeiertag.
+
+=== mauerbau-1961
+cat: geschichte
+title: Der Mauerbau 1961
+teaser: „Niemand hat die Absicht, eine Mauer zu errichten“ – zwei Monate später war Berlin geteilt.
+meta: 13. August 1961
+cover: Bau der Berliner Mauer | Bauarbeiten an der Mauer, November 1961
+## Abstimmung mit den Füßen
+Bis 1961 flohen rund 2,7 Millionen Menschen aus der DDR, viele davon jung und gut ausgebildet. Über die offene Sektorengrenze in Berlin war die Flucht besonders leicht. Im Juni 1961 versicherte Walter Ulbricht dennoch: „Niemand hat die Absicht, eine Mauer zu errichten.“
+## Über Nacht
+In der Nacht zum 13. August 1961 riegelten Volkspolizei und Kampfgruppen West-Berlin mit Stacheldraht ab; kurz darauf folgte die Mauer. Familien wurden getrennt. Das berühmte Foto des Grenzpolizisten Conrad Schumann, der über den Stacheldraht in den Westen springt, ging um die Welt.
+img: Conrad Schumann | Conrad Schumann springt in den Westen, 15. August 1961
+## Der „antifaschistische Schutzwall“
+Die SED nannte die Mauer „antifaschistischen Schutzwall“. Mit Todesstreifen, Hundelaufanlagen und Schießbefehl wurde sie immer weiter ausgebaut. Die Westmächte protestierten, griffen aber nicht ein. 1963 sagte John F. Kennedy in West-Berlin: „Ich bin ein Berliner.“
+- Ursache: Massenflucht aus der DDR.
+- 13. August 1961: Abriegelung West-Berlins.
+- Bis 1989 Symbol der deutschen und europäischen Teilung.
+
+=== kubakrise
+cat: geschichte
+title: Die Kubakrise
+teaser: 13 Tage im Oktober 1962 – die Welt stand so nah wie nie am Atomkrieg.
+meta: Oktober 1962
+cover: Kubakrise | Aufklärungsfoto sowjetischer Raketenstellungen auf Kuba
+## Raketen vor Florida
+Nach der gescheiterten US-Invasion in der Schweinebucht 1961 stationierte die Sowjetunion heimlich Atomraketen auf Kuba, nur 150 Kilometer vor Florida. Ein Grund: Die USA hatten ihrerseits Raketen in der Türkei stationiert. Am 14. Oktober 1962 entdeckte ein US-Aufklärungsflugzeug die Stellungen.
+## Die Seeblockade
+Präsident John F. Kennedy verhängte eine Seeblockade („Quarantäne“) um Kuba. Sowjetische Schiffe näherten sich, ein US-Aufklärer wurde abgeschossen. Auf einem sowjetischen U-Boot wurde ein Atomtorpedo nur deshalb nicht gestartet, weil der Offizier Wassili Archipow nicht zustimmte.
+img: John F. Kennedy | Präsident John F. Kennedy
+## Die Lösung
+Am 28. Oktober lenkte Chruschtschow ein und zog die Raketen ab. Im Gegenzug versprachen die USA, Kuba nicht anzugreifen, und zogen geheim ihre Raketen aus der Türkei ab. Danach richteten beide Seiten das „Rote Telefon“ ein, eine direkte Leitung zwischen Washington und Moskau.
+- Sowjetische Atomraketen auf Kuba, entdeckt im Oktober 1962.
+- 13 Tage Konfrontation mit Seeblockade.
+- Kompromiss und „heißer Draht“ zwischen den Supermächten.
+
+=== vietnamkrieg
+cat: geschichte
+title: Der Vietnamkrieg
+teaser: Die stärkste Armee der Welt verlor gegen Guerillakämpfer – und die amerikanische Gesellschaft spaltete sich.
+meta: ca. 1955–1975
+cover: Vietnamkrieg | US-Hubschrauber im Einsatz in Vietnam
+## Ein geteiltes Land
+Nach dem Ende der französischen Kolonialherrschaft 1954 wurde Vietnam geteilt: im Norden ein kommunistischer Staat unter Ho Chi Minh, im Süden ein von den USA gestütztes Regime. Die USA fürchteten nach der „Dominotheorie“, ganz Südostasien könnte kommunistisch werden.
+## Eskalation
+Nach dem umstrittenen Tonkin-Zwischenfall 1964 schickten die USA immer mehr Soldaten, bis zu 540.000. Sie setzten Napalm und das Entlaubungsmittel Agent Orange ein. Der Vietcong führte einen Guerillakrieg aus dem Dschungel. Das Massaker von My Lai 1968 erschütterte die Weltöffentlichkeit.
+img: Ho Chi Minh | Ho Chi Minh
+## Rückzug und Niederlage
+Fernsehbilder und Proteste wendeten die öffentliche Meinung. 1973 zogen die USA ab, 1975 eroberte Nordvietnam Saigon (heute Ho-Chi-Minh-Stadt). Rund drei Millionen Vietnamesen und 58.000 US-Soldaten starben. Das „Vietnam-Trauma“ prägte die US-Außenpolitik für Jahrzehnte.
+- Konflikt im Kalten Krieg zwischen Nord- und Südvietnam.
+- US-Eskalation ab 1964, Guerillakrieg, Napalm, My Lai.
+- 1975 Fall Saigons; Millionen Tote.
+
+=== buergerrechtsbewegung
+cat: geschichte
+title: Die US-Bürgerrechtsbewegung
+teaser: Eine Frau weigerte sich, ihren Sitzplatz zu räumen – und eine Bewegung veränderte Amerika.
+meta: USA, 1955–1968
+cover: Afroamerikanische Bürgerrechtsbewegung | Marsch auf Washington, 28. August 1963
+## Rassentrennung
+In den Südstaaten der USA galten bis in die 1960er Jahre „Jim-Crow“-Gesetze: getrennte Schulen, Busse, Toiletten. Schwarze wurden mit Tricks am Wählen gehindert. 1954 erklärte der Supreme Court getrennte Schulen für verfassungswidrig.
+## Rosa Parks und Martin Luther King
+1955 weigerte sich Rosa Parks in Montgomery, ihren Busplatz für einen Weißen freizumachen. Der folgende Busboykott unter Führung des jungen Pastors Martin Luther King dauerte über ein Jahr und war erfolgreich. King setzte auf gewaltlosen Widerstand nach dem Vorbild Gandhis. 1963 hielt er vor 250.000 Menschen seine Rede „I Have a Dream“.
+img: Martin Luther King | Martin Luther King
+## Erfolge und Gewalt
+Der Civil Rights Act (1964) verbot Diskriminierung, der Voting Rights Act (1965) sicherte das Wahlrecht. Die Bewegung erlebte brutale Gewalt; 1968 wurde King in Memphis ermordet. Radikalere Stimmen wie Malcolm X forderten mehr als Integration.
+- Kampf gegen Rassentrennung in den Südstaaten.
+- Rosa Parks, Martin Luther King, gewaltloser Widerstand.
+- Civil Rights Act 1964 und Voting Rights Act 1965.
+
+=== indische-unabhaengigkeit
+cat: geschichte
+title: Gandhi und Indiens Unabhängigkeit
+teaser: Mit Spinnrad und Salzmarsch gegen das Britische Empire – Gewaltlosigkeit als politische Waffe.
+meta: Indien, 1947
+cover: Mahatma Gandhi | Mahatma Gandhi
+## Britisch-Indien
+Indien war seit dem 19. Jahrhundert die „Kronjuwele“ des Britischen Empire. Der Rechtsanwalt Mohandas Karamchand Gandhi, „Mahatma“ (große Seele) genannt, entwickelte zuerst in Südafrika die Methode des gewaltlosen Widerstands: Satyagraha.
+## Der Salzmarsch
+Die Briten hatten das Salzmonopol. 1930 marschierte Gandhi mit Anhängern 385 Kilometer zum Meer und gewann dort demonstrativ Salz – ein symbolischer Gesetzesbruch, dem Millionen folgten. Boykotte britischer Waren und Gandhis selbst gesponnene Kleidung wurden zu Symbolen.
+img: Salzmarsch | Gandhi auf dem Salzmarsch 1930
+## Unabhängigkeit und Teilung
+Am 15. August 1947 wurde Indien unabhängig – aber geteilt in ein mehrheitlich hinduistisches Indien und ein muslimisches Pakistan. Bei Flucht und Gewalt starben bis zu eine Million Menschen, etwa 15 Millionen wurden vertrieben. 1948 ermordete ein hindunationalistischer Extremist Gandhi.
+- Gandhis gewaltloser Widerstand (Satyagraha).
+- Salzmarsch 1930 als ikonischer Protest.
+- 1947 Unabhängigkeit und blutige Teilung in Indien und Pakistan.

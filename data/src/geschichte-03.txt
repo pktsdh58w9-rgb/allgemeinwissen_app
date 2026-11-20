@@ -1,0 +1,203 @@
+=== aufklaerung
+cat: geschichte
+title: Die Aufklärung
+teaser: „Habe Mut, dich deines eigenen Verstandes zu bedienen!“ – das Motto eines Zeitalters, das unsere Welt prägt.
+meta: 17./18. Jahrhundert
+cover: Aufklärung | Lesung in einem Pariser Salon (Gemälde von Lemonnier)
+## Vernunft statt Autorität
+Die Aufklärer forderten, alles mit der Vernunft zu prüfen – auch Kirche, Adel und König. Immanuel Kant definierte 1784 Aufklärung als „Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit“. Wissen sollte allen zugänglich sein.
+## Die großen Denker
+John Locke formulierte Rechte auf Leben, Freiheit und Eigentum, Montesquieu die Gewaltenteilung, Rousseau die Volkssouveränität, Voltaire kämpfte für Toleranz und gegen religiösen Fanatismus. Diderot und d’Alembert sammelten das Wissen der Zeit in der 28-bändigen „Encyclopédie“.
+img: Immanuel Kant | Immanuel Kant
+## Wirkung
+Die Ideen der Aufklärung flossen direkt in die amerikanische Unabhängigkeitserklärung und die Französische Revolution. Menschenrechte, Gewaltenteilung, Religionsfreiheit und Wissenschaft als Methode gehen auf diese Epoche zurück. Selbst Monarchen wie Friedrich II. von Preußen gaben sich „aufgeklärt“.
+- Vernunft, Kritik und Toleranz als Leitideen.
+- Locke, Montesquieu, Rousseau, Voltaire, Kant.
+- Grundlage für Menschenrechte und moderne Demokratien.
+
+=== amerikanische-unabhaengigkeit
+cat: geschichte
+title: Die Amerikanische Unabhängigkeit
+teaser: „No taxation without representation“: Wie 13 Kolonien sich von Großbritannien lossagten.
+meta: 1775–1783
+cover: Unabhängigkeitserklärung der Vereinigten Staaten | Übergabe der Unabhängigkeitserklärung (Gemälde von John Trumbull)
+## Streit um Steuern
+Nach dem teuren Siebenjährigen Krieg wollte Großbritannien die nordamerikanischen Kolonien stärker besteuern. Die Kolonisten protestierten, weil sie im Londoner Parlament nicht vertreten waren. 1773 kippten Aktivisten bei der Boston Tea Party Tee ins Hafenbecken.
+## 4. Juli 1776
+1775 begann der Krieg. Am 4. Juli 1776 verkündeten die Kolonien ihre Unabhängigkeit. Die von Thomas Jefferson verfasste Erklärung nennt als unveräußerliche Rechte „Leben, Freiheit und das Streben nach Glück“. Mit französischer Hilfe siegten die Truppen unter George Washington 1781 bei Yorktown; 1783 erkannte Großbritannien die USA an.
+img: Boston Tea Party | Die Boston Tea Party 1773 (Lithografie)
+## Eine neue Verfassung
+1787 entstand die US-Verfassung mit Gewaltenteilung und „Checks and Balances“, 1789 wurde Washington erster Präsident. Der Widerspruch blieb: Viele Gründerväter, auch Jefferson, besaßen Sklaven. Die Gleichheit galt zunächst nur für weiße Männer.
+- Auslöser: Steuern ohne Vertretung im Parlament.
+- 4. Juli 1776: Unabhängigkeitserklärung, 1783 Anerkennung.
+- Älteste geltende geschriebene Verfassung eines Nationalstaats (1787).
+
+=== napoleon
+cat: geschichte
+title: Napoleon Bonaparte
+teaser: Vom korsischen Offizier zum Kaiser der Franzosen – und zweimal ins Exil.
+meta: 1769–1821
+cover: Napoleon Bonaparte | Napoleon in seinem Arbeitszimmer (Jacques-Louis David, 1812)
+## Aufstieg in der Revolution
+Napoleon stammte aus Korsika und machte in den Revolutionskriegen eine rasante Karriere. 1799 übernahm er durch einen Staatsstreich die Macht, 1804 krönte er sich selbst zum Kaiser. Klein war er übrigens nicht: Mit etwa 1,69 m war er durchschnittlich groß.
+## Europa unter französischer Herrschaft
+Mit Siegen wie Austerlitz (1805) beherrschte er große Teile Europas. 1806 endete das Heilige Römische Reich. Sein Code civil schuf gleiches Recht für alle Bürger und wirkt bis heute in vielen Rechtsordnungen nach. In Deutschland lösten seine Reformen und die Besatzung zugleich Modernisierung und Nationalbewusstsein aus.
+img: Schlacht bei Austerlitz | Die Schlacht bei Austerlitz 1805
+## Russland, Waterloo, St. Helena
+Der Russlandfeldzug 1812 wurde zur Katastrophe: Von rund 600.000 Soldaten kehrten nur wenige zurück. Nach der Völkerschlacht bei Leipzig 1813 wurde er nach Elba verbannt, kehrte zurück und unterlag 1815 bei Waterloo endgültig. Er starb 1821 auf der Atlantikinsel St. Helena.
+- 1799 Machtübernahme, 1804 Kaiser.
+- Code civil: modernes, einheitliches Zivilrecht.
+- Gescheitert in Russland 1812 und bei Waterloo 1815.
+
+=== wiener-kongress
+cat: geschichte
+title: Der Wiener Kongress
+teaser: „Der Kongress tanzt“ – zwischen Bällen ordneten Europas Fürsten nach Napoleon den Kontinent neu.
+meta: 1814–1815
+cover: Wiener Kongress | Der Wiener Kongress (Gemälde nach Jean-Baptiste Isabey)
+## Neuordnung nach Napoleon
+Nach Napoleons Niederlage trafen sich Vertreter fast aller europäischen Staaten in Wien. Geleitet wurde der Kongress vom österreichischen Außenminister Fürst Metternich. Begleitet von prächtigen Festen – daher der Spott „Der Kongress tanzt, aber er kommt nicht vorwärts“.
+## Restauration und Gleichgewicht
+Ziel war die Wiederherstellung der alten Ordnung (Restauration) und ein Gleichgewicht der Großmächte. Statt des Heiligen Römischen Reichs entstand der Deutsche Bund, ein lockerer Bund aus 39 Staaten. Preußen gewann das Rheinland, Österreich Gebiete in Italien.
+img: Klemens Wenzel Lothar von Metternich | Fürst Metternich
+## Frieden – und Unterdrückung
+Die Ordnung sicherte Europa für Jahrzehnte vor großen Kriegen zwischen Großmächten. Zugleich unterdrückte Metternichs „System“ liberale und nationale Bewegungen mit Zensur und Spitzeln. Der Konflikt entlud sich schließlich in der Revolution von 1848.
+- 1814/15 unter Metternichs Leitung.
+- Restauration, Gleichgewicht der Mächte, Deutscher Bund.
+- Lange Friedensphase, aber Unterdrückung liberaler Ideen.
+
+=== industrielle-revolution
+cat: geschichte
+title: Die Industrielle Revolution
+teaser: Dampf, Kohle und Fabriken – der größte Umbruch seit der Erfindung der Landwirtschaft.
+meta: ab ca. 1760, England
+cover: Industrielle Revolution | Fabrikschornsteine im 19. Jahrhundert
+## Warum England?
+Die Industrialisierung begann um 1760 in England: Es gab Kohle und Eisen, Kapital aus dem Handel, einen großen Markt und neue Erfindungen. Die mechanische Spinnmaschine und James Watts verbesserte Dampfmaschine (1769) veränderten zuerst die Textilindustrie.
+## Eisenbahn und Fabrik
+Ab 1825 fuhren Eisenbahnen; in Deutschland 1835 zwischen Nürnberg und Fürth. Menschen zogen vom Land in die Städte, um in Fabriken zu arbeiten – oft 14 Stunden am Tag, auch Kinder. Elendsviertel, Krankheiten und Armut prägten die frühe Industriegesellschaft.
+img: Dampfmaschine | Dampfmaschine nach dem Prinzip von James Watt
+## Die soziale Frage
+Arbeiter organisierten sich in Gewerkschaften und Parteien; Karl Marx und Friedrich Engels schrieben 1848 das „Kommunistische Manifest“. Staaten reagierten mit Arbeiterschutz und Sozialversicherungen. Langfristig stiegen Lebensstandard und Lebenserwartung enorm – aber auch der CO₂-Ausstoß.
+- Beginn um 1760 in England, Motor: Dampfmaschine.
+- Urbanisierung, Fabrikarbeit, Eisenbahn.
+- Löste die „soziale Frage“ und den modernen Sozialstaat aus.
+
+=== revolution-1848
+cat: geschichte
+title: Die Revolution von 1848/49
+teaser: Erstmals tagte ein gewähltes deutsches Parlament – in einer Frankfurter Kirche. Es scheiterte, aber seine Ideen nicht.
+meta: Deutscher Bund, 1848–1849
+cover: Frankfurter Nationalversammlung | Die Nationalversammlung in der Frankfurter Paulskirche
+## Der Funke aus Paris
+Im Februar 1848 stürzte in Paris der König. Die Revolution sprang auf Wien, Berlin und viele deutsche Staaten über. Bürger, Studenten und Arbeiter forderten Pressefreiheit, Verfassungen und einen deutschen Nationalstaat. Metternich musste fliehen.
+## Die Paulskirche
+Im Mai 1848 trat in der Frankfurter Paulskirche die Nationalversammlung zusammen, das erste frei gewählte gesamtdeutsche Parlament. Sie beschloss Grundrechte und eine Reichsverfassung und bot dem preußischen König die Kaiserkrone an. Friedrich Wilhelm IV. lehnte ab – eine Krone „aus Dreck und Letten“ wollte er nicht.
+img: Paulskirche (Frankfurt am Main) | Die Paulskirche in Frankfurt heute
+## Scheitern mit Langzeitwirkung
+1849 schlugen preußische und österreichische Truppen die letzten Aufstände nieder, viele Demokraten emigrierten in die USA. Doch die Grundrechte der Paulskirche wirkten in der Weimarer Verfassung und im Grundgesetz nach – und ihre Farben Schwarz-Rot-Gold wurden zur Nationalflagge.
+- 1848: Revolution in vielen deutschen Staaten.
+- Paulskirche: erstes gesamtdeutsches Parlament, Grundrechte.
+- Gescheitert, aber Vorbild für Weimar, Grundgesetz und Schwarz-Rot-Gold.
+
+=== reichsgruendung-1871
+cat: geschichte
+title: Die Reichsgründung 1871
+teaser: Ein deutscher Kaiser, ausgerufen ausgerechnet im Spiegelsaal von Versailles.
+meta: 18. Januar 1871
+cover: Deutsche Reichsgründung | Proklamation des Kaiserreichs in Versailles (Anton von Werner)
+## Einheit durch „Blut und Eisen“
+Otto von Bismarck, ab 1862 preußischer Ministerpräsident, setzte nicht auf Parlamente, sondern auf Kriege: 1864 gegen Dänemark, 1866 gegen Österreich, 1870/71 gegen Frankreich. Danach schlossen sich die süddeutschen Staaten dem Norddeutschen Bund an.
+## Kaiserproklamation
+Am 18. Januar 1871 wurde der preußische König Wilhelm I. im Spiegelsaal von Versailles zum Deutschen Kaiser ausgerufen – eine Demütigung Frankreichs, das zudem Elsass-Lothringen abtreten musste. Es war eine „kleindeutsche“ Lösung ohne Österreich.
+img: Otto von Bismarck | Otto von Bismarck
+## Bismarcks Reich
+Das Kaiserreich hatte einen Reichstag mit allgemeinem Männerwahlrecht, aber die Regierung war dem Kaiser verantwortlich. Bismarck bekämpfte Katholiken (Kulturkampf) und Sozialdemokraten, führte aber auch die Sozialversicherung ein. Außenpolitisch sicherte er das Reich durch ein Bündnissystem.
+- Einigung durch drei Kriege unter Bismarck.
+- 18.1.1871 Kaiserproklamation in Versailles.
+- Kleindeutsche Lösung ohne Österreich; Kaiser über dem Parlament.
+
+=== transatlantischer-sklavenhandel
+cat: geschichte
+title: Der transatlantische Sklavenhandel
+teaser: Über 12 Millionen Afrikaner wurden in 350 Jahren verschleppt – ein Fundament des europäischen Wohlstands.
+meta: 16.–19. Jahrhundert
+cover: Atlantischer Sklavenhandel | Plan eines Sklavenschiffs („Brookes“, 1788)
+## Der Dreieckshandel
+Europäische Schiffe brachten Waffen, Stoffe und Alkohol nach Westafrika, tauschten sie gegen versklavte Menschen, transportierten diese nach Amerika und kehrten mit Zucker, Baumwolle und Tabak zurück. Portugal, Großbritannien, Frankreich, Spanien und die Niederlande waren die größten Akteure.
+## Die Mittelpassage
+Rund 12,5 Millionen Menschen wurden verschleppt, fast zwei Millionen starben bereits bei der Überfahrt in engen, verseuchten Laderäumen. In Amerika mussten sie auf Plantagen arbeiten, vor allem in Brasilien und der Karibik. Ihre Kinder wurden ebenfalls als Sklaven geboren.
+img: Olaudah Equiano | Olaudah Equiano, ehemals Versklavter und Abolitionist
+## Abschaffung
+Abolitionisten und Aufstände wie die Revolution in Haiti (1791–1804) bekämpften das System. Großbritannien verbot den Handel 1807 und die Sklaverei 1833, die USA 1865, Brasilien als letztes Land Amerikas 1888. Die Folgen – Rassismus und Ungleichheit – wirken bis heute.
+- Rund 12,5 Millionen Menschen verschleppt, Dreieckshandel.
+- Grundlage der Plantagenwirtschaft in Amerika.
+- Abgeschafft im 19. Jahrhundert, zuletzt 1888 in Brasilien.
+
+=== amerikanischer-buergerkrieg
+cat: geschichte
+title: Der Amerikanische Bürgerkrieg
+teaser: Nord gegen Süd, 620.000 Tote – und am Ende das Verbot der Sklaverei.
+meta: USA, 1861–1865
+cover: Sezessionskrieg | Schlacht von Gettysburg (Gemälde)
+## Streit um die Sklaverei
+Der industrialisierte Norden und der von Baumwollplantagen abhängige Süden stritten darüber, ob neue Staaten die Sklaverei erlauben dürfen. Nach der Wahl Abraham Lincolns 1860 traten elf Südstaaten aus der Union aus und gründeten die Konföderierten Staaten.
+## Ein moderner Krieg
+Eisenbahnen, Telegrafen und Massenarmeen prägten den Krieg. 1863 erklärte Lincoln mit der Emanzipationsproklamation die Sklaven in den Rebellenstaaten für frei. Die Schlacht von Gettysburg im selben Jahr wurde zum Wendepunkt; Lincolns kurze „Gettysburg Address“ ist eine der berühmtesten Reden der US-Geschichte.
+img: Abraham Lincoln | Abraham Lincoln, 1863
+## Sieg und Mord
+1865 kapitulierte der Süden. Wenige Tage später wurde Lincoln in einem Theater erschossen. Der 13. Verfassungszusatz verbot die Sklaverei. Doch im Süden folgten Rassentrennung und Diskriminierung – bis zur Bürgerrechtsbewegung der 1960er.
+- Konflikt um Sklaverei, 11 Südstaaten traten aus.
+- 1863 Emanzipationsproklamation und Gettysburg.
+- 1865 Sieg der Union, Abschaffung der Sklaverei, Lincoln ermordet.
+
+=== kongokonferenz-kolonialismus
+cat: geschichte
+title: Der Wettlauf um Afrika
+teaser: 1884 teilten europäische Mächte in Berlin einen Kontinent unter sich auf – ohne einen einzigen Afrikaner.
+meta: 1880–1914
+cover: Kongokonferenz | Die Kongokonferenz in Berlin 1884
+## Die Berliner Konferenz
+Auf Einladung Bismarcks legten 13 europäische Staaten und die USA 1884/85 Regeln für die Inbesitznahme Afrikas fest. Wer ein Gebiet effektiv besetzte und andere informierte, durfte es beanspruchen. Bis 1914 waren nur noch Äthiopien und Liberia unabhängig.
+## Grenzen mit dem Lineal
+Viele Grenzen wurden ohne Rücksicht auf Völker, Sprachen und Religionen gezogen – oft als gerade Linien. Diese Grenzen bestehen größtenteils bis heute und sind eine Ursache späterer Konflikte.
+img: Kongogräuel | Opfer der Gewaltherrschaft im Kongo-Freistaat
+## Der Kongo-Freistaat
+Besonders grausam war die Herrschaft des belgischen Königs Leopold II. über den Kongo, sein Privatbesitz. Für Kautschuk wurden Menschen versklavt, verstümmelt und getötet; Millionen starben. Internationale Proteste zwangen Belgien 1908, die Kolonie zu übernehmen. Deutschland besaß Kolonien wie Deutsch-Südwestafrika, Kamerun, Togo und Deutsch-Ostafrika.
+- 1884/85 Berliner Kongokonferenz regelt die Aufteilung.
+- Willkürliche Grenzen prägen Afrika bis heute.
+- Extreme Gewalt, etwa im Kongo unter Leopold II.
+
+=== herero-nama
+cat: geschichte
+title: Völkermord an den Herero und Nama
+teaser: Der erste Genozid des 20. Jahrhunderts wurde von deutschen Truppen in Namibia verübt.
+meta: Deutsch-Südwestafrika, 1904–1908
+cover: Völkermord an den Herero und Nama | Überlebende Herero nach der Flucht durch die Omaheke-Wüste
+## Aufstand gegen Landraub
+In der Kolonie Deutsch-Südwestafrika, dem heutigen Namibia, verloren die Herero ihr Land und Vieh an deutsche Siedler. 1904 erhoben sie sich, später auch die Nama. Generalleutnant Lothar von Trotha übernahm das Kommando.
+## Der Vernichtungsbefehl
+Nach der Schlacht am Waterberg trieben die Truppen die Herero in die wasserlose Omaheke-Wüste und riegelten sie ab. Trotha erließ einen Befehl, jeden Herero zu erschießen. Überlebende kamen in Konzentrationslager, wo viele an Hunger und Zwangsarbeit starben. Etwa 65.000 Herero und 10.000 Nama kamen ums Leben.
+img: Haifischinsel | Die Haifischinsel bei Lüderitz, Ort eines Konzentrationslagers
+## Späte Anerkennung
+Erst 2021 erkannte die Bundesregierung die Verbrechen als Völkermord an und sagte Hilfen in Höhe von 1,1 Milliarden Euro zu. Viele Nachfahren kritisieren, dass sie nicht direkt beteiligt waren und keine formellen Reparationen gezahlt werden.
+- 1904–1908 in der Kolonie Deutsch-Südwestafrika (Namibia).
+- Vernichtungsbefehl, Wüste und Lager: Zehntausende Tote.
+- 2021 von Deutschland als Völkermord anerkannt.
+
+=== erster-weltkrieg-ursachen
+cat: geschichte
+title: Der Weg in den Ersten Weltkrieg
+teaser: Zwei Schüsse in Sarajevo – und binnen fünf Wochen stand ganz Europa im Krieg.
+meta: 1914
+cover: Attentat von Sarajevo | Festnahme nach dem Attentat in Sarajevo, 28. Juni 1914
+## Pulverfass Europa
+Um 1900 standen sich zwei Bündnisse gegenüber: Deutschland und Österreich-Ungarn auf der einen, Frankreich, Russland und Großbritannien (Entente) auf der anderen Seite. Wettrüsten, Nationalismus, koloniale Rivalität und Spannungen auf dem Balkan schufen ein explosives Klima.
+## Das Attentat
+Am 28. Juni 1914 erschoss der bosnisch-serbische Nationalist Gavrilo Princip in Sarajevo den österreichischen Thronfolger Franz Ferdinand und seine Frau. Deutschland sicherte Österreich bedingungslose Unterstützung zu („Blankoscheck“). Österreich stellte Serbien ein unannehmbares Ultimatum.
+img: Franz Ferdinand von Österreich-Este | Erzherzog Franz Ferdinand
+## Die Julikrise
+Ende Juli erklärte Österreich Serbien den Krieg, Russland mobilisierte, Deutschland erklärte Russland und Frankreich den Krieg und marschierte durch das neutrale Belgien – woraufhin Großbritannien eintrat. Historiker streiten bis heute über die Schuldfrage; Christopher Clark sprach von „Schlafwandlern“.
+- Bündnissysteme, Wettrüsten und Nationalismus.
+- 28.6.1914 Attentat von Sarajevo als Auslöser.
+- Julikrise: Kettenreaktion von Kriegserklärungen.

@@ -1,0 +1,203 @@
+=== kreuzzuege
+cat: geschichte
+title: Die Kreuzzüge
+teaser: „Gott will es!“ – Fast 200 Jahre lang zogen Ritter ins Heilige Land. Am Ende blieb vor allem Misstrauen.
+meta: 1096–1291
+cover: Kreuzzug | Belagerung Jerusalems 1099 (mittelalterliche Buchmalerei)
+## Der Aufruf von Clermont
+1095 rief Papst Urban II. dazu auf, Jerusalem von den muslimischen Seldschuken zu befreien. Anlass war ein Hilfegesuch des byzantinischen Kaisers. Den Kämpfern wurde der Erlass ihrer Sünden versprochen – für viele auch eine Chance auf Land und Beute.
+## Eroberung und Gewalt
+Der Erste Kreuzzug eroberte 1099 Jerusalem und richtete ein Blutbad unter Muslimen und Juden an. Schon auf dem Weg dorthin kam es in rheinischen Städten zu Pogromen. 1187 eroberte Sultan Saladin Jerusalem zurück. Der Vierte Kreuzzug plünderte 1204 sogar das christliche Konstantinopel.
+img: Saladin | Sultan Saladin
+## Bilanz
+1291 fiel mit Akkon die letzte Kreuzfahrerbastion. Langfristig förderten die Kreuzzüge den Handel italienischer Städte wie Venedig und Genua und den Austausch von Wissen und Waren. Im Nahen Osten gelten sie bis heute als Symbol westlicher Aggression.
+- Ausgerufen 1095 von Papst Urban II., Eroberung Jerusalems 1099.
+- Begleitet von Massakern, auch an Juden in Europa.
+- 1291 Ende mit dem Fall Akkons.
+
+=== magna-carta
+cat: geschichte
+title: Magna Carta
+teaser: 1215 zwangen englische Barone ihren König, sich an Gesetze zu halten – ein Meilenstein des Rechtsstaats.
+meta: England, 1215
+cover: Magna Carta | Eine der erhaltenen Abschriften der Magna Carta
+## Ein König unter Druck
+König Johann Ohneland hatte Kriege in Frankreich verloren und seine Barone mit hohen Abgaben verärgert. 1215 rebellierten sie und zwangen ihn auf der Wiese von Runnymede, die „Große Urkunde der Freiheiten“ zu besiegeln.
+## Was drinsteht
+Die wichtigste Klausel: Kein freier Mann darf verhaftet, enteignet oder verbannt werden, außer durch ein rechtmäßiges Urteil seiner Standesgenossen oder nach dem Gesetz des Landes. Außerdem durfte der König bestimmte Abgaben nur mit Zustimmung des Rates erheben.
+img: Johann Ohneland | König Johann Ohneland
+## Ein Mythos mit Wirkung
+Der Papst erklärte die Urkunde schon nach wenigen Wochen für nichtig, und sie schützte zunächst vor allem den Adel. Doch sie wurde immer wieder bestätigt und später zum Symbol: Auch der Herrscher steht nicht über dem Recht. Die US-Verfassung und die Menschenrechtserklärung berufen sich auf diese Tradition.
+- 1215 König Johann von den Baronen abgerungen.
+- Kern: Schutz vor willkürlicher Verhaftung, Steuern nur mit Zustimmung.
+- Gilt als frühes Fundament von Rechtsstaat und Parlamentarismus.
+
+=== dschingis-khan
+cat: geschichte
+title: Dschingis Khan und das Mongolenreich
+teaser: Ein Waisenjunge aus der Steppe schuf das größte zusammenhängende Landreich der Geschichte.
+meta: Mongolei, 1206–1368
+cover: Dschingis Khan | Porträt Dschingis Khans (14. Jahrhundert)
+## Vom Ausgestoßenen zum Großkhan
+Temüdschin wuchs nach dem Tod seines Vaters in Armut auf. Er einte die zerstrittenen Steppenstämme und wurde 1206 zum „Dschingis Khan“ ausgerufen. Seine Reiterarmee war straff in Zehner-, Hunderter- und Tausenderschaften organisiert und extrem beweglich.
+## Eroberung und Terror
+Die Mongolen eroberten Nordchina, Zentralasien, Persien und Russland. Städte, die sich wehrten, wurden oft vollständig zerstört. 1241 siegten sie bei Liegnitz in Schlesien – Europa blieb nur verschont, weil der Großkhan starb und die Heerführer heimkehrten.
+img: Mongolisches Reich | Ausdehnung des Mongolischen Reiches
+## Pax Mongolica
+In ihrem Reich herrschte relative Sicherheit auf den Handelswegen. Kaufleute wie Marco Polo reisten bis an den Hof von Kublai Khan in China. Allerdings verbreitete sich auf diesen Wegen wohl auch die Pest. 1368 endete die mongolische Herrschaft in China.
+- 1206 einte Dschingis Khan die Mongolen.
+- Größtes zusammenhängendes Landreich der Geschichte.
+- Brutal in der Eroberung, aber förderlich für Handel entlang der Seidenstraße.
+
+=== hanse
+cat: geschichte
+title: Die Hanse
+teaser: Ein Bund von Kaufleuten und Städten beherrschte 300 Jahre den Handel in Nord- und Ostsee.
+meta: Nordeuropa, ca. 1150–1669
+cover: Hanse | Das Holstentor in Lübeck
+## Kaufleute schließen sich zusammen
+Die Hanse begann als Gemeinschaft norddeutscher Fernhändler, die sich gegenseitig schützten. Später schlossen sich bis zu 200 Städte an, von Brügge bis Nowgorod. Hauptort war Lübeck, wo der Hansetag tagte.
+## Die Kogge und das Kontor
+Mit bauchigen Koggen transportierten Hansekaufleute Getreide, Pelze, Wachs, Salz, Hering und Tuch. In London (Stalhof), Bergen, Brügge und Nowgorod unterhielten sie Kontore mit eigenen Rechten. Die Hanse führte sogar Krieg: 1370 musste Dänemark im Frieden von Stralsund nachgeben.
+img: Kogge | Nachbau einer Hansekogge
+## Niedergang und Erbe
+Mit dem Aufstieg der Territorialstaaten, neuer Handelsrouten über den Atlantik und starker Konkurrenz aus Holland verlor die Hanse an Bedeutung. 1669 fand der letzte Hansetag statt. Bis heute tragen Hamburg, Bremen und Lübeck „Hansestadt“ im Namen – daher das „H“ auf Autokennzeichen wie HH oder HB.
+- Bund von Kaufleuten und Städten, Zentrum Lübeck.
+- Handel von London bis Nowgorod mit Koggen und Kontoren.
+- Bis heute im Namen vieler „Hansestädte“ sichtbar.
+
+=== gutenberg-buchdruck
+cat: geschichte
+title: Gutenbergs Buchdruck
+teaser: Bewegliche Lettern aus Metall – die Medienrevolution, die Reformation und Wissenschaft erst möglich machte.
+meta: Mainz, um 1450
+cover: Johannes Gutenberg | Johannes Gutenberg (spätere Darstellung)
+## Die Erfindung
+Johannes Gutenberg entwickelte um 1450 in Mainz ein Verfahren mit beweglichen Metalllettern. Entscheidend waren ein Handgießinstrument für exakt gleiche Buchstaben, eine Legierung aus Blei, Zinn und Antimon, ölbasierte Druckfarbe und eine umgebaute Weinpresse.
+## Die Gutenberg-Bibel
+Um 1454 druckte er die 42-zeilige Bibel in etwa 180 Exemplaren, rund 49 sind erhalten. Gutenberg selbst wurde nicht reich: Er verlor seine Werkstatt im Rechtsstreit an seinen Geldgeber Johann Fust.
+img: Gutenberg-Bibel | Seite aus der Gutenberg-Bibel
+## Eine Medienrevolution
+Bis 1500 entstanden in Europa schätzungsweise 20 Millionen Drucke. Bücher wurden billiger, Wissen verbreitete sich schneller, Sprachen vereinheitlichten sich. Ohne die Druckerpresse hätte sich Luthers Reformation kaum so rasant ausgebreitet. In Korea und China gab es bewegliche Lettern übrigens schon früher.
+- Bewegliche Metalllettern, um 1450 in Mainz.
+- Gutenberg-Bibel um 1454, rund 49 Exemplare erhalten.
+- Grundlage für Reformation, Wissenschaft und moderne Öffentlichkeit.
+
+=== fall-konstantinopels
+cat: geschichte
+title: Der Fall Konstantinopels
+teaser: 1453 schoss eine Riesenkanone die Mauern einer 1.000-jährigen Stadt sturmreif – Byzanz war Geschichte.
+meta: 29. Mai 1453
+cover: Eroberung von Konstantinopel | Belagerung Konstantinopels 1453 (französische Buchmalerei)
+## Die letzte Bastion Roms
+Konstantinopel war über 1.000 Jahre Hauptstadt des Oströmischen (Byzantinischen) Reiches. Seine dreifache Landmauer galt als uneinnehmbar. Doch im 15. Jahrhundert war das Reich auf kaum mehr als die Stadt geschrumpft, umzingelt von den Osmanen.
+## Kanonen und Schiffe über Land
+Sultan Mehmed II. belagerte die Stadt 1453 mit vielleicht 80.000 Mann gegen weniger als 10.000 Verteidiger. Riesige Kanonen beschossen die Mauern. Um die Sperrkette im Goldenen Horn zu umgehen, ließ er Schiffe über Land in die Bucht ziehen. Am 29. Mai fiel die Stadt, der letzte Kaiser Konstantin XI. starb im Kampf.
+img: Mehmed II. | Sultan Mehmed II., „der Eroberer“
+## Folgen
+Konstantinopel wurde als Istanbul Hauptstadt des Osmanischen Reichs, die Hagia Sophia eine Moschee. Griechische Gelehrte flohen mit antiken Handschriften nach Italien und befeuerten die Renaissance. Manche Historiker lassen mit 1453 das Mittelalter enden.
+- 29. Mai 1453: Osmanen unter Mehmed II. erobern Konstantinopel.
+- Ende des Byzantinischen Reichs nach über 1.000 Jahren.
+- Flüchtende Gelehrte stärkten die Renaissance in Italien.
+
+=== kolumbus-1492
+cat: geschichte
+title: Kolumbus und 1492
+teaser: Er suchte Indien und fand Amerika – und hielt bis zu seinem Tod daran fest, in Asien gewesen zu sein.
+meta: 1492
+cover: Christoph Kolumbus | Christoph Kolumbus (posthumes Porträt)
+## Der Westweg nach Indien
+Der Genuese Christoph Kolumbus wollte Asien erreichen, indem er nach Westen segelte. Dass die Erde eine Kugel ist, wussten Gebildete längst – Kolumbus hatte ihren Umfang aber stark unterschätzt. Nach langem Werben finanzierten ihn die spanischen Könige Isabella und Ferdinand.
+## Landung in der Karibik
+Mit drei Schiffen – Santa María, Pinta und Niña – erreichte er am 12. Oktober 1492 eine Insel der Bahamas. Er nannte die Bewohner „Indios“. Auf vier Reisen erkundete er die Karibik und die Küste Mittelamerikas.
+img: Santa María (Schiff) | Nachbau der Santa María
+## Die Folgen
+Mit 1492 begann die europäische Kolonisierung Amerikas. Eingeschleppte Krankheiten wie Pocken töteten einen großen Teil der indigenen Bevölkerung. Durch den „Kolumbianischen Austausch“ kamen Kartoffeln, Mais und Tomaten nach Europa, Pferde und Weizen nach Amerika. Benannt wurde der Kontinent nach Amerigo Vespucci.
+- 12. Oktober 1492: Kolumbus erreicht die Bahamas.
+- Er glaubte bis zuletzt, in Asien gewesen zu sein.
+- Beginn der Kolonisierung – mit verheerenden Folgen für die Ureinwohner.
+
+=== reformation
+cat: geschichte
+title: Die Reformation
+teaser: Ein Mönch kritisiert den Ablasshandel – und spaltet die westliche Christenheit.
+meta: 1517
+cover: Martin Luther | Martin Luther, Gemälde von Lucas Cranach d. Ä.
+## 95 Thesen
+Am 31. Oktober 1517 veröffentlichte der Augustinermönch Martin Luther in Wittenberg 95 Thesen gegen den Ablasshandel – den Verkauf von Sündenstrafen-Erlass, mit dem unter anderem der Neubau des Petersdoms finanziert wurde. Ob er sie wirklich an die Kirchentür nagelte, ist umstritten.
+## „Hier stehe ich“
+Luther lehrte: Der Mensch wird allein durch Gottes Gnade und den Glauben gerettet, nicht durch gute Werke oder Geld; maßgeblich ist allein die Bibel. 1521 weigerte er sich vor dem Reichstag zu Worms, zu widerrufen, und wurde geächtet. Versteckt auf der Wartburg übersetzte er das Neue Testament ins Deutsche.
+img: Wartburg | Die Wartburg bei Eisenach
+## Folgen
+Dank des Buchdrucks verbreiteten sich seine Schriften rasend schnell. Weitere Reformatoren wie Zwingli und Calvin folgten. Der Augsburger Religionsfrieden 1555 legte fest: Der Landesherr bestimmt die Konfession („cuius regio, eius religio“). Luthers Bibel prägte die deutsche Schriftsprache.
+- 1517: Luthers 95 Thesen gegen den Ablasshandel.
+- Kernlehre: Rettung allein aus Gnade, Glaube und Schrift.
+- Spaltung der Kirche; Luthers Bibel prägte das Hochdeutsche.
+
+=== bauernkrieg
+cat: geschichte
+title: Der Deutsche Bauernkrieg
+teaser: 1525 erhoben sich Zehntausende Bauern für ihre Rechte – und wurden blutig niedergeschlagen.
+meta: 1524–1526
+cover: Deutscher Bauernkrieg | Aufständische Bauern (Holzschnitt, 16. Jahrhundert)
+## Die zwölf Artikel
+Bauern litten unter steigenden Abgaben, Frondiensten und Leibeigenschaft. Ermutigt durch die Reformation forderten sie 1525 in den „Zwölf Artikeln“ von Memmingen unter anderem die Abschaffung der Leibeigenschaft und die freie Wahl der Pfarrer. Sie gelten als eine der ersten Menschenrechtsforderungen in Europa.
+## Aufstand und Niederlage
+Der Aufstand erfasste Süddeutschland, Thüringen und Teile Österreichs. Die schlecht bewaffneten Haufen hatten gegen die Heere der Fürsten keine Chance. In der Schlacht bei Frankenhausen 1525 wurde das Heer des radikalen Predigers Thomas Müntzer vernichtet. Insgesamt starben etwa 70.000 bis 75.000 Bauern.
+img: Thomas Müntzer | Thomas Müntzer
+## Luthers Haltung
+Luther hatte anfangs Verständnis gezeigt, wandte sich dann aber in der Schrift „Wider die räuberischen und mörderischen Rotten der Bauern“ scharf gegen sie. Die Reformation wurde damit endgültig zur Sache der Fürsten.
+- 1525: Zwölf Artikel – Forderung nach Ende der Leibeigenschaft.
+- Blutige Niederschlagung, rund 70.000 Tote.
+- Luther stellte sich auf die Seite der Fürsten.
+
+=== dreissigjaehriger-krieg
+cat: geschichte
+title: Der Dreißigjährige Krieg
+teaser: Er begann mit einem Fenstersturz in Prag und kostete in Teilen Deutschlands jeden Dritten das Leben.
+meta: 1618–1648
+cover: Dreißigjähriger Krieg | Die großen Leiden des Krieges (Radierung von Jacques Callot, 1633)
+## Der Prager Fenstersturz
+1618 warfen protestantische Adlige in Prag zwei kaiserliche Statthalter aus dem Fenster – beide überlebten. Daraus entwickelte sich ein Krieg zwischen katholischen und protestantischen Mächten, der bald zum europäischen Machtkampf wurde: Dänemark, Schweden und das katholische Frankreich griffen gegen den habsburgischen Kaiser ein.
+## Söldner und Verwüstung
+Feldherren wie Wallenstein und Tilly führten riesige Söldnerheere, die sich aus dem Land ernährten: „Der Krieg ernährt den Krieg.“ Plünderungen, Hunger und Seuchen verwüsteten das Reich. 1631 wurde Magdeburg zerstört, rund 20.000 Menschen starben. Deutschland verlor etwa ein Drittel seiner Bevölkerung.
+img: Albrecht von Wallenstein | Albrecht von Wallenstein, kaiserlicher Feldherr
+## Kriegsende
+Der Westfälische Frieden von 1648 beendete den Krieg (eigene Karte). Literarisch verarbeitete Grimmelshausen den Krieg im „Simplicissimus“, Schiller später in der „Wallenstein“-Trilogie und Brecht in „Mutter Courage“.
+- 1618 Prager Fenstersturz, Konfessions- und Machtkrieg.
+- Söldnerheere, Hunger und Pest – etwa ein Drittel der Deutschen starb.
+- 1648 beendet durch den Westfälischen Frieden.
+
+=== westfaelischer-frieden
+cat: geschichte
+title: Der Westfälische Frieden
+teaser: Fünf Jahre Verhandlungen in Münster und Osnabrück – und das Prinzip souveräner Staaten war geboren.
+meta: 1648
+cover: Westfälischer Friede | Beschwörung des Friedens von Münster (Gemälde von Gerard ter Borch)
+## Ein Kongress ohne Vorbild
+Ab 1643 verhandelten Gesandte aus ganz Europa – in Münster die katholischen, in Osnabrück die protestantischen Mächte. Rund 150 Delegationen waren beteiligt. Am 24. Oktober 1648 wurden die Verträge unterzeichnet.
+## Die Ergebnisse
+Die Calvinisten wurden als dritte Konfession anerkannt. Die Reichsfürsten erhielten weitgehende Souveränität, das Recht auf eigene Bündnisse. Die Schweiz und die Niederlande schieden offiziell aus dem Reich aus. Frankreich und Schweden gewannen Gebiete.
+img: Friedenssaal (Münster) | Der Friedenssaal im Rathaus Münster
+## Das „westfälische System“
+Der Frieden gilt als Geburtsstunde einer Ordnung gleichberechtigter, souveräner Staaten, die sich nicht in innere Angelegenheiten anderer einmischen. Historiker betonen, dass diese Deutung zugespitzt ist – doch das Prinzip der Souveränität prägt das Völkerrecht bis heute.
+- 1648 in Münster und Osnabrück, Ende des Dreißigjährigen Kriegs.
+- Gleichberechtigung der Konfessionen, Souveränität der Fürsten.
+- Gilt als Ursprung des modernen Staatensystems.
+
+=== ludwig-xiv
+cat: geschichte
+title: Ludwig XIV. und der Absolutismus
+teaser: „Der Staat bin ich“ – der Sonnenkönig regierte 72 Jahre und machte Versailles zum Vorbild für ganz Europa.
+meta: Frankreich, 1643–1715
+cover: Ludwig XIV. | Ludwig XIV. im Krönungsornat (Hyacinthe Rigaud, 1701)
+## König mit vier Jahren
+Ludwig XIV. wurde 1643 als Kind König; nach dem Tod seines Ministers Mazarin regierte er ab 1661 selbst. Mit 72 Jahren hält er den Rekord der längsten Regentschaft eines europäischen Monarchen. Den berühmten Satz „L’État, c’est moi“ hat er wohl nie gesagt – er beschreibt aber sein Selbstverständnis.
+## Herrschaft aus Versailles
+Im prunkvollen Schloss Versailles band er den Adel an den Hof, wo dieser um Gunst und Rituale konkurrierte, statt zu rebellieren. Ein stehendes Heer und Beamte sicherten seine Macht. Sein Finanzminister Colbert förderte Manufakturen und Handel (Merkantilismus).
+img: Schloss Versailles | Schloss Versailles
+## Glanz und Schulden
+Ludwig führte zahlreiche Kriege und vertrieb mit der Aufhebung des Edikts von Nantes 1685 die Hugenotten – viele flohen nach Brandenburg-Preußen. Er hinterließ einen hoch verschuldeten Staat, eine der Ursachen der späteren Revolution.
+- Sonnenkönig, regierte 1643–1715.
+- Absolutismus: Macht beim König, Adel am Hof in Versailles gebunden.
+- Kriege und Prunk führten zu hohen Staatsschulden.

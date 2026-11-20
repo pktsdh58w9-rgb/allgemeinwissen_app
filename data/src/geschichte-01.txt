@@ -1,0 +1,203 @@
+=== pyramiden-gizeh
+cat: geschichte
+title: Die Pyramiden von Gizeh
+teaser: 4.500 Jahre alt, 2,3 Millionen Steinblöcke – und gebaut nicht von Sklaven, sondern von bezahlten Arbeitern.
+meta: Ägypten, um 2600–2500 v. Chr.
+cover: Pyramiden von Gizeh | Die Pyramiden von Gizeh
+## Gräber für Gottkönige
+Die drei großen Pyramiden entstanden für die Pharaonen Cheops, Chephren und Mykerinos der 4. Dynastie. Die Cheops-Pyramide war mit ursprünglich rund 146 Metern fast 4.000 Jahre lang das höchste Bauwerk der Welt. Sie sollte dem König den Aufstieg zu den Göttern sichern.
+## Wer hat sie gebaut?
+Arbeitersiedlungen und Gräber in der Nähe zeigen: Die Bauleute waren gut versorgte, organisierte Arbeiter, zum Teil Bauern, die während der Nilflut nicht auf den Feldern arbeiten konnten. Die Blöcke wurden vermutlich über Rampen gezogen; Kalkstein kam aus der Umgebung, Granit per Schiff aus Assuan.
+img: Sphinx von Gizeh | Die Große Sphinx vor der Chephren-Pyramide
+## Das letzte Weltwunder
+Von den sieben Weltwundern der Antike sind nur die Pyramiden erhalten. Ihre einst glatte, weiße Verkleidung aus Kalkstein wurde im Mittelalter abgetragen und in Kairo verbaut. Übrigens lebte Kleopatra zeitlich näher an der Mondlandung als am Bau der Cheops-Pyramide.
+- Grabmäler der Pharaonen Cheops, Chephren und Mykerinos, um 2500 v. Chr.
+- Gebaut von bezahlten, organisierten Arbeitern – nicht von Sklaven.
+- Einziges erhaltenes Weltwunder der Antike.
+
+=== codex-hammurapi
+cat: geschichte
+title: Codex Hammurapi
+teaser: „Auge um Auge“ – eine der ältesten Gesetzessammlungen der Welt, eingemeißelt in eine 2,25 Meter hohe Stele.
+meta: Babylon, um 1750 v. Chr.
+cover: Codex Hammurapi | Die Stele mit dem Codex Hammurapi im Louvre
+## Gesetze in Stein
+König Hammurapi von Babylon ließ um 1750 v. Chr. rund 280 Rechtssätze in Keilschrift auf eine Basaltstele schreiben. Oben zeigt ein Relief, wie er die Gesetze vom Sonnengott Schamasch empfängt. Die Stele wurde 1901 im iranischen Susa gefunden und steht heute im Louvre.
+## Was geregelt wurde
+Die Gesetze behandeln Diebstahl, Handel, Ehe, Erbe, Löhne und sogar Pfusch am Bau: Stürzt ein Haus ein und tötet den Besitzer, soll der Baumeister sterben. Strafen hingen vom Stand ab – wer einen Sklaven verletzte, zahlte weniger als bei einem Freien.
+img: Hammurapi | Relief: Hammurapi vor dem Sonnengott Schamasch
+## Warum er wichtig ist
+Der Codex ist nicht das allerälteste Gesetzbuch – das Gesetz des Ur-Nammu ist rund 300 Jahre älter –, aber das bekannteste. Sein Grundgedanke: Recht soll öffentlich und für alle lesbar sein, statt allein vom Willen eines Richters abzuhängen.
+- Rund 280 Gesetze, um 1750 v. Chr. unter König Hammurapi.
+- Talionsprinzip „Auge um Auge“, aber Strafen je nach Stand verschieden.
+- Frühes Beispiel für öffentlich festgeschriebenes Recht.
+
+=== attische-demokratie
+cat: geschichte
+title: Die attische Demokratie
+teaser: Athen erfand die Herrschaft des Volkes – aber wählen durften nur etwa 15 Prozent der Bewohner.
+meta: Athen, 5. Jh. v. Chr.
+cover: Attische Demokratie | Die Pnyx in Athen, Versammlungsort der Volksversammlung
+## Reformen von Kleisthenes
+508/507 v. Chr. ordnete Kleisthenes die Bürgerschaft neu und legte den Grundstein der Demokratie. Unter Perikles erreichte sie im 5. Jahrhundert ihren Höhepunkt. Das Wort bedeutet „Herrschaft des Volkes“ (démos = Volk, kratía = Herrschaft).
+## Direkt und per Los
+Alle männlichen Vollbürger konnten in der Volksversammlung auf der Pnyx mitreden und abstimmen – über Krieg, Gesetze und Finanzen. Viele Ämter wurden per Los vergeben, denn Wahlen galten als aristokratisch. Mit dem Scherbengericht (Ostrakismos) konnte man mächtige Politiker für zehn Jahre verbannen.
+img: Ostrakismos | Ostraka: Tonscherben mit Namen für das Scherbengericht
+## Die Grenzen
+Frauen, Sklaven und Zugewanderte (Metöken) waren ausgeschlossen. Philosophen wie Platon kritisierten die Demokratie als Herrschaft der Unwissenden – Athen hatte schließlich seinen Lehrer Sokrates zum Tode verurteilt.
+- Begründet 508/507 v. Chr. durch Kleisthenes, Blüte unter Perikles.
+- Direkte Demokratie mit Losverfahren und Scherbengericht.
+- Nur männliche Bürger durften teilnehmen.
+
+=== alexander-der-grosse
+cat: geschichte
+title: Alexander der Große
+teaser: Mit 32 Jahren tot – nachdem er ein Reich von Griechenland bis Indien erobert hatte.
+meta: Makedonien, 356–323 v. Chr.
+cover: Alexander der Große | Alexander im Alexandermosaik aus Pompeji
+## Schüler des Aristoteles
+Alexander wurde 356 v. Chr. als Sohn König Philipps II. von Makedonien geboren; sein Lehrer war der Philosoph Aristoteles. Mit 20 Jahren bestieg er nach der Ermordung seines Vaters den Thron.
+## Der Feldzug gegen Persien
+Ab 334 v. Chr. besiegte er das riesige Perserreich – in den Schlachten am Granikos, bei Issos (333, „drei-drei-drei, bei Issos Keilerei“) und Gaugamela. Er zog weiter bis nach Ägypten, wo er Alexandria gründete, und bis zum Indus. Erst seine erschöpften Soldaten zwangen ihn zur Umkehr.
+img: Alexanderschlacht | Das Alexandermosaik zeigt die Schlacht gegen den Perserkönig Dareios III.
+## Der Hellenismus
+Alexander starb 323 v. Chr. in Babylon, vermutlich an einem Fieber. Sein Reich zerfiel unter seinen Generälen, den Diadochen. Doch griechische Sprache und Kultur verbreiteten sich im ganzen östlichen Mittelmeerraum – das Zeitalter des Hellenismus begann.
+- Eroberte in nur elf Jahren das Perserreich bis zum Indus.
+- Gründete zahlreiche Städte, allen voran Alexandria.
+- Sein Erbe: die Verbreitung der griechischen Kultur (Hellenismus).
+
+=== roemische-republik
+cat: geschichte
+title: Die Römische Republik
+teaser: Fast 500 Jahre lang regierte Rom ohne König – mit zwei Konsuln, die sich gegenseitig kontrollierten.
+meta: Rom, 509–27 v. Chr.
+cover: Römische Republik | Das Forum Romanum, politisches Zentrum der Republik
+## Nie wieder Könige
+Der Überlieferung nach vertrieben die Römer 509 v. Chr. ihren letzten König Tarquinius Superbus. Statt eines Herrschers wählten sie jährlich zwei Konsuln, die sich gegenseitig blockieren konnten. In Notlagen durfte ein Diktator für höchstens sechs Monate regieren.
+## Senat und Volk
+Das Motto lautete SPQR – „Senatus Populusque Romanus“, Senat und Volk von Rom. Der Senat aus ehemaligen Amtsträgern hatte großen Einfluss, Volksversammlungen wählten Beamte und beschlossen Gesetze. In den Ständekämpfen erstritten die einfachen Bürger (Plebejer) Mitsprache, etwa durch Volkstribune mit Vetorecht.
+img: Römischer Senat | Cicero klagt im Senat Catilina an (Gemälde von Cesare Maccari)
+## Untergang in Bürgerkriegen
+Mit den Eroberungen wuchsen Reichtum, Ungleichheit und die Macht der Feldherren. Im 1. Jahrhundert v. Chr. stürzten Bürgerkriege die Republik – von Marius und Sulla bis Caesar. 27 v. Chr. wurde Augustus der erste Kaiser.
+- Republik von 509 bis 27 v. Chr. mit jährlich zwei Konsuln.
+- SPQR: Machtteilung zwischen Senat, Beamten und Volksversammlungen.
+- Endete in Bürgerkriegen und dem Kaisertum des Augustus.
+
+=== julius-caesar
+cat: geschichte
+title: Julius Caesar
+teaser: Er überschritt den Rubikon, eroberte Gallien – und starb an den Iden des März durch 23 Dolchstiche.
+meta: Rom, 100–44 v. Chr.
+cover: Gaius Iulius Caesar | Büste Julius Caesars
+## Eroberer Galliens
+Gaius Julius Caesar eroberte zwischen 58 und 50 v. Chr. Gallien, das heutige Frankreich und Belgien. Seine Kriegsberichte „De bello Gallico“ lesen Lateinschüler bis heute. Der Sieg über Vercingetorix bei Alesia 52 v. Chr. machte ihn zum mächtigsten Mann Roms.
+## „Der Würfel ist gefallen“
+Als der Senat ihn 49 v. Chr. aufforderte, sein Heer aufzulösen, überschritt er mit seinen Truppen den Grenzfluss Rubikon – ein Akt des Bürgerkriegs. Er besiegte seinen Rivalen Pompeius und ließ sich 44 v. Chr. zum Diktator auf Lebenszeit ernennen. Nebenbei reformierte er den Kalender: Der julianische Kalender galt in Europa über 1.600 Jahre.
+img: Vercingetorix | Vercingetorix ergibt sich Caesar (Gemälde von Lionel Royer, 1899)
+## Die Iden des März
+Am 15. März 44 v. Chr. ermordeten ihn Senatoren um Brutus und Cassius, die die Republik retten wollten. Erreicht haben sie das Gegenteil: Caesars Großneffe Octavian wurde als Augustus erster Kaiser. Sein Name lebt in „Kaiser“ und „Zar“ fort.
+- Eroberte Gallien und schrieb darüber „De bello Gallico“.
+- Löste mit dem Überschreiten des Rubikon einen Bürgerkrieg aus.
+- 44 v. Chr. ermordet – sein Name wurde zum Titel „Kaiser“.
+
+=== augustus-pax-romana
+cat: geschichte
+title: Augustus und die Pax Romana
+teaser: Rom wurde Kaiserreich, ohne dass es jemand so nannte – und erlebte 200 Jahre relativen Frieden.
+meta: Rom, 27 v. Chr. – 14 n. Chr.
+cover: Augustus | Die Augustus-Statue von Primaporta
+## Vom Octavian zum Augustus
+Nach Caesars Ermordung setzte sich sein Adoptivsohn Octavian im Bürgerkrieg durch, zuletzt 31 v. Chr. bei Actium gegen Marcus Antonius und Kleopatra. 27 v. Chr. erhielt er den Ehrennamen Augustus, „der Erhabene“. Der Monat August ist nach ihm benannt.
+## Der getarnte Kaiser
+Augustus vermied den Königstitel und nannte sich „Princeps“, erster Bürger. Die republikanischen Institutionen blieben formal bestehen, doch er kontrollierte Armee, Provinzen und Finanzen. Dieses System nennt man Prinzipat.
+img: Ara Pacis | Die Ara Pacis, der Friedensaltar des Augustus in Rom
+## Zwei Jahrhunderte Frieden
+Die folgende Pax Romana dauerte etwa bis 180 n. Chr. Handel blühte, Straßen und Aquädukte verbanden das Reich vom Atlantik bis zum Euphrat. Ganz friedlich war es nicht: 9 n. Chr. verlor Rom in der Varusschlacht drei Legionen gegen die Germanen unter Arminius.
+- Augustus wurde 27 v. Chr. erster römischer Kaiser (Prinzipat).
+- Er tarnte seine Alleinherrschaft als „erster Bürger“.
+- Pax Romana: rund 200 Jahre Stabilität und Wohlstand.
+
+=== untergang-westrom
+cat: geschichte
+title: Der Untergang Westroms
+teaser: 476 setzte ein germanischer Heerführer den letzten Kaiser ab – und kaum jemand bemerkte es.
+meta: Weströmisches Reich, 476 n. Chr.
+cover: Weströmisches Reich | Ruinen des Forum Romanum
+## Ein Reich wird geteilt
+Das riesige Römische Reich war schwer zu regieren. Nach dem Tod von Kaiser Theodosius 395 wurde es endgültig in eine West- und eine Osthälfte geteilt. Ostrom mit der Hauptstadt Konstantinopel bestand noch fast 1.000 Jahre weiter.
+## Viele Ursachen
+Historiker nennen über 200 Gründe für den Untergang: Bürgerkriege, Wirtschaftskrisen, Seuchen, die Abhängigkeit von germanischen Söldnern und der Druck der Völkerwanderung. 410 plünderten die Westgoten Rom, 455 die Vandalen – daher das Wort „Vandalismus“.
+img: Plünderung Roms (410) | Die Plünderung Roms durch die Westgoten 410
+## Das Jahr 476
+Der germanische Heerführer Odoaker setzte 476 den jungen Kaiser Romulus Augustulus ab und schickte die Kaiserinsignien nach Konstantinopel. Für die Zeitgenossen war das kein großer Einschnitt. Heute gilt das Datum als Ende der Antike und Beginn des Mittelalters.
+- 395 Teilung in West- und Ostrom; Ostrom bestand bis 1453.
+- Ursachen: innere Krisen und Druck germanischer Völker.
+- 476 setzte Odoaker den letzten weströmischen Kaiser ab.
+
+=== voelkerwanderung
+cat: geschichte
+title: Die Völkerwanderung
+teaser: Die Hunnen lösten eine Kettenreaktion aus, die Europas Landkarte neu zeichnete.
+meta: Europa, ca. 375–568
+cover: Völkerwanderung | Karte der Wanderungsbewegungen
+## Der Auslöser
+Um 375 drangen die Hunnen aus den Steppen Zentralasiens nach Westen vor. Sie verdrängten die Goten, die über die Donau ins Römische Reich flohen. 378 besiegten die Goten bei Adrianopel ein römisches Heer und töteten Kaiser Valens.
+## Neue Reiche
+In den folgenden zwei Jahrhunderten zogen Westgoten, Vandalen, Burgunder, Franken, Angeln und Sachsen durch Europa. Die Vandalen gründeten ein Reich in Nordafrika, Angeln und Sachsen besiedelten Britannien. Der Hunnenkönig Attila wurde 451 auf den Katalaunischen Feldern gestoppt.
+img: Attila | Attila, König der Hunnen (Darstellung aus dem 19. Jahrhundert)
+## Mehr als Wanderung
+Der Begriff ist umstritten: Es zogen oft Kriegerverbände, keine geschlossenen Völker, und viele Gruppen bildeten sich erst unterwegs. Als Ende gilt meist 568, als die Langobarden nach Italien kamen. Aus den germanischen Reichen entstanden später Frankreich, England und Deutschland.
+- Ausgelöst um 375 durch das Vordringen der Hunnen.
+- Germanische Gruppen gründeten Reiche auf römischem Boden.
+- Grundlage für die Staaten des mittelalterlichen Europa.
+
+=== karl-der-grosse
+cat: geschichte
+title: Karl der Große
+teaser: Am Weihnachtstag 800 wurde ein Frankenkönig zum Kaiser gekrönt – „Vater Europas“, der kaum schreiben konnte.
+meta: Frankenreich, 747/748–814
+cover: Karl der Große | Karl der Große auf einem Gemälde von Albrecht Dürer
+## Ein Reich durch Krieg
+Karl erweiterte das Frankenreich durch fast ständige Feldzüge: gegen Langobarden, Bayern, Awaren und in über 30 Jahren gegen die Sachsen, die er brutal christianisierte. Sein Reich umfasste schließlich große Teile des heutigen Frankreich, Deutschland, Italien und der Benelux-Staaten.
+## Kaiserkrönung in Rom
+An Weihnachten 800 krönte ihn Papst Leo III. in Rom zum Kaiser – erstmals seit dem Ende Westroms gab es wieder einen Kaiser im Westen. Damit begann die enge, oft konfliktreiche Verbindung von Kaisertum und Papsttum.
+img: Aachener Dom | Der Aachener Dom mit Karls Pfalzkapelle
+## Karolingische Renaissance
+Karl holte Gelehrte wie Alkuin an seinen Hof in Aachen, förderte Schulen und das Abschreiben antiker Texte. Die neue, gut lesbare Schrift, die karolingische Minuskel, ist der Vorläufer unserer Kleinbuchstaben. Er selbst lernte erst spät und mühsam zu schreiben.
+- Größter Herrscher der Franken, Kaiserkrönung am 25.12.800.
+- Residenz in Aachen, Reich als Kern des späteren Europa.
+- Bildungsreform: Die karolingische Minuskel prägt bis heute unsere Schrift.
+
+=== wikinger
+cat: geschichte
+title: Die Wikinger
+teaser: Keine Hörner auf den Helmen – dafür in Amerika, 500 Jahre vor Kolumbus.
+meta: Skandinavien, ca. 793–1066
+cover: Wikinger | Nachbau eines Wikingerschiffs
+## Überfall auf Lindisfarne
+Die Wikingerzeit beginnt symbolisch 793 mit dem Überfall auf das Kloster Lindisfarne in England. Mit schnellen, flachen Langschiffen konnten die Skandinavier über das Meer und weit flussaufwärts fahren. Sie plünderten, trieben aber vor allem Handel – bis nach Bagdad.
+## Siedler und Entdecker
+Wikinger besiedelten Island, Grönland und Teile Englands, Irlands und Frankreichs – die Normandie ist nach den „Nordmännern“ benannt. Als Waräger gründeten sie in Osteuropa die Kiewer Rus. Um das Jahr 1000 erreichte Leif Eriksson Nordamerika; in L’Anse aux Meadows auf Neufundland wurden ihre Spuren gefunden.
+img: L’Anse aux Meadows | Rekonstruierte Wikingersiedlung in L’Anse aux Meadows, Kanada
+## Mythen
+Gehörnte Helme sind eine Erfindung des 19. Jahrhunderts, unter anderem durch Kostüme für Wagners Opern. Das Ende der Wikingerzeit markiert 1066: Der norwegische König Harald Hardråde fiel bei Stamford Bridge in England.
+- Wikingerzeit etwa 793 bis 1066.
+- Händler, Plünderer und Siedler von Nordamerika bis Russland.
+- Hörnerhelme sind ein Mythos aus dem 19. Jahrhundert.
+
+=== lehnswesen
+cat: geschichte
+title: Das Lehnswesen
+teaser: Land gegen Treue: Wie das mittelalterliche Europa ohne Beamte und Geldwirtschaft regiert wurde.
+meta: Mittelalter
+cover: Lehnswesen | Mittelalterliche Darstellung einer Belehnung
+## Treue gegen Land
+Im Lehnswesen verlieh ein Herr (Lehnsherr) Land an einen Gefolgsmann (Vasall). Der Vasall schwor ihm Treue und leistete Kriegsdienst und Rat; der Herr bot Schutz. Da Geld knapp war, war Land die wichtigste Währung der Macht.
+## Die Lehnspyramide
+Der König verlieh Land an Herzöge und Bischöfe (Kronvasallen), diese weiter an Ritter. Ganz unten standen die Bauern, oft als Hörige oder Leibeigene an das Land gebunden. Sie mussten Abgaben und Frondienste leisten.
+img: Ständeordnung | Mittelalterliche Ständeordnung: „Du bete, du schütze, du arbeite“
+## Schwacher König, starke Fürsten
+Mit der Zeit wurden Lehen erblich. Im Heiligen Römischen Reich führte das dazu, dass die Fürsten immer mächtiger wurden und der Kaiser auf sie angewiesen blieb. Deshalb entstand in Deutschland kein starker Zentralstaat – eine Wurzel des heutigen Föderalismus.
+- Prinzip: Land (Lehen) gegen Treue und Kriegsdienst.
+- Pyramide vom König über Fürsten und Ritter bis zu den Bauern.
+- Erbliche Lehen stärkten die Fürsten gegenüber dem König.
