@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8">
+<style>
+:root{--bg:#FBF4E8;--ink:#3A2418;--text:#4A3426;--muted:#8A6F5C;--rust:#B8572B;--cream:#FFF6EA;--brown:#4A2E1E}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:540px;height:960px;overflow:hidden;background:#000}
+#stage{position:relative;width:540px;height:960px;overflow:hidden;font-family:Inter,sans-serif;color:var(--cream)}
+.scene{position:absolute;inset:0;opacity:0}
+.serif{font-family:Caladea,"Bitstream Charter",Georgia,serif}
+.bgimg{position:absolute;inset:-40px;background-size:cover;background-position:center;will-change:transform}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(58,36,24,.55) 0%,rgba(58,36,24,.05) 25%,rgba(58,36,24,.1) 45%,rgba(60,32,16,.92) 80%,rgba(50,28,14,.97) 100%)}
+.chip{display:inline-block;padding:6px 13px;border-radius:999px;background:var(--rust);color:var(--cream);font:700 13px Inter;letter-spacing:.08em}
+.progress{position:absolute;top:22px;left:16px;right:16px;display:flex;gap:5px;z-index:50}
+.progress div{flex:1;height:3px;border-radius:2px;background:rgba(255,246,234,.35);overflow:hidden}
+.progress i{display:block;height:100%;width:0;background:var(--cream)}
+.light .progress div{background:rgba(58,36,24,.18)}.light .progress i{background:var(--rust)}.light .brand{color:var(--ink);text-shadow:none}
+.brand{position:absolute;top:38px;left:18px;z-index:50;display:flex;align-items:center;gap:8px;font:700 15px Inter;color:var(--cream);text-shadow:0 1px 4px rgba(0,0,0,.4)}
+.brand b{width:28px;height:28px;border-radius:8px;background:linear-gradient(160deg,#C8642F,#8E3B1C);display:flex;align-items:center;justify-content:center;font:700 17px Caladea,serif}
+.cap{position:absolute;left:24px;right:24px;font-size:12px;color:rgba(255,246,234,.75)}
+/* scene 1 */
+#s1 .info{position:absolute;left:28px;right:28px;bottom:120px}
+#s1 h1{font-size:84px;line-height:1;margin:16px 0 14px;font-weight:700}
+#s1 p{font-size:21px;line-height:1.4;color:#FBEBD6}
+/* scene 2 quote */
+#s2{background:var(--bg);color:var(--ink)}
+#s2 .date{position:absolute;top:120px;left:32px;font:700 15px Inter;letter-spacing:.14em;color:var(--rust)}
+#s2 .big{position:absolute;top:150px;left:30px;right:30px;font-size:64px;line-height:1.02;font-weight:700}
+#s2 .quote{position:absolute;top:395px;left:32px;right:32px;font-size:33px;line-height:1.3;font-style:italic;color:var(--ink)}
+#s2 .qm{position:absolute;top:285px;left:24px;font:700 120px Caladea,serif;color:var(--rust);opacity:.35}
+#s2 .who{position:absolute;top:640px;left:32px;right:32px;font-size:18px;line-height:1.45;color:var(--text)}
+#s2 .who b{color:var(--ink)}
+/* scene 3 */
+#s3 .box{position:absolute;left:24px;right:24px;bottom:110px}
+#s3 h2{font-size:44px;line-height:1.08;margin:12px 0 14px}
+#s3 p{font-size:20px;line-height:1.45;color:#FBEBD6}
+#s3 .time{font:800 72px Inter;letter-spacing:-.02em;color:#F2C46B}
+/* scene 4 numbers */
+#s4{background:var(--brown)}
+#s4 h2{position:absolute;top:110px;left:30px;right:30px;font-size:46px;line-height:1.08;color:var(--cream)}
+.stat{position:absolute;left:30px;right:30px}
+.stat .n{font:800 92px Inter;letter-spacing:-.03em;color:#F2C46B;line-height:1}
+.stat .l{font-size:20px;color:#E9CBA8;margin-top:6px;line-height:1.35}
+/* scene 5 summary */
+#s5{background:var(--bg);color:var(--ink)}
+#s5 .card{position:absolute;left:24px;right:24px;top:200px;background:#F6E2BE;border:2px solid #E2C08A;border-radius:24px;padding:30px 28px}
+#s5 .card b{font:700 15px Inter;letter-spacing:.14em;color:var(--rust)}
+#s5 li{list-style:none;position:relative;padding-left:30px;margin-top:22px;font-size:23px;line-height:1.38;color:var(--text)}
+#s5 li:before{content:"";position:absolute;left:0;top:11px;width:12px;height:12px;border-radius:50%;background:var(--rust)}
+#s5 .actions{position:absolute;left:24px;right:24px;bottom:110px;height:74px;border-radius:24px;background:var(--brown);display:flex;justify-content:space-around;align-items:center;color:#FBEBD6;font:16px Inter}
+#s5 .actions span{display:flex;gap:8px;align-items:center}
+#s5 svg{width:26px;height:26px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linejoin:round;stroke-linecap:round}
+/* scene 6 outro */
+#s6{background:linear-gradient(160deg,#C8642F,#8E3B1C);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+#s6 .logo{width:150px;height:150px;border-radius:36px;background:var(--bg);display:flex;align-items:center;justify-content:center;font:700 92px Caladea,serif;color:var(--rust);box-shadow:0 20px 50px rgba(0,0,0,.25)}
+#s6 .logo span{font-size:62px;color:#C98A1E}
+#s6 h3{margin-top:28px;font:700 48px Caladea,serif}
+#s6 p{margin-top:10px;font-size:21px;color:#FBEBD6}
+#s6 .next{margin-top:70px;font:600 17px Inter;padding:13px 26px;border-radius:999px;background:rgba(255,246,234,.18)}
+.hint{position:absolute;bottom:40px;left:0;right:0;text-align:center;font:600 15px Inter;color:rgba(255,246,234,.85)}
+</style></head><body>
+<div id="stage">
+  <div class="progress"><div><i id="p1"></i></div><div><i id="p2"></i></div><div><i id="p3"></i></div><div><i id="p4"></i></div><div><i id="p5"></i></div></div>
+  <div class="brand" id="brand"><b>G</b>GoKnowledge</div>
+
+  <div class="scene" id="s1">
+    <div class="bgimg" id="s1img" style="background-image:url(img/cover.jpg)"></div>
+    <div class="shade"></div>
+    <div class="info">
+      <span class="chip" id="s1chip">GESCHICHTE</span>
+      <h1 class="serif" id="s1title">Mauerfall</h1>
+      <p id="s1teaser">9. November 1989: Ein missverstandener Zettel öffnet die Grenze – und verändert Europa.</p>
+    </div>
+    <div class="hint" id="s1hint">⏱ 1 Minute Wissen</div>
+  </div>
+
+  <div class="scene" id="s2">
+    <div class="date" id="s2date">9. NOVEMBER 1989 · 18:53 UHR</div>
+    <div class="big serif" id="s2big">Der Zettel von Schabowski</div>
+    <div class="qm serif">„</div>
+    <div class="quote serif" id="s2quote"></div>
+    <div class="who" id="s2who"><b>Günter Schabowski</b>, SED-Politbüro, live im Fernsehen. Die neue Reiseregelung sollte eigentlich erst am nächsten Tag gelten.</div>
+  </div>
+
+  <div class="scene" id="s3">
+    <div class="bgimg" id="s3img" style="background-image:url(img/wall.jpg)"></div>
+    <div class="shade"></div>
+    <div class="box">
+      <div class="time" id="s3time">23:30</div>
+      <h2 class="serif" id="s3h">Bornholmer Straße: Der Schlagbaum geht auf</h2>
+      <p id="s3p">Tausende Ost-Berliner drängen zur Grenze. Stasi-Oberstleutnant Harald Jäger gibt nach – ohne Befehl von oben.</p>
+    </div>
+  </div>
+
+  <div class="scene" id="s4">
+    <h2 class="serif" id="s4h">Vom Fall zur Einheit</h2>
+    <div class="stat" style="top:280px" id="st1"><div class="n" id="n1">28</div><div class="l">Jahre teilte die Mauer Berlin (1961–1989)</div></div>
+    <div class="stat" style="top:470px" id="st2"><div class="n" id="n2">140</div><div class="l">Menschen kamen mindestens an der Mauer ums Leben</div></div>
+    <div class="stat" style="top:660px" id="st3"><div class="n" id="n3">3.10.1990</div><div class="l">Deutsche Einheit – nur 329 Tage nach dem Mauerfall</div></div>
+  </div>
+
+  <div class="scene" id="s5">
+    <div class="card">
+      <b>KURZ GESAGT</b>
+      <ul>
+        <li id="b1">Auslöser war Schabowskis versehentliches „sofort, unverzüglich“.</li>
+        <li id="b2">Als Erstes öffnete die Bornholmer Straße – auf eigene Faust.</li>
+        <li id="b3">Elf Monate später: Deutsche Einheit am 3. Oktober 1990.</li>
+      </ul>
+    </div>
+    <div class="actions" id="s5act">
+      <span id="like"><svg viewBox="0 0 24 24"><path id="heart" d="M12 20.5s-7.3-4.5-9.3-9C1.3 8.2 3.5 5 6.7 5c2 0 3.4 1.1 4.3 2.5C12 6.1 13.3 5 15.3 5c3.2 0 5.4 3.2 4 6.5-2 4.5-7.3 9-7.3 9z"/></svg>Gefällt mir</span>
+      <span><svg viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg>Merken</span>
+      <span><svg viewBox="0 0 24 24"><path d="M4 12a8 8 0 0 1 13.7-5.6L20 9M20 4v5h-5M20 12a8 8 0 0 1-13.7 5.6L4 15M4 20v-5h5"/></svg>Bald wieder</span>
+    </div>
+  </div>
+
+  <div class="scene" id="s6">
+    <div class="logo" id="logo">G<span>k</span></div>
+    <h3 id="s6h">GoKnowledge</h3>
+    <p id="s6p">Allgemeinwissen in einer Minute</p>
+    <div class="next" id="s6n">↑ Nächstes Thema</div>
+  </div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const ease=x=>{x=clamp(x);return 1-Math.pow(1-x,3)};
+const inOut=x=>{x=clamp(x);return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2};
+// scene timing [start,end]
+const S=[[0,5],[5,13],[13,21],[21,29],[29,36],[36,40]];
+const DUR=40;
+function fadeIn(el,t,t0,d=.6,dy=24){const k=ease((t-t0)/d);el.style.opacity=k;el.style.transform=`translateY(${(1-k)*dy}px)`;}
+function sceneAlpha(i,t){const [a,b]=S[i];const fi=i===0?1:clamp((t-a)/.45);const fo=i===S.length-1?1:clamp((b-t)/.45);return Math.min(fi,fo);}
+const QUOTE='Das tritt nach meiner Kenntnis … ist das sofort, unverzüglich.';
+window.render=function(t){
+  S.forEach((s,i)=>{const el=$('s'+(i+1));const a=sceneAlpha(i,t);el.style.opacity=(t>=s[0]-.01&&t<=s[1]+.01)?a:0;});
+  // progress bars (story style) for first 5 scenes
+  for(let i=0;i<5;i++){$('p'+(i+1)).style.width=(clamp((t-S[i][0])/(S[i][1]-S[i][0]))*100)+'%';}
+  const light=(t>=S[1][0]+.25&&t<S[2][0]+.25)||(t>=S[4][0]+.25&&t<S[5][0]);$('stage').classList.toggle('light',light);
+  const outro=t>=S[5][0];
+  $('brand').style.opacity=outro?clamp(1-(t-S[5][0])/.4):1;
+  document.querySelector('.progress').style.opacity=outro?clamp(1-(t-S[5][0])/.4):1;
+  // s1
+  {const l=t-S[0][0];$('s1img').style.transform=`scale(${1.08+0.08*l/5}) translateX(${-10*l}px)`;
+   fadeIn($('s1chip'),l,.3);fadeIn($('s1title'),l,.5,.7,40);fadeIn($('s1teaser'),l,1.0);fadeIn($('s1hint'),l,1.6,.6,10);}
+  // s2
+  {const l=t-S[1][0];fadeIn($('s2date'),l,.3);fadeIn($('s2big'),l,.5,.7,30);
+   const n=Math.floor(clamp((l-1.6)/3.4)*QUOTE.length);$('s2quote').textContent=QUOTE.slice(0,n)+(n<QUOTE.length&&l>1.6&&Math.floor(l*3)%2?'▍':'');
+   fadeIn($('s2who'),l,5.3);}
+  // s3
+  {const l=t-S[2][0];$('s3img').style.transform=`scale(${1.15-0.07*l/8}) translateY(${-6*l}px)`;
+   fadeIn($('s3time'),l,.4,.6,30);fadeIn($('s3h'),l,.9);fadeIn($('s3p'),l,1.6);}
+  // s4 numbers count up
+  {const l=t-S[3][0];fadeIn($('s4h'),l,.3);
+   [['st1','n1',28,'',.9],['st2','n2',140,'',2.6]].forEach(([s,n,v,suf,t0])=>{fadeIn($(s),l,t0);$(n).textContent=Math.round(v*ease((l-t0)/1.2))+suf;});
+   fadeIn($('st3'),l,4.3);}
+  // s5
+  {const l=t-S[4][0];fadeIn($('b1'),l,.5);fadeIn($('b2'),l,1.6);fadeIn($('b3'),l,2.7);fadeIn($('s5act'),l,3.8,.6,40);
+   const lk=l>5.0;$('heart').style.fill=lk?'#E8664A':'none';$('heart').style.stroke=lk?'#E8664A':'currentColor';
+   const pop=l>5.0?1+0.35*Math.sin(clamp((l-5)/.35)*Math.PI):1;$('like').querySelector('svg').style.transform=`scale(${pop})`;}
+  // s6
+  {const l=t-S[5][0];const k=ease(l/.8);$('logo').style.transform=`scale(${.6+.4*k})`;$('logo').style.opacity=k;
+   fadeIn($('s6h'),l,.5);fadeIn($('s6p'),l,.8);fadeIn($('s6n'),l,1.4);}
+};
+window.DUR=DUR;render(0);
+</script>
+</body></html>
