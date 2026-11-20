@@ -1,0 +1,186 @@
+=== hokusai-welle
+cat: kunst
+title: Die große Welle vor Kanagawa
+teaser: Das wohl bekannteste japanische Kunstwerk ist ein Holzschnitt, der tausendfach gedruckt wurde.
+meta: Katsushika Hokusai, um 1831
+cover: Die große Welle vor Kanagawa | Die große Welle vor Kanagawa
+## Ein Bild aus einer Serie
+Der Holzschnitt stammt aus Hokusais Serie „36 Ansichten des Berges Fuji“. Eine gewaltige Welle mit krallenartiger Gischt türmt sich über drei Booten mit Ruderern auf; im Hintergrund wirkt der Fuji winzig. Die Welle ist kein Tsunami, sondern eine riesige Brandungswelle.
+## Ukiyo-e
+Ukiyo-e, „Bilder der fließenden Welt“, waren in der Edo-Zeit preiswerte Farbholzschnitte für das städtische Publikum – Schauspieler, Kurtisanen, Landschaften. Für jede Farbe wurde ein eigener Holzblock geschnitten. Hokusai verwendete das neu importierte, haltbare Preußischblau. Von der Welle wurden wohl Tausende Abzüge gedruckt.
+img: Katsushika Hokusai | Katsushika Hokusai (Selbstbildnis)
+## Japonismus
+Hokusai schuf in seinem langen Leben rund 30.000 Werke und nannte sich „der Alte, verrückt nach Malerei“. Nach der Öffnung Japans kamen Holzschnitte nach Europa und begeisterten Monet, Van Gogh, Degas und den Jugendstil – der Japonismus. Die Welle ziert heute den japanischen 1.000-Yen-Schein und ist sogar ein Emoji 🌊.
+- Aus der Serie „36 Ansichten des Fuji“, um 1831.
+- Ukiyo-e-Farbholzschnitt mit Preußischblau.
+- Inspirierte Impressionisten und Jugendstil.
+
+=== taj-mahal
+cat: kunst
+title: Das Taj Mahal
+teaser: Ein Mausoleum aus Liebe – oder ein Machtsymbol? 20.000 Arbeiter bauten 22 Jahre daran.
+meta: Agra, Indien, 1632–1653
+cover: Taj Mahal | Das Taj Mahal
+## Für Mumtaz Mahal
+Der Mogul-Kaiser Shah Jahan ließ das Grabmal für seine Lieblingsfrau Mumtaz Mahal errichten, die 1631 bei der Geburt ihres 14. Kindes starb. Rund 20.000 Handwerker aus Indien, Persien und Zentralasien arbeiteten daran; Baumaterial brachten etwa 1.000 Elefanten. Der Hauptbau war um 1643 fertig, der gesamte Komplex 1653.
+## Perfekte Symmetrie
+Das Mausoleum aus weißem Makrana-Marmor steht auf einer Plattform mit vier Minaretten, die leicht nach außen geneigt sind – damit sie bei einem Erdbeben nicht auf das Grab stürzen. Eingelegte Halbedelsteine (Pietra dura) bilden Blumen und Koranverse. Der Garten folgt dem persischen Charbagh-Muster mit vier Teilen als Abbild des Paradieses.
+img: Shah Jahan | Shah Jahan
+## Legenden und Gefahren
+Der Legende nach wollte Shah Jahan gegenüber ein schwarzes Taj Mahal für sich bauen – dafür gibt es keine Belege. Sein Sohn Aurangzeb setzte ihn ab und sperrte ihn im Roten Fort ein, von wo er auf das Grab blickte. Heute bedrohen Luftverschmutzung und Insekten den Marmor, der gelblich verfärbt. UNESCO-Welterbe seit 1983.
+- Grabmal Shah Jahans für Mumtaz Mahal, 1632–1653.
+- Perfekte Symmetrie, Marmor mit Edelsteinintarsien.
+- Bedroht durch Luftverschmutzung; UNESCO-Welterbe.
+
+=== angkor-wat
+cat: kunst
+title: Angkor Wat
+teaser: Das größte religiöse Bauwerk der Welt ist so wichtig für Kambodscha, dass es auf der Nationalflagge steht.
+meta: Kambodscha, 12. Jahrhundert
+cover: Angkor Wat | Angkor Wat bei Sonnenaufgang
+## Ein Tempelberg
+König Suryavarman II. ließ Angkor Wat in der ersten Hälfte des 12. Jahrhunderts als Tempel für den Hindu-Gott Vishnu errichten. Die Anlage stellt den Weltenberg Meru dar, umgeben von einem Wassergraben als Ozean. Mit rund 160 Hektar ist es das größte religiöse Bauwerk der Welt. Später wurde es zu einem buddhistischen Tempel.
+## Steinerne Geschichten
+Kilometerlange Reliefs zeigen Szenen aus den Epen Ramayana und Mahabharata, das „Quirlen des Milchozeans“ und rund 1.800 Apsaras – himmlische Tänzerinnen. Die Sandsteinblöcke wurden über Kanäle aus über 40 Kilometern Entfernung herangebracht.
+img: Angkor Thom | Gesichtertürme des Bayon in Angkor Thom
+## Hauptstadt des Khmer-Reiches
+Angkor war Hauptstadt des Khmer-Reiches und mit vielleicht einer Million Einwohnern eine der größten vorindustriellen Städte. Ein ausgeklügeltes Wassersystem mit riesigen Stauseen (Barays) ermöglichte den Reisanbau. Laserscans aus der Luft enthüllten 2013 unter dem Dschungel weitere Stadtteile. Seit 1992 UNESCO-Welterbe.
+- Tempel für Vishnu, 12. Jh., größtes religiöses Bauwerk.
+- Reliefs mit Hindu-Epen und Apsaras.
+- Zentrum des Khmer-Reiches mit riesigem Wassersystem.
+
+=== verbotene-stadt
+cat: kunst
+title: Die Verbotene Stadt
+teaser: 980 Gebäude, angeblich 9.999 Räume – 500 Jahre lang durfte kein gewöhnlicher Mensch hinein.
+meta: Peking, ab 1406
+cover: Verbotene Stadt | Die Halle der Höchsten Harmonie
+## Der Kaiserpalast
+Der Ming-Kaiser Yongle ließ den Palast ab 1406 erbauen, als er die Hauptstadt nach Peking verlegte. Bis 1912 residierten hier 24 Kaiser der Ming- und Qing-Dynastie. Der Komplex umfasst rund 72 Hektar, umgeben von einer zehn Meter hohen Mauer und einem Graben. Der Legende nach hat er 9.999 Räume – einen weniger als der Himmelspalast.
+## Symbolik
+Alles folgt kosmologischen Regeln: Die Hauptachse verläuft streng von Süd nach Nord. Gelb, die Farbe der Kaiser, bedeckt die Dächer. Drachen symbolisieren den Kaiser, die Zahl neun steht für Macht. Fabelwesen auf den Dachfirsten zeigen den Rang eines Gebäudes – die Halle der Höchsten Harmonie hat als einzige zehn.
+img: Puyi | Puyi, der letzte Kaiser Chinas
+## Vom Palast zum Museum
+Der letzte Kaiser Puyi musste 1912 abdanken, durfte aber bis 1924 im inneren Palast wohnen. Seitdem ist die Anlage Museum („Palastmuseum“). Viele Schätze nahm die Kuomintang 1949 nach Taiwan mit, wo sie im Nationalen Palastmuseum in Taipeh zu sehen sind. UNESCO-Welterbe seit 1987.
+- Kaiserpalast der Ming und Qing, 1406–1912.
+- Strenge Symbolik: Nord-Süd-Achse, Gelb, Drachen.
+- Seit 1925 Palastmuseum; viele Schätze heute in Taipeh.
+
+=== alhambra
+cat: kunst
+title: Die Alhambra
+teaser: Die „Rote“ von Granada: Palast der letzten muslimischen Herrscher Spaniens, verziert mit Mathematik.
+meta: Granada, 13.–14. Jahrhundert
+cover: Alhambra | Die Alhambra vor der Sierra Nevada
+## Die Nasriden
+Die Alhambra (arabisch „die Rote“, nach der Farbe der Mauern) war Burg und Palaststadt der Nasriden-Dynastie, der letzten muslimischen Herrscher auf der Iberischen Halbinsel. Ihre Blüte erlebte sie im 14. Jahrhundert. Im Januar 1492 übergab Emir Boabdil Granada an die Katholischen Könige Isabella und Ferdinand.
+## Ornament und Wasser
+Die Wände sind mit Stuck, Kacheln und Inschriften überzogen. Muqarnas – Stalaktitengewölbe aus Tausenden Einzelteilen – lassen Kuppeln schweben. Im Löwenhof tragen zwölf Marmorlöwen einen Brunnen. Wasser in Becken und Kanälen kühlt und spiegelt. Die Fliesenmuster enthalten nahezu alle 17 mathematisch möglichen Ornamentgruppen der Ebene.
+img: Löwenhof | Der Löwenhof der Alhambra
+## Einfluss
+M. C. Escher besuchte die Alhambra 1936 und ließ sich von ihren Kachelmustern zu seinen Parkettierungen inspirieren. Kaiser Karl V. baute mitten hinein einen Renaissancepalast. Washington Irvings „Erzählungen von der Alhambra“ (1832) machten sie im 19. Jahrhundert berühmt. Heute ist sie eines der meistbesuchten Monumente Spaniens.
+- Palaststadt der Nasriden, 1492 an Spanien übergeben.
+- Muqarnas, Stuck, Löwenhof, Wasserspiele.
+- Mathematische Muster inspirierten M. C. Escher.
+
+=== petra
+cat: kunst
+title: Petra
+teaser: Eine Stadt aus dem Fels gemeißelt, zugänglich nur durch eine enge Schlucht – Indiana Jones fand hier den Gral.
+meta: Jordanien, ab ca. 300 v. Chr.
+cover: Petra (Jordanien) | Das Schatzhaus (Al-Khazneh) in Petra
+## Die Nabatäer
+Petra war die Hauptstadt der Nabatäer, eines arabischen Volkes, das durch den Karawanenhandel mit Weihrauch, Myrrhe und Gewürzen reich wurde. Ausgeklügelte Zisternen und Kanäle versorgten die Stadt in der Wüste mit Wasser. 106 n. Chr. wurde das Reich römische Provinz.
+## In den Fels gemeißelt
+Durch den Siq, eine über einen Kilometer lange, teils nur drei Meter breite Schlucht, gelangt man zum „Schatzhaus“ (Al-Khazneh), dessen 40 Meter hohe Fassade direkt aus dem rosafarbenen Sandstein gehauen wurde – vermutlich ein Grabmal eines Königs. Hunderte weitere Gräber, ein Theater und das „Kloster“ (Ad Deir) folgen.
+img: Ad Deir | Das „Kloster“ Ad Deir
+## Wiederentdeckung
+Nach Erdbeben und dem Niedergang des Handels geriet Petra in Vergessenheit. 1812 schlich sich der Schweizer Johann Ludwig Burckhardt, als Muslim verkleidet, hinein und machte sie in Europa bekannt. Petra ist UNESCO-Welterbe und eines der „neuen sieben Weltwunder“. Szenen aus „Indiana Jones und der letzte Kreuzzug“ wurden hier gedreht.
+- Hauptstadt der Nabatäer, reich durch Weihrauchhandel.
+- Fassaden direkt aus dem Fels, Zugang durch den Siq.
+- 1812 von Burckhardt wiederentdeckt.
+
+=== eiffelturm
+cat: kunst
+title: Der Eiffelturm
+teaser: Gebaut für 20 Jahre, verhasst von Künstlern – und gerettet, weil er eine gute Funkantenne war.
+meta: Paris, 1889
+cover: Eiffelturm | Der Eiffelturm
+## Für die Weltausstellung
+Zum 100. Jahrestag der Französischen Revolution fand 1889 in Paris eine Weltausstellung statt. Gustave Eiffels Firma baute dafür in nur gut zwei Jahren einen 300 Meter hohen Turm aus rund 18.000 Eisenteilen und 2,5 Millionen Nieten. Die Konstruktion hatten Maurice Koechlin und Émile Nouguier entworfen. 41 Jahre lang war er das höchste Bauwerk der Welt.
+## „Nutzlos und monströs“
+Künstler und Schriftsteller wie Guy de Maupassant und Charles Garnier protestierten gegen den „nutzlosen und monströsen Eiffelturm“. Maupassant soll oft im Turmrestaurant gegessen haben – der einzige Ort in Paris, von dem aus man den Turm nicht sieht. Ursprünglich sollte er nach 20 Jahren abgerissen werden.
+img: Gustave Eiffel | Gustave Eiffel
+## Gerettet durch Technik
+Eiffel förderte wissenschaftliche Experimente auf dem Turm – Meteorologie, Aerodynamik und vor allem Funk. Als Antenne für Militärfunk wurde er unverzichtbar und blieb stehen. Heute ist er mit Antennen rund 330 Meter hoch, im Sommer wegen der Wärmeausdehnung etwas höher. Alle sieben Jahre wird er neu gestrichen, mit etwa 60 Tonnen Farbe.
+- Für die Weltausstellung 1889, 41 Jahre höchstes Bauwerk.
+- Anfangs von Künstlern heftig abgelehnt.
+- Durch Nutzung als Funkantenne vor dem Abriss bewahrt.
+
+=== neuschwanstein
+cat: kunst
+title: Schloss Neuschwanstein
+teaser: Ein Märchenschloss, das ein König für sich allein baute – er wohnte nur 172 Tage darin.
+meta: Bayern, ab 1869
+cover: Schloss Neuschwanstein | Schloss Neuschwanstein
+## Der Märchenkönig
+König Ludwig II. von Bayern hatte nach der Niederlage gegen Preußen 1866 kaum noch politische Macht. Er zog sich in Traumwelten zurück und baute Schlösser: Neuschwanstein, Linderhof und Herrenchiemsee. Neuschwanstein sollte eine idealisierte Ritterburg sein, inspiriert von den Opern Richard Wagners, den er verehrte und finanzierte.
+## Mittelalter mit Technik
+Entworfen hat es ein Theatermaler, Christian Jank, nicht ein Architekt. Hinter der mittelalterlichen Fassade steckte moderne Technik: Zentralheizung, fließendes Wasser, Toiletten mit Spülung, elektrische Klingeln und ein Telefon. Der Sängersaal und der Thronsaal – ohne Thron, er wurde nie fertig – zeigen Szenen aus Sagen.
+img: Ludwig II. (Bayern) | König Ludwig II.
+## Tod und Touristenmagnet
+Ludwigs Bauleidenschaft verschlang Unsummen. 1886 erklärte ihn die Regierung für geisteskrank und entmündigte ihn; wenige Tage später ertrank er unter ungeklärten Umständen im Starnberger See. Kurz nach seinem Tod wurde das Schloss für Besucher geöffnet. Heute kommen jährlich etwa 1,4 Millionen; Disney nahm es als Vorbild. Seit 2025 ist es UNESCO-Welterbe.
+- Idealbild einer Ritterburg für Ludwig II., ab 1869.
+- Mittelalterfassade mit moderner Technik.
+- Ludwig starb 1886 rätselhaft; heute Touristenmagnet und Welterbe.
+
+=== sagrada-familia
+cat: kunst
+title: Die Sagrada Família
+teaser: Seit 1882 im Bau, finanziert durch Spenden und Eintrittsgelder – die Fertigstellung ist für die 2020er Jahre geplant.
+meta: Barcelona, ab 1882
+cover: Sagrada Família | Die Sagrada Família in Barcelona
+## Gaudís Lebenswerk
+Antoni Gaudí übernahm den Bau der Basilika 1883 und widmete ihm den Rest seines Lebens. Er verband Gotik mit organischen Formen der Natur. Als man ihn fragte, warum es so lange dauere, soll er gesagt haben: „Mein Auftraggeber hat es nicht eilig.“ 1926 wurde er von einer Straßenbahn erfasst und starb; zu seinen Lebzeiten war nur ein kleiner Teil fertig.
+## Ein steinerner Wald
+Im Inneren verzweigen sich Säulen wie Bäume zu einem Blätterdach, durch bunte Glasfenster fällt farbiges Licht. Drei Fassaden erzählen von Geburt, Passion und Herrlichkeit Christi. Gaudí plante 18 Türme; der höchste, der Jesus-Turm, soll 172,5 Meter erreichen – knapp unter dem Montjuïc-Hügel, denn Gottes Werk sollte nicht übertroffen werden.
+img: Antoni Gaudí | Antoni Gaudí
+## Bau im Computerzeitalter
+Gaudís Modelle wurden im Spanischen Bürgerkrieg teilweise zerstört. Heute helfen Computer und 3D-Druck, seine komplexe Geometrie aus hyperbolischen Flächen umzusetzen. 2010 weihte Papst Benedikt XVI. die Kirche. Der Bau ist bis heute nicht abgeschlossen. Mehrere Gaudí-Bauten sind UNESCO-Welterbe.
+- Gaudís Lebenswerk, Bau seit 1882.
+- Säulen wie Bäume, 18 geplante Türme, Jesus-Turm 172,5 m.
+- Moderne Technik vollendet Gaudís Geometrie.
+
+=== sydney-opera-house
+cat: kunst
+title: Das Sydney Opera House
+teaser: Ein Wettbewerbsentwurf aus dem Papierkorb, zehnmal teurer als geplant – und der Architekt sah es nie fertig.
+meta: Sydney, 1973
+cover: Sydney Opera House | Das Sydney Opera House
+## Der Wettbewerb
+1957 gewann der Däne Jørn Utzon den internationalen Wettbewerb mit Skizzen von segelartigen Schalen. Der Juror Eero Saarinen soll den Entwurf aus den bereits aussortierten Beiträgen gezogen haben. Wie man die Schalen bauen sollte, wusste allerdings noch niemand.
+## Das Kugel-Prinzip
+Jahrelang suchten Utzon und die Ingenieure von Ove Arup eine Lösung. Schließlich kam Utzon die Idee: Alle Schalen werden aus Segmenten derselben Kugel geschnitten. So konnten die Rippen aus Fertigteilen gebaut werden. Über eine Million weiß und cremefarben glasierte Fliesen aus Schweden bedecken die Dächer.
+img: Jørn Utzon | Jørn Utzon
+## Bruch und Versöhnung
+Kosten und Bauzeit explodierten: Statt 7 Millionen australischer Dollar kostete der Bau über 100 Millionen. Nach Streit mit der Regierung verließ Utzon 1966 das Land und kehrte nie zurück; die Innenräume vollendeten andere. 1973 eröffnete Königin Elizabeth II. das Haus. Utzon erhielt 2003 den Pritzker-Preis; 2007 wurde das Opernhaus UNESCO-Welterbe.
+- Wettbewerbssieg von Jørn Utzon 1957.
+- Alle Schalen aus Segmenten einer Kugel.
+- Kostenexplosion, Utzon verließ Australien; Eröffnung 1973.
+
+=== elbphilharmonie
+cat: kunst
+title: Die Elbphilharmonie
+teaser: Geplant für 77 Millionen Euro, gekostet 866 Millionen – und dann wurde sie sofort zum Liebling der Stadt.
+meta: Hamburg, 2017
+cover: Elbphilharmonie | Die Elbphilharmonie in Hamburg
+## Glas auf Backstein
+Die Schweizer Architekten Herzog & de Meuron setzten auf einen alten Kaispeicher aus Backstein in der HafenCity eine wellenförmige Glaskrone. Die über 1.000 Glaselemente sind teils gebogen und bedruckt. Mit 110 Metern ist sie das höchste bewohnte Gebäude Hamburgs, mit Konzertsälen, Hotel und Wohnungen. Die öffentliche Plaza in 37 Metern Höhe bietet einen Rundblick.
+## Der Große Saal
+Der Große Saal mit rund 2.100 Plätzen ist als „Weinberg“ angelegt: Das Orchester sitzt in der Mitte, das Publikum terrassenförmig ringsum, niemand sitzt weiter als 30 Meter vom Dirigenten entfernt. Für die Akustik schuf Yasuhisa Toyota die „weiße Haut“ aus rund 10.000 individuell gefrästen Gipsfaserplatten, die den Schall verteilen.
+img: HafenCity | Die HafenCity in Hamburg
+## Skandal und Erfolg
+Ursprünglich für 2010 und 77 Millionen Euro Steuergeld geplant, wurde sie nach Streit, Baustopp und Neuverhandlungen 2017 für 866 Millionen eröffnet. Ein Untersuchungsausschuss rügte die Planung. Seitdem ist sie ein Wahrzeichen; Konzerte sind oft ausverkauft, und Millionen Besucher kommen auf die Plaza.
+- Glaskrone auf altem Kaispeicher, Herzog & de Meuron.
+- „Weinberg“-Saal mit „weißer Haut“ für die Akustik.
+- Kosten von 77 auf 866 Mio. Euro; trotzdem Erfolg.

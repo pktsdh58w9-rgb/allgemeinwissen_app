@@ -1,0 +1,220 @@
+=== fotografie-erfindung
+cat: kunst
+title: Die Erfindung der Fotografie
+teaser: Die älteste erhaltene Fotografie brauchte vermutlich mehrere Tage Belichtung.
+meta: ab 1826
+cover: Blick aus dem Arbeitszimmer in Le Gras | Niépces „Blick aus dem Arbeitszimmer“ (1826/27)
+## Niépce und Daguerre
+Joseph Nicéphore Niépce belichtete um 1826/27 eine mit Asphalt beschichtete Zinnplatte in einer Kamera – vermutlich über Tage. Es entstand der „Blick aus dem Arbeitszimmer in Le Gras“, die älteste erhaltene Fotografie. Sein Partner Louis Daguerre entwickelte daraus die Daguerreotypie: versilberte Kupferplatten, Joddampf, Entwicklung mit Quecksilberdampf. 1839 kaufte der französische Staat das Verfahren und schenkte es der Welt.
+## Negativ und Positiv
+Daguerreotypien waren Unikate. Der Brite William Henry Fox Talbot erfand fast gleichzeitig das Negativ-Positiv-Verfahren auf Papier (Kalotypie), mit dem man beliebig viele Abzüge machen konnte – das Prinzip der analogen Fotografie für 150 Jahre. Chemische Grundlage war die Lichtempfindlichkeit von Silberhalogeniden.
+img: Louis Daguerre | Louis Daguerre
+## Fotografie und Kunst
+Die Fotografie veränderte die Malerei: Porträtmaler verloren Aufträge, und die Malerei musste nicht mehr abbilden – das ebnete den Weg zu Impressionismus und Abstraktion. 1888 brachte Kodak die erste Rollfilmkamera für jedermann: „You press the button, we do the rest.“ Heute entstehen jährlich weit über eine Billion Fotos.
+- Niépce um 1826/27: älteste erhaltene Fotografie.
+- Daguerreotypie (1839) und Talbots Negativ-Positiv-Verfahren.
+- Befreite die Malerei vom Abbilden; Kodak machte sie populär.
+
+=== fruehes-kino
+cat: kunst
+title: Das frühe Kino
+teaser: Ein einfahrender Zug, eine Rakete im Auge des Mondes, eine Roboterfrau – die ersten Jahrzehnte des Films.
+meta: ab 1895
+cover: Auguste und Louis Lumière | Die Brüder Lumière
+## Die Brüder Lumière
+Am 28. Dezember 1895 führten Auguste und Louis Lumière in einem Pariser Café ihre Filme vor zahlendem Publikum vor – die Geburtsstunde des Kinos. Ihr Cinématographe war Kamera und Projektor zugleich. Dass Zuschauer bei „Ankunft eines Zuges“ panisch geflohen seien, ist wohl eine Legende. Kurz zuvor hatten in Berlin die Brüder Skladanowsky Filme gezeigt.
+## Méliès und das Erzählen
+Der Zauberkünstler Georges Méliès entdeckte Spezialeffekte wie Stopptrick und Mehrfachbelichtung. In „Die Reise zum Mond“ (1902) bohrt sich eine Rakete ins Auge des Mondes. Hollywood entwickelte das Erzählkino mit Schnitt und Großaufnahme; Stars wie Charlie Chaplin wurden weltberühmt.
+img: Georges Méliès | Georges Méliès
+## Weimarer Kino
+Deutschland prägte das Kino der 1920er: Der Expressionismus schuf „Das Cabinet des Dr. Caligari“ mit verzerrten Kulissen, Murnaus „Nosferatu“ und Fritz Langs „Metropolis“ (1927) mit der Roboterfrau Maria. 1927 kam mit „The Jazz Singer“ der Tonfilm. Viele Filmschaffende emigrierten ab 1933 nach Hollywood.
+- 28.12.1895: erste öffentliche Vorführung der Lumières.
+- Méliès’ Spezialeffekte, Hollywoods Erzählkino.
+- Weimarer Kino: Caligari, Nosferatu, Metropolis.
+
+=== teppich-von-bayeux
+cat: kunst
+title: Der Teppich von Bayeux
+teaser: Ein 70 Meter langer Comic aus dem 11. Jahrhundert – und streng genommen gar kein Teppich.
+meta: um 1070
+cover: Teppich von Bayeux | Ausschnitt aus dem Teppich von Bayeux
+## Eine Eroberung in Bildern
+Der etwa 70 Meter lange und 50 Zentimeter hohe Leinenstreifen erzählt die Eroberung Englands durch Wilhelm den Eroberer, Herzog der Normandie. Höhepunkt ist die Schlacht bei Hastings 1066, in der der englische König Harold II. fällt – angeblich durch einen Pfeil ins Auge, die Darstellung ist aber nicht eindeutig.
+## Gestickt, nicht gewebt
+Technisch ist es eine Stickerei mit Wollgarn in acht Farben, kein Teppich. Vermutlich wurde er von Bischof Odo von Bayeux, Wilhelms Halbbruder, in Auftrag gegeben und in England gestickt. Er zeigt rund 600 Menschen, 200 Pferde, Schiffe, Burgen und sogar den Halleyschen Kometen von 1066.
+img: Wilhelm der Eroberer | Wilhelm der Eroberer
+## Eine historische Quelle
+Der Teppich ist eine einzigartige Quelle zu Waffen, Kleidung, Schiffbau und Alltag im 11. Jahrhundert – und zugleich normannische Propaganda, die Wilhelms Anspruch rechtfertigt. Er hängt im Museum in Bayeux, Normandie. Frankreich hat zugesagt, ihn für eine Ausstellung 2026 nach Großbritannien zu verleihen.
+- Bildergeschichte der normannischen Eroberung Englands 1066.
+- Eigentlich eine Stickerei, rund 70 m lang.
+- Historische Quelle und Propaganda zugleich.
+
+=== book-of-kells
+cat: kunst
+title: Das Book of Kells
+teaser: Mönche malten hier Ornamente, so fein, dass man sie mit Lupe betrachten muss – vor rund 1.200 Jahren.
+meta: Irland/Schottland, um 800
+cover: Book of Kells | Seite aus dem Book of Kells
+## Ein Evangeliar
+Das Book of Kells enthält die vier Evangelien auf Latein und entstand um 800, vermutlich im Kloster auf der schottischen Insel Iona und im irischen Kells, wohin die Mönche vor Wikingerüberfällen flohen. Es umfasst 340 Pergamentblätter aus Kalbshaut – für das Buch brauchte man Häute von rund 185 Kälbern.
+## Ornament als Gebet
+Die Buchmalerei verbindet keltische Knotenmuster, Spiralen, Tierfiguren und christliche Symbole. Manche Initialen sind so dicht verflochten, dass man die Details nur mit Lupe erkennt. Die berühmte Chi-Rho-Seite gestaltet das Christus-Monogramm über eine ganze Seite. Die Farben stammen aus Pflanzen, Mineralien und Insekten.
+img: Trinity College (Dublin) | Die Old Library des Trinity College in Dublin
+## Schicksal
+1007 wurde das Buch gestohlen und ohne seinen goldenen Einband wiedergefunden. Seit dem 17. Jahrhundert befindet es sich im Trinity College in Dublin, wo täglich eine andere aufgeschlagene Seite gezeigt wird. Es gilt als Höhepunkt der insularen Buchmalerei und als irisches Nationalsymbol.
+- Prachtevangeliar um 800, Iona und Kells.
+- Keltische Ornamentik, Chi-Rho-Seite.
+- Heute im Trinity College Dublin.
+
+=== porzellan
+cat: kunst
+title: Porzellan – das weiße Gold
+teaser: Ein Alchemist sollte Gold machen – und erfand stattdessen europäisches Porzellan.
+meta: China/Meißen
+cover: Porzellan | Chinesische Blau-Weiß-Porzellanvase der Ming-Zeit
+## Chinas Geheimnis
+In China wurde echtes Porzellan spätestens im 7. Jahrhundert hergestellt. Grundstoffe sind Kaolin, Feldspat und Quarz, gebrannt bei etwa 1.300 bis 1.400 °C. Dabei entsteht eine dichte, durchscheinende Masse aus Mullit und Glas. Das Blau-Weiß-Porzellan der Ming-Zeit aus Jingdezhen wurde in alle Welt exportiert. Im Englischen heißt Porzellan bis heute „china“.
+## Das Rätsel von Meißen
+Europas Fürsten zahlten Unsummen für chinesisches Porzellan. August der Starke von Sachsen hielt den Alchemisten Johann Friedrich Böttger gefangen, damit er Gold herstelle. Gemeinsam mit Ehrenfried Walther von Tschirnhaus fand Böttger um 1708 stattdessen das Rezept für Porzellan. 1710 wurde in Meißen die erste europäische Porzellanmanufaktur gegründet.
+img: Johann Friedrich Böttger | Johann Friedrich Böttger
+## Weißes Gold
+Die gekreuzten blauen Schwerter von Meißen sind eines der ältesten Markenzeichen der Welt. Trotz strenger Geheimhaltung verbreitete sich das Wissen bald: Wien, Nymphenburg, Sèvres. Porzellan wurde vom Luxusgut zum Alltagsgeschirr. Moderne Hochleistungskeramik nutzt verwandte Prinzipien, etwa für Zahnersatz und Isolatoren.
+- Erfunden in China; Kaolin, Feldspat, Quarz bei ~1.350 °C.
+- Böttger und Tschirnhaus erfanden es in Europa neu (~1708).
+- Meißen 1710 als erste europäische Manufaktur.
+
+=== han-van-meegeren
+cat: kunst
+title: Han van Meegeren
+teaser: Ein Fälscher verkaufte Göring einen „Vermeer“ – und musste vor Gericht beweisen, dass er ihn selbst gemalt hatte.
+meta: Niederlande, 1889–1947
+cover: Han van Meegeren | Han van Meegeren
+## Rache an den Kritikern
+Han van Meegeren war ein erfolgloser niederländischer Maler, von Kritikern als altmodisch verspottet. Er beschloss, ihnen zu beweisen, dass sie Kunst nicht erkennen. In den 1930ern malte er „neue“ Werke von Johannes Vermeer, dessen frühe Schaffensphase kaum dokumentiert war.
+## Die Fälschungen
+Er nutzte alte Leinwände, mischte Farben aus historischen Pigmenten und härtete sie mit Bakelit im Ofen, damit sie alt und rissig wirkten. Sein „Christus in Emmaus“ wurde 1937 vom Experten Abraham Bredius als Meisterwerk gefeiert und vom Museum Boijmans gekauft. Insgesamt verdiente van Meegeren Millionen.
+img: Johannes Vermeer | Johannes Vermeer, Ansicht von Delft
+## Vom Verräter zum Volkshelden
+Nach dem Krieg fand man einen „Vermeer“ in Hermann Görings Sammlung. Van Meegeren wurde als Kollaborateur verhaftet, weil er nationales Kulturgut an die Nazis verkauft habe. Um dem Hochverrat zu entgehen, gestand er die Fälschung und malte vor Zeugen einen neuen „Vermeer“. Er galt plötzlich als Held, der Göring betrogen hatte, wurde wegen Betrugs verurteilt und starb 1947.
+- Fälschte Vermeers aus Rache an den Kritikern.
+- Bakelit-Trick; Experten fielen darauf herein.
+- Bewies vor Gericht seine Fälschungen und wurde zum Volkshelden.
+
+=== salvator-mundi
+cat: kunst
+title: Salvator Mundi
+teaser: Für 1.175 Dollar ersteigert, für 450 Millionen verkauft – das teuerste Gemälde der Welt ist verschwunden.
+meta: Leonardo da Vinci (zugeschrieben)
+cover: Salvator Mundi (Leonardo da Vinci) | Salvator Mundi
+## Ein übermaltes Bild
+Das Gemälde zeigt Christus als „Erlöser der Welt“, mit erhobener Hand segnend, in der anderen eine Kristallkugel. 2005 kauften Kunsthändler es bei einer kleinen Auktion in New Orleans für 1.175 Dollar – stark übermalt und beschädigt. Nach einer aufwendigen Restaurierung wurde es 2011 in der National Gallery in London als verschollenes Werk Leonardos ausgestellt.
+## Zweifel
+Viele Experten bezweifeln, dass Leonardo es allein gemalt hat; manche halten es für ein Werkstattbild, an dem er beteiligt war. Kritisiert wird auch, dass die Restauratorin große Teile neu gemalt habe. Seltsam ist die Kristallkugel: Eine massive Glaskugel würde das Gewand dahinter verzerrt und umgekehrt zeigen – das tut sie nicht.
+img: Leonardo da Vinci | Leonardo da Vinci
+## Rekord und Rätsel
+2017 wurde es bei Christie’s in New York für 450,3 Millionen Dollar versteigert – Rekord. Käufer war mutmaßlich der saudische Kronprinz Mohammed bin Salman. Eine geplante Ausstellung im Louvre Abu Dhabi fand nie statt. Seit dem Kauf hat die Öffentlichkeit das Bild nicht mehr gesehen; es soll sich in Saudi-Arabien befinden.
+- 2005 für 1.175 Dollar gekauft, stark restauriert.
+- Zuschreibung an Leonardo umstritten.
+- 2017 für 450 Mio. Dollar verkauft, seither verschwunden.
+
+=== documenta
+cat: kunst
+title: Die documenta
+teaser: Alle fünf Jahre wird Kassel für 100 Tage zur Hauptstadt der Gegenwartskunst.
+meta: Kassel, seit 1955
+cover: Documenta | Das Fridericianum in Kassel
+## Neubeginn nach dem Krieg
+Der Kasseler Kunstprofessor Arnold Bode gründete 1955 die documenta, um die von den Nationalsozialisten als „entartet“ verfemte moderne Kunst wieder zu zeigen und Deutschland an die internationale Kunstwelt anzuschließen. Die erste Ausstellung im zerstörten Fridericianum zeigte Picasso, Kandinsky, Klee und andere.
+## 100 Tage Museum
+Die documenta findet alle fünf Jahre statt und dauert 100 Tage. Für jede Ausgabe wird eine neue künstlerische Leitung berufen, die ein eigenes Konzept entwickelt. Sie gilt als eine der wichtigsten Ausstellungen für zeitgenössische Kunst weltweit. Viele Werke blieben in Kassel, etwa Joseph Beuys’ „7000 Eichen“ von 1982.
+img: 7000 Eichen | Teil von Joseph Beuys’ „7000 Eichen“ in Kassel
+## Skandale
+Immer wieder gab es Kontroversen. 2022 kuratierte das indonesische Kollektiv ruangrupa die documenta fifteen. Ein Banner mit eindeutig antisemitischen Bildmotiven löste einen Skandal aus, wurde abgehängt, und die Generaldirektorin trat zurück. Die Debatte um Kunstfreiheit und Antisemitismus prägte die Ausgabe. Die documenta 16 ist für 2027 geplant.
+- 1955 von Arnold Bode gegründet, alle fünf Jahre 100 Tage.
+- Weltweit bedeutende Schau der Gegenwartskunst.
+- 2022 Antisemitismus-Skandal der documenta fifteen.
+
+=== banksy
+cat: kunst
+title: Banksy
+teaser: Niemand weiß sicher, wer er ist – aber ein Bild von ihm schredderte sich selbst nach der Versteigerung.
+meta: Großbritannien, seit den 1990ern
+cover: Banksy | Banksys „Girl with Balloon“ an einer Wand in London
+## Street Art mit Schablone
+Banksy begann in den 1990ern in Bristol mit Graffiti. Um schneller arbeiten zu können, verwendet er Schablonen (Stencils). Seine Werke tauchen über Nacht an Wänden auf, oft politisch und ironisch: Polizisten, die sich küssen, Ratten, ein Mädchen mit rotem Herzballon, ein Demonstrant, der Blumen wirft.
+## Das Geheimnis
+Banksys Identität ist offiziell unbekannt; Zeitungen und Forschende haben Kandidaten benannt, bestätigt hat er nichts. Er bestätigt Werke über seine Website und Instagram. Er malte auf die israelische Sperranlage im Westjordanland und eröffnete gegenüber das „Walled Off Hotel“. In der Ukraine tauchten 2022 Werke in zerbombten Städten auf.
+img: Bristol | Bristol, Banksys Heimatstadt
+## Kritik am Kunstmarkt
+2018 wurde „Girl with Balloon“ bei Sotheby’s für über eine Million Pfund versteigert – Sekunden später fuhr das Bild durch einen im Rahmen versteckten Schredder, halb zerschnitten. Das neue Werk „Love is in the Bin“ wurde 2021 für über 18 Millionen Pfund verkauft. Banksy kritisiert den Kunstmarkt – und profitiert von ihm.
+- Schablonengraffiti mit politischen und ironischen Motiven.
+- Identität offiziell unbekannt.
+- Selbstschreddernde Versteigerung 2018.
+
+=== homer
+cat: kunst
+title: Homer – Ilias und Odyssee
+teaser: Die ältesten Werke der europäischen Literatur – möglicherweise hat es den Dichter nie gegeben.
+meta: Griechenland, um 700 v. Chr.
+cover: Homer | Büste Homers
+## Die Ilias
+Die Ilias erzählt einige Wochen im zehnten Jahr des Trojanischen Krieges: Achilleus zieht sich im Zorn über Agamemnon aus dem Kampf zurück, bis sein Freund Patroklos fällt. Achilleus tötet den Trojaner Hektor und schleift seine Leiche um die Stadt. Am Ende gibt er die Leiche dem alten König Priamos zurück – ein Moment der Menschlichkeit.
+## Die Odyssee
+Die Odyssee schildert die zehnjährige Heimfahrt des listigen Odysseus nach Ithaka: Zyklop Polyphem, die Zauberin Kirke, die Sirenen, Skylla und Charybdis. Daheim warten seine treue Frau Penelope und zahlreiche Freier, die er am Ende tötet. „Odyssee“ wurde zum Wort für eine lange Irrfahrt.
+img: Odysseus | Odysseus und die Sirenen (antike Vasenmalerei)
+## Wer war Homer?
+Die Epen entstanden vermutlich im 8. oder 7. Jahrhundert v. Chr. aus mündlicher Tradition fahrender Sänger. Ob ein einzelner Dichter namens Homer sie verfasst hat, ist umstritten – die „Homerische Frage“. Sie sind in Hexametern verfasst und prägten die griechische Bildung, Vergil, Dante, Joyce und unzählige Filme.
+- Ilias: Zorn des Achilleus im Trojanischen Krieg.
+- Odyssee: Irrfahrt des Odysseus nach Ithaka.
+- Aus mündlicher Tradition; Existenz Homers umstritten.
+
+=== griechische-tragoedie
+cat: kunst
+title: Die griechische Tragödie
+teaser: Ödipus tötet unwissentlich seinen Vater und heiratet seine Mutter – Theater, das seit 2.500 Jahren erschüttert.
+meta: Athen, 5. Jh. v. Chr.
+cover: Tragödie | Das Theater von Epidauros
+## Theater für die Götter
+Die Tragödie entstand im 6. Jahrhundert v. Chr. in Athen aus Festen für den Gott Dionysos. Bei den Dionysien traten Dichter im Wettbewerb gegeneinander an, vor bis zu 15.000 Zuschauern. Schauspieler waren nur Männer, trugen Masken und wurden von einem Chor begleitet. Das Theater von Epidauros hat eine so gute Akustik, dass man ein Flüstern in der letzten Reihe hört.
+## Die großen Drei
+Aischylos schrieb die „Orestie“ über Fluch und Rache in der Familie Agamemnons. Sophokles schuf „König Ödipus“, das Paradebeispiel tragischer Ironie, und „Antigone“, die das göttliche Gebot über das Gesetz des Königs stellt. Euripides zeigte psychologisch komplexe Figuren wie Medea, die aus Rache ihre Kinder tötet.
+img: Sophokles | Sophokles
+## Katharsis
+Aristoteles erklärte in seiner „Poetik“, die Tragödie bewirke durch Jammer und Schaudern (eleos und phobos) eine Reinigung der Seele: Katharsis. Seine Regeln, etwa die Einheit der Handlung, prägten das europäische Drama bis Lessing und Schiller. Sigmund Freud benannte den „Ödipuskomplex“ nach Sophokles’ Held.
+- Entstanden aus Dionysos-Festen, Wettbewerbe in Athen.
+- Aischylos, Sophokles, Euripides.
+- Aristoteles: Katharsis; Einfluss bis zur Psychoanalyse.
+
+=== dante-goettliche-komoedie
+cat: kunst
+title: Dantes Göttliche Komödie
+teaser: Eine Reise durch Hölle, Fegefeuer und Paradies – und Dante steckte seine politischen Feinde in die Hölle.
+meta: Italien, um 1307–1321
+cover: Göttliche Komödie | Dante mit der Göttlichen Komödie (Fresko von Domenico di Michelino)
+## Die Reise
+„Auf halbem Weg des Menschenlebens“ verirrt sich Dante in einem dunklen Wald. Der römische Dichter Vergil führt ihn durch die neun Kreise der Hölle bis zu Luzifer im Eis, dann auf den Läuterungsberg. Ins Paradies geleitet ihn Beatrice, seine verstorbene Jugendliebe, bis zur Schau Gottes.
+## Strenge Ordnung
+Das Werk besteht aus drei Teilen mit je 33 Gesängen plus Einleitung, also 100 Gesängen, verfasst in Terzinen (Strophen zu drei Versen). Die Zahl drei steht für die Dreifaltigkeit. Jede Sünde wird passend bestraft (contrapasso). Über dem Höllentor steht: „Lasst, die ihr eintretet, alle Hoffnung fahren.“
+img: Dante Alighieri | Dante Alighieri
+## Vater der italienischen Sprache
+Dante schrieb nicht auf Latein, sondern im toskanischen Volgare – damit wurde das Werk zur Grundlage des modernen Italienisch. Aus Florenz verbannt, rechnete er im Werk mit Gegnern ab, etwa mit Papst Bonifatius VIII. Den Zusatz „göttlich“ gab später Boccaccio; „Komödie“ heißt es, weil es gut endet.
+- Reise durch Hölle, Läuterungsberg und Paradies.
+- 100 Gesänge in Terzinen; Vergil und Beatrice als Führer.
+- Grundlage der italienischen Schriftsprache.
+
+=== shakespeare
+cat: kunst
+title: William Shakespeare
+teaser: Er erfand Hunderte englische Wörter – und über sein Leben wissen wir erstaunlich wenig.
+meta: England, 1564–1616
+cover: William Shakespeare | Das Chandos-Porträt, vermutlich Shakespeare
+## Ein Leben voller Lücken
+William Shakespeare wurde 1564 in Stratford-upon-Avon geboren, heiratete mit 18 Anne Hathaway und ging nach London, wo er Schauspieler, Autor und Mitbesitzer der Theatertruppe „Lord Chamberlain’s Men“ wurde. Über viele Jahre seines Lebens gibt es kaum Dokumente. Theorien, jemand anderes habe seine Werke geschrieben, lehnen Fachleute weitgehend ab.
+## Das Werk
+Er schrieb rund 37 Dramen und 154 Sonette. Tragödien wie „Hamlet“, „Macbeth“, „Othello“, „König Lear“ und „Romeo und Julia“, Komödien wie „Ein Sommernachtstraum“ und Historiendramen. „Sein oder Nichtsein“ ist wohl der berühmteste Monolog der Weltliteratur. Viele Stücke wurden im Globe Theatre aufgeführt.
+img: Globe Theatre | Das rekonstruierte Globe Theatre in London
+## Sprache
+Shakespeare prägte zahlreiche Wörter und Wendungen, die bis heute im Englischen leben, etwa „break the ice“ oder „wild-goose chase“. Die Übersetzung von August Wilhelm Schlegel und Ludwig Tieck machte ihn im 19. Jahrhundert fast zu einem deutschen Klassiker. Er starb 1616 – im selben Jahr wie Cervantes.
+- Rund 37 Dramen und 154 Sonette.
+- Hamlet, Macbeth, Romeo und Julia, Sommernachtstraum.
+- Sprachprägend; Schlegel-Tieck-Übersetzung.

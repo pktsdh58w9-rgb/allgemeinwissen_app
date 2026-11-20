@@ -1,0 +1,203 @@
+=== don-quijote
+cat: kunst
+title: Don Quijote
+teaser: Ein verarmter Edelmann liest zu viele Ritterromane und kämpft gegen Windmühlen – der erste moderne Roman.
+meta: Miguel de Cervantes, 1605/1615
+cover: Don Quijote | Don Quijote und Sancho Panza (Illustration von Gustave Doré)
+## Ein Ritter von trauriger Gestalt
+Alonso Quijano aus der Mancha hat so viele Ritterromane gelesen, dass er den Verstand verliert. Er nennt sich Don Quijote, reitet auf seinem klapprigen Pferd Rosinante los und erklärt eine Bauernmagd zur angebeteten Dulcinea. Sein Knappe wird der bodenständige Bauer Sancho Panza, dem er eine Insel verspricht.
+## Kampf gegen Windmühlen
+Berühmt ist die Szene, in der Don Quijote Windmühlen für Riesen hält und sie angreift. „Gegen Windmühlen kämpfen“ wurde zur Redewendung für aussichtslose Kämpfe gegen eingebildete Gegner. Der Roman ist Parodie auf die Ritterliteratur, aber auch tief menschlich: Idealismus trifft auf Wirklichkeit.
+img: Miguel de Cervantes | Miguel de Cervantes
+## Der erste moderne Roman
+Cervantes hatte als Soldat in der Seeschlacht von Lepanto 1571 die linke Hand verloren und war fünf Jahre in algerischer Gefangenschaft. Der erste Teil erschien 1605, der zweite 1615 – darin wissen die Figuren bereits vom ersten Buch, ein frühes Spiel mit der Fiktion. Viele gelten „Don Quijote“ als ersten modernen Roman.
+- Ritterroman-Leser wird zum komischen Ritter.
+- Kampf gegen Windmühlen, Sancho Panza als Gegenpol.
+- Gilt als erster moderner Roman; Teil 1 1605, Teil 2 1615.
+
+=== goethe-faust
+cat: kunst
+title: Goethes Faust
+teaser: Ein Gelehrter schließt einen Pakt mit dem Teufel – Goethe arbeitete fast 60 Jahre daran.
+meta: Johann Wolfgang von Goethe
+cover: Johann Wolfgang von Goethe | Johann Wolfgang von Goethe (Gemälde von Joseph Karl Stieler, 1828)
+## Die Wette
+Doktor Heinrich Faust hat alle Wissenschaften studiert und ist verzweifelt: „Da steh ich nun, ich armer Tor! Und bin so klug als wie zuvor.“ Mephisto, der Teufel, wettet mit Gott um Fausts Seele. Faust geht einen Pakt ein: Wenn er je zum Augenblick sagt „Verweile doch! du bist so schön!“, gehört er Mephisto.
+## Die Gretchentragödie
+Im ersten Teil (1808) verführt Faust mit Mephistos Hilfe die junge Margarete (Gretchen). Sie wird schwanger, ihre Mutter stirbt durch einen Schlaftrunk, ihr Bruder durch Fausts Degen. Gretchen tötet ihr Kind und wird zum Tode verurteilt; im Kerker weigert sie sich zu fliehen. „Sie ist gerichtet!“ – „Ist gerettet!“
+img: Mephisto | Mephisto, Illustration von Eugène Delacroix
+## Ein Lebenswerk
+Goethe begann den „Urfaust“ in den 1770ern; den zweiten Teil vollendete er kurz vor seinem Tod 1832. Faust II führt durch Kaiserhof, antike Mythen und Kolonisierung. Viele Zitate wurden sprichwörtlich: „Des Pudels Kern“, „Zwei Seelen wohnen, ach! in meiner Brust“, „die Gretchenfrage“ („Nun sag, wie hast du’s mit der Religion?“).
+- Teufelspakt mit Mephisto, Suche nach dem erfüllten Augenblick.
+- Gretchentragödie im ersten Teil.
+- Fast 60 Jahre Arbeit; zahllose geflügelte Worte.
+
+=== schiller
+cat: kunst
+title: Friedrich Schiller
+teaser: Er floh vor seinem Herzog, schrieb die Vorlage für die Europahymne – und begründete mit Goethe die Weimarer Klassik.
+meta: 1759–1805
+cover: Friedrich Schiller | Friedrich Schiller (Gemälde von Anton Graff)
+## Die Räuber
+Schiller musste auf Befehl des württembergischen Herzogs Carl Eugen Medizin an der Militärakademie studieren. Heimlich schrieb er „Die Räuber“, ein Drama über zwei verfeindete Brüder. Die Uraufführung 1782 in Mannheim war ein Skandal: Zuschauer fielen sich weinend in die Arme. Schiller floh vor dem Schreibverbot des Herzogs.
+## Freiheit
+Freiheit ist sein großes Thema: In „Kabale und Liebe“ zerbricht eine Liebe an Standesgrenzen, in „Don Karlos“ fordert Marquis Posa „Geben Sie Gedankenfreiheit!“, in „Wilhelm Tell“ erhebt sich die Schweiz gegen Tyrannei. Seine Ode „An die Freude“ („Alle Menschen werden Brüder“) vertonte Beethoven in der Neunten – heute die Europahymne.
+img: Goethe-Schiller-Denkmal | Das Goethe-Schiller-Denkmal in Weimar
+## Weimarer Klassik
+Ab 1794 verband Schiller eine enge Freundschaft mit Goethe. Gemeinsam prägten sie in Weimar die Klassik, schrieben Balladen wie „Die Bürgschaft“ und „Der Handschuh“. Schiller war zudem Historiker und Philosoph („Über die ästhetische Erziehung des Menschen“). Er starb 1805 mit 45 Jahren an Tuberkulose.
+- „Die Räuber“ 1782, Flucht vor dem Herzog.
+- Thema Freiheit: Don Karlos, Wilhelm Tell; „Ode an die Freude“.
+- Mit Goethe Begründer der Weimarer Klassik.
+
+=== brueder-grimm
+cat: kunst
+title: Die Brüder Grimm
+teaser: Sie sammelten Märchen – und schrieben nebenbei das größte deutsche Wörterbuch.
+meta: Jacob 1785–1863, Wilhelm 1786–1859
+cover: Brüder Grimm | Jacob und Wilhelm Grimm
+## Kinder- und Hausmärchen
+Jacob und Wilhelm Grimm aus Hanau sammelten Märchen, vor allem aus Erzählungen gebildeter Bürgerfrauen, nicht wie oft behauptet von einfachen Bauern. 1812 erschien der erste Band der „Kinder- und Hausmärchen“ mit Rotkäppchen, Hänsel und Gretel, Schneewittchen, Aschenputtel und Rapunzel. Viele Geschichten haben auch französische Wurzeln.
+## Bearbeitet und entschärft
+Die erste Ausgabe war grausam und wenig kindgerecht. Wilhelm überarbeitete die Märchen in späteren Auflagen stark: Er machte die Sprache märchenhafter, ersetzte böse Mütter durch Stiefmütter und entfernte sexuelle Anspielungen – Gewalt gegen Bösewichte blieb. Die „Ausgabe letzter Hand“ von 1857 enthält 200 Märchen.
+img: Hänsel und Gretel | Hänsel und Gretel (Illustration)
+## Mehr als Märchen
+Die Grimms waren Sprachwissenschaftler: Jacob formulierte Lautgesetze des Germanischen. 1838 begannen sie das „Deutsche Wörterbuch“ – vollendet wurde es erst 1961. Als Teil der „Göttinger Sieben“ protestierten sie 1837 gegen den Verfassungsbruch des Königs von Hannover und verloren ihre Professuren. Die Märchen sind UNESCO-Weltdokumentenerbe.
+- Kinder- und Hausmärchen ab 1812, 200 Märchen.
+- Spätere Bearbeitung: kindgerechter, mit Stiefmüttern.
+- Deutsches Wörterbuch, Göttinger Sieben.
+
+=== kafka
+cat: kunst
+title: Franz Kafka
+teaser: Er wollte sein Werk verbrennen lassen – sein Freund hielt sich nicht daran. Zum Glück.
+meta: Prag, 1883–1924
+cover: Franz Kafka | Franz Kafka, um 1923
+## Ein Versicherungsangestellter
+Franz Kafka lebte in Prag, schrieb auf Deutsch und arbeitete tagsüber bei einer Arbeiter-Unfall-Versicherung. Geschrieben hat er nachts. Zu Lebzeiten veröffentlichte er nur wenige Erzählungen. Sein Verhältnis zum dominanten Vater verarbeitete er im langen „Brief an den Vater“.
+## Kafkaesk
+In „Die Verwandlung“ (1915) erwacht Gregor Samsa als „ungeheueres Ungeziefer“ – und sorgt sich vor allem, dass er zu spät zur Arbeit kommt. In „Der Proceß“ wird Josef K. verhaftet, ohne je zu erfahren, wessen er angeklagt ist. „Das Schloss“ zeigt einen Landvermesser, der nie Zugang zur Behörde findet. „Kafkaesk“ steht für undurchschaubare, bedrohliche Bürokratie.
+img: Max Brod | Max Brod
+## Gerettetes Werk
+Kafka starb 1924 mit 40 Jahren an Kehlkopftuberkulose. Er bat seinen Freund Max Brod, alle Manuskripte zu verbrennen. Brod veröffentlichte sie stattdessen – so wurden „Der Proceß“, „Das Schloss“ und „Der Verschollene“ bekannt. Kafkas drei Schwestern wurden im Holocaust ermordet.
+- Prager Autor deutscher Sprache, nachts geschrieben.
+- Die Verwandlung, Der Proceß, Das Schloss – „kafkaesk“.
+- Max Brod rettete das Werk gegen Kafkas Willen.
+
+=== thomas-mann
+cat: kunst
+title: Thomas Mann
+teaser: Mit 26 schrieb er einen Weltbestseller über den Verfall seiner Familie – und wurde zur Stimme des anderen Deutschland.
+meta: 1875–1955
+cover: Thomas Mann | Thomas Mann, 1937
+## Buddenbrooks
+Thomas Mann stammte aus einer Lübecker Kaufmannsfamilie. 1901 erschien „Buddenbrooks. Verfall einer Familie“, über vier Generationen einer Kaufmannsfamilie, die an Lebensuntüchtigkeit und Kunstsinn zugrunde geht – stark autobiografisch. Für diesen Roman erhielt er 1929 den Literaturnobelpreis.
+## Große Romane
+„Der Zauberberg“ (1924) spielt in einem Lungensanatorium in Davos, wo der junge Hans Castorp statt drei Wochen sieben Jahre bleibt – ein Panorama der Vorkriegszeit. Die Novelle „Der Tod in Venedig“ erzählt von der Obsession eines alternden Schriftstellers. Später folgten die Tetralogie „Joseph und seine Brüder“ und „Doktor Faustus“.
+img: Buddenbrookhaus | Das Buddenbrookhaus in Lübeck
+## Exil
+Mann war anfangs konservativ, wurde aber zum Verteidiger der Weimarer Demokratie. 1933 kehrte er von einer Reise nicht nach Deutschland zurück und emigrierte über die Schweiz in die USA. In der BBC-Sendung „Deutsche Hörer!“ sprach er gegen das NS-Regime. Seine Familie war ebenfalls literarisch: Bruder Heinrich, Kinder Klaus und Erika.
+- Buddenbrooks (1901), Nobelpreis 1929.
+- Zauberberg, Tod in Venedig, Doktor Faustus.
+- Exil ab 1933, Radioreden gegen die Nazis.
+
+=== brecht
+cat: kunst
+title: Bertolt Brecht
+teaser: Theater, das nicht einlullen, sondern zum Denken zwingen soll – und ein Welthit über Gangster in London.
+meta: 1898–1956
+cover: Bertolt Brecht | Bertolt Brecht, 1954
+## Die Dreigroschenoper
+Mit dem Komponisten Kurt Weill schuf Bertolt Brecht 1928 „Die Dreigroschenoper“ über den Gangster Mackie Messer und die Bettlerwelt Londons – eine Kritik an bürgerlicher Moral. Sie wurde zum größten Theatererfolg der Weimarer Republik. „Erst kommt das Fressen, dann kommt die Moral.“ Die „Moritat von Mackie Messer“ wurde ein Jazzstandard.
+## Episches Theater
+Brecht wollte, dass Zuschauer nicht mitfühlen und vergessen, sondern kritisch nachdenken. Mit dem „Verfremdungseffekt“ brach er die Illusion: Schauspieler sprechen das Publikum an, Songs unterbrechen die Handlung, Tafeln kündigen an, was geschieht. Die Welt sollte als veränderbar erscheinen.
+img: Berliner Ensemble | Das Berliner Ensemble am Schiffbauerdamm
+## Exil und Rückkehr
+Als Marxist floh Brecht 1933 über Skandinavien in die USA. Im Exil schrieb er „Mutter Courage und ihre Kinder“, „Leben des Galilei“ und „Der gute Mensch von Sezuan“. Nach einem Verhör vor dem US-Ausschuss gegen „unamerikanische Umtriebe“ ging er 1949 nach Ost-Berlin und gründete mit Helene Weigel das Berliner Ensemble.
+- Dreigroschenoper mit Kurt Weill (1928).
+- Episches Theater mit Verfremdungseffekt.
+- Exil, dann Berliner Ensemble in Ost-Berlin.
+
+=== tolstoi
+cat: kunst
+title: Leo Tolstoi – Krieg und Frieden
+teaser: Über 500 Figuren, Napoleons Russlandfeldzug und die Frage, was Geschichte eigentlich antreibt.
+meta: Russland, 1828–1910
+cover: Lew Nikolajewitsch Tolstoi | Leo Tolstoi, 1908
+## Ein Epos
+„Krieg und Frieden“ (1868/69) verfolgt mehrere Adelsfamilien während der Napoleonischen Kriege, von 1805 bis 1820, mit über 500 Figuren. Im Mittelpunkt stehen der grüblerische Pierre Besuchow, der ehrgeizige Fürst Andrej Bolkonski und die lebenshungrige Natascha Rostowa. Schlachtenszenen wie Austerlitz und Borodino wechseln mit Bällen und Familienleben.
+## Tolstois Geschichtsphilosophie
+Tolstoi unterbricht die Handlung mit Essays: Nicht große Männer wie Napoleon machen Geschichte, sondern die Summe unzähliger Einzelhandlungen. Napoleon erscheint eitel und eher als Getriebener. Der Roman gilt als einer der größten der Weltliteratur.
+img: Anna Karenina | Anna Karenina (Illustration)
+## Anna Karenina und die späten Jahre
+„Anna Karenina“ (1877) beginnt mit dem berühmten Satz: „Alle glücklichen Familien gleichen einander, jede unglückliche Familie ist auf ihre eigene Weise unglücklich.“ Später lehnte Tolstoi Besitz, Kirche und Staat ab, predigte Gewaltlosigkeit und beeinflusste damit Gandhi. 1910 floh er mit 82 Jahren von zu Hause und starb in einem Bahnhof.
+- Krieg und Frieden: Adelsfamilien in den Napoleonischen Kriegen.
+- Geschichte als Summe vieler Einzelhandlungen.
+- Anna Karenina; später Pazifist und Vorbild Gandhis.
+
+=== orwell-1984
+cat: kunst
+title: George Orwell – 1984
+teaser: „Big Brother is watching you“ – ein Roman von 1949, dessen Begriffe Alltagssprache wurden.
+meta: George Orwell, 1949
+cover: George Orwell | George Orwell
+## Ozeanien
+In „1984“ lebt Winston Smith in Ozeanien, einem totalitären Staat unter der Herrschaft der Partei und ihres allgegenwärtigen Führers Big Brother. Teleschirme überwachen jede Wohnung. Winston arbeitet im „Wahrheitsministerium“ und fälscht Zeitungsarchive, damit die Vergangenheit immer mit der aktuellen Parteilinie übereinstimmt.
+## Neusprech und Doppeldenk
+Die Partei schafft die Sprache „Neusprech“, die gefährliche Gedanken unmöglich machen soll. „Doppeldenk“ bedeutet, zwei widersprüchliche Überzeugungen gleichzeitig zu glauben: „Krieg ist Frieden. Freiheit ist Sklaverei. Unwissenheit ist Stärke.“ Winstons heimliche Liebe zu Julia endet in Raum 101 mit Folter und Verrat.
+img: Farm der Tiere | Erstausgabe von „Animal Farm“
+## Ein Warner
+Eric Arthur Blair alias George Orwell kämpfte im Spanischen Bürgerkrieg gegen Franco und erlebte die Verfolgung linker Gruppen durch Stalinisten. In „Farm der Tiere“ (1945) parodierte er die Sowjetunion: „Alle Tiere sind gleich, aber manche sind gleicher.“ Begriffe aus „1984“ prägen Debatten über Überwachung, Fake News und Propaganda bis heute.
+- Totalitärer Überwachungsstaat mit Big Brother.
+- Neusprech, Doppeldenk, Gedankenpolizei.
+- Orwell auch Autor von „Farm der Tiere“.
+
+=== bach
+cat: kunst
+title: Johann Sebastian Bach
+teaser: Zu Lebzeiten eher als Organist bekannt, 80 Jahre nach seinem Tod wiederentdeckt – heute für viele der größte Komponist überhaupt.
+meta: 1685–1750
+cover: Johann Sebastian Bach | Johann Sebastian Bach (Gemälde von Elias Gottlob Haußmann, 1748)
+## Thomaskantor
+Bach stammte aus einer thüringischen Musikerfamilie. Nach Stellen in Arnstadt, Weimar und Köthen wurde er 1723 Thomaskantor in Leipzig. Er musste jeden Sonntag eine Kantate liefern – über 200 sind erhalten. Er hatte 20 Kinder, von denen mehrere selbst berühmte Komponisten wurden, etwa Carl Philipp Emanuel Bach.
+## Das Werk
+Zu seinen Hauptwerken gehören die Matthäus- und die Johannes-Passion, die h-Moll-Messe, das Weihnachtsoratorium, die Brandenburgischen Konzerte, die Goldberg-Variationen und „Das Wohltemperierte Klavier“, das alle 24 Tonarten durchspielt. Meister des Kontrapunkts: Mehrere eigenständige Stimmen verweben sich, am kunstvollsten in der Fuge.
+img: Thomaskirche (Leipzig) | Die Thomaskirche in Leipzig
+## Wiederentdeckung
+Nach seinem Tod galt Bach als altmodisch. 1829 führte der 20-jährige Felix Mendelssohn Bartholdy in Berlin die Matthäus-Passion wieder auf und löste eine Bach-Renaissance aus. Eine Aufnahme seiner Musik fliegt mit der Voyager-Golden-Record durchs All. Bach ist in der Leipziger Thomaskirche begraben.
+- Thomaskantor in Leipzig ab 1723.
+- Passionen, h-Moll-Messe, Brandenburgische Konzerte, Wohltemperiertes Klavier.
+- 1829 von Mendelssohn wiederentdeckt.
+
+=== mozart
+cat: kunst
+title: Wolfgang Amadeus Mozart
+teaser: Mit fünf Jahren komponierte er, mit 35 war er tot – und hinterließ über 600 Werke.
+meta: 1756–1791
+cover: Wolfgang Amadeus Mozart | Wolfgang Amadeus Mozart (posthumes Porträt von Barbara Krafft)
+## Das Wunderkind
+Mozart kam 1756 in Salzburg zur Welt. Sein Vater Leopold reiste mit ihm und seiner Schwester Nannerl durch Europa und führte sie als Wunderkinder an Fürstenhöfen vor. Mit fünf komponierte er erste Stücke, mit zwölf seine erste Oper. Er soll Allegris geheimes „Miserere“ nach einmaligem Hören aus dem Gedächtnis aufgeschrieben haben.
+## Freischaffend in Wien
+1781 brach er mit seinem Arbeitgeber, dem Salzburger Erzbischof, und ging als einer der ersten freischaffenden Komponisten nach Wien. Es entstanden die Opern „Die Hochzeit des Figaro“, „Don Giovanni“, „Così fan tutte“ und „Die Zauberflöte“, 41 Sinfonien, Klavierkonzerte und „Eine kleine Nachtmusik“. Das Köchelverzeichnis listet über 600 Werke.
+img: Mozarts Geburtshaus | Mozarts Geburtshaus in Salzburg
+## Mythen um seinen Tod
+Mozart starb 1791 mit 35 Jahren, wahrscheinlich an einer Infektionskrankheit. Sein Requiem blieb unvollendet und wurde von seinem Schüler Süßmayr ergänzt. Dass Antonio Salieri ihn vergiftet habe, ist eine Legende, bekannt durch Puschkin und den Film „Amadeus“. Arm begraben wurde er in einem gewöhnlichen Gemeinschaftsgrab, wie damals in Wien üblich.
+- Wunderkind aus Salzburg, Reisen durch Europa.
+- Freischaffend in Wien: Figaro, Don Giovanni, Zauberflöte.
+- Tod mit 35; Salieri-Mord ist eine Legende.
+
+=== beethoven
+cat: kunst
+title: Ludwig van Beethoven
+teaser: Er komponierte seine Neunte Sinfonie, als er völlig taub war – und hörte den Applaus nicht.
+meta: 1770–1827
+cover: Ludwig van Beethoven | Ludwig van Beethoven (Gemälde von Joseph Karl Stieler, 1820)
+## Von Bonn nach Wien
+Beethoven wurde 1770 in Bonn geboren und ging 1792 nach Wien, um bei Joseph Haydn zu studieren. Er wurde als Pianist gefeiert und emanzipierte sich als Komponist vom Adel: Mäzene zahlten ihm eine Rente, ohne ihn anzustellen. Er widmete seine dritte Sinfonie Napoleon, strich die Widmung aber wütend, als dieser sich zum Kaiser krönte – „Eroica“.
+## Taubheit
+Schon um 1798 begann Beethoven das Gehör zu verlieren. Im „Heiligenstädter Testament“ (1802) dachte er an Selbstmord, entschied sich aber für die Kunst. Ab etwa 1818 verständigte er sich nur noch mit Konversationsheften. Bei der Uraufführung der Neunten 1824 musste ihn eine Sängerin umdrehen, damit er den Jubel sah.
+img: Beethoven-Haus | Das Beethoven-Haus in Bonn
+## Das Werk
+Neun Sinfonien – darunter die Fünfte mit dem „Schicksalsmotiv“ ta-ta-ta-taaa und die Neunte mit Schillers „Ode an die Freude“, heute Europahymne. Dazu 32 Klaviersonaten wie die „Mondscheinsonate“, die Oper „Fidelio“ und späte Streichquartette, die ihrer Zeit weit voraus waren. „Für Elise“ ist eines der bekanntesten Klavierstücke der Welt.
+- Bonn – Wien, freischaffender Komponist.
+- Zunehmende Taubheit, Heiligenstädter Testament.
+- Neun Sinfonien; die Neunte ist Europahymne.
