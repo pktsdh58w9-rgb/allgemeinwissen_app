@@ -49,7 +49,7 @@
 | Mauerfall | Marianengraben | Haber-Bosch-Verfahren | Mona Lisa | Gewaltenteilung |
 | Französische Revolution | Sahara | Chiralität & Contergan | Impressionismus | Entstehung der EU |
 | Der Schwarze Tod | Island | CRISPR-Cas9 | Bauhaus | UN-Sicherheitsrat |
-| Mondlandung 1969 | Amazonas | Schwarze Löcher | Guernica | Bundestagswahl: Erst- & Zweitstimme |
+| Mondlandung 1969 | Amazonas | Schwarze Löcher | Sixtinische Kapelle | Bundestagswahl: Erst- & Zweitstimme |
 
 ## Technik
 - Reines HTML/CSS/JavaScript, keine Frameworks, kein Server.
