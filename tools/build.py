@@ -74,6 +74,12 @@ def og_image(title):
             return None
         m = re.search(r'<meta property="og:image" content="([^"]+)"', body)
         if not m:
+            # Fallback: erstes ausreichend großes Commons-Bild im Artikeltext
+            skip = re.compile(r'(?i)(flag|flagge|icon|logo|wappen|coat_of_arms|symbol|disambig|question|wiktionary|commons-|edit-|ambox|portal|karte_|locator|pictogram|signature|unterschrift)')
+            for im in re.finditer(r'<img [^>]*?src="//(?:upload|thumb)\.wikimedia\.org/wikipedia/commons/thumb/[0-9a-f]/[0-9a-f]{2}/([^/"]+)/[^"]*"[^>]*?width="(\d+)"', body):
+                name, w = urllib.parse.unquote(im.group(1)), int(im.group(2))
+                if w >= 180 and not skip.search(name):
+                    return name.replace('_', ' ')
             return ''
         u = m.group(1).split('?')[0]
         m2 = re.match(r'https://(?:upload|thumb)\.wikimedia\.org/wikipedia/commons/(?:thumb/)?[0-9a-f]/[0-9a-f]{2}/([^/]+)', u)
