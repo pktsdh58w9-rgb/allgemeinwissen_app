@@ -15,7 +15,7 @@ Quellformat pro Karte:
 
 Bilder: Das Hauptbild (og:image) des Wikipedia-Artikels wird ermittelt und in
 tools/image-cache.json gespeichert. Nur Commons-Dateien werden verwendet.
-Aufruf: python3 tools/build.py [--fetch]
+Aufruf: python3 tools/build.py [--fetch [--retry-empty]]
 """
 import json, re, sys, time, glob, os, urllib.parse, subprocess
 
@@ -90,14 +90,15 @@ def main():
         for c in cards:
             titles.append(c['cover']['wiki'])
             titles += [s['img']['wiki'] for s in c['sections'] if 'img' in s]
-        todo = [t for t in dict.fromkeys(titles) if not t.startswith('file:') and cache.get(t) is None]
+        retry = '--retry-empty' in sys.argv
+        todo = [t for t in dict.fromkeys(titles) if not t.startswith('file:') and (cache.get(t) is None or (retry and cache.get(t) == ''))]
         print(f'{len(todo)} Bilder zu ermitteln', flush=True)
         for i, t in enumerate(todo):
             cache[t] = og_image(t)
             print(i + 1, t, '->', cache[t], flush=True)
             if (i + 1) % 20 == 0:
                 json.dump(cache, open(CACHE, 'w'), ensure_ascii=False, indent=0)
-            time.sleep(1.2)
+            time.sleep(2.0)
         json.dump(cache, open(CACHE, 'w'), ensure_ascii=False, indent=0)
 
     def resolve(img):

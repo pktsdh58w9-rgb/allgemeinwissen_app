@@ -1,0 +1,271 @@
+=== voelkerrecht-souveraenitaet
+cat: politik
+title: Völkerrecht und Souveränität
+teaser: Ein Recht ohne Weltpolizei: Warum sich Staaten trotzdem meistens daran halten.
+meta: Internationale Beziehungen
+cover: Völkerrecht | Friedenspalast in Den Haag
+## Recht zwischen Staaten
+Das Völkerrecht regelt die Beziehungen zwischen Staaten und internationalen Organisationen. Quellen sind Verträge, Gewohnheitsrecht und allgemeine Rechtsgrundsätze. Der Niederländer Hugo Grotius gilt mit „Vom Recht des Krieges und des Friedens“ (1625) als Vater des Völkerrechts.
+## Souveränität und Gewaltverbot
+Grundlage ist die souveräne Gleichheit der Staaten: Jeder Staat bestimmt über seine inneren Angelegenheiten, andere dürfen sich nicht einmischen. Die UN-Charta von 1945 verbietet die Androhung und Anwendung von Gewalt zwischen Staaten (Art. 2 Abs. 4). Ausnahmen sind nur Selbstverteidigung und ein Mandat des UN-Sicherheitsrats.
+img: Hugo Grotius | Hugo Grotius
+## Ohne Weltpolizei
+Es gibt keine zentrale Instanz, die Völkerrecht durchsetzt. Trotzdem halten sich Staaten meist daran – aus Eigeninteresse, Gegenseitigkeit und Ansehen. Der Internationale Gerichtshof in Den Haag entscheidet Streitigkeiten, wenn Staaten zustimmen. Schwere Verstöße wie Russlands Angriff auf die Ukraine zeigen die Grenzen, wenn eine Vetomacht beteiligt ist.
+- Recht zwischen Staaten aus Verträgen und Gewohnheit; Grotius.
+- Souveräne Gleichheit und Gewaltverbot der UN-Charta.
+- Keine zentrale Durchsetzung; IGH in Den Haag.
+
+=== responsibility-to-protect
+cat: politik
+title: Die Schutzverantwortung (R2P)
+teaser: Nach Ruanda und Srebrenica: Darf die Welt eingreifen, wenn ein Staat sein eigenes Volk abschlachtet?
+meta: Völkerrecht, seit 2005
+cover: Schutzverantwortung | UN-Generalversammlung 2005
+## Nie wieder Ruanda
+Nach dem Völkermord in Ruanda 1994 und dem Massaker von Srebrenica 1995, bei denen die Welt zusah, fragte UN-Generalsekretär Kofi Annan, wann Souveränität zurücktreten müsse. 1999 griff die NATO im Kosovo ohne UN-Mandat ein – umstritten. Eine Kommission entwickelte 2001 das Konzept der „Responsibility to Protect“.
+## Das Prinzip
+2005 bekannten sich alle UN-Mitglieder zur Schutzverantwortung: Jeder Staat ist verpflichtet, seine Bevölkerung vor Völkermord, Kriegsverbrechen, ethnischen Säuberungen und Verbrechen gegen die Menschlichkeit zu schützen. Versagt er, trägt die internationale Gemeinschaft Verantwortung – mit friedlichen Mitteln, als letztes Mittel auch militärisch, aber nur mit Mandat des Sicherheitsrats.
+img: Kofi Annan | Kofi Annan
+## Libyen und danach
+2011 berief sich der Sicherheitsrat erstmals bei einem Militäreinsatz auf R2P: zum Schutz der Bevölkerung im libyschen Bürgerkrieg. Die NATO-Intervention führte zum Sturz Gaddafis; Russland und China fühlten sich getäuscht. Seitdem blockieren sie ähnliche Beschlüsse, etwa zu Syrien. Das Prinzip gilt als geschwächt.
+- Reaktion auf Ruanda und Srebrenica.
+- 2005 von allen UN-Staaten anerkannt: Schutz vor Massenverbrechen.
+- Libyen 2011 als Präzedenzfall; seither blockiert.
+
+=== wirtschaftssanktionen
+cat: politik
+title: Wirtschaftssanktionen
+teaser: Krieg mit anderen Mitteln: Wie Staaten mit Handelsverboten Druck ausüben – und warum das so selten funktioniert.
+meta: Außenpolitik
+cover: Wirtschaftssanktion | Containerhafen
+## Das Instrument
+Sanktionen sind wirtschaftliche Zwangsmaßnahmen, etwa Handelsembargos, Einfrieren von Vermögen, Reiseverbote, Ausschluss aus Finanzsystemen wie SWIFT oder Exportverbote für bestimmte Technologien. Sie können vom UN-Sicherheitsrat, der EU oder einzelnen Staaten verhängt werden. „Smarte“ Sanktionen zielen auf bestimmte Personen und Firmen statt auf die ganze Bevölkerung.
+## Erfolge und Grenzen
+Die Sanktionen gegen das Apartheid-Regime in Südafrika trugen zu seinem Ende bei. Beim Atomabkommen mit dem Iran 2015 waren sie ein Hebel. Oft aber erreichen sie ihre Ziele nicht: Kuba ist seit 1962 unter US-Embargo, Nordkorea baute trotzdem Atomwaffen. Leiden kann vor allem die Zivilbevölkerung, während Eliten Wege finden, sie zu umgehen.
+img: Society for Worldwide Interbank Financial Telecommunication | SWIFT-Zentrale in Belgien
+## Russland
+Nach dem Angriff auf die Ukraine 2022 verhängten EU, USA und Verbündete die umfangreichsten Sanktionen der Geschichte gegen eine große Volkswirtschaft: eingefrorene Zentralbankreserven, Ölembargo, Preisdeckel, SWIFT-Ausschluss vieler Banken. Russlands Wirtschaft brach weniger ein als erwartet, weil Handel über China, Indien und die Türkei umgeleitet wurde.
+- Embargos, Vermögenssperren, Finanzausschlüsse.
+- Erfolg z. B. gegen Apartheid; oft wirkungsarm oder zu Lasten der Bevölkerung.
+- Beispiellose Russland-Sanktionen seit 2022, teils umgangen.
+
+=== atomwaffensperrvertrag
+cat: politik
+title: Der Atomwaffensperrvertrag
+teaser: Fünf dürfen, der Rest verzichtet – ein ungleicher Deal, der trotzdem seit 1970 hält.
+meta: seit 1970
+cover: Atomwaffensperrvertrag | Unterzeichnung des Vertrags 1968
+## Der Deal
+Der Vertrag über die Nichtverbreitung von Kernwaffen (NPT) trat 1970 in Kraft. Fünf Staaten, die vor 1967 Atomwaffen getestet hatten – USA, Sowjetunion/Russland, Großbritannien, Frankreich, China –, dürfen sie behalten, verpflichten sich aber zur Abrüstung. Alle anderen verzichten auf Atomwaffen und erhalten dafür Zugang zur zivilen Nutzung der Kernenergie.
+## Kontrolle
+Die Internationale Atomenergiebehörde (IAEO) in Wien überprüft mit Inspektionen, dass Nicht-Atomwaffenstaaten kein spaltbares Material abzweigen. Mit 191 Vertragsstaaten ist der NPT einer der am weitesten verbreiteten Verträge. Südafrika baute als einziges Land seine Atomwaffen vollständig ab und trat 1991 bei.
+img: Internationale Atomenergie-Organisation | Die IAEO in Wien
+## Die Ausnahmen
+Indien, Pakistan und Israel sind nie beigetreten und besitzen Atomwaffen. Nordkorea trat 2003 aus und testete 2006 seine erste Bombe. Kritiker bemängeln, dass die Atommächte ihre Abrüstungspflicht kaum erfüllen. Seit 2021 gibt es den Atomwaffenverbotsvertrag, dem aber keine Atommacht und auch nicht Deutschland angehört.
+- Seit 1970: fünf anerkannte Atommächte, alle anderen verzichten.
+- Kontrolle durch die IAEO, 191 Vertragsstaaten.
+- Indien, Pakistan, Israel nicht dabei; Nordkorea ausgetreten.
+
+=== nukleare-abschreckung
+cat: politik
+title: Nukleare Abschreckung
+teaser: Wer zuerst schießt, stirbt als Zweiter: Die Logik der „gegenseitig gesicherten Zerstörung“.
+meta: Sicherheitspolitik
+cover: Nukleare Abschreckung | Interkontinentalrakete
+## MAD
+Im Kalten Krieg entwickelten USA und Sowjetunion die Doktrin der „Mutual Assured Destruction“ (MAD): Beide Seiten besaßen so viele Atomwaffen, dass auch nach einem Überraschungsangriff ein vernichtender Gegenschlag möglich war. Wer angriff, beging Selbstmord. Diese Zweitschlagfähigkeit beruht auf der „Triade“ aus Landraketen, U-Booten und Bombern.
+## Wirkt es?
+Befürworter sagen, Abschreckung habe einen dritten Weltkrieg verhindert. Kritiker verweisen auf Beinahe-Katastrophen: Fehlalarme wie 1983, als der sowjetische Offizier Stanislaw Petrow einen gemeldeten US-Angriff richtigerweise für einen Computerfehler hielt. Zudem können Abschreckung und Rationalität versagen, wenn Akteure unberechenbar sind.
+img: Stanislaw Petrow | Stanislaw Petrow
+## Nukleare Teilhabe
+Deutschland besitzt keine Atomwaffen, beteiligt sich aber an der „nuklearen Teilhabe“ der NATO: In Büchel in der Eifel lagern US-Atombomben, die im Ernstfall von Bundeswehr-Kampfflugzeugen eingesetzt werden könnten – dafür werden F-35-Jets beschafft. Seit Russlands Drohungen im Ukraine-Krieg wird in Europa über eine eigene Abschreckung, etwa durch Frankreich, diskutiert.
+- MAD: Zweitschlagfähigkeit verhindert einen Angriff.
+- Fehlalarme zeigen das Risiko (Petrow 1983).
+- Nukleare Teilhabe Deutschlands; europäische Debatte.
+
+=== desinformation
+cat: politik
+title: Desinformation und Fake News
+teaser: Eine Lüge ist um die halbe Welt gereist, bevor die Wahrheit ihre Schuhe angezogen hat.
+meta: Medien und Politik
+cover: Desinformation | Smartphone mit sozialen Medien
+## Begriffe
+Desinformation ist absichtlich verbreitete Falschinformation, um zu täuschen oder zu schaden. Misinformation ist falsche Information, die ohne Absicht weitergegeben wird. Propaganda gibt es seit jeher; neu sind Geschwindigkeit, Reichweite und Kosten in sozialen Medien, wo Algorithmen Empörung belohnen.
+## Staatliche Kampagnen
+Russland betreibt systematische Kampagnen, etwa mit gefälschten Nachrichtenseiten, die bekannte Medien imitieren („Doppelgänger“), und Trollfabriken. Auch andere Staaten und Gruppen nutzen Desinformation, um Wahlen zu beeinflussen, Gesellschaften zu spalten und Vertrauen in Institutionen zu untergraben. Durch KI werden täuschend echte Fotos, Stimmen und Videos (Deepfakes) leicht herstellbar.
+img: Faktencheck | Faktencheck-Redaktion
+## Was hilft
+Medienkompetenz: Quelle prüfen, Datum checken, Bilder per Rückwärtssuche überprüfen, emotionalisierende Inhalte kritisch sehen. Faktenchecker wie Correctiv oder die dpa prüfen Behauptungen. Der Digital Services Act der EU verpflichtet große Plattformen seit 2024, Risiken durch Desinformation zu begrenzen. „Prebunking“, also vorbeugendes Aufklären über Manipulationstricks, zeigt in Studien Wirkung.
+- Desinformation ist absichtlich, Misinformation nicht.
+- Staatliche Kampagnen und Deepfakes.
+- Gegenmittel: Medienkompetenz, Faktenchecks, Digital Services Act.
+
+=== demografischer-wandel
+cat: politik
+title: Der demografische Wandel
+teaser: Deutschland wird älter, bunter und in manchen Regionen leerer – mit Folgen für Rente, Pflege und Arbeitsmarkt.
+meta: Deutschland
+cover: Demografischer Wandel | Bevölkerungspyramide Deutschlands
+## Weniger Kinder, längeres Leben
+Seit den 1970er Jahren bekommen Frauen in Deutschland durchschnittlich etwa 1,3 bis 1,6 Kinder – für eine stabile Bevölkerung wären etwa 2,1 nötig. Gleichzeitig steigt die Lebenserwartung. Die geburtenstarken Jahrgänge der Babyboomer (1955–1969) gehen jetzt in Rente. Die „Bevölkerungspyramide“ sieht längst aus wie ein Pilz.
+## Folgen
+Weniger Erwerbstätige müssen mehr Rentner finanzieren. Der Fachkräftemangel wächst, vor allem in Pflege, Handwerk und IT. Die Pflegebedürftigkeit nimmt zu. Ländliche Regionen, besonders in Ostdeutschland, verlieren junge Menschen; Schulen und Arztpraxen schließen, während Großstädte wachsen.
+img: Babyboomer | Kinder der Babyboomer-Generation
+## Einwanderung
+Dass Deutschlands Bevölkerung trotzdem wächst – auf über 83 Millionen –, liegt an Zuwanderung. Rund ein Viertel der Menschen hat eine Einwanderungsgeschichte. Ein Fachkräfteeinwanderungsgesetz soll gezielt Arbeitskräfte anwerben. Weitere Ansätze sind ein späteres Rentenalter, mehr Erwerbstätigkeit von Frauen und Älteren sowie Automatisierung.
+- Niedrige Geburtenrate, steigende Lebenserwartung, Babyboomer in Rente.
+- Folgen für Rente, Pflege, Fachkräfte, ländliche Räume.
+- Zuwanderung als wichtiger Ausgleich.
+
+=== opposition
+cat: politik
+title: Die Opposition
+teaser: „Die Regierung braucht die Opposition wie das Auto die Bremse“ – warum eine starke Minderheit die Demokratie schützt.
+meta: Parlamentarismus
+cover: Opposition (Politik) | Plenardebatte im Bundestag
+## Aufgabe
+In parlamentarischen Demokratien bilden die Fraktionen, die nicht an der Regierung beteiligt sind, die Opposition. Sie kritisiert und kontrolliert die Regierung, zeigt Alternativen auf und bereitet sich darauf vor, selbst zu regieren. Ohne Opposition gäbe es keine echte Wahl. In Großbritannien heißt sie offiziell „His Majesty’s Most Loyal Opposition“.
+## Werkzeuge
+Die Opposition kann Anfragen an die Regierung stellen, Aktuelle Stunden beantragen und Untersuchungsausschüsse einsetzen – dafür reicht ein Viertel der Abgeordneten. Mit einem Viertel der Stimmen kann sie auch eine abstrakte Normenkontrolle beim Bundesverfassungsgericht beantragen. Traditionell leitet sie den Haushaltsausschuss.
+img: Untersuchungsausschuss | Sitzung eines Untersuchungsausschusses
+## Probleme
+Bei Großen Koalitionen ist die Opposition klein, sodass ihre Minderheitenrechte teilweise nicht erreicht werden – der Bundestag senkte deshalb zeitweise die Hürden. Zudem stellt sich die Frage, wie mit Oppositionsparteien umzugehen ist, die vom Verfassungsschutz als extremistisch eingestuft werden – etwa bei der Vergabe von Ausschussvorsitzen.
+- Kritik, Kontrolle und Alternative zur Regierung.
+- Instrumente: Anfragen, Untersuchungsausschüsse, Normenkontrolle.
+- Schwach bei Großen Koalitionen; Streit um Rechte extremer Parteien.
+
+=== ministerpraesident
+cat: politik
+title: Ministerpräsidenten und Landesregierungen
+teaser: 16 Regierungschefs mit eigenen Parlamenten – in Stadtstaaten heißen sie Bürgermeister.
+meta: Deutschland
+cover: Ministerpräsident (Deutschland) | Die Ministerpräsidentenkonferenz
+## Regierungschefs der Länder
+Jedes Bundesland hat ein eigenes Parlament (Landtag, in Stadtstaaten Bürgerschaft oder Abgeordnetenhaus) und eine Regierung. Deren Chef ist der Ministerpräsident, gewählt vom Landtag. In Berlin heißt er Regierender Bürgermeister, in Hamburg Erster Bürgermeister, in Bremen Präsident des Senats.
+## Macht in Land und Bund
+Ministerpräsidenten sind zuständig etwa für Schulen, Hochschulen, Polizei und Kommunen. Über den Bundesrat beeinflussen sie die Bundespolitik. In der Ministerpräsidentenkonferenz stimmen sie sich ab, oft mit dem Bundeskanzler – besonders sichtbar in der Corona-Pandemie. Viele Kanzler waren vorher Ministerpräsidenten, etwa Kohl und Schröder.
+img: Staatskanzlei | Eine Staatskanzlei
+## Schwierige Mehrheiten
+Weil Landtage zunehmend zersplittert sind, wird die Regierungsbildung schwieriger. 2020 wurde in Thüringen der FDP-Politiker Thomas Kemmerich mit Stimmen der AfD gewählt und trat nach bundesweiter Empörung nach wenigen Tagen zurück. Seit 2024 regieren in mehreren ostdeutschen Ländern ungewöhnliche Bündnisse, teils mit dem BSW.
+- Ministerpräsidenten vom Landtag gewählt; in Stadtstaaten Bürgermeister.
+- Zuständig für Bildung und Polizei; Einfluss über den Bundesrat.
+- Schwierige Mehrheiten, z. B. Thüringen 2020.
+
+=== un-generalversammlung
+cat: politik
+title: Die UN-Generalversammlung
+teaser: Hier hat Tuvalu genauso eine Stimme wie China – aber ihre Beschlüsse sind meist nur Empfehlungen.
+meta: Vereinte Nationen, New York
+cover: Generalversammlung der Vereinten Nationen | Der Saal der UN-Generalversammlung
+## Die Vereinten Nationen
+Die UN wurden 1945 in San Francisco von 51 Staaten gegründet, um künftige Kriege zu verhindern. Heute haben sie 193 Mitglieder; fast alle Staaten der Welt. Sitz ist New York; weitere Standorte sind Genf, Wien und Nairobi. Bonn ist UN-Stadt mit dem Klimasekretariat.
+## Ein Land, eine Stimme
+In der Generalversammlung hat jeder Mitgliedstaat eine Stimme, unabhängig von Größe und Macht. Sie berät über alle Themen der Charta, beschließt den UN-Haushalt, nimmt neue Mitglieder auf (auf Empfehlung des Sicherheitsrats) und wählt den Generalsekretär sowie die nichtständigen Mitglieder des Sicherheitsrats. Ihre Resolutionen sind aber meist nicht bindend.
+img: António Guterres | UN-Generalsekretär António Guterres
+## Die Generaldebatte
+Jedes Jahr im September kommen Staats- und Regierungschefs zur Generaldebatte nach New York. Berühmt wurde Nikita Chruschtschow, der 1960 angeblich mit dem Schuh auf das Pult schlug. Die Generalversammlung verurteilte 2022 mit großer Mehrheit Russlands Angriff auf die Ukraine, nachdem Russland im Sicherheitsrat sein Veto eingelegt hatte.
+- UN seit 1945, 193 Mitglieder.
+- Jedes Land eine Stimme; Resolutionen meist unverbindlich.
+- Jährliche Generaldebatte im September.
+
+=== europarat-egmr
+cat: politik
+title: Europarat und Menschenrechtsgerichtshof
+teaser: Nicht die EU! Der Europarat schützt seit 1949 Menschenrechte – und jeder kann in Straßburg klagen.
+meta: Straßburg, seit 1949
+cover: Europarat | Palais de l’Europe in Straßburg
+## Älter als die EU
+Der Europarat wurde 1949 gegründet und ist die älteste europäische Organisation der Nachkriegszeit. Er hat 46 Mitgliedsstaaten, darunter auch die Türkei, Großbritannien und die Ukraine; Russland wurde 2022 ausgeschlossen. Er setzt sich für Menschenrechte, Demokratie und Rechtsstaatlichkeit ein. Seine Flagge mit zwölf goldenen Sternen übernahm später die EU.
+## Die Menschenrechtskonvention
+Kern ist die Europäische Menschenrechtskonvention (EMRK) von 1950. Sie garantiert Rechte wie Leben, Verbot von Folter, faires Verfahren, Privatsphäre und Meinungsfreiheit. Die Todesstrafe ist in allen Mitgliedstaaten abgeschafft.
+img: Europäischer Gerichtshof für Menschenrechte | Der Europäische Gerichtshof für Menschenrechte
+## Der Gerichtshof
+Jeder Mensch in den Mitgliedsstaaten kann sich nach Ausschöpfung des nationalen Rechtswegs an den Europäischen Gerichtshof für Menschenrechte (EGMR) in Straßburg wenden. Seine Urteile sind bindend; Staaten müssen ihr Recht anpassen. 2024 entschied er in einem wegweisenden Urteil, dass die Schweiz mit unzureichendem Klimaschutz die Rechte älterer Frauen verletzt hatte. Nicht verwechseln mit dem EuGH der EU in Luxemburg.
+- 1949 gegründet, 46 Mitglieder, keine EU-Institution.
+- Europäische Menschenrechtskonvention von 1950.
+- EGMR in Straßburg: individuelle Klage möglich, z. B. Klimaurteil 2024.
+
+=== friedensnobelpreis
+cat: politik
+title: Der Friedensnobelpreis
+teaser: Der einzige Nobelpreis, der in Oslo statt Stockholm vergeben wird – und der umstrittenste.
+meta: seit 1901
+cover: Friedensnobelpreis | Rathaus von Oslo, Ort der Verleihung
+## Nobels Testament
+Alfred Nobel bestimmte, der Preis solle an den gehen, der am meisten für die „Verbrüderung der Völker“, die Abschaffung oder Verringerung stehender Heere und Friedenskongresse getan hat. Warum er die Vergabe einem Komitee des norwegischen Parlaments übertrug, ist unklar – Norwegen war damals in Union mit Schweden. Der Preis wird jedes Jahr am 10. Dezember, Nobels Todestag, in Oslo verliehen.
+## Preisträger
+Erster Preisträger 1901 war Henry Dunant, Gründer des Roten Kreuzes. Ausgezeichnet wurden unter anderem Martin Luther King, Willy Brandt, Mutter Teresa, Nelson Mandela, Malala Yousafzai und Organisationen wie die UN, das UNHCR und die EU. Mahatma Gandhi erhielt ihn nie – das gilt als größtes Versäumnis des Komitees.
+img: Malala Yousafzai | Malala Yousafzai, jüngste Preisträgerin (2014)
+## Umstrittene Entscheidungen
+Henry Kissinger bekam ihn 1973 für den Waffenstillstand in Vietnam, obwohl der Krieg weiterging – sein Mitpreisträger Lê Đức Thọ lehnte ab. Barack Obama erhielt ihn 2009 nach wenigen Monaten im Amt. Der Journalist Carl von Ossietzky wurde 1936 ausgezeichnet, während er im KZ saß; Hitler verbot daraufhin Deutschen die Annahme von Nobelpreisen. 2025 ging der Preis an die venezolanische Oppositionspolitikerin María Corina Machado.
+- Vergabe in Oslo durch ein norwegisches Komitee.
+- Von Dunant über Mandela bis Malala; Gandhi nie ausgezeichnet.
+- Umstrittene Vergaben wie Kissinger oder Obama.
+
+=== krieg-ukraine
+cat: politik
+title: Russlands Krieg gegen die Ukraine
+teaser: Seit dem 24. Februar 2022 führt Russland den größten Krieg in Europa seit 1945.
+meta: seit 2014/2022
+cover: Russischer Überfall auf die Ukraine 2022 | Zerstörte Gebäude in der Ukraine
+## Vorgeschichte
+Nach den Maidan-Protesten 2013/14, bei denen der prorussische Präsident Janukowytsch gestürzt wurde, annektierte Russland 2014 völkerrechtswidrig die Krim. Im Donbas begann ein von Russland gesteuerter und unterstützter Krieg mit Separatisten. Die Minsker Abkommen brachten keinen dauerhaften Frieden.
+## Die Invasion
+Am 24. Februar 2022 griff Russland die Ukraine auf breiter Front an, auch Richtung Kiew. Der Versuch, die Hauptstadt schnell einzunehmen, scheiterte. Präsident Wolodymyr Selenskyj blieb im Land. Kriegsverbrechen wie in Butscha wurden dokumentiert. Russland erklärte vier ukrainische Gebiete für annektiert. Die Front verläuft seit 2023 weitgehend im Osten und Süden mit verlustreichen Kämpfen und massiven Drohnen- und Raketenangriffen.
+img: Wolodymyr Selenskyj | Wolodymyr Selenskyj
+## Folgen
+Hunderttausende Soldaten wurden getötet oder verwundet, Millionen Ukrainer flohen, über eine Million davon nach Deutschland. Der Westen unterstützt die Ukraine mit Waffen und Geld und verhängte Sanktionen gegen Russland. Deutschland rief die „Zeitenwende“ aus und löste sich von russischem Gas. Verhandlungen über einen Waffenstillstand blieben bisher ohne dauerhaften Erfolg.
+- 2014 Krim-Annexion und Krieg im Donbas.
+- Seit 24.2.2022 großangelegter Angriffskrieg.
+- Enorme Verluste, Flucht, Sanktionen und Zeitenwende.
+
+=== kommunalpolitik
+cat: politik
+title: Kommunalpolitik
+teaser: Kitas, Schwimmbäder, Bebauungspläne: Die Politik, die dein Leben am direktesten betrifft.
+meta: Deutschland
+cover: Kommunalpolitik | Ein Rathaus
+## Kommunale Selbstverwaltung
+Artikel 28 des Grundgesetzes garantiert Gemeinden das Recht, „alle Angelegenheiten der örtlichen Gemeinschaft“ in eigener Verantwortung zu regeln. Deutschland hat rund 10.800 Gemeinden, dazu Landkreise und kreisfreie Städte. Sie kümmern sich um Kindergärten, Schulgebäude, Straßen, Müll, Wasser, Bauplanung und vieles mehr.
+## Wer entscheidet?
+Bürgerinnen und Bürger wählen einen Gemeinderat bzw. Stadtrat und meist direkt einen hauptamtlichen Bürgermeister. Bei Kommunalwahlen dürfen auch EU-Bürger wählen und in vielen Ländern schon Jugendliche ab 16. Viele Gemeinderäte arbeiten ehrenamtlich. In Baden-Württemberg und Bayern kann man beim „Kumulieren und Panaschieren“ Stimmen häufeln und auf verschiedene Listen verteilen.
+img: Gemeinderat | Sitzung eines Gemeinderats
+## Probleme
+Kommunen müssen viele Aufgaben erfüllen, die Bund und Länder ihnen übertragen, haben aber oft zu wenig Geld – etwa für Sozialleistungen, Unterbringung von Geflüchteten oder marode Schulen. Viele sind hoch verschuldet. Ehrenamtliche Kommunalpolitiker werden zunehmend bedroht und angefeindet; manche Gemeinden finden kaum noch Kandidaten.
+- Kommunale Selbstverwaltung (Art. 28 GG).
+- Gemeinderat und direkt gewählter Bürgermeister; Wahl teils ab 16.
+- Finanznot und Anfeindungen gegen Ehrenamtliche.
+
+=== fraktionen
+cat: politik
+title: Fraktionen und Fraktionsdisziplin
+teaser: Abgeordnete sind nur ihrem Gewissen verpflichtet – und stimmen trotzdem fast immer wie ihre Fraktion.
+meta: Parlamentarismus
+cover: Fraktion (Bundestag) | Fraktionssitzungssaal im Reichstagsgebäude
+## Zusammenschlüsse von Abgeordneten
+Abgeordneten derselben Partei schließen sich im Bundestag zu Fraktionen zusammen; dafür braucht es mindestens fünf Prozent der Mitglieder des Bundestags. Kleinere Gruppen können eine „Gruppe“ mit weniger Rechten bilden. Fraktionen erhalten Geld, Personal, Redezeit, Ausschusssitze und Vorsitze nach ihrer Stärke. Sie organisieren die Arbeit des Parlaments.
+## Freies Mandat vs. Disziplin
+Laut Grundgesetz sind Abgeordnete an Weisungen nicht gebunden. In der Praxis stimmen sie aber fast immer einheitlich ab: Die Fraktion bereitet Positionen in Arbeitsgruppen vor, und wer abweicht, riskiert Posten und Listenplätze. Formeller „Fraktionszwang“ ist unzulässig, „Fraktionsdisziplin“ ist politisch üblich. Eine Regierung braucht verlässliche Mehrheiten.
+img: Reichstagsgebäude | Das Reichstagsgebäude
+## Gewissensentscheidungen
+Bei ethischen Grundsatzfragen geben die Fraktionen die Abstimmung frei, etwa bei der Ehe für alle (2017), der Organspende-Reform (2020) oder Fragen der Sterbehilfe. Dann bilden sich fraktionsübergreifende Gruppenanträge. Wer seine Fraktion verlässt, behält sein Mandat – es gehört der Person, nicht der Partei.
+- Fraktionen ab 5 % der Abgeordneten mit Rechten und Mitteln.
+- Freies Mandat, aber übliche Fraktionsdisziplin.
+- Abstimmungen freigegeben bei Gewissensfragen.
+
+=== subsidiaritaet
+cat: politik
+title: Das Subsidiaritätsprinzip
+teaser: Was die Gemeinde regeln kann, soll nicht das Land regeln – und was das Land kann, nicht Brüssel.
+meta: Staatsprinzip
+cover: Subsidiarität | Ebenen: Gemeinde, Land, Bund, EU
+## Die Idee
+Subsidiarität (von lateinisch „subsidium“, Hilfe) bedeutet: Aufgaben sollen auf der kleinstmöglichen Ebene erledigt werden – vom Einzelnen über Familie, Gemeinde und Land bis zum Bund und zur EU. Die höhere Ebene greift nur ein, wenn die untere es nicht ausreichend schafft. Das Prinzip stammt aus der katholischen Soziallehre, besonders der Enzyklika „Quadragesimo anno“ von 1931.
+## In der EU
+Seit dem Vertrag von Maastricht ist Subsidiarität ein Grundprinzip der EU (Art. 5 EU-Vertrag): In Bereichen, in denen sie nicht ausschließlich zuständig ist, darf die EU nur handeln, wenn Ziele auf nationaler Ebene nicht ausreichend erreicht werden können. Nationale Parlamente können per „Subsidiaritätsrüge“ widersprechen, wenn sie die Regel verletzt sehen.
+img: Vertrag von Maastricht | Unterzeichnung des Vertrags von Maastricht 1992
+## Im deutschen Sozialstaat
+Auch im deutschen Sozialstaat wirkt das Prinzip: Freie Träger wie Caritas, Diakonie oder Arbeiterwohlfahrt haben Vorrang vor staatlichen Einrichtungen. Kritiker sagen, Subsidiarität werde oft als Argument genutzt, um Verantwortung abzuschieben; Befürworter sehen in ihr Bürgernähe und Schutz vor Zentralismus.
+- Aufgaben auf der kleinstmöglichen Ebene erledigen.
+- EU-Grundprinzip seit Maastricht, Subsidiaritätsrüge.
+- Vorrang freier Träger im Sozialstaat.
