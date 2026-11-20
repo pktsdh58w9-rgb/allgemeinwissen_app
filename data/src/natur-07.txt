@@ -1,0 +1,186 @@
+=== standardmodell
+cat: natur
+title: Das Standardmodell der Teilchenphysik
+teaser: 17 Teilchen erklären fast alles – außer Gravitation, Dunkler Materie und warum es uns überhaupt gibt.
+meta: Teilchenphysik
+cover: Standardmodell | Die Teilchen des Standardmodells
+## Materieteilchen
+Alle bekannte Materie besteht aus Fermionen: sechs Quarks (up, down, charm, strange, top, bottom) und sechs Leptonen (Elektron, Myon, Tau und drei Neutrinos). Protonen bestehen aus zwei Up- und einem Down-Quark, Neutronen aus einem Up- und zwei Down-Quarks. Die schwereren Generationen zerfallen schnell.
+## Kräfte und Botenteilchen
+Drei der vier Grundkräfte werden durch Austauschteilchen (Bosonen) vermittelt: das Photon für die elektromagnetische Kraft, W- und Z-Bosonen für die schwache Kraft, acht Gluonen für die starke Kraft. Dazu kommt das Higgs-Boson. Quarks kommen nie einzeln vor – die starke Kraft wächst mit dem Abstand (Confinement).
+img: Murray Gell-Mann | Murray Gell-Mann, Begründer des Quarkmodells
+## Lücken
+Das Standardmodell hat jede präzise Prüfung bestanden. Doch es erklärt nicht die Gravitation, nicht die Dunkle Materie und Dunkle Energie, nicht die Neutrinomassen und nicht, warum es im Universum mehr Materie als Antimaterie gibt. Physiker suchen daher nach „neuer Physik“, etwa über Supersymmetrie – bisher ohne Erfolg.
+- 12 Materieteilchen (Quarks, Leptonen), 4 Arten von Kraftteilchen, Higgs.
+- Elektromagnetische, schwache und starke Kraft; Gravitation fehlt.
+- Offene Fragen: Dunkle Materie, Neutrinomassen, Materie-Überschuss.
+
+=== antimaterie
+cat: natur
+title: Antimaterie
+teaser: Ein Gleichungstrick sagte sie voraus – und eigentlich müsste sie sich mit der Materie komplett vernichtet haben.
+meta: Teilchenphysik
+cover: Antimaterie | Spur eines Positrons in einer Nebelkammer
+## Diracs Vorhersage
+Paul Dirac kombinierte 1928 Quantenmechanik und Relativitätstheorie in einer Gleichung für das Elektron. Sie hatte auch Lösungen mit negativer Energie – Dirac deutete sie als Teilchen mit gleicher Masse, aber entgegengesetzter Ladung. 1932 entdeckte Carl Anderson in der kosmischen Strahlung das Positron.
+## Vernichtung
+Treffen Teilchen und Antiteilchen aufeinander, zerstrahlen sie vollständig in Energie, etwa in zwei Gammaquanten – nach E = mc². In der Positronen-Emissions-Tomografie (PET) nutzt man das: Ein radioaktiver Zucker sendet Positronen aus, die sofort mit Elektronen zerstrahlen; die Gammastrahlen zeigen stoffwechselaktive Gewebe wie Tumore.
+img: Paul Dirac | Paul Dirac
+## Das große Rätsel
+Am CERN werden Antiwasserstoff-Atome hergestellt und in Magnetfallen gespeichert. 2023 zeigte das ALPHA-Experiment, dass Antimaterie nach unten fällt, wie normale Materie. Beim Urknall hätten gleich viel Materie und Antimaterie entstehen müssen. Dass etwas Materie übrig blieb – etwa ein Teilchen pro Milliarde –, ist eines der großen ungelösten Rätsel.
+- Von Dirac 1928 vorhergesagt, Positron 1932 entdeckt.
+- Zerstrahlung zu Energie; medizinisch genutzt in der PET.
+- Warum es mehr Materie als Antimaterie gibt, ist ungeklärt.
+
+=== laser
+cat: natur
+title: Der Laser
+teaser: „Eine Lösung, die ein Problem sucht“ – heute steckt er in Supermarktkassen, Glasfasern und Augenkliniken.
+meta: Physik · 1960
+cover: Laser | Laserstrahlen
+## Stimulierte Emission
+Einstein beschrieb 1917, dass ein Photon ein angeregtes Atom dazu bringen kann, ein identisches Photon auszusenden – gleiche Wellenlänge, Phase und Richtung. Für einen Laser braucht man mehr angeregte als nicht angeregte Atome (Besetzungsinversion), die man durch „Pumpen“ mit Licht oder Strom erreicht. Zwei Spiegel bilden einen Resonator, in dem sich das Licht verstärkt.
+## Der erste Laser
+Theodore Maiman baute 1960 in Kalifornien den ersten funktionierenden Laser mit einem Rubinkristall. Der Name ist ein Akronym: Light Amplification by Stimulated Emission of Radiation. Laserlicht ist monochromatisch, kohärent und stark gebündelt. Kollegen spotteten, es sei „eine Lösung, die ein Problem sucht“.
+img: Theodore Maiman | Theodore Maiman
+## Überall
+Heute schneiden Laser Stahl, lesen Barcodes und Blu-rays, übertragen Daten in Glasfasern, korrigieren Fehlsichtigkeit und messen die Entfernung zum Mond auf Zentimeter genau, über Reflektoren der Apollo-Missionen. Ultrakurze Laserpulse (Attosekunden, Nobelpreis 2023) machen Elektronenbewegungen sichtbar.
+- Stimulierte Emission (Einstein 1917), Besetzungsinversion.
+- Erster Laser 1960 von Maiman mit Rubinkristall.
+- Industrie, Medizin, Kommunikation, Forschung.
+
+=== urknall
+cat: natur
+title: Der Urknall
+teaser: Vor 13,8 Milliarden Jahren war alles heiß und dicht – den Namen erfand ein Gegner der Theorie.
+meta: Kosmologie
+cover: Urknall | Zeitleiste der Entwicklung des Universums
+## Das expandierende Universum
+Der belgische Priester und Physiker Georges Lemaître schlug 1927 vor, dass das Universum sich ausdehnt, und 1931 einen Ursprung aus einem „Uratom“. Edwin Hubble zeigte 1929: Je weiter Galaxien entfernt sind, desto schneller entfernen sie sich. Rechnet man zurück, war alles einst in einem extrem heißen, dichten Zustand.
+## Die Beweise
+Kurz nach dem Urknall entstanden aus Protonen und Neutronen leichte Kerne – die berechneten Anteile von Wasserstoff, Helium und Lithium stimmen mit Beobachtungen überein. Nach etwa 380.000 Jahren wurde das Universum durchsichtig; das damalige Licht erreicht uns heute als kosmische Hintergrundstrahlung mit 2,7 Kelvin. Penzias und Wilson entdeckten sie 1965 zufällig als „Rauschen“ in ihrer Antenne.
+img: Georges Lemaître | Georges Lemaître
+## Ein Spottname
+Fred Hoyle, Verfechter eines ewigen, unveränderlichen Universums, nannte die Theorie 1949 im Radio abschätzig „Big Bang“. Der Name blieb. Was „vor“ dem Urknall war, ist physikalisch unklar – möglicherweise ist die Frage sinnlos. Die Inflationstheorie postuliert eine extrem schnelle Ausdehnung in den ersten Sekundenbruchteilen.
+- Lemaître und Hubble: Das Universum dehnt sich aus.
+- Belege: leichte Elemente, Hintergrundstrahlung (2,7 K).
+- Alter: rund 13,8 Mrd. Jahre; Name von Gegner Fred Hoyle.
+
+=== dunkle-materie
+cat: natur
+title: Dunkle Materie und Dunkle Energie
+teaser: Alles, was wir sehen, sind nur fünf Prozent des Universums.
+meta: Kosmologie
+cover: Dunkle Materie | Gravitationslinseneffekt im Bullet-Cluster
+## Zu schnelle Galaxien
+Fritz Zwicky bemerkte 1933, dass Galaxien im Coma-Haufen sich viel zu schnell bewegen – es musste unsichtbare Masse geben. Vera Rubin zeigte in den 1970ern, dass Sterne am Rand von Galaxien genauso schnell kreisen wie innen. Das geht nur, wenn eine große Menge unsichtbarer Masse die Galaxien umgibt.
+## Was ist es?
+Dunkle Materie sendet kein Licht aus und wechselwirkt kaum, nur über die Gravitation. Gravitationslinsen und die Hintergrundstrahlung bestätigen sie. Kandidaten sind unbekannte Teilchen wie WIMPs oder Axionen – trotz jahrzehntelanger Suche in unterirdischen Detektoren wurde keines gefunden. Einige Forscher schlagen stattdessen eine veränderte Gravitation (MOND) vor.
+img: Vera Rubin | Vera Rubin
+## Dunkle Energie
+1998 zeigten Messungen an Supernovae, dass sich die Expansion des Universums beschleunigt (Nobelpreis 2011). Verantwortlich ist eine rätselhafte Dunkle Energie. Nach heutigem Stand besteht das Universum zu etwa 68 Prozent aus Dunkler Energie, 27 Prozent aus Dunkler Materie und nur 5 Prozent aus normaler Materie. Neue Daten deuten an, dass die Dunkle Energie zeitlich veränderlich sein könnte.
+- Zwicky und Rubin: Galaxien rotieren zu schnell.
+- Dunkle Materie wirkt nur gravitativ, Natur unbekannt.
+- Dunkle Energie beschleunigt die Expansion; nur 5 % normale Materie.
+
+=== exoplaneten
+cat: natur
+title: Exoplaneten
+teaser: 1995 wurde der erste Planet um einen sonnenähnlichen Stern gefunden – heute kennen wir über 5.000.
+meta: Astronomie · Nobelpreis 2019
+cover: Exoplanet | Künstlerische Darstellung eines Exoplaneten
+## Der erste Fund
+Michel Mayor und Didier Queloz entdeckten 1995 den Planeten 51 Pegasi b: einen Gasriesen, der seinen Stern in nur vier Tagen umkreist – ein „heißer Jupiter“, den Theorien nicht vorgesehen hatten. Sie erhielten 2019 den Nobelpreis. Schon 1992 waren Planeten um einen Pulsar gefunden worden.
+## Wie man sie findet
+Bei der Radialgeschwindigkeitsmethode verrät das Wackeln des Sterns die Anziehung des Planeten (Dopplereffekt). Bei der Transitmethode misst man den winzigen Helligkeitsabfall, wenn ein Planet vor dem Stern vorbeizieht – damit fand das Weltraumteleskop Kepler Tausende. Inzwischen sind über 5.000 Exoplaneten bestätigt.
+img: Kepler (Weltraumteleskop) | Das Weltraumteleskop Kepler
+## Gibt es eine zweite Erde?
+Statistisch hat fast jeder Stern Planeten, viele davon in der „habitablen Zone“, in der flüssiges Wasser möglich wäre. Das James-Webb-Teleskop analysiert Atmosphären von Exoplaneten. Das System TRAPPIST-1 hat sieben erdgroße Planeten. Der nächste Exoplanet, Proxima Centauri b, ist 4,2 Lichtjahre entfernt.
+- 51 Pegasi b (1995) – erster Planet um einen sonnenähnlichen Stern.
+- Radialgeschwindigkeits- und Transitmethode.
+- Über 5.000 Funde; Suche nach Lebensspuren in Atmosphären.
+
+=== sonnensystem
+cat: natur
+title: Das Sonnensystem
+teaser: Acht Planeten, Hunderte Monde – und Pluto wurde 2006 degradiert.
+meta: Astronomie
+cover: Sonnensystem | Planeten des Sonnensystems (nicht maßstabsgetreu)
+## Entstehung
+Vor etwa 4,6 Milliarden Jahren kollabierte eine Gas- und Staubwolke. Im Zentrum zündete die Sonne, in der rotierenden Scheibe darum ballten sich Teilchen zu Planetesimalen und Planeten. Nahe der Sonne konnten nur Gestein und Metall kondensieren, weiter außen auch Eis – deshalb liegen innen die Gesteinsplaneten, außen die Riesen.
+## Die Planeten
+Merkur, Venus, Erde und Mars sind Gesteinsplaneten. Jupiter und Saturn sind Gasriesen, Uranus und Neptun Eisriesen. Merkspruch: „Mein Vater erklärt mir jeden Sonntag unseren Nachthimmel.“ Zwischen Mars und Jupiter liegt der Asteroidengürtel, hinter Neptun der Kuipergürtel mit Pluto, noch weiter die Oortsche Wolke, Heimat der Kometen.
+img: Pluto (Zwergplanet) | Pluto, aufgenommen von New Horizons 2015
+## Plutos Degradierung
+2006 definierte die Internationale Astronomische Union: Ein Planet muss die Sonne umkreisen, rund sein und seine Bahn freigeräumt haben. Pluto erfüllt das letzte Kriterium nicht und ist nun ein Zwergplanet, wie Eris und Ceres. Die Raumsonde Voyager 1 hat 2012 als erstes menschengemachtes Objekt den interstellaren Raum erreicht.
+- Entstanden vor ~4,6 Mrd. Jahren aus einer Staubscheibe.
+- Vier Gesteinsplaneten, zwei Gas- und zwei Eisriesen.
+- Pluto seit 2006 Zwergplanet.
+
+=== die-sonne
+cat: natur
+title: Die Sonne
+teaser: In jeder Sekunde wandelt sie vier Millionen Tonnen Masse in Energie um – und hat noch fünf Milliarden Jahre vor sich.
+meta: Astronomie
+cover: Sonne | Die Sonne im extremen UV-Licht
+## Ein durchschnittlicher Stern
+Die Sonne enthält 99,86 Prozent der Masse des Sonnensystems. Sie ist ein Gelber Zwerg aus etwa 73 Prozent Wasserstoff und 25 Prozent Helium. Ihr Licht braucht rund 8 Minuten und 20 Sekunden zur Erde. Die Oberfläche ist etwa 5.500 °C heiß, die äußere Korona rätselhafterweise über eine Million Grad.
+## Kernfusion
+Im Kern herrschen etwa 15 Millionen Grad. Dort verschmelzen Wasserstoffkerne über die Proton-Proton-Kette zu Helium. Dabei wandeln sich pro Sekunde rund vier Millionen Tonnen Masse in Energie um. Die Photonen brauchen durch Streuung Zehntausende Jahre, bis sie vom Kern an die Oberfläche gelangen; Neutrinos aus dem Kern dagegen erreichen uns direkt.
+img: Sonnenfleck | Sonnenflecken
+## Sonnenzyklus und Zukunft
+Etwa alle elf Jahre erreicht die Sonnenaktivität ein Maximum mit vielen Sonnenflecken, Flares und koronalen Massenauswürfen, die Polarlichter und Störungen von Satelliten auslösen können. In etwa fünf Milliarden Jahren wird die Sonne zum Roten Riesen und die inneren Planeten womöglich verschlucken. Am Ende bleibt ein Weißer Zwerg.
+- 99,86 % der Masse des Sonnensystems, Licht braucht ~8 Minuten.
+- Kernfusion von Wasserstoff zu Helium bei ~15 Mio. Grad.
+- 11-jähriger Aktivitätszyklus; in ~5 Mrd. Jahren Roter Riese.
+
+=== entstehung-mond
+cat: natur
+title: Die Entstehung des Mondes
+teaser: Ein marsgroßer Planet namens Theia krachte in die junge Erde – aus den Trümmern entstand der Mond.
+meta: Planetologie
+cover: Mond | Der Mond
+## Die Kollisionstheorie
+Die heute führende Theorie: Vor etwa 4,5 Milliarden Jahren stieß ein etwa marsgroßer Protoplanet, Theia genannt, schräg mit der jungen Erde zusammen. Gestein verdampfte, eine Trümmerscheibe bildete sich um die Erde, aus der sich der Mond zusammenballte – vielleicht in nur wenigen Stunden bis Jahren.
+## Die Belege
+Mondgestein der Apollo-Missionen hat fast identische Sauerstoffisotopen-Verhältnisse wie die Erde. Der Mond hat nur einen kleinen Eisenkern, weil vor allem Mantelmaterial herausgeschleudert wurde. Er war anfangs von einem Magmaozean bedeckt. Seismometer der Apollo-Astronauten zeigten Mondbeben und den inneren Aufbau.
+img: Apollo 17 | Apollo-17-Astronaut Harrison Schmitt sammelt Mondgestein
+## Der Mond und wir
+Der Mond stabilisiert die Neigung der Erdachse und damit das Klima. Er erzeugt die Gezeiten. Weil er gebunden rotiert, zeigt er uns immer dieselbe Seite. Er entfernt sich jährlich um etwa 3,8 Zentimeter. Dass Mond und Sonne am Himmel fast gleich groß erscheinen und totale Sonnenfinsternisse ermöglichen, ist ein Zufall unserer Epoche.
+- Kollision der Erde mit Theia vor ~4,5 Mrd. Jahren.
+- Belege: ähnliche Isotope, kleiner Eisenkern.
+- Stabilisiert die Erdachse, erzeugt Gezeiten, entfernt sich langsam.
+
+=== mars
+cat: natur
+title: Der Mars
+teaser: Der höchste Vulkan des Sonnensystems, einst Flüsse und Seen – und Rover, die seit Jahren auf ihm herumfahren.
+meta: Planetologie
+cover: Mars (Planet) | Der Mars
+## Der rote Planet
+Mars ist etwa halb so groß wie die Erde, seine Farbe stammt von Eisenoxid im Staub. Die Atmosphäre besteht hauptsächlich aus CO<sub>2</sub> und ist sehr dünn – der Druck beträgt weniger als ein Prozent des irdischen. Ein Marstag dauert 24 Stunden und 37 Minuten. Er hat zwei kleine Monde, Phobos und Deimos.
+## Rekorde
+Olympus Mons ist mit rund 22 Kilometern Höhe der höchste Vulkan des Sonnensystems. Valles Marineris, ein Grabensystem, ist etwa 4.000 Kilometer lang und bis zu 7 Kilometer tief. Riesige Staubstürme können den ganzen Planeten einhüllen.
+img: Perseverance (Rover) | Selfie des Rovers Perseverance
+## Wasser und Leben?
+Ausgetrocknete Flusstäler, Deltas und Mineralien zeigen, dass vor Milliarden Jahren flüssiges Wasser floss. Heute gibt es Wassereis an den Polen und unter der Oberfläche. Rover wie Curiosity und Perseverance suchen nach Spuren früheren Lebens; Perseverance sammelt Proben, die zur Erde gebracht werden sollen. Ob und wann Menschen landen, ist offen.
+- Dünne CO₂-Atmosphäre, rote Farbe durch Eisenoxid.
+- Olympus Mons (~22 km) und Valles Marineris.
+- Früher flüssiges Wasser; Rover suchen nach Lebensspuren.
+
+=== jupiter
+cat: natur
+title: Jupiter
+teaser: So groß, dass alle anderen Planeten hineinpassen – mit einem Sturm, der seit mindestens 190 Jahren tobt.
+meta: Planetologie
+cover: Jupiter (Planet) | Jupiter, aufgenommen von der Sonde Juno
+## Der Riese
+Jupiter hat mehr als doppelt so viel Masse wie alle anderen Planeten zusammen und einen elfmal größeren Durchmesser als die Erde. Er besteht hauptsächlich aus Wasserstoff und Helium. Tief im Inneren wird Wasserstoff unter enormem Druck metallisch und leitend – das erzeugt das stärkste Magnetfeld aller Planeten.
+## Der Große Rote Fleck
+Der Große Rote Fleck ist ein Hochdruckwirbel, größer als die Erde, beobachtet seit mindestens 1830, vielleicht seit 1665. Er schrumpft seit Jahrzehnten. Jupiter rotiert in weniger als zehn Stunden – schneller als jeder andere Planet –, was ihn sichtbar abplattet und die Wolkenbänder erzeugt.
+img: Europa (Mond) | Der Jupitermond Europa
+## Galileische Monde
+Galileo Galilei entdeckte 1610 die vier großen Monde Io, Europa, Ganymed und Kallisto – ein Beweis, dass nicht alles um die Erde kreist. Io ist der vulkanisch aktivste Körper des Sonnensystems. Unter Europas Eiskruste liegt ein Ozean, der als möglicher Lebensraum gilt; die Missionen JUICE (ESA) und Europa Clipper (NASA) sind unterwegs.
+- Größter Planet, Wasserstoff und Helium, metallischer Wasserstoff im Inneren.
+- Großer Roter Fleck, extrem schnelle Rotation.
+- Galileische Monde; Europa mit unterirdischem Ozean.

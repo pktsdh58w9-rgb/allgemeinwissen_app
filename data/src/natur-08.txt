@@ -1,0 +1,220 @@
+=== polarlichter
+cat: natur
+title: Polarlichter
+teaser: Sonnenwind trifft Erdmagnetfeld – und Sauerstoff leuchtet grün und rot. 2024 sogar über ganz Deutschland.
+meta: Physik/Astronomie
+cover: Polarlicht | Polarlicht über Norwegen
+## Teilchen von der Sonne
+Die Sonne schleudert ständig geladene Teilchen ins All, den Sonnenwind; bei Eruptionen auch große Plasmawolken. Das Erdmagnetfeld lenkt sie ab, doch an den Polen dringen sie entlang der Feldlinien in die Atmosphäre ein. In 100 bis 300 Kilometern Höhe regen sie Atome und Moleküle an, die beim Zurückfallen Licht aussenden.
+## Die Farben
+Grünes Licht (557,7 nm) stammt von angeregtem atomarem Sauerstoff in etwa 100–250 km Höhe – die häufigste Farbe. Rotes Licht (630 nm) kommt von Sauerstoff in größeren Höhen, wo die Atome selten zusammenstoßen und der langlebige angeregte Zustand Zeit zum Leuchten hat. Stickstoff erzeugt blaue und violette Töne.
+img: Koronaler Massenauswurf | Koronaler Massenauswurf der Sonne
+## Starke Stürme
+Normalerweise sieht man Polarlichter in einem Ring um die Magnetpole, etwa in Nordnorwegen, Island oder Kanada. Bei starken geomagnetischen Stürmen wie im Mai 2024 sind sie bis nach Süddeutschland und Mittelmeer sichtbar. Der Carrington-Sturm 1859 setzte Telegrafenleitungen in Brand – heute würde ein solcher Sturm Satelliten und Stromnetze gefährden.
+- Sonnenwind-Teilchen dringen an den Polen in die Atmosphäre.
+- Grün und Rot von Sauerstoff, Blau von Stickstoff.
+- Bei starken Stürmen bis Mitteleuropa sichtbar.
+
+=== supernova
+cat: natur
+title: Supernovae
+teaser: Wenn Sterne explodieren, leuchten sie heller als ganze Galaxien – und wir bestehen aus ihrer Asche.
+meta: Astrophysik
+cover: Supernova | Der Krebsnebel, Überrest der Supernova von 1054
+## Kernkollaps
+Sterne mit mehr als etwa acht Sonnenmassen fusionieren nacheinander immer schwerere Elemente bis zum Eisen. Eisenfusion liefert keine Energie mehr. Der Kern kollabiert in Sekundenbruchteilen, prallt zurück, und eine Stoßwelle – angetrieben von Neutrinos – sprengt die Hülle ab. Zurück bleibt ein Neutronenstern oder ein Schwarzes Loch.
+## Typ Ia
+Ein anderer Typ entsteht, wenn ein Weißer Zwerg in einem Doppelsternsystem Materie aufsammelt, bis er etwa 1,4 Sonnenmassen erreicht (Chandrasekhar-Grenze) und in einer thermonuklearen Explosion zerreißt. Weil diese Supernovae immer ähnlich hell sind, dienen sie als „Standardkerzen“ zur Entfernungsmessung – so wurde die beschleunigte Expansion des Universums entdeckt.
+img: Krebsnebel | Der Krebsnebel
+## Sternenstaub
+Elemente schwerer als Eisen entstehen vor allem bei Supernovae und Verschmelzungen von Neutronensternen. Das Calcium in unseren Knochen und das Eisen im Blut stammen aus früheren Sternen. Die Supernova von 1054 wurde von chinesischen Astronomen tagsüber gesehen; ihr Überrest ist der Krebsnebel. 1987 wurden bei einer Supernova erstmals Neutrinos gemessen.
+- Kernkollaps massereicher Sterne oder Explosion Weißer Zwerge (Typ Ia).
+- Typ Ia als Standardkerzen; Entdeckung der beschleunigten Expansion.
+- Ursprung schwerer Elemente – wir bestehen aus Sternenstaub.
+
+=== gravitationswellen
+cat: natur
+title: Gravitationswellen
+teaser: 1,3 Milliarden Jahre unterwegs, gemessen als Längenänderung von einem Tausendstel eines Protonendurchmessers.
+meta: Physik · Nobelpreis 2017
+cover: Gravitationswelle | Simulation zweier verschmelzender Schwarzer Löcher
+## Wellen der Raumzeit
+Einstein sagte 1916 voraus: Beschleunigte Massen erzeugen Wellen in der Raumzeit, die sich mit Lichtgeschwindigkeit ausbreiten und Abstände periodisch stauchen und dehnen. Er hielt sie für zu schwach, um je gemessen zu werden. Indirekt bestätigt wurden sie 1974 durch einen Doppelpulsar, dessen Umlaufzeit genau wie berechnet schrumpft.
+## LIGO
+Die LIGO-Detektoren in den USA sind Laser-Interferometer mit vier Kilometer langen Armen. Läuft eine Gravitationswelle durch, ändert sich die Armlänge um etwa 10<sup>−18</sup> Meter. Am 14. September 2015 maßen beide Detektoren das Signal zweier verschmelzender Schwarzer Löcher von 36 und 29 Sonnenmassen, 1,3 Milliarden Lichtjahre entfernt. Drei Sonnenmassen wurden in Sekundenbruchteilen in Gravitationswellen umgewandelt.
+img: LIGO | Der LIGO-Detektor in Hanford
+## Ein neues Fenster
+Rainer Weiss, Kip Thorne und Barry Barish erhielten 2017 den Nobelpreis. Im selben Jahr wurde die Verschmelzung zweier Neutronensterne mit Gravitationswellen und Licht beobachtet – sie bestätigte, dass dabei Gold und Platin entstehen. Mit dem Weltraumdetektor LISA (geplant) will man noch tiefere Frequenzen „hören“.
+- Von Einstein 1916 vorhergesagt.
+- 2015 erstmals direkt gemessen (LIGO), Nobelpreis 2017.
+- Neutronenstern-Verschmelzung 2017: Ursprung von Gold.
+
+=== atomuhr
+cat: natur
+title: Die Atomuhr
+teaser: Moderne Uhren gehen in 30 Milliarden Jahren um weniger als eine Sekunde falsch – und messen, wie die Zeit im Keller langsamer läuft.
+meta: Physik/Metrologie
+cover: Atomuhr | Cäsium-Atomuhr der PTB in Braunschweig
+## Die Definition der Sekunde
+Seit 1967 ist die Sekunde über Atome definiert: Sie ist das 9.192.631.770-Fache der Periodendauer der Strahlung beim Übergang zwischen den beiden Hyperfeinstrukturniveaus des Grundzustands von Cäsium-133. Atome einer Sorte sind überall identisch – ein universelles Pendel.
+## Wie sie funktioniert
+In einer Cäsium-Fontänenuhr werden Atome mit Lasern auf Mikrokelvin gekühlt, nach oben geworfen und durch einen Mikrowellenresonator geschickt. Nur bei exakt der richtigen Frequenz wechseln viele Atome ihren Zustand; ein Regelkreis hält die Frequenz darauf. Die Physikalisch-Technische Bundesanstalt in Braunschweig betreibt einige der genauesten Uhren der Welt und sendet die Zeit über DCF77 an Funkuhren.
+img: Physikalisch-Technische Bundesanstalt | Die PTB in Braunschweig
+## Optische Uhren
+Optische Uhren nutzen Übergänge mit viel höheren Frequenzen (Licht statt Mikrowellen), etwa in Strontium oder Ytterbium – sie sind rund 100-mal genauer. Sie sind so empfindlich, dass sie die Zeitdilatation durch die Schwerkraft bei wenigen Zentimetern Höhenunterschied messen. Eine Neudefinition der Sekunde ist für die 2030er geplant. Ohne Atomuhren gäbe es kein GPS.
+- Sekunde seit 1967 über Cäsium-133 definiert.
+- Fontänenuhren mit lasergekühlten Atomen; PTB und DCF77.
+- Optische Uhren messen Zeitdehnung im Zentimeterbereich.
+
+=== absoluter-nullpunkt
+cat: natur
+title: Der absolute Nullpunkt
+teaser: −273,15 °C – kälter geht es nicht. Und nahe daran verhalten sich Atome wie eine einzige Welle.
+meta: Physik
+cover: Absoluter Nullpunkt | Bose-Einstein-Kondensat: Geschwindigkeitsverteilung
+## Die tiefste Temperatur
+Temperatur ist ein Maß für die Bewegungsenergie von Teilchen. Am absoluten Nullpunkt, 0 Kelvin oder −273,15 °C, hätte ein System die geringstmögliche Energie. Lord Kelvin führte 1848 die absolute Temperaturskala ein. Nach dem dritten Hauptsatz kann man den Nullpunkt nie ganz erreichen. Eine Nullpunktsenergie bleibt quantenmechanisch immer.
+## Rekordkälte
+Mit Laserkühlung und Verdampfungskühlung erreichen Physiker Temperaturen im Nanokelvin-Bereich – kälter als irgendwo im natürlichen Universum. Der kälteste natürliche Ort ist der Bumerang-Nebel mit etwa 1 Kelvin. Selbst der Weltraum ist wegen der Hintergrundstrahlung 2,7 Kelvin „warm“.
+img: Satyendranath Bose | Satyendranath Bose
+## Bose-Einstein-Kondensat
+Satyendranath Bose und Einstein sagten 1924/25 voraus, dass bestimmte Atome bei extrem tiefen Temperaturen in einen gemeinsamen Quantenzustand fallen. 1995 gelang es Eric Cornell, Carl Wieman und Wolfgang Ketterle mit Rubidium und Natrium (Nobelpreis 2001). Nahe dem Nullpunkt treten auch Supraleitung und Suprafluidität auf.
+- 0 K = −273,15 °C, prinzipiell nicht erreichbar.
+- Laborrekorde im Nanokelvin-Bereich.
+- Bose-Einstein-Kondensat 1995 erzeugt.
+
+=== planck-quanten
+cat: natur
+title: Plancks Quantenhypothese
+teaser: Ein „Akt der Verzweiflung“, wie Planck selbst sagte – und der Beginn der Quantenphysik am 14. Dezember 1900.
+meta: Physik · 1900
+cover: Max Planck | Max Planck
+## Das Problem der Glühbirnen
+Um 1900 wollte die Industrie effizientere Glühlampen; Physiker untersuchten deshalb, wie viel Licht welcher Farbe ein heißer, „schwarzer“ Körper abstrahlt. Die klassische Theorie (Rayleigh-Jeans) sagte für kurze Wellenlängen unendlich viel Energie voraus – die „Ultraviolettkatastrophe“. Messungen in Berlin zeigten etwas ganz anderes.
+## Energie in Päckchen
+Max Planck fand eine Formel, die perfekt zu den Messungen passte. Um sie herzuleiten, musste er annehmen, dass Energie nur in Portionen E = h·f abgegeben wird – h ist das plancksche Wirkungsquantum, etwa 6,626·10<sup>−34</sup> Js. Er hielt das selbst für einen mathematischen Trick, einen „Akt der Verzweiflung“. Am 14. Dezember 1900 stellte er die Arbeit vor.
+img: Schwarzer Strahler | Spektrum eines Schwarzen Strahlers bei verschiedenen Temperaturen
+## Eine neue Physik
+Einstein nahm die Quanten 1905 wörtlich und erklärte damit den Photoeffekt. Bohr erklärte Atomspektren. Planck erhielt 1918 den Nobelpreis. Seit 2019 ist das Kilogramm über einen festen Wert von h definiert. Die Max-Planck-Gesellschaft trägt seinen Namen.
+- Schwarzkörperstrahlung: klassische Physik versagte.
+- Planck 1900: Energie in Quanten E = h·f.
+- Grundstein der Quantenphysik; h definiert heute das Kilogramm.
+
+=== quantenverschraenkung
+cat: natur
+title: Quantenverschränkung
+teaser: Einstein nannte es „spukhafte Fernwirkung“ – 2022 gab es dafür den Nobelpreis.
+meta: Quantenphysik · Nobelpreis 2022
+cover: Quantenverschränkung | Experiment zur Quantenverschränkung
+## Verbunden über jede Distanz
+Zwei verschränkte Teilchen bilden einen gemeinsamen Quantenzustand. Misst man eines, steht das Ergebnis des anderen sofort fest, egal wie weit es entfernt ist. Einstein, Podolsky und Rosen argumentierten 1935, die Quantenmechanik müsse unvollständig sein – es müsse „verborgene Variablen“ geben, die die Ergebnisse vorher festlegen.
+## Bells Ungleichung
+John Bell zeigte 1964, dass sich das experimentell prüfen lässt: Theorien mit lokalen verborgenen Variablen müssen eine bestimmte Ungleichung erfüllen, die Quantenmechanik verletzt sie. John Clauser, Alain Aspect und Anton Zeilinger bestätigten in immer ausgefeilteren Experimenten die Quantenmechanik. Nobelpreis 2022.
+img: Anton Zeilinger | Anton Zeilinger
+## Kein Funkverkehr
+Verschränkung erlaubt keine Übertragung von Information schneller als Licht, weil die einzelnen Ergebnisse zufällig sind. Sie ist aber Grundlage für Quantenkryptografie, Quantenteleportation von Zuständen und Quantencomputer. China übertrug 2017 verschränkte Photonen über einen Satelliten über 1.200 Kilometer.
+- Verschränkte Teilchen sind über jede Entfernung korreliert.
+- Bell-Ungleichung: lokale verborgene Variablen widerlegt.
+- Nobelpreis 2022; keine überlichtschnelle Kommunikation.
+
+=== quantencomputer
+cat: natur
+title: Quantencomputer
+teaser: Qubits rechnen nicht schneller, sondern anders – und könnten heutige Verschlüsselung knacken.
+meta: Physik/Informatik
+cover: Quantencomputer | Kühlsystem eines supraleitenden Quantencomputers
+## Qubits
+Ein klassisches Bit ist 0 oder 1. Ein Qubit kann in einer Überlagerung beider Zustände sein, und mehrere Qubits können verschränkt werden. Quantenalgorithmen nutzen Interferenz, um falsche Lösungen auszulöschen und richtige zu verstärken. Für viele Alltagsaufgaben bringt das nichts – für bestimmte Probleme aber enorme Vorteile.
+## Was sie könnten
+Peter Shor zeigte 1994, dass ein Quantencomputer große Zahlen effizient in Primfaktoren zerlegen könnte – und damit die RSA-Verschlüsselung brechen. Deshalb werden bereits „Post-Quanten“-Verfahren eingeführt. Vielversprechend ist auch die Simulation von Molekülen für Chemie und Materialforschung, etwa Katalysatoren für die Stickstofffixierung.
+img: Peter Shor | Peter Shor
+## Die Hürden
+Qubits sind extrem störanfällig (Dekohärenz). Man realisiert sie mit supraleitenden Schaltkreisen bei Millikelvin, gefangenen Ionen, Photonen oder neutralen Atomen. Für nützliche Rechnungen braucht man Fehlerkorrektur mit vielen physikalischen Qubits pro logischem Qubit. 2019 beanspruchte Google „Quantenüberlegenheit“ für eine spezielle Aufgabe; praktische Durchbrüche stehen noch aus.
+- Qubits mit Überlagerung und Verschränkung.
+- Shor-Algorithmus bedroht RSA; Molekülsimulation als Anwendung.
+- Hauptproblem: Fehler und Dekohärenz.
+
+=== radiokarbonmethode
+cat: natur
+title: Die Radiokarbonmethode
+teaser: Wie man mit einem radioaktiven Kohlenstoff-Isotop das Alter von Ötzi oder dem Turiner Grabtuch bestimmt.
+meta: Physik/Archäologie · Nobelpreis 1960
+cover: Radiokarbonmethode | Schema der C-14-Bildung und -Zerfall
+## Kohlenstoff aus dem All
+In der oberen Atmosphäre wandelt kosmische Strahlung Stickstoff-14 in radioaktiven Kohlenstoff-14 um. Er wird zu CO<sub>2</sub> und über Pflanzen in alle Lebewesen eingebaut. Solange ein Organismus lebt, hat er denselben C-14-Anteil wie die Atmosphäre. Nach dem Tod zerfällt C-14 mit einer Halbwertszeit von 5.730 Jahren.
+## Die Methode
+Willard Libby entwickelte das Verfahren 1949 und erhielt 1960 den Chemie-Nobelpreis. Heute zählt man mit Beschleuniger-Massenspektrometrie direkt die C-14-Atome; Milligramm Probe genügen. Datierbar sind organische Materialien bis etwa 50.000 Jahre. Weil der atmosphärische C-14-Gehalt schwankte, kalibriert man mit Baumringen und Sedimenten.
+img: Ötzi | Ötzi, datiert auf etwa 3.300 v. Chr.
+## Berühmte Datierungen
+Ötzi starb vor rund 5.300 Jahren. Das Turiner Grabtuch wurde 1988 von drei Labors auf etwa 1260–1390 datiert. Atombombentests verdoppelten in den 1960ern den C-14-Gehalt der Luft – dieser „Bombenpeak“ erlaubt heute, das Alter von Zellen im menschlichen Körper zu bestimmen. Fossile Brennstoffe enthalten kein C-14 mehr, was den Anteil verdünnt (Suess-Effekt).
+- C-14 entsteht durch kosmische Strahlung, Halbwertszeit 5.730 Jahre.
+- Libby 1949, heute mit Beschleuniger-MS bis ~50.000 Jahre.
+- Ötzi, Turiner Grabtuch, Bombenpeak.
+
+=== roentgenbeugung
+cat: natur
+title: Röntgenstrahlen und Kristallstrukturen
+teaser: Ein Bild der Hand seiner Frau machte Röntgen berühmt – die Beugung an Kristallen enthüllte die Struktur der Materie.
+meta: Physik/Chemie
+cover: Wilhelm Conrad Röntgen | Wilhelm Conrad Röntgen
+## Die X-Strahlen
+Wilhelm Conrad Röntgen entdeckte im November 1895 in Würzburg eine unbekannte Strahlung, die einen Schirm zum Leuchten brachte, obwohl die Röhre abgedeckt war. Er nannte sie X-Strahlen. Die Aufnahme der Hand seiner Frau Anna Bertha mit Ehering ging um die Welt. 1901 erhielt er den ersten Physik-Nobelpreis – und ließ die Entdeckung nicht patentieren.
+## Beugung an Kristallen
+Max von Laue zeigte 1912, dass Röntgenstrahlen an Kristallen gebeugt werden – sie sind also Wellen, und Kristalle sind regelmäßige Gitter. Vater und Sohn Bragg formulierten die Bragg-Gleichung nλ = 2d·sin θ, mit der sich Atomabstände berechnen lassen. Die erste Struktur war Kochsalz.
+img: Dorothy Crowfoot Hodgkin | Dorothy Hodgkin, Nobelpreis 1964
+## Moleküle sichtbar machen
+Mit Röntgenkristallografie wurden die Strukturen von Penicillin, Vitamin B12 und Insulin (Dorothy Hodgkin), der DNA und von Proteinen wie Myoglobin aufgeklärt. Heute liefern Synchrotrons und Freie-Elektronen-Laser wie der European XFEL in Hamburg extrem intensive Röntgenstrahlung. Weit über 20 Nobelpreise hängen mit Röntgenstrahlung zusammen.
+- Röntgen 1895, erster Physik-Nobelpreis 1901.
+- Laue und Bragg: Beugung, Bragg-Gleichung.
+- Strukturaufklärung von Salz bis Proteinen; European XFEL.
+
+=== farbstoffe
+cat: natur
+title: Farbstoffe und Farbe
+teaser: Ein 18-Jähriger wollte Chinin herstellen – und erfand den ersten synthetischen Farbstoff.
+meta: Chemie
+cover: Mauvein | Mit Mauvein gefärbte Seide
+## Warum Stoffe farbig sind
+Ein Stoff erscheint farbig, wenn er einen Teil des sichtbaren Lichts absorbiert; wir sehen die Komplementärfarbe. In organischen Farbstoffen verantwortlich sind ausgedehnte konjugierte π-Elektronensysteme, die Chromophore. Je länger die Konjugation, desto kleiner der HOMO-LUMO-Abstand und desto langwelliger die Absorption – β-Carotin mit elf konjugierten Doppelbindungen absorbiert Blau und erscheint orange.
+## Mauvein
+1856 versuchte der 18-jährige William Henry Perkin in London, das Malariamittel Chinin aus Teerbestandteilen zu synthetisieren. Stattdessen erhielt er einen violetten Stoff: Mauvein, den ersten synthetischen Farbstoff. Violett, bisher teuer aus Schnecken gewonnen (Purpur), wurde Mode. Es folgten Alizarin (1868) und Indigo (Adolf von Baeyer, industriell ab 1897 bei BASF).
+img: William Henry Perkin | William Henry Perkin
+## Mehr als Mode
+Die Teerfarbenindustrie begründete die großen deutschen Chemiekonzerne BASF, Bayer und Hoechst. Farbstoffe führten auch zur Medizin: Paul Ehrlich suchte nach Stoffen, die gezielt Erreger färben und töten – „Zauberkugeln“; daraus entstand 1909 Salvarsan gegen Syphilis. Azofarbstoffe werden heute teils reguliert, weil manche krebserregende Amine freisetzen.
+- Farbe durch Absorption; Chromophore mit konjugierten π-Systemen.
+- Perkin 1856: Mauvein; später Alizarin und Indigo.
+- Grundlage von BASF, Bayer, Hoechst – und Chemotherapie.
+
+=== koffein
+cat: natur
+title: Koffein
+teaser: Die meistkonsumierte psychoaktive Substanz der Welt macht nicht wach – sie verhindert, dass wir müde werden.
+meta: Pharmakologie
+cover: Coffein | Kaffeebohnen
+## Ein Purin
+Koffein (1,3,7-Trimethylxanthin) ist ein Purin-Alkaloid, verwandt mit Theobromin in Kakao und Theophyllin in Tee. Pflanzen nutzen es als Insektizid gegen Fraßfeinde. Friedlieb Ferdinand Runge isolierte es 1819 – auf Anregung Goethes, der ihm Kaffeebohnen schenkte.
+## Wie es wirkt
+Im Wachzustand reichert sich Adenosin im Gehirn an und erzeugt über A1- und A2A-Rezeptoren Müdigkeit. Koffein ähnelt Adenosin strukturell und blockiert die Rezeptoren, ohne sie zu aktivieren – ein Antagonist. Die Müdigkeit wird also nur maskiert; das Adenosin bleibt und meldet sich, wenn das Koffein abgebaut ist. Die Halbwertszeit beträgt etwa drei bis sechs Stunden.
+img: Friedlieb Ferdinand Runge | Friedlieb Ferdinand Runge
+## Dosis und Gewöhnung
+Eine Tasse Filterkaffee enthält etwa 80 bis 100 mg. Bis 400 mg täglich gelten für Erwachsene als unbedenklich. Bei regelmäßigem Konsum bildet das Gehirn mehr Adenosinrezeptoren – Entzug verursacht Kopfschmerzen. Abgebaut wird Koffein in der Leber über das Enzym CYP1A2, dessen genetische Varianten erklären, warum manche Menschen abends Espresso trinken können und andere nicht.
+- Purin-Alkaloid, 1819 von Runge isoliert.
+- Blockiert Adenosinrezeptoren und maskiert Müdigkeit.
+- Gewöhnung durch mehr Rezeptoren; Abbau über CYP1A2.
+
+=== mikroplastik
+cat: natur
+title: Mikroplastik
+teaser: Gefunden im Marianengraben, im arktischen Schnee, in der Plazenta – und wohl auch in unserem Gehirn.
+meta: Umweltchemie
+cover: Mikroplastik | Mikroplastik-Partikel
+## Was es ist
+Als Mikroplastik gelten Kunststoffteilchen kleiner als fünf Millimeter, Nanoplastik ist kleiner als ein Mikrometer. Primäres Mikroplastik wird gezielt hergestellt, etwa als Granulat; sekundäres entsteht durch Zerfall größerer Teile unter UV-Licht, Wellen und Abrieb. Größte Quellen in Deutschland sind Reifenabrieb, Kunstrasen, synthetische Kleidung beim Waschen und Verpackungsmüll.
+## Überall
+Mikroplastik wurde in der Tiefsee, in Gletschern, im Regen, in Trinkwasser, Salz und Bier gefunden. Im menschlichen Körper wies man es in Blut, Lunge, Plazenta und Muttermilch nach. Eine Studie fand 2024 überraschend hohe Mengen im Gehirngewebe Verstorbener – Messmethoden sind aber noch umstritten.
+img: Reifenabrieb | Reifen auf Asphalt – Reifenabrieb ist eine Hauptquelle
+## Wie schädlich?
+In Tierversuchen verursacht Mikroplastik Entzündungen und Stress in Zellen. Es kann Schadstoffe und Additive wie Weichmacher transportieren. Eine Studie fand bei Menschen mit Mikroplastik in Arterienablagerungen ein höheres Risiko für Herzinfarkt und Schlaganfall – ein Kausalzusammenhang ist aber nicht bewiesen. Die EU hat absichtlich zugesetztes Mikroplastik, etwa Glitzer, ab 2023 schrittweise verboten.
+- Kunststoffpartikel unter 5 mm; Hauptquelle Reifenabrieb.
+- Nachgewiesen von der Tiefsee bis im menschlichen Körper.
+- Gesundheitsfolgen noch unklar; EU-Verbot für zugesetztes Mikroplastik.

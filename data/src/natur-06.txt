@@ -1,0 +1,186 @@
+=== impfung-jenner
+cat: natur
+title: Die erste Impfung
+teaser: Ein Landarzt infizierte 1796 einen Jungen mit Kuhpocken – und legte den Grundstein für die Ausrottung der Pocken.
+meta: Medizin · 1796
+cover: Edward Jenner | Edward Jenner
+## Melkerinnen und Kuhpocken
+Pocken töteten im 18. Jahrhundert in Europa jährlich Hunderttausende. Man kannte die riskante Variolation: Menschen mit Material aus Pockenpusteln anzustecken, um eine mildere Erkrankung auszulösen. Der englische Landarzt Edward Jenner hörte, dass Melkerinnen, die harmlose Kuhpocken gehabt hatten, nicht an Pocken erkrankten.
+## Das Experiment
+Im Mai 1796 übertrug Jenner Material aus einer Kuhpockenpustel der Melkerin Sarah Nelmes auf den achtjährigen James Phipps. Wochen später setzte er ihn echten Pocken aus – der Junge erkrankte nicht. Aus dem lateinischen „vacca“ (Kuh) entstand das Wort Vakzination. Ethisch wäre der Versuch heute undenkbar.
+img: Pocken | Pockenvirus im Elektronenmikroskop
+## Ausrottung
+Louis Pasteur entwickelte später Impfstoffe gegen Tollwut und Milzbrand und verallgemeinerte den Begriff „Vakzine“. Eine weltweite WHO-Kampagne mit Strategien wie Ringimpfung führte zum letzten natürlichen Pockenfall 1977 in Somalia. 1980 erklärte die WHO die Pocken für ausgerottet – bis heute die einzige ausgerottete menschliche Infektionskrankheit.
+- Jenner 1796: Kuhpocken schützen vor Pocken.
+- Begriff Vakzination von „vacca“; Pasteur erweiterte das Prinzip.
+- 1980 Pocken weltweit ausgerottet.
+
+=== insulin
+cat: natur
+title: Insulin
+teaser: 1922 lag ein 14-Jähriger im Diabetes-Koma – nach einer Spritze wachte er auf. Ein medizinisches Wunder.
+meta: Medizin · Nobelpreis 1923
+cover: Insulin | Insulin-Molekül
+## Das Hormon
+Insulin wird in den Beta-Zellen der Langerhans-Inseln in der Bauchspeicheldrüse gebildet. Es ist ein Peptidhormon aus zwei Ketten (21 und 30 Aminosäuren), verbunden durch Disulfidbrücken. Insulin lässt Muskel- und Fettzellen Glucose aufnehmen (über GLUT4-Transporter), fördert die Glykogenbildung in der Leber und senkt so den Blutzucker.
+## Die Entdeckung
+Frederick Banting und sein Student Charles Best gewannen 1921 in Toronto Insulin aus Hundepankreas, der Biochemiker James Collip reinigte es. Im Januar 1922 erhielt der 14-jährige Leonard Thompson die erste wirksame Insulinspritze. Typ-1-Diabetes, bis dahin tödlich, wurde behandelbar. Der Nobelpreis 1923 ging an Banting und John Macleod – Banting teilte sein Preisgeld mit Best.
+img: Frederick Banting | Frederick Banting
+## Meilensteine
+Frederick Sanger bestimmte 1955 die Aminosäuresequenz von Insulin – das erste sequenzierte Protein (Nobelpreis 1958). Dorothy Hodgkin klärte 1969 seine 3D-Struktur auf. 1982 kam als erstes gentechnisch hergestelltes Medikament Humaninsulin aus Bakterien auf den Markt. Bei Typ-2-Diabetes sprechen die Zellen schlecht auf Insulin an (Insulinresistenz).
+- Peptidhormon der Bauchspeicheldrüse, senkt den Blutzucker.
+- Banting und Best 1921, erste Therapie 1922.
+- Erstes sequenziertes Protein, erstes Gentechnik-Medikament.
+
+=== spezielle-relativitaetstheorie
+cat: natur
+title: Die Spezielle Relativitätstheorie
+teaser: Ein 26-jähriger Patentbeamter zeigte 1905: Zeit und Raum sind nicht absolut – und Masse ist Energie.
+meta: Physik · 1905
+cover: Albert Einstein | Albert Einstein, 1921
+## Zwei Postulate
+Albert Einstein ging 1905 von zwei Annahmen aus: Die Naturgesetze gelten in allen gleichförmig bewegten Bezugssystemen gleich, und die Lichtgeschwindigkeit im Vakuum ist für alle Beobachter dieselbe – rund 300.000 km/s. Das Michelson-Morley-Experiment hatte keinen „Äther“ als Medium des Lichts gefunden.
+## Zeitdilatation und Längenkontraktion
+Daraus folgt Verblüffendes: Bewegte Uhren gehen langsamer, bewegte Objekte sind in Bewegungsrichtung verkürzt, und Gleichzeitigkeit ist relativ. Myonen aus der kosmischen Strahlung erreichen nur deshalb den Erdboden, weil ihre Zeit aus unserer Sicht gedehnt ist. Nichts mit Masse kann die Lichtgeschwindigkeit erreichen.
+img: Hendrik Antoon Lorentz | Hendrik Lorentz, nach dem die Lorentz-Transformation benannt ist
+## E = mc²
+In einem Nachtrag folgerte Einstein die Äquivalenz von Masse und Energie: E = mc². Ein Gramm Masse entspricht rund 25 Millionen Kilowattstunden. Das erklärt die Energie der Sonne, der Kernspaltung und Teilchenbeschleuniger. 1905 war Einsteins „Wunderjahr“: Er veröffentlichte auch Arbeiten zum Photoeffekt und zur Brownschen Bewegung.
+- Lichtgeschwindigkeit ist für alle Beobachter gleich.
+- Zeitdilatation, Längenkontraktion, relative Gleichzeitigkeit.
+- E = mc²; Einsteins Wunderjahr 1905.
+
+=== allgemeine-relativitaetstheorie
+cat: natur
+title: Die Allgemeine Relativitätstheorie
+teaser: Gravitation ist keine Kraft, sondern gekrümmte Raumzeit – bestätigt bei einer Sonnenfinsternis 1919.
+meta: Physik · 1915
+cover: Allgemeine Relativitätstheorie | Veranschaulichung der Raumzeitkrümmung
+## Das Äquivalenzprinzip
+Einstein bezeichnete es als seinen „glücklichsten Gedanken“: Ein frei fallender Mensch spürt sein Gewicht nicht. Schwere und beschleunigte Bewegung sind lokal nicht zu unterscheiden. Daraus entwickelte er bis 1915 eine Theorie, in der Masse und Energie die Raumzeit krümmen und Körper sich entlang der gekrümmten Bahnen bewegen. „Die Materie sagt dem Raum, wie er sich krümmen soll; der Raum sagt der Materie, wie sie sich bewegen soll“ (John Wheeler).
+## Erste Bestätigungen
+Die Theorie erklärte die winzige Abweichung der Merkurbahn, die Newton nicht erklären konnte. 1919 maß Arthur Eddington bei einer Sonnenfinsternis, dass Sternenlicht nahe der Sonne abgelenkt wird – genau um den vorhergesagten Wert. Einstein wurde über Nacht weltberühmt.
+img: Arthur Stanley Eddington | Arthur Eddington
+## Folgen
+Die Theorie sagt Schwarze Löcher, Gravitationswellen (gemessen 2015), Gravitationslinsen und die Ausdehnung des Universums voraus. Uhren gehen in schwächerem Schwerefeld schneller – GPS-Satelliten müssen das korrigieren. Mit der Quantenmechanik ist die Theorie bisher nicht vereinbar; eine „Quantengravitation“ fehlt.
+- Gravitation als Krümmung der Raumzeit (1915).
+- Bestätigt durch Merkurbahn und Lichtablenkung 1919.
+- Vorhersagen: Schwarze Löcher, Gravitationswellen, Zeitdehnung im Schwerefeld.
+
+=== quantenmechanik-unschaerfe
+cat: natur
+title: Quantenmechanik und Unschärferelation
+teaser: Ort und Impuls kann man nie gleichzeitig genau kennen – nicht wegen schlechter Messgeräte, sondern prinzipiell.
+meta: Physik · 1925–1927
+cover: Werner Heisenberg | Werner Heisenberg
+## Eine neue Mechanik
+1925 entwickelte Werner Heisenberg auf Helgoland die Matrizenmechanik, 1926 Erwin Schrödinger die gleichwertige Wellenmechanik. Quantenobjekte werden durch eine Wellenfunktion beschrieben; nach Max Born gibt ihr Betragsquadrat die Wahrscheinlichkeit an, ein Teilchen an einem Ort zu finden. Die Welt im Kleinen ist grundsätzlich probabilistisch.
+## Die Unschärferelation
+Heisenberg zeigte 1927: Δx · Δp ≥ ħ/2. Je genauer der Ort feststeht, desto unschärfer ist der Impuls, und umgekehrt. Das ist keine Messungenauigkeit, sondern eine Eigenschaft der Natur, die aus dem Wellencharakter folgt. Sie erklärt etwa, warum Elektronen nicht in den Atomkern stürzen: Eingesperrt hätten sie einen enormen Impuls.
+img: Erwin Schrödinger | Erwin Schrödinger
+## Streit um die Deutung
+Einstein lehnte die Zufälligkeit ab: „Gott würfelt nicht.“ Bohr antwortete sinngemäß, Einstein solle Gott nicht vorschreiben, was er zu tun habe. Schrödingers Katze, gleichzeitig tot und lebendig, sollte die Absurdität verdeutlichen. Über Deutungen (Kopenhagen, Viele Welten, Bohm) wird bis heute gestritten – die Vorhersagen der Theorie sind aber extrem präzise.
+- Heisenberg und Schrödinger begründeten 1925/26 die Quantenmechanik.
+- Unschärferelation Δx·Δp ≥ ħ/2 als Naturprinzip.
+- Deutung umstritten, Vorhersagen extrem genau.
+
+=== doppelspaltexperiment
+cat: natur
+title: Das Doppelspaltexperiment
+teaser: Ein einzelnes Elektron geht durch zwei Spalte gleichzeitig – bis man nachschaut.
+meta: Quantenphysik
+cover: Doppelspaltexperiment | Interferenzmuster am Doppelspalt
+## Licht als Welle
+Thomas Young schickte um 1801 Licht durch zwei schmale Spalte. Auf dem Schirm erschien kein Doppelstreifen, sondern ein Muster aus hellen und dunklen Streifen – Interferenz, wie bei Wasserwellen. Das galt als Beweis, dass Licht eine Welle ist.
+## Einzelne Teilchen
+Schickt man Elektronen einzeln durch einen Doppelspalt, landet jedes als Punkt auf dem Detektor. Doch nach Tausenden Elektronen entsteht wieder das Interferenzmuster. Jedes Teilchen interferiert gewissermaßen mit sich selbst – seine Wellenfunktion geht durch beide Spalte. Das funktioniert sogar mit großen Molekülen wie C<sub>60</sub>-Fullerenen.
+img: Thomas Young | Thomas Young
+## Messen zerstört das Muster
+Bringt man einen Detektor an, der verrät, durch welchen Spalt das Teilchen geht, verschwindet das Interferenzmuster. Welcher-Weg-Information und Interferenz schließen sich aus. Richard Feynman nannte das Experiment ein Phänomen, „das unmöglich klassisch erklärt werden kann und das Herz der Quantenmechanik birgt“.
+- Young 1801: Licht interferiert wie eine Welle.
+- Einzelne Elektronen bilden ein Interferenzmuster.
+- Welcher-Weg-Messung zerstört die Interferenz.
+
+=== photoeffekt
+cat: natur
+title: Der Photoeffekt
+teaser: Nicht die Relativitätstheorie, sondern dieses Experiment brachte Einstein den Nobelpreis.
+meta: Physik · 1905
+cover: Photoelektrischer Effekt | Schema des Photoeffekts
+## Ein Rätsel
+Heinrich Hertz und Philipp Lenard beobachteten: Licht schlägt Elektronen aus Metallen. Doch die Energie der Elektronen hing nicht von der Helligkeit ab, sondern von der Farbe (Frequenz). Unter einer Grenzfrequenz kam gar kein Elektron heraus, egal wie hell. Mit der Wellentheorie war das nicht zu erklären.
+## Lichtquanten
+Einstein deutete das 1905 mit Plancks Idee: Licht besteht aus Quanten (später Photonen) mit der Energie E = h·f. Ein Photon gibt seine ganze Energie an ein Elektron ab; ist sie kleiner als die Austrittsarbeit, passiert nichts. Mehr Licht bedeutet mehr Photonen, also mehr Elektronen – aber nicht energiereichere. Robert Millikan bestätigte das 1916, obwohl er es widerlegen wollte.
+img: Robert Andrews Millikan | Robert Millikan
+## Folgen
+Einstein erhielt 1921 den Nobelpreis „für die Entdeckung des Gesetzes des photoelektrischen Effekts“. Licht hat also Welleneigenschaften (Interferenz) und Teilcheneigenschaften (Photonen) – der Welle-Teilchen-Dualismus. Anwendungen: Solarzellen, Fotodioden, Digitalkameras und die Photoelektronenspektroskopie.
+- Elektronenenergie hängt von der Frequenz ab, nicht der Intensität.
+- Einstein: Lichtquanten mit E = h·f.
+- Nobelpreis 1921; Grundlage von Solarzellen und Kamerasensoren.
+
+=== maxwell-elektromagnetismus
+cat: natur
+title: Maxwell und der Elektromagnetismus
+teaser: Vier Gleichungen vereinten Elektrizität, Magnetismus und Licht – „Es werde Licht“ in Formeln.
+meta: Physik · 1865
+cover: James Clerk Maxwell | James Clerk Maxwell
+## Faradays Felder
+Hans Christian Ørsted entdeckte 1820, dass Strom eine Kompassnadel ablenkt. Michael Faraday zeigte 1831, dass ein sich änderndes Magnetfeld Strom induziert – Grundlage jedes Generators. Faraday dachte in „Feldlinien“, konnte das aber kaum mathematisch fassen.
+## Die Maxwell-Gleichungen
+James Clerk Maxwell goss das 1865 in Gleichungen: Ladungen erzeugen elektrische Felder, es gibt keine magnetischen Monopole, wechselnde Magnetfelder erzeugen elektrische Felder und wechselnde elektrische Felder (sowie Ströme) erzeugen Magnetfelder. Er berechnete daraus Wellen, die sich mit 1/√(ε<sub>0</sub>μ<sub>0</sub>) ausbreiten – exakt der Lichtgeschwindigkeit. Licht ist eine elektromagnetische Welle.
+img: Heinrich Hertz | Heinrich Hertz
+## Von Radio bis Röntgen
+Heinrich Hertz wies 1886 in Karlsruhe elektromagnetische Wellen experimentell nach – die Einheit der Frequenz trägt seinen Namen. Radio, Mikrowellen, Infrarot, sichtbares Licht, UV, Röntgen- und Gammastrahlung unterscheiden sich nur in der Wellenlänge. Die Konstanz der Lichtgeschwindigkeit in Maxwells Theorie führte Einstein zur Relativitätstheorie.
+- Ørsted und Faraday entdeckten den Zusammenhang von Strom und Magnetismus.
+- Maxwell 1865: Licht ist eine elektromagnetische Welle.
+- Hertz’ Nachweis 1886; Spektrum von Radio bis Gamma.
+
+=== newtonsche-gesetze
+cat: natur
+title: Newtons Gesetze
+teaser: Drei Gesetze und eine Gravitationsformel erklärten 1687 alles vom fallenden Apfel bis zu den Planetenbahnen.
+meta: Physik · 1687
+cover: Isaac Newton | Isaac Newton (Gemälde von Godfrey Kneller, 1689)
+## Die Principia
+1687 erschien Isaac Newtons „Philosophiae Naturalis Principia Mathematica“. Angestoßen hatte das der Astronom Edmond Halley, der das Buch auch finanzierte. Newton entwickelte dafür nebenbei die Infinitesimalrechnung – zeitgleich mit Leibniz, was einen erbitterten Prioritätsstreit auslöste.
+## Drei Gesetze
+Trägheitsgesetz: Ein Körper bleibt in Ruhe oder gleichförmiger Bewegung, solange keine Kraft wirkt. Aktionsprinzip: F = m·a. Wechselwirkungsprinzip: Jede Kraft erzeugt eine gleich große Gegenkraft („actio = reactio“) – deshalb fliegen Raketen auch im Vakuum. Dazu kommt das Gravitationsgesetz: F = G·m<sub>1</sub>m<sub>2</sub>/r².
+img: Philosophiae Naturalis Principia Mathematica | Titelseite der Principia
+## Himmel und Erde vereint
+Newton zeigte, dass dieselbe Kraft den Apfel fallen lässt und den Mond auf seiner Bahn hält; Keplers Gesetze folgen aus seiner Theorie. 1846 wurde Neptun aufgrund von Bahnstörungen des Uranus rechnerisch vorhergesagt und gefunden. Erst bei sehr hohen Geschwindigkeiten oder starken Schwerefeldern braucht man Einsteins Korrekturen.
+- Principia 1687, Infinitesimalrechnung.
+- Trägheit, F = m·a, actio = reactio, Gravitationsgesetz.
+- Vereinte irdische und himmlische Mechanik; Neptun vorhergesagt.
+
+=== thermodynamik
+cat: natur
+title: Die Hauptsätze der Thermodynamik
+teaser: Du kannst nicht gewinnen, du kannst nicht unentschieden spielen, und du kannst nicht aus dem Spiel aussteigen.
+meta: Physik
+cover: Thermodynamik | Dampfmaschine – Ausgangspunkt der Thermodynamik
+## Erster Hauptsatz
+Energie bleibt erhalten; sie wird nur umgewandelt. ΔU = Q + W: Die innere Energie ändert sich durch zugeführte Wärme und Arbeit. Julius Robert Mayer und James Prescott Joule zeigten in den 1840ern, dass Wärme eine Energieform ist. Ein Perpetuum mobile erster Art, das Energie aus dem Nichts erzeugt, ist unmöglich.
+## Zweiter Hauptsatz
+Die Entropie eines abgeschlossenen Systems nimmt nie ab. Wärme fließt von selbst nur vom Warmen zum Kalten. Keine Wärmekraftmaschine kann Wärme vollständig in Arbeit umwandeln: Der Carnot-Wirkungsgrad η = 1 − T<sub>kalt</sub>/T<sub>warm</sub> ist die Obergrenze. Sadi Carnot leitete das 1824 ab, Rudolf Clausius prägte 1865 den Begriff Entropie.
+img: Rudolf Clausius | Rudolf Clausius
+## Dritter und nullter
+Der dritte Hauptsatz besagt, dass der absolute Nullpunkt nie erreicht werden kann und die Entropie eines perfekten Kristalls dort null wird (Nernst). Der nachträglich eingeführte nullte Hauptsatz definiert Temperatur: Sind zwei Systeme mit einem dritten im Gleichgewicht, dann auch miteinander. Der zweite Hauptsatz gibt der Zeit eine Richtung.
+- 1. HS: Energieerhaltung; kein Perpetuum mobile.
+- 2. HS: Entropie wächst; Carnot-Wirkungsgrad als Grenze.
+- 3. HS: absoluter Nullpunkt unerreichbar; 0. HS definiert Temperatur.
+
+=== higgs-boson
+cat: natur
+title: Das Higgs-Boson
+teaser: 48 Jahre lang gesucht, 2012 am CERN gefunden – das Teilchen, das erklärt, warum Teilchen Masse haben.
+meta: Teilchenphysik · Nobelpreis 2013
+cover: Higgs-Boson | Simulierter Higgs-Zerfall im CMS-Detektor
+## Ein Problem der Theorie
+Im Standardmodell sollten die Austauschteilchen der schwachen Kraft, W- und Z-Bosonen, eigentlich masselos sein – sind sie aber nicht. 1964 schlugen Peter Higgs, François Englert, Robert Brout und andere einen Mechanismus vor: Ein Feld, das das ganze Universum durchdringt, verleiht Teilchen Masse, je nachdem wie stark sie mit ihm wechselwirken.
+## Die Suche
+Wenn das Higgs-Feld existiert, muss es ein zugehöriges Teilchen geben. Weil seine Masse unbekannt war, musste man in einem großen Energiebereich suchen. Der Large Hadron Collider am CERN bei Genf, ein 27-Kilometer-Ring, ließ Protonen mit enormer Energie kollidieren. Am 4. Juli 2012 verkündeten die Experimente ATLAS und CMS den Fund eines Teilchens mit etwa 125 GeV.
+img: Peter Higgs | Peter Higgs
+## Bedeutung
+Higgs und Englert erhielten 2013 den Nobelpreis. Das Higgs-Feld erklärt die Masse der Elementarteilchen – aber nicht den Großteil der Masse unseres Körpers: Die stammt aus der Bindungsenergie der starken Kraft in Protonen und Neutronen. Den Spitznamen „Gottesteilchen“ mochte Higgs nicht.
+- Higgs-Mechanismus 1964: Feld verleiht Teilchen Masse.
+- Entdeckt 2012 am LHC (ATLAS, CMS), ca. 125 GeV.
+- Nobelpreis 2013; der Großteil unserer Masse stammt aus der starken Kraft.
